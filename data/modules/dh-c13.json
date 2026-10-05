@@ -1,0 +1,137 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "dh-c-amb-q01",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 1,
+   "enunciado": "Nos termos da Lei nº 9.605/1998, as pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente quando a infração for cometida",
+   "alternativas": {
+    "A": "apenas por seus empregados de menor hierarquia, sem conhecimento dos dirigentes.",
+    "B": "exclusivamente quando houver condenação prévia do dirigente.",
+    "C": "somente quando tiver fins lucrativos.",
+    "D": "apenas na esfera administrativa.",
+    "E": "por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da entidade."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 3º. A responsabilidade da PJ não exclui a das pessoas físicas (parágrafo único).",
+   "resolucao_md": "**O que a questão pede:** a responsabilidade da PJ.\n\n**Regra rápida:** decisão do representante ou órgão colegiado + interesse/benefício da entidade.\n\n**Passo a passo:**\n1. Empregados sem conhecimento: não preenche o art. 3º.\n2. Condenação prévia do dirigente: o STF dispensa a dupla imputação.\n3. Fins lucrativos: não exigido.\n4. Só administrativa: errado, é tríplice.\n\n**Pegadinha:** Achar que só pessoa física responde.\n\n**Macete:** PJ responde nas três esferas."
+  },
+  {
+   "id": "dh-c-amb-q02",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 2,
+   "enunciado": "Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos (art. 32 da Lei nº 9.605/1998) é crime punido com",
+   "alternativas": {
+    "A": "detenção de três meses a um ano e multa.",
+    "B": "detenção de seis meses a um ano e multa.",
+    "C": "reclusão de dois a cinco anos.",
+    "D": "detenção de um a três anos.",
+    "E": "multa, apenas."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 32, caput. Se o animal for cão ou gato (§1º-A, Lei 14.064/2020): reclusão de 2 a 5 anos, multa e proibição da guarda.",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 32.\n\n**Regra rápida:** maus-tratos = 3 meses a 1 ano; cão e gato = 2 a 5 anos.\n\n**Passo a passo:**\n1. 6 meses a 1 ano: art. 29.\n2. 2 a 5: só para cão ou gato.\n3. 1 a 3: art. 33 e 38.\n4. Só multa: errado.\n\n**Pegadinha:** Confundir com o art. 29.\n\n**Macete:** Art. 32 = 3m a 1a; cão/gato = 2 a 5."
+  },
+  {
+   "id": "dh-c-amb-q03",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 2,
+   "enunciado": "Matar, perseguir, caçar, apanhar ou utilizar espécimes da fauna silvestre, nativos ou em rota migratória, sem a devida permissão, licença ou autorização, é crime previsto no art. 29 da Lei nº 9.605/1998, punido com",
+   "alternativas": {
+    "A": "detenção de três meses a um ano e multa.",
+    "B": "detenção de seis meses a um ano e multa.",
+    "C": "reclusão de um a quatro anos.",
+    "D": "reclusão de dois a cinco anos.",
+    "E": "detenção de um a três anos."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 29. O art. 32 (maus-tratos) é de 3 meses a 1 ano.",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 29.\n\n**Regra rápida:** caça de fauna silvestre = 6 meses a 1 ano.\n\n**Passo a passo:**\n1. 3 meses a 1 ano: art. 32.\n2. 1 a 4: art. 54, 56.\n3. 2 a 5: cão e gato.\n4. 1 a 3: art. 33/38.\n\n**Pegadinha:** Trocar o art. 29 com o art. 32.\n\n**Macete:** 29 = 6m a 1a; 32 = 3m a 1a."
+  },
+  {
+   "id": "dh-c-amb-q04",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 2,
+   "enunciado": "Provocar incêndio em mata ou floresta (art. 41 da Lei nº 9.605/1998) é crime punido com",
+   "alternativas": {
+    "A": "detenção de seis meses a um ano.",
+    "B": "reclusão de um a quatro anos e multa.",
+    "C": "reclusão de dois a quatro anos e multa.",
+    "D": "detenção de três meses a um ano.",
+    "E": "reclusão de oito a dezesseis anos."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 41 (forma culposa: detenção de 6 meses a 1 ano e multa).",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 41.\n\n**Regra rápida:** incêndio em mata = 2 a 4 anos (culposo: 6m a 1a).\n\n**Passo a passo:**\n1. 6m a 1a: é a pena do culposo.\n2. 1 a 4: poluição (art. 54) e produto tóxico (art. 56).\n3. 3m a 1a: pichação (art. 65).\n4. 8 a 16: pena da tortura com morte.\n\n**Pegadinha:** Esquecer a forma culposa.\n\n**Macete:** Incêndio doloso 2 a 4."
+  },
+  {
+   "id": "dh-c-amb-q05",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 2,
+   "enunciado": "Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortandade de animais ou a destruição significativa da flora (art. 54 da Lei nº 9.605/1998) é crime punido, na forma dolosa, com",
+   "alternativas": {
+    "A": "detenção de seis meses a um ano e multa.",
+    "B": "reclusão de dois a cinco anos.",
+    "C": "detenção de três meses a um ano.",
+    "D": "reclusão de um a quatro anos e multa.",
+    "E": "multa, apenas."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 54, caput. Culposo: detenção de 6 meses a 1 ano e multa.",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 54.\n\n**Regra rápida:** poluição dolosa = 1 a 4 anos.\n\n**Passo a passo:**\n1. 6m a 1a: culposa.\n2. 2 a 5: não.\n3. 3m a 1a: pichação.\n4. Só multa: não.\n\n**Pegadinha:** Aplicar a pena do culposo.\n\n**Macete:** Poluição: 1 a 4."
+  },
+  {
+   "id": "dh-c-amb-q06",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 2,
+   "enunciado": "Segundo a Lei nº 9.605/1998, é correto afirmar que as penas restritivas de direitos substituem as privativas de liberdade quando",
+   "alternativas": {
+    "A": "o crime for doloso e a pena superior a quatro anos.",
+    "B": "o agente for reincidente em crime ambiental.",
+    "C": "a pena privativa for superior a dez anos.",
+    "D": "nunca, por vedação legal.",
+    "E": "tratar-se de crime culposo ou a pena privativa de liberdade aplicada for inferior a quatro anos."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 7º, I. Os demais são requisitos do art. 7º, II e III (culpabilidade, antecedentes, conduta social e personalidade).",
+   "resolucao_md": "**O que a questão pede:** o requisito do art. 7º.\n\n**Regra rápida:** crime culposo ou pena inferior a 4 anos.\n\n**Passo a passo:**\n1. Doloso com pena maior que 4 anos: não substitui.\n2. Reincidente: não é requisito.\n3. Pena superior a 10: não.\n4. Vedação: existe regime de substituição.\n\n**Pegadinha:** Confundir com o limite do CP (4 anos).\n\n**Macete:** Substituição: culposo ou menos de 4 anos."
+  },
+  {
+   "id": "dh-c-amb-q07",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 3,
+   "enunciado": "Na Lei nº 9.605/1998, a suspensão condicional da pena (sursis) é possível quando a condenação não for superior a",
+   "alternativas": {
+    "A": "três anos.",
+    "B": "dois anos.",
+    "C": "quatro anos.",
+    "D": "cinco anos.",
+    "E": "seis anos."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 16. Atenção: no CP, o sursis comum é de até 2 anos (4 para maiores de 70 ou doentes).",
+   "resolucao_md": "**O que a questão pede:** o limite do sursis ambiental.\n\n**Regra rápida:** art. 16: condenação não superior a 3 anos.\n\n**Passo a passo:**\n1. 2 anos: regra do CP.\n2. 4 anos: sursis etário.\n3. 5 e 6: não existem.\n\n**Pegadinha:** Aplicar a regra do CP.\n\n**Macete:** Ambiental: 3 anos."
+  },
+  {
+   "id": "dh-c-amb-q08",
+   "topico": "dh-b-ambientais",
+   "dificuldade": 2,
+   "enunciado": "Pichar ou por outro meio conspurcar edificação ou monumento urbano (art. 65 da Lei nº 9.605/1998) constitui crime punido com",
+   "alternativas": {
+    "A": "reclusão de um a três anos.",
+    "B": "detenção de três meses a um ano e multa.",
+    "C": "detenção de um a três anos, ou multa.",
+    "D": "multa, apenas.",
+    "E": "reclusão de dois a quatro anos."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 65 (redação da Lei 12.408/2011). Se o ato for realizado em monumento ou coisa tombada, a pena é de 6 meses a 1 ano e multa **[VERIFICAR]**.",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 65.\n\n**Regra rápida:** pichação = 3 meses a 1 ano e multa.\n\n**Passo a passo:**\n1. 1 a 3: não.\n2. Detenção 1 a 3: art. 33/38.\n3. Só multa: errado.\n4. 2 a 4: art. 41.\n\n**Pegadinha:** Confundir com os crimes de floresta.\n\n**Macete:** Pichação: 3m a 1a."
+  }
+ ]
+}

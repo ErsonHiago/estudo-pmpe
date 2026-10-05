@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q071",
+   "topico": "historia-pe-cabanos",
+   "dificuldade": 3,
+   "enunciado": "Sobre a Guerra dos Cabanos, analise as afirmativas.\n\nI. Os cabanos utilizavam táticas de guerrilha nas matas.\nII. O movimento ocorreu durante o Período Regencial.\nIII. Os cabanos eram exclusivamente senhores de engenho liberais.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I e II.",
+    "B": "Apenas II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e III.",
+    "E": "Apenas II e III."
+   },
+   "gabarito": "A",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar fatos.\n\n**Conceito/Regra rápida**\nCabanos eram populares; senhores de engenho liberais lembram a Praieira.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado, pelo «exclusivamente» e pela composição social.\n3. Resposta: I e II.\n\n**Pegadinha**\nConfundir com a elite liberal.\n\n**Macete**\nCabano = povo.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q072",
+   "topico": "historia-pe-cabanos",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta a ordem cronológica correta.",
+   "alternativas": {
+    "A": "Guerra dos Cabanos; Confederação do Equador; Praieira; Abolição.",
+    "B": "Confederação do Equador; Guerra dos Cabanos; Revolução Praieira; Abolição.",
+    "C": "Praieira; Cabanos; Confederação; Abolição.",
+    "D": "Confederação; Praieira; Cabanos; Abolição.",
+    "E": "Confederação; Cabanos; Abolição; Praieira."
+   },
+   "gabarito": "B",
+   "explicacao": "A ordem é Confederação, Cabanos, Praieira, Abolição.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar.\n\n**Conceito/Regra rápida**\n**1824 → 1832-35 → 1848-49 → 1888**.\n\n**Passo a passo**\n1. Datas: 24, 32, 48, 88.\n2. Só a ordem da correta respeita.\n\n**Pegadinha**\nTrocar Cabanos e Praieira.\n\n**Macete**\n24, 32, 48, 88.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q073",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 1,
+   "enunciado": "Na Revolução Praieira (1848-1849), os «praieiros» e os «guabirus» eram, respectivamente,",
+   "alternativas": {
+    "A": "os conservadores e os liberais.",
+    "B": "os mascates e os pés-rombudos.",
+    "C": "os liberais e os conservadores.",
+    "D": "os cabanos e os regressistas.",
+    "E": "os republicanos e os monarquistas absolutos."
+   },
+   "gabarito": "C",
+   "explicacao": "Praieiros = liberais.",
+   "resolucao_md": "**O que a questão pede**\nAssociar apelidos aos partidos.\n\n**Conceito/Regra rápida**\n**Praieiros** = Partido Liberal (Rua da Praia); **Guabirus** = conservadores.\n\n**Passo a passo**\n1. Ligue o nome à Rua da Praia e ao Diário Novo.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar liberais e conservadores.\n\n**Macete**\nPraia = liberal.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q074",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 2,
+   "enunciado": "O Manifesto ao Mundo (1849) teve como redator",
+   "alternativas": {
+    "A": "Joaquim Nunes Machado.",
+    "B": "Pedro Ivo Veloso da Silveira.",
+    "C": "Frei Caneca.",
+    "D": "Antônio Borges da Fonseca.",
+    "E": "Miguel Arraes."
+   },
+   "gabarito": "D",
+   "explicacao": "Antônio Borges da Fonseca.",
+   "resolucao_md": "**O que a questão pede**\nAssociar documento e autor.\n\n**Conceito/Regra rápida**\n**Borges da Fonseca** = jornalista radical, redator do Manifesto; **Nunes Machado** = deputado, morto em 1849; **Pedro Ivo** = chefe militar.\n\n**Passo a passo**\n1. Quem escreveu? Jornalista.\n2. Nunes Machado era político.\n\n**Pegadinha**\nTrocar redator e líder.\n\n**Macete**\nBorges = pena.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q075",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 2,
+   "enunciado": "Joaquim Nunes Machado foi",
+   "alternativas": {
+    "A": "capitão e chefe militar da revolta.",
+    "B": "jornalista radical autor do Manifesto ao Mundo.",
+    "C": "presidente da Confederação do Equador.",
+    "D": "chefe dos cabanos.",
+    "E": "deputado liberal, ideólogo e líder, morto em 2 de fevereiro de 1849 no ataque ao Recife."
+   },
+   "gabarito": "E",
+   "explicacao": "Deputado liberal.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem.\n\n**Conceito/Regra rápida**\nNunes Machado morreu no ataque ao Recife (fev/1849).\n\n**Passo a passo**\n1. Associe 1849 ao Recife.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar papéis dos três líderes.\n\n**Macete**\nMachado morreu no ataque.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q076",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre as reivindicações do Manifesto ao Mundo.",
+   "alternativas": {
+    "A": "Defendia a manutenção do Poder Moderador.",
+    "B": "Voto livre e universal para brasileiros.",
+    "C": "Liberdade de imprensa.",
+    "D": "Trabalho como garantia de vida ao cidadão.",
+    "E": "Extinção do Poder Moderador."
+   },
+   "gabarito": "A",
+   "explicacao": "A incorreta é A.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nO Manifesto pedia a **extinção** do Poder Moderador.\n\n**Passo a passo**\n1. Lembre o oposto.\n2. A contradiz D.\n\n**Pegadinha**\nTrocar manutenção e extinção.\n\n**Macete**\nManifesto = extinção.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q077",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 2,
+   "enunciado": "Entre as causas da Praieira, está",
+   "alternativas": {
+    "A": "a dissolução da Constituinte em 1823.",
+    "B": "a demissão do gabinete liberal por D. Pedro II em 1848, e a influência da Revolução de 1848 na Europa.",
+    "C": "a abdicação de D. Pedro I em 1831.",
+    "D": "a elevação do Recife a vila.",
+    "E": "a invasão holandesa de 1630."
+   },
+   "gabarito": "B",
+   "explicacao": "Demissão do gabinete liberal.",
+   "resolucao_md": "**O que a questão pede**\nAssociar causas ao movimento.\n\n**Conceito/Regra rápida**\n1848: D. Pedro II chamou os conservadores.\n\n**Passo a passo**\n1. Pedro II → 1848.\n2. Elimine as demais.\n\n**Pegadinha**\nMisturar causas.\n\n**Macete**\nPedro II = Praieira.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q078",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 3,
+   "enunciado": "Sobre a Praieira, analise as afirmativas.\n\nI. Teve conteúdo antilusitano, com reivindicação de nacionalização do comércio a retalho.\nII. Pedro Ivo Veloso da Silveira foi capitão e chefe militar.\nIII. Foi a primeira grande revolta do Primeiro Reinado.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas III.",
+    "B": "Apenas I e III.",
+    "C": "Apenas I e II.",
+    "D": "Apenas II e III.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar fatos.\n\n**Conceito/Regra rápida**\nA Praieira foi a **última** grande revolta provincial do **Segundo Reinado**.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado, é do Segundo Reinado.\n3. Resposta: I e II.\n\n**Pegadinha**\nTrocar período.\n\n**Macete**\nPraieira = última.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q079",
+   "topico": "historia-pe-praieira",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta os movimentos na ordem em que ocorreram.",
+   "alternativas": {
+    "A": "Revolução de 1817; Guerra dos Mascates; Praieira; Confederação.",
+    "B": "Guerra dos Mascates; Confederação; 1817; Praieira.",
+    "C": "Praieira; Mascates; 1817; Confederação.",
+    "D": "Guerra dos Mascates; Revolução de 1817; Confederação do Equador; Revolução Praieira.",
+    "E": "1817; Confederação; Mascates; Praieira."
+   },
+   "gabarito": "D",
+   "explicacao": "A ordem é 1710, 1817, 1824, 1848.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar.\n\n**Conceito/Regra rápida**\n**1710 → 1817 → 1824 → 1848**.\n\n**Passo a passo**\n1. Sequência de inimigos: mascates → Coroa → Império → conservadores.\n2. Só a correta respeita.\n\n**Pegadinha**\nTrocar 1817 e 1824.\n\n**Macete**\n10, 17, 24, 48.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q080",
+   "topico": "historia-pe-republica-velha",
+   "dificuldade": 1,
+   "enunciado": "O coronelismo na Primeira República caracterizava-se",
+   "alternativas": {
+    "A": "pelo voto secreto e universal, que enfraquecia as oligarquias.",
+    "B": "pela total independência dos eleitores do campo.",
+    "C": "pelo domínio dos sindicatos operários.",
+    "D": "pela substituição do poder local por partidos nacionais.",
+    "E": "pelo domínio de grandes proprietários, os coronéis, que controlavam o voto de cabresto em troca de favores."
+   },
+   "gabarito": "E",
+   "explicacao": "Coronel e voto.",
+   "resolucao_md": "**O que a questão pede**\nCaracterizar o fenômeno.\n\n**Conceito/Regra rápida**\n**Coronel** + **voto de cabresto** = troca de favores.\n\n**Passo a passo**\n1. Associe cabresto a controle.\n2. Elimine as que contrariam.\n\n**Pegadinha**\nConfundir com democracia plena.\n\n**Macete**\nCabresto = controle.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

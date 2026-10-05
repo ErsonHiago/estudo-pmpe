@@ -1,0 +1,137 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "dh-c-rac-q01",
+   "topico": "dh-b-racismo",
+   "dificuldade": 1,
+   "enunciado": "De acordo com a Constituição Federal, a prática do racismo constitui crime",
+   "alternativas": {
+    "A": "inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+    "B": "afiançável e prescritível em vinte anos.",
+    "C": "inafiançável, mas prescritível.",
+    "D": "imprescritível, mas afiançável.",
+    "E": "de menor potencial ofensivo, sujeito à pena de multa."
+   },
+   "gabarito": "A",
+   "explicacao": "CF, art. 5º, XLII.",
+   "resolucao_md": "**O que a questão pede:** as características constitucionais do racismo.\n\n**Regra rápida:** inafiançável + imprescritível + reclusão.\n\n**Passo a passo:**\n1. Afiançável: errado.\n2. Prescritível: errado.\n3. Afiançável: errado.\n4. Menor potencial/multa: errado.\n\n**Pegadinha:** Aceitar só uma das duas características.\n\n**Macete:** Racismo: nem fiança, nem prescrição."
+  },
+  {
+   "id": "dh-c-rac-q02",
+   "topico": "dh-b-racismo",
+   "dificuldade": 2,
+   "enunciado": "Com a Lei nº 14.532/2023, o crime de injúria racial passou a ser previsto no",
+   "alternativas": {
+    "A": "art. 140, §3º, do Código Penal, com pena de reclusão de um a três anos.",
+    "B": "art. 2º-A da Lei nº 7.716/1989, com pena de reclusão de dois a cinco anos e multa.",
+    "C": "art. 20 da Lei nº 7.716/1989, com pena de detenção.",
+    "D": "art. 331 do Código Penal, como desacato.",
+    "E": "art. 61 da Lei das Contravenções Penais."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 2º-A da Lei 7.716, com pena de reclusão 2 a 5 anos e multa; aumentada da metade se por duas ou mais pessoas.",
+   "resolucao_md": "**O que a questão pede:** o novo enquadramento.\n\n**Regra rápida:** injúria racial agora é racismo (Lei 7.716, art. 2º-A).\n\n**Passo a passo:**\n1. CP art. 140, §3º cuida hoje de religião, idade ou deficiência.\n2. Art. 20 trata de incitar discriminação.\n3. Desacato é crime contra a administração.\n4. Contravenção: sem relação.\n\n**Pegadinha:** Achar que ainda está no CP.\n\n**Macete:** Injúria racial = racismo = imprescritível."
+  },
+  {
+   "id": "dh-c-rac-q03",
+   "topico": "dh-b-racismo",
+   "dificuldade": 2,
+   "enunciado": "Segundo a jurisprudência do Supremo Tribunal Federal e a Lei nº 14.532/2023, o crime de injúria racial é",
+   "alternativas": {
+    "A": "afiançável e prescritível.",
+    "B": "inafiançável, mas prescritível em oito anos.",
+    "C": "inafiançável e imprescritível, como o racismo.",
+    "D": "de ação penal privada, dependendo de queixa.",
+    "E": "de menor potencial ofensivo."
+   },
+   "gabarito": "C",
+   "explicacao": "STF (HC 154.248) e Lei 14.532: equiparação ao racismo. Pena de 2 a 5 anos exclui a menor potencial ofensividade.",
+   "resolucao_md": "**O que a questão pede:** o regime da injúria racial.\n\n**Regra rápida:** agora equiparada ao racismo: inafiançável, imprescritível.\n\n**Passo a passo:**\n1. Afiançável e prescritível: era o regime antigo.\n2. Prescritível: errado.\n3. Ação privada: errado, é pública incondicionada.\n4. Menor potencial: pena máxima de 5 anos.\n\n**Pegadinha:** Usar o regime antigo.\n\n**Macete:** Injúria racial = racismo."
+  },
+  {
+   "id": "dh-c-rac-q04",
+   "topico": "dh-b-racismo",
+   "dificuldade": 2,
+   "enunciado": "Praticar, induzir ou incitar a discriminação ou o preconceito de raça, cor, etnia, religião ou procedência nacional (art. 20 da Lei nº 7.716/1989) sujeita o agente a",
+   "alternativas": {
+    "A": "detenção de seis meses a um ano.",
+    "B": "reclusão de cinco a dez anos.",
+    "C": "detenção de um a três anos, sem multa.",
+    "D": "reclusão de um a três anos e multa.",
+    "E": "multa, apenas."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 20 da Lei 7.716, caput.",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 20.\n\n**Regra rápida:** induzir/incitar = 1 a 3 anos de reclusão e multa.\n\n**Passo a passo:**\n1. Detenção de 6 meses a 1 ano: não.\n2. 5 a 10 anos: não.\n3. Detenção sem multa: não.\n4. Só multa: não.\n\n**Pegadinha:** Confundir com a injúria racial (2 a 5).\n\n**Macete:** Art. 20: 1 a 3; art. 2º-A: 2 a 5."
+  },
+  {
+   "id": "dh-c-rac-q05",
+   "topico": "dh-b-racismo",
+   "dificuldade": 2,
+   "enunciado": "Conforme a Lei nº 7.716/1989, fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propaganda que utilizem a cruz suástica para fins de divulgação do nazismo é punido com",
+   "alternativas": {
+    "A": "reclusão de um a três anos, somente.",
+    "B": "detenção de seis meses a dois anos.",
+    "C": "multa, apenas.",
+    "D": "reclusão de cinco a dez anos.",
+    "E": "reclusão de dois a cinco anos e multa."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 20, §1º.",
+   "resolucao_md": "**O que a questão pede:** a pena do §1º.\n\n**Regra rápida:** suástica nazista = 2 a 5 anos e multa.\n\n**Passo a passo:**\n1. 1 a 3: caput.\n2. Detenção: errado.\n3. Só multa: errado.\n4. 5 a 10: errado.\n\n**Pegadinha:** Trocar §1º pelo caput.\n\n**Macete:** Suástica: 2 a 5."
+  },
+  {
+   "id": "dh-c-rac-q06",
+   "topico": "dh-b-racismo",
+   "dificuldade": 2,
+   "enunciado": "Impedir ou obstar o acesso de alguém, devidamente habilitado, a qualquer cargo da Administração Direta ou Indireta, bem como das concessionárias de serviços públicos, em razão de raça ou cor, constitui crime previsto na Lei nº 7.716/1989 com pena de",
+   "alternativas": {
+    "A": "reclusão de um a três anos.",
+    "B": "reclusão de dois a cinco anos.",
+    "C": "detenção de três meses a um ano.",
+    "D": "reclusão de oito a doze anos.",
+    "E": "multa, apenas."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 3º da Lei 7.716.",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 3º.\n\n**Regra rápida:** cargo público = 2 a 5 anos.\n\n**Passo a passo:**\n1. 1 a 3: ex.: art. 5º (comércio).\n2. 3 meses a 1 ano: não é a pena.\n3. 8 a 12: muito alta.\n4. Só multa: não.\n\n**Pegadinha:** Confundir com o art. 5º.\n\n**Macete:** Cargo público: 2 a 5."
+  },
+  {
+   "id": "dh-c-rac-q07",
+   "topico": "dh-b-racismo",
+   "dificuldade": 3,
+   "enunciado": "Com relação aos efeitos da condenação previstos na Lei nº 7.716/1989, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "A perda do cargo é efeito automático de qualquer condenação.",
+    "B": "A suspensão do estabelecimento pode durar até dois anos.",
+    "C": "Não existe qualquer efeito da condenação.",
+    "D": "A perda do cargo ou função pública, para o servidor público, e a suspensão do funcionamento do estabelecimento particular por até três meses não são automáticas, devendo ser motivadamente declaradas na sentença.",
+    "E": "O estabelecimento é fechado definitivamente em qualquer hipótese."
+   },
+   "gabarito": "D",
+   "explicacao": "Arts. 16 e 18 da Lei 7.716.",
+   "resolucao_md": "**O que a questão pede:** os efeitos do art. 16 e 18.\n\n**Regra rápida:** perda do cargo e suspensão do estabelecimento (até 3 meses), com motivação.\n\n**Passo a passo:**\n1. Automática: errado.\n2. 2 anos: errado.\n3. Nenhum efeito: errado.\n4. Fechamento definitivo: errado.\n\n**Pegadinha:** Dizer que são automáticos.\n\n**Macete:** Efeito exige motivação."
+  },
+  {
+   "id": "dh-c-rac-q08",
+   "topico": "dh-b-racismo",
+   "dificuldade": 2,
+   "enunciado": "Nos termos da Lei nº 7.716/1989, com as alterações da Lei nº 14.532/2023, a pena será aumentada de um terço até a metade quando o crime for cometido",
+   "alternativas": {
+    "A": "por pessoa idosa.",
+    "B": "contra pessoa de outra religião, apenas.",
+    "C": "em contexto ou com intuito de descontração, diversão ou recreação.",
+    "D": "por pessoa sem antecedentes.",
+    "E": "em local fechado e sem testemunhas."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 20-A.",
+   "resolucao_md": "**O que a questão pede:** a causa de aumento do art. 20-A.\n\n**Regra rápida:** racismo \"recreativo\" (piada) aumenta a pena em 1/3 até 1/2.\n\n**Passo a passo:**\n1. Pessoa idosa: não consta.\n2. Religião: crime já protege.\n3. Sem antecedentes: não aumenta.\n4. Local fechado: não consta.\n\n**Pegadinha:** Achar que o contexto de brincadeira atenua.\n\n**Macete:** Piada racista: pena maior."
+  }
+ ]
+}

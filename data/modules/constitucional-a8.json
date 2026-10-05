@@ -1,0 +1,249 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-remedios",
+      "titulo": "Remédios constitucionais: habeas corpus, habeas data, mandado de segurança (individual e coletivo), mandado de injunção e ação popular",
+      "prioridade": 1,
+      "horas": 5,
+      "resumo_md": "## O que são remédios constitucionais\nSão **garantias** (ações) previstas na Constituição para **proteger** direitos fundamentais quando violados ou ameaçados. Estão quase todos no **art. 5º**: HC (LXVIII), MS (LXIX), MS coletivo (LXX), MI (LXXI), HD (LXXII), ação popular (LXXIII) e a regra de gratuidade (LXXVII).\n\n## Quadro comparativo\n| Remédio | Inciso | Protege | Legitimado ativo | Contra | Gratuidade |\n|---|---|---|---|---|---|\n| **Habeas corpus** | LXVIII | **liberdade de locomoção** (ilegalidade ou abuso de poder) | **qualquer pessoa**, física ou jurídica (impetrante), **sem advogado**; também o MP | autoridade ou particular | **gratuito** (LXXVII) |\n| **Habeas data** | LXXII | **conhecimento** (a) e **retificação** (b) de informações **do próprio impetrante** em registros ou bancos de dados governamentais ou de caráter público | a **própria pessoa** (física ou jurídica), com advogado | entidade governamental ou de caráter público | **gratuito** (LXXVII) |\n| **Mandado de segurança** (individual) | LXIX | **direito líquido e certo**, **não amparado por HC ou HD** | pessoa física ou jurídica titular do direito | **autoridade pública** ou agente de PJ no exercício de atribuições do Poder Público | pago (sem honorários, Súmula 512 STF) |\n| **Mandado de segurança coletivo** | LXX | direito líquido e certo de **membros ou associados** | **partido político com representação no Congresso**; **organização sindical, entidade de classe ou associação** legalmente constituída e em funcionamento **há pelo menos um ano** | idem | pago |\n| **Mandado de injunção** | LXXI | direitos e liberdades constitucionais e prerrogativas inerentes à nacionalidade, à soberania e à cidadania, cujo exercício está **inviável pela falta de norma regulamentadora** | titular do direito (individual) ou legitimados do coletivo | o órgão omisso na regulamentação | CF não prevê gratuidade expressa [VERIFICAR Lei 13.300/2016] |\n| **Ação popular** | LXXIII | **patrimônio público** ou de entidade de que o Estado participe, **moralidade administrativa, meio ambiente, patrimônio histórico e cultural** | **qualquer cidadão** (eleitor, em gozo dos direitos políticos) | autoridade e beneficiários do ato lesivo | **isento** de custas e ônus da sucumbência, **salvo comprovada má-fé** |\n\n## Habeas corpus (art. 5º, LXVIII)\n\"Conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer **violência ou coação em sua liberdade de locomoção**, por **ilegalidade ou abuso de poder**.\" Pode ser **liberatório/repressivo** (já preso) ou **preventivo** (ameaça; gera salvo-conduto). Não exige advogado. **Não cabe HC em relação a punições disciplinares militares** (art. 142, § 2º): o mérito da punição é insindicável, embora a jurisprudência admita controle de legalidade em pontos como competência, hierarquia e formalidades.\n\n## Habeas data (art. 5º, LXXII; Lei 9.507/1997)\nServe para **(a)** assegurar o **conhecimento** de informações relativas à **pessoa do impetrante** e **(b)** **retificar** dados, quando não se prefira fazê-lo por processo sigiloso. Exige **prova da recusa** administrativa prévia (Súmula 2 do STJ). Não serve para obter informações de **terceiros** nem informações de interesse geral (isso é mandado de segurança ou Lei de Acesso à Informação).\n\n## Mandado de segurança (art. 5º, LXIX e LXX; Lei 12.016/2009)\nProtege **direito líquido e certo** (provado de plano, com prova pré-constituída), **residual**: só quando não couber HC nem HD. Prazo: **120 dias** da ciência do ato (Lei 12.016/2009, art. 23). **Não** cabe contra **lei em tese** (Súmula 266 STF) e **não** substitui ação de cobrança (Súmula 269 STF). No **MS coletivo**, a entidade atua **sem autorização** dos associados (Súmula 629 STF) e pode defender interesse de apenas **parte** da categoria (Súmula 630 STF).\n\n## Mandado de injunção (art. 5º, LXXI; Lei 13.300/2016)\nCabe quando a **falta de norma regulamentadora** inviabiliza o exercício de direitos constitucionais. Pressupõe **omissão** (total ou parcial) do legislador ou do administrador. Pode ser **individual ou coletivo**. O STF passou a adotar posição **concretista** (supre a omissão no caso concreto), nos termos da Lei 13.300/2016 [VERIFICAR a modulação dos efeitos].\n\n## Ação popular (art. 5º, LXXIII; Lei 4.717/1965)\nO autor é **cidadão** (prova com o **título de eleitor**). **Pessoa jurídica não propõe** (Súmula 365 STF). O **Ministério Público** acompanha como fiscal e pode assumir a ação se o autor desistir. O prazo prescricional é de **5 anos** (Lei 4.717/1965, art. 21). Mnemônico do objeto: **P-M-M-P** (**P**atrimônio público, **M**oralidade administrativa, **M**eio ambiente, **P**atrimônio histórico e cultural).\n\n## Gratuidade (art. 5º, LXXVII)\n\"São gratuitas as ações de **habeas corpus** e **habeas data** e, na forma da lei, os **atos necessários ao exercício da cidadania**.\" **HC e HD**: sem custas. **Ação popular**: isenção salvo má-fé (LXXIII). **MS**: há custas.",
+      "dicas": [
+        "HC = locomoção; HD = informações do próprio impetrante; MS = direito líquido e certo (residual); MI = falta de norma; AP = cidadão defendendo o patrimônio público, a moralidade, o meio ambiente e o patrimônio histórico-cultural.",
+        "Gratuitos pela CF: HC e HD (LXXVII); AP tem isenção salvo má-fé.",
+        "MS coletivo: partido com representação no Congresso; sindicato, entidade de classe ou associação com pelo menos 1 ano; sem autorização dos associados (Súmula 629 STF).",
+        "MS: 120 dias; não cabe contra lei em tese (Súmula 266 STF).",
+        "HC não cabe contra punição disciplinar militar (art. 142, § 2º).",
+        "Ação popular: cidadão = eleitor; pessoa jurídica não propõe."
+      ],
+      "pegadinhas": [
+        "Dizer que o habeas data serve para obter informações de terceiros ou de interesse coletivo: só do próprio impetrante.",
+        "Dizer que o mandado de segurança protege a liberdade de locomoção: isso é HC; o MS é residual, para direito líquido e certo não amparado por HC ou HD.",
+        "Dizer que a pessoa jurídica pode propor ação popular: só o cidadão (eleitor).",
+        "Dizer que qualquer partido político pode impetrar MS coletivo: só o com representação no Congresso Nacional.",
+        "Dizer que a associação precisa de autorização dos associados para impetrar MS coletivo: é dispensada; o requisito é 1 ano de constituição.",
+        "Dizer que o mandado de segurança e o de injunção são gratuitos pela CF: a gratuidade expressa é só de HC e HD.",
+        "Dizer que o HC é cabível contra qualquer punição disciplinar militar: não cabe quanto ao mérito (art. 142, § 2º).",
+        "Dizer que o mandado de injunção protege contra ato ilegal de autoridade: ele combate a omissão normativa."
+      ],
+      "flashcards": [
+        {
+          "q": "O que protege o habeas corpus?",
+          "a": "A liberdade de locomoção contra ilegalidade ou abuso de poder (art. 5º, LXVIII)."
+        },
+        {
+          "q": "Quem pode impetrar habeas corpus?",
+          "a": "Qualquer pessoa, física ou jurídica, sem necessidade de advogado; também o Ministério Público."
+        },
+        {
+          "q": "Quais as espécies de habeas corpus?",
+          "a": "Liberatório/repressivo (já preso) e preventivo (ameaça; salvo-conduto)."
+        },
+        {
+          "q": "O que protege o habeas data?",
+          "a": "Conhecimento e retificação de informações do próprio impetrante em registros ou bancos de dados governamentais ou de caráter público."
+        },
+        {
+          "q": "O que diz a Súmula 2 do STJ?",
+          "a": "Não cabe habeas data sem prévia recusa da autoridade administrativa."
+        },
+        {
+          "q": "O que protege o mandado de segurança?",
+          "a": "Direito líquido e certo não amparado por HC ou HD, contra autoridade pública ou agente de PJ no exercício de atribuições do Poder Público."
+        },
+        {
+          "q": "Qual o prazo do mandado de segurança?",
+          "a": "120 dias da ciência do ato (Lei 12.016/2009)."
+        },
+        {
+          "q": "Quem pode impetrar MS coletivo?",
+          "a": "Partido político com representação no Congresso Nacional; organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano."
+        },
+        {
+          "q": "Precisa de autorização dos associados no MS coletivo?",
+          "a": "Não (Súmula 629 do STF)."
+        },
+        {
+          "q": "Cabe MS contra lei em tese?",
+          "a": "Não (Súmula 266 do STF)."
+        },
+        {
+          "q": "Quando cabe mandado de injunção?",
+          "a": "Quando a falta de norma regulamentadora torna inviável o exercício de direitos e liberdades constitucionais e de prerrogativas ligadas à nacionalidade, soberania e cidadania."
+        },
+        {
+          "q": "Que lei regula o mandado de injunção?",
+          "a": "Lei 13.300/2016."
+        },
+        {
+          "q": "Quem propõe ação popular?",
+          "a": "Qualquer cidadão (eleitor); pessoa jurídica não propõe (Súmula 365 do STF)."
+        },
+        {
+          "q": "Quais bens a ação popular protege?",
+          "a": "Patrimônio público ou de entidade de que o Estado participe, moralidade administrativa, meio ambiente e patrimônio histórico e cultural."
+        },
+        {
+          "q": "Quais ações são gratuitas segundo o art. 5º, LXXVII?",
+          "a": "Habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania."
+        },
+        {
+          "q": "Qual a regra de custas na ação popular?",
+          "a": "Autor isento de custas e ônus da sucumbência, salvo comprovada má-fé."
+        },
+        {
+          "q": "Cabe HC contra punição disciplinar militar?",
+          "a": "Não quanto ao mérito (art. 142, § 2º)."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-remedios-q01",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "João foi preso por um policial sem estar em situação de flagrante delito e sem ordem escrita e fundamentada de autoridade judiciária. Seu irmão, que não é advogado, deseja impugnar a prisão. O remédio constitucional adequado e a legitimidade são, respectivamente,",
+      "alternativas": {
+        "A": "habeas data, que só pode ser impetrado por advogado constituído.",
+        "B": "mandado de segurança, que exige advogado e é pago.",
+        "C": "habeas corpus, que pode ser impetrado por qualquer pessoa, independentemente de advogado.",
+        "D": "mandado de injunção, que só pode ser impetrado pelo Ministério Público.",
+        "E": "ação popular, que pode ser proposta por qualquer pessoa jurídica."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: o HC protege a liberdade de locomoção; a legitimidade é ampla. Demais: A) o HD tutela informações pessoais, não a locomoção. B) o MS é residual: não cabe quando o direito é amparado por HC. D) o MI trata de omissão normativa. E) ação popular exige cidadão e protege patrimônio público, entre outros bens.",
+      "resolucao_md": "**O que a questão pede**\nEscolher o remédio e a legitimidade corretos.\n\n**Conceito/Regra rápida**\n**HC (art. 5º, LXVIII)**: liberdade de locomoção, por ilegalidade ou abuso de poder; qualquer pessoa pode impetrar, sem advogado.\n\n**Passo a passo**\n1. O bem em risco é a liberdade de locomoção: HC.\n2. MS é residual (só se não couber HC/HD).\n3. HD, MI e ação popular têm outros objetos.\n4. Legitimidade: qualquer pessoa. Alternativa C.\n\n**Pegadinha**\nA banca adora confundir MS com HC; lembre que o MS é \"não amparado por HC ou HD\".\n\n**Macete**\nPreso ilegalmente? Habeas corpus."
+    },
+    {
+      "id": "const-a-remedios-q02",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "Maria, servidora pública, quer saber quais dados sobre ela constam no sistema de recursos humanos do órgão público onde trabalha. Pediu administrativamente e teve o pedido negado. O remédio constitucional cabível é o",
+      "alternativas": {
+        "A": "habeas corpus, pois protege a liberdade de locomoção.",
+        "B": "mandado de injunção, pois falta norma sobre acesso a dados.",
+        "C": "mandado de segurança coletivo, impetrado pelo sindicato dos servidores, pois o direito é de toda a categoria.",
+        "D": "habeas data, pois visa assegurar o conhecimento de informações relativas à pessoa do impetrante constantes de registros ou bancos de dados de entidades governamentais.",
+        "E": "ação popular, pois o ato é lesivo à moralidade administrativa."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o art. 5º, LXXII, a, e a recusa administrativa está comprovada (Súmula 2 do STJ). Demais: A) não há restrição de locomoção. B) o caso é de recusa do órgão, não de omissão normativa. C) o pedido envolve dados pessoais individuais; o remédio específico é o HD. E) a pretensão é informação pessoal, não anular ato lesivo.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar o remédio para acesso a dados pessoais.\n\n**Conceito/Regra rápida**\n**HD (art. 5º, LXXII)**: (a) conhecimento de informações do **próprio impetrante**; (b) retificação de dados. Exige recusa administrativa prévia (Súmula 2 STJ).\n\n**Passo a passo**\n1. Objeto: informações sobre a própria Maria em banco de dados governamental.\n2. Remédio específico: habeas data.\n3. Pressuposto: houve recusa administrativa (comprovada no enunciado).\n4. Alternativa D.\n\n**Pegadinha**\nO HD não serve para dados de terceiros nem para informações gerais.\n\n**Macete**\nDado meu = habeas data."
+    },
+    {
+      "id": "const-a-remedios-q03",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "Uma empresa teve sua certidão negativa de débitos recusada por autoridade fiscal, apesar de comprovada, de plano, a ausência de débitos. Não há risco à liberdade de locomoção e não se trata de dados pessoais. O remédio constitucional adequado é o",
+      "alternativas": {
+        "A": "habeas corpus, por se tratar de abuso de poder.",
+        "B": "habeas data, pois a certidão contém informações da empresa.",
+        "C": "mandado de injunção, por não haver certidão.",
+        "D": "ação popular, proposta pela empresa em nome do interesse público.",
+        "E": "mandado de segurança, que protege direito líquido e certo não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade for autoridade pública, com prazo de 120 dias."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é o art. 5º, LXIX, com prazo da Lei 12.016/2009. Demais: A) o HC só protege locomoção. B) não se busca conhecimento nem retificação de dados, e sim a certidão negada. C) o MI cobre falta de norma, não ato ilegal de autoridade. D) a empresa (PJ) não propõe ação popular e o caso é de direito próprio.",
+      "resolucao_md": "**O que a questão pede**\nEscolher o remédio para direito líquido e certo violado por autoridade.\n\n**Conceito/Regra rápida**\n**MS (art. 5º, LXIX)**: direito líquido e certo (prova pré-constituída), não amparado por HC/HD, contra ato de autoridade pública. Prazo: 120 dias (Lei 12.016/2009, art. 23).\n\n**Passo a passo**\n1. Direito comprovado de plano = líquido e certo.\n2. Violador = autoridade fiscal (autoridade pública).\n3. Liberdade e dados pessoais afastam HC e HD.\n4. Alternativa E.\n\n**Pegadinha**\nA empresa não pode propor ação popular (só cidadão).\n\n**Macete**\nLíquido e certo contra autoridade: mandado de segurança."
+    },
+    {
+      "id": "const-a-remedios-q04",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "O mandado de injunção, previsto no art. 5º, LXXI, da CF/88, tem cabimento quando",
+      "alternativas": {
+        "A": "a falta de norma regulamentadora torna inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+        "B": "houver ilegalidade ou abuso de poder que ameace a liberdade de locomoção de alguém.",
+        "C": "o impetrante precisar conhecer ou retificar informações pessoais constantes de banco de dados público.",
+        "D": "houver ato lesivo ao patrimônio público ou à moralidade administrativa.",
+        "E": "houver violação de direito líquido e certo por ato de autoridade pública."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é a redação do inciso LXXI. Demais: B) trata-se do habeas corpus. C) trata-se do habeas data. D) trata-se da ação popular. E) trata-se do mandado de segurança.",
+      "resolucao_md": "**O que a questão pede**\nDistinguir o mandado de injunção dos demais remédios.\n\n**Conceito/Regra rápida**\n**MI (art. 5º, LXXI; Lei 13.300/2016)**: omissão normativa que inviabiliza direitos constitucionais.\n\n**Passo a passo**\n1. Palavra-chave: \"falta de norma regulamentadora\".\n2. Cada alternativa errada descreve outro remédio: HC, HD, ação popular e MS.\n3. Alternativa A.\n\n**Pegadinha**\nO MI não ataca ato, mas a ausência de norma.\n\n**Macete**\nInjunção = norma faltando."
+    },
+    {
+      "id": "const-a-remedios-q05",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "Sobre a legitimidade para a ação popular, nos termos do art. 5º, LXXIII, da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "qualquer pessoa jurídica, inclusive associações, pode propô-la, ficando isenta de custas em qualquer hipótese.",
+        "B": "qualquer cidadão é parte legítima para propô-la, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.",
+        "C": "somente o Ministério Público pode propô-la, em defesa do patrimônio público.",
+        "D": "qualquer pessoa, inclusive estrangeiros e menores de dezesseis anos, pode propô-la.",
+        "E": "somente partidos políticos com representação no Congresso podem propô-la."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o texto do inciso LXXIII. Demais: A) só o cidadão tem legitimidade; a isenção não vale em caso de má-fé. C) o MP atua como fiscal ou assume a ação, mas a legitimidade ativa é do cidadão. D) cidadão é quem está em gozo dos direitos políticos (eleitor). E) essa é regra do mandado de segurança coletivo.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar o legitimado e a regra de custas.\n\n**Conceito/Regra rápida**\n**Ação popular (LXXIII)**: legitimado = **cidadão** (eleitor). Autor isento de custas e sucumbência, **salvo comprovada má-fé**. Pessoa jurídica não propõe (Súmula 365 STF).\n\n**Passo a passo**\n1. Legitimado: cidadão. Elimine PJ, MP exclusivo, estrangeiros/menores sem título e partidos.\n2. Gratuidade: isenção, com ressalva da má-fé.\n3. Alternativa B.\n\n**Pegadinha**\nPartido político é legitimado do MS coletivo; não da ação popular.\n\n**Macete**\nAção popular: cidadão, sem custas, salvo má-fé."
+    },
+    {
+      "id": "const-a-remedios-q06",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "De acordo com o art. 5º, LXX, da CF/88, o mandado de segurança coletivo pode ser impetrado por",
+      "alternativas": {
+        "A": "qualquer partido político registrado no Tribunal Superior Eleitoral, mesmo sem representação no Congresso.",
+        "B": "associações legalmente constituídas há pelo menos seis meses, mediante autorização expressa dos associados.",
+        "C": "partido político com representação no Congresso Nacional e por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados.",
+        "D": "qualquer cidadão, em defesa do patrimônio público.",
+        "E": "somente o Ministério Público e a Defensoria Pública."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é o texto do inciso LXX. Demais: A) é exigida representação no Congresso Nacional. B) o prazo é de um ano, e a autorização é dispensada (Súmula 629 STF). D) isso é ação popular. E) não são os legitimados do art. 5º, LXX.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer os legitimados do MS coletivo.\n\n**Conceito/Regra rápida**\n**Art. 5º, LXX**: (a) partido com representação no Congresso; (b) sindicato, entidade de classe ou associação constituída e em funcionamento há pelo menos 1 ano. Sem autorização especial dos associados (Súmula 629 STF).\n\n**Passo a passo**\n1. Duas alíneas: partido e entidades associativas.\n2. Elimine partido sem representação.\n3. Elimine 6 meses e autorização.\n4. Elimine cidadão e MP/DP.\n5. Alternativa C.\n\n**Pegadinha**\nO prazo de um ano é só para as entidades (b), não para o partido.\n\n**Macete**\nPartido com bancada; associação com 1 ano."
+    },
+    {
+      "id": "const-a-remedios-q07",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "Acerca da gratuidade das ações constitucionais, o art. 5º, LXXVII, da CF/88 dispõe que são gratuitas",
+      "alternativas": {
+        "A": "as ações de habeas corpus, mandado de segurança e mandado de injunção.",
+        "B": "todas as ações constitucionais, incluindo a ação popular, mesmo se comprovada a má-fé do autor.",
+        "C": "apenas as ações de habeas corpus.",
+        "D": "as ações de habeas corpus e habeas data e, na forma da lei, os atos necessários ao exercício da cidadania.",
+        "E": "as ações de habeas data e mandado de segurança."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o texto do inciso LXXVII. Demais: A) o MS e o MI não constam do inciso LXXVII. B) a ação popular tem isenção salvo má-fé (LXXIII), e a lista do LXXVII é só HC e HD. C) o habeas data também é gratuito. E) o MS não consta do inciso LXXVII.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer a regra de gratuidade.\n\n**Conceito/Regra rápida**\n**Art. 5º, LXXVII**: HC e HD gratuitos; atos necessários ao exercício da cidadania, na forma da lei. **LXXIII**: ação popular isenta, salvo má-fé.\n\n**Passo a passo**\n1. Fixe: HC + HD.\n2. Elimine as que incluem MS ou MI.\n3. Elimine \"apenas HC\".\n4. Elimine a ação popular gratuita mesmo com má-fé.\n5. Alternativa D.\n\n**Pegadinha**\nMandado de segurança tem custas; só não há honorários (Súmula 512 STF).\n\n**Macete**\nGratuitos: HC e HD."
+    },
+    {
+      "id": "const-a-remedios-q08",
+      "topico": "const-a-remedios",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA a respeito do habeas corpus.",
+      "alternativas": {
+        "A": "Pode ser preventivo, quando houver ameaça à liberdade de locomoção.",
+        "B": "Pode ser impetrado por qualquer pessoa, em favor próprio ou de terceiro, sem necessidade de advogado.",
+        "C": "A ação é gratuita.",
+        "D": "Protege a liberdade de locomoção contra ilegalidade ou abuso de poder.",
+        "E": "É cabível o habeas corpus para discutir o mérito das punições disciplinares militares."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: o art. 142, § 2º, dispõe que não caberá habeas corpus em relação a punições disciplinares militares. Demais: A) o HC preventivo é cabível (LXVIII: \"ameaçado de sofrer\"). B) a legitimidade é ampla. C) é o art. 5º, LXXVII. D) é o art. 5º, LXVIII.",
+      "resolucao_md": "**O que a questão pede**\nAchar a afirmação falsa (INCORRETA).\n\n**Conceito/Regra rápida**\n**HC**: locomoção; preventivo ou liberatório; sem advogado; gratuito. **Art. 142, § 2º**: não cabe HC em relação a punições disciplinares militares.\n\n**Passo a passo**\n1. Questão pede a INCORRETA.\n2. As quatro primeiras alternativas descrevem o HC corretamente.\n3. A alternativa E contraria o art. 142, § 2º.\n4. Marque E.\n\n**Pegadinha**\nPara o policial militar, esta é a exceção mais importante ao cabimento do habeas corpus.\n\n**Macete**\nMilitar punido disciplinarmente: HC não discute o mérito."
+    },
+    {
+      "id": "const-a-remedios-q09",
+      "topico": "const-a-remedios",
+      "dificuldade": 1,
+      "enunciado": "Assinale a alternativa que associa corretamente o remédio constitucional à sua finalidade.",
+      "alternativas": {
+        "A": "Mandado de injunção: suprir a falta de norma regulamentadora que torne inviável o exercício de direitos e liberdades constitucionais.",
+        "B": "Habeas data: proteger direito líquido e certo contra ato ilegal de autoridade pública.",
+        "C": "Ação popular: proteger a liberdade de locomoção contra abuso de poder.",
+        "D": "Mandado de segurança: assegurar ao impetrante o conhecimento de informações pessoais em bancos de dados públicos.",
+        "E": "Habeas corpus: anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é o art. 5º, LXXI. Demais: B) isso é o mandado de segurança. C) isso é o habeas corpus. D) isso é o habeas data. E) isso é a ação popular.",
+      "resolucao_md": "**O que a questão pede**\nAssociar remédio e objeto.\n\n**Conceito/Regra rápida**\nHC = locomoção; HD = informações do impetrante; MS = direito líquido e certo (residual); MI = omissão normativa; AP = patrimônio público, moralidade, meio ambiente e patrimônio histórico-cultural.\n\n**Passo a passo**\n1. Teste cada alternativa com a tabela acima.\n2. Três estão trocadas (objetos de MS, HC e AP atribuídos a outros).\n3. A que associa MI à falta de norma regulamentadora está correta.\n4. Alternativa A.\n\n**Pegadinha**\nQuestões de associação trocam o objeto entre os remédios; memorize uma palavra-chave para cada.\n\n**Macete**\nHC=ir e vir; HD=meus dados; MS=líquido e certo; MI=falta de norma; AP=cidadão e patrimônio."
+    }
+  ]
+}

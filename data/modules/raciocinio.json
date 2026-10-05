@@ -1,0 +1,1989 @@
+{
+ "id": "raciocinio",
+ "titulo": "Raciocínio Lógico e Matemático",
+ "disciplina": "raciocinio",
+ "descricao": "Cobre conjuntos, raciocínio numérico (frações, porcentagem, razão, regra de três, sequências), lógica proposicional, argumentação, equivalências, quantificadores, contagem e probabilidade; a IBAM costuma cobrar 5 questões diretas e contextualizadas, com forte peso em lógica proposicional (negações, equivalências) e contagem/probabilidade. Confirmar o conteúdo programático no edital [VERIFICAR].",
+ "topicos": [
+  {
+   "id": "raciocinio-conjuntos",
+   "titulo": "1. Operações com conjuntos (Venn, 2 e 3 conjuntos)",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Ideia central\nUm **conjunto** é uma coleção de elementos. Notação: **x ∈ A** (pertence), **A ⊂ B** (A está contido em B: todo elemento de A está em B), **∅** (vazio, subconjunto de qualquer conjunto), **n(A)** (número de elementos de A).\n\n## Operações\n| Operação | Símbolo | Significado |\n|---|---|---|\n| União | A ∪ B | elementos que estão em A **ou** em B (ou ambos) |\n| Interseção | A ∩ B | elementos que estão em A **e** em B |\n| Diferença | A − B | elementos de A que **não** estão em B |\n| Complementar | Aᶜ (ou Ā) | elementos do universo U que não estão em A |\n\n## Fórmulas que resolvem 90% das questões\n- **Dois conjuntos:** n(A ∪ B) = n(A) + n(B) − n(A ∩ B)\n- **Três conjuntos:** n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A∩B) − n(A∩C) − n(B∩C) + n(A∩B∩C)\n- **Só A:** n(A − B) = n(A) − n(A ∩ B)\n- **Nenhum:** n(Fora) = n(U) − n(A ∪ B)\n- **Subconjuntos:** um conjunto com n elementos tem **2ⁿ** subconjuntos (2ⁿ − 1 não vazios; 2ⁿ − 2 próprios não vazios).\n\n## Método passo a passo (Diagrama de Venn, de dentro para fora)\n1. Desenhe os círculos dentro de um retângulo (universo).\n2. Comece **sempre pela interseção mais interna** (os três ao mesmo tempo, se houver).\n3. Suba para as interseções de dois: subtraia o centro. Ex.: \"só A e B\" = n(A∩B) − n(A∩B∩C).\n4. Depois calcule \"só A\", \"só B\", \"só C\" subtraindo tudo que já foi colocado.\n5. O que sobra do total é \"nenhum\". Some todas as regiões para conferir.\n\n## Exemplo resolvido 1 (dois conjuntos)\nEm um grupo de 100 pessoas, 60 gostam de A, 50 gostam de B e 20 não gostam de nenhum. Quantos gostam dos dois? União = 100 − 20 = 80. n(A∩B) = 60 + 50 − 80 = **30**.\n\n## Exemplo resolvido 2 (três conjuntos)\n120 pessoas: n(A)=50, n(B)=45, n(C)=40; A∩B=20, A∩C=15, B∩C=10; A∩B∩C=5. União = 50+45+40−20−15−10+5 = 95; nenhum = 120 − 95 = **25**. Só A = n(A) − (A∩B) − (A∩C) + (A∩B∩C) = 50 − 20 − 15 + 5 = **20**.\n\n## Palavras-gatilho\n\"**pelo menos um**\" = união; \"**exatamente um**\" = só A + só B + só C; \"**nenhum**\" = fora dos círculos; \"**ambos / e**\" = interseção; \"**apenas**\" = exclusivo.",
+   "dicas": [
+    "Nos problemas de 3 conjuntos, comece pelo centro (A∩B∩C) e vá subtraindo para fora.",
+    "Sempre confira: a soma de todas as regiões do diagrama tem de ser o total do universo.",
+    "n(A∪B) = n(A)+n(B)−n(A∩B): se a questão dá a união e as partes, o que falta é a interseção.",
+    "'Exatamente dois' = soma das interseções de pares MENOS 3 vezes a tripla.",
+    "Subconjuntos: 2 elevado ao número de elementos; não esqueça que o vazio conta.",
+    "Leia 'apenas', 'somente' e 'exclusivamente' como regiões que NÃO tocam as demais."
+   ],
+   "pegadinhas": [
+    "Somar n(A)+n(B) como se fosse a união: isso conta a interseção duas vezes.",
+    "Confundir 'gosta de A' (círculo todo) com 'gosta apenas de A' (círculo menos interseções).",
+    "Se A ⊂ B, então A ∪ B = B e A ∩ B = A (e não o contrário).",
+    "A ∈ B e A ⊂ B são coisas diferentes: elemento pertence, conjunto está contido.",
+    "Esquecer os que não pertencem a nenhum conjunto ao calcular o total.",
+    "O conjunto vazio ∅ é subconjunto de todo conjunto, mas {∅} não é o conjunto vazio (tem 1 elemento)."
+   ],
+   "flashcards": [
+    {
+     "q": "Fórmula de n(A∪B)",
+     "a": "n(A)+n(B)−n(A∩B)"
+    },
+    {
+     "q": "Fórmula de n(A∪B∪C)",
+     "a": "Soma dos três − soma das interseções de pares + interseção tripla"
+    },
+    {
+     "q": "O que é A − B?",
+     "a": "Elementos de A que não estão em B"
+    },
+    {
+     "q": "Quantos subconjuntos tem um conjunto de n elementos?",
+     "a": "2ⁿ"
+    },
+    {
+     "q": "Por onde começar um Venn de 3 conjuntos?",
+     "a": "Pela interseção tripla (centro)"
+    },
+    {
+     "q": "Se A ⊂ B, quanto vale A ∪ B?",
+     "a": "B"
+    },
+    {
+     "q": "Se A ⊂ B, quanto vale A ∩ B?",
+     "a": "A"
+    },
+    {
+     "q": "O que é o complementar de A?",
+     "a": "Elementos do universo que não estão em A"
+    },
+    {
+     "q": "'Pelo menos um' corresponde a qual operação?",
+     "a": "União"
+    },
+    {
+     "q": "Como calcular 'apenas A' com 2 conjuntos?",
+     "a": "n(A) − n(A∩B)"
+    },
+    {
+     "q": "O vazio é subconjunto de qualquer conjunto?",
+     "a": "Sim"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-numerico-reais",
+   "titulo": "2.1 Raciocínio numérico: números reais, frações e porcentagem",
+   "prioridade": 1,
+   "horas": 8,
+   "resumo_md": "## Conjuntos numéricos (base da base)\n**ℕ** (naturais: 0,1,2…) ⊂ **ℤ** (inteiros) ⊂ **ℚ** (racionais: fração a/b, b≠0, incluindo decimais finitos e dízimas periódicas) ⊂ **ℝ** (reais). Os **irracionais** (√2, π, e) são reais que **não** viram fração. Todo número real é racional ou irracional.\n\n## Frações: regras de ouro\n- **Soma/subtração:** tire o MMC dos denominadores. 2/3 + 3/4 = 8/12 + 9/12 = 17/12.\n- **Multiplicação:** numerador com numerador, denominador com denominador (simplifique antes).\n- **Divisão:** repete a primeira e **multiplica pelo inverso** da segunda.\n- \"**de**\" significa multiplicar: 3/5 **de** 40 = 3/5 × 40 = 24.\n- **MMC** (menor múltiplo comum): usado quando eventos se repetem juntos (sinais, ônibus). **MDC** (maior divisor comum): usado para dividir em pedaços iguais, o maior possível.\n\n## Decimais e dízimas\nDízima periódica → fração geratriz: **(número completo − parte que não repete) / (tantos 9 quanto o período, seguidos de tantos 0 quanto a parte não periódica)**. Ex.: 0,333… = 3/9 = 1/3; 0,1222… = (12 − 1)/90 = 11/90; 0,999… = 1.\n\n## Potências e raízes\naᵐ·aⁿ = aᵐ⁺ⁿ; aᵐ/aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ; a⁰ = 1; a⁻ⁿ = 1/aⁿ; √(a·b) = √a·√b. Ordem das operações: parênteses → potências/raízes → × e ÷ → + e −.\n\n## Porcentagem: pense em fator\n**p%** = p/100. Aumentar em p% = multiplicar por **(1 + p/100)**; reduzir em p% = multiplicar por **(1 − p/100)**.\n- Aumentos/descontos **sucessivos** multiplicam fatores (não somam taxas): +20% e depois −20% = 1,2 × 0,8 = 0,96, ou seja **−4%**.\n- Variação percentual = (valor final − inicial) / inicial.\n- **Ponto percentual** é diferença entre percentagens (de 40% para 50% = +10 p.p., mas +25% relativo).\n- Para achar o valor original: **original = final ÷ fator**. Preço com 15% de desconto custa 170 → original = 170 / 0,85 = 200.\n\n## Exemplo resolvido\nSalário de R$ 2.500 com reajuste de 8% e depois 5%: 2500 × 1,08 × 1,05 = **R$ 2.835** (e não 2500 × 1,13 = 2.825).\n\n## Juros (noção)\nSimples: J = C·i·t (cresce linear). Composto: M = C(1+i)ᵗ (cresce exponencial; usa o mesmo conceito de fator).",
+   "dicas": [
+    "Em porcentagem, pense sempre em FATOR multiplicativo (1,15 para +15%, 0,85 para −15%).",
+    "Descontos sucessivos nunca se somam; multiplique os fatores.",
+    "Para achar o valor ANTES do aumento/desconto, divida pelo fator.",
+    "Fração 'de' um número = multiplicação.",
+    "MMC para 'quando se encontram de novo'; MDC para 'maior pedaço igual'.",
+    "Simplifique frações ANTES de multiplicar para evitar contas grandes."
+   ],
+   "pegadinhas": [
+    "Aumentar 20% e depois diminuir 20% NÃO volta ao valor original (dá −4%).",
+    "Diferença entre 'pontos percentuais' e 'percentual' (de 20% para 30% são 10 p.p. e 50% de aumento relativo).",
+    "Calcular o valor original multiplicando pelo percentual do desconto em vez de dividir pelo fator (170 com 15% de desconto não vem de 170 × 1,15).",
+    "√2 e π são irracionais; 0,333… e 0,999… são racionais.",
+    "Divisão de frações: inverte só a SEGUNDA, não a primeira.",
+    "Dízima periódica composta: esquecer os zeros no denominador da geratriz."
+   ],
+   "flashcards": [
+    {
+     "q": "Fator para aumento de 15%",
+     "a": "1,15"
+    },
+    {
+     "q": "Fator para desconto de 15%",
+     "a": "0,85"
+    },
+    {
+     "q": "+20% seguido de −20% resulta em quê?",
+     "a": "−4% (1,2 × 0,8 = 0,96)"
+    },
+    {
+     "q": "Fração geratriz de 0,333…",
+     "a": "1/3"
+    },
+    {
+     "q": "Fração geratriz de 0,1222…",
+     "a": "11/90"
+    },
+    {
+     "q": "Como dividir frações?",
+     "a": "Multiplica a primeira pelo inverso da segunda"
+    },
+    {
+     "q": "Quando usar MMC em problemas?",
+     "a": "Eventos que se repetem e voltam a coincidir"
+    },
+    {
+     "q": "Quando usar MDC em problemas?",
+     "a": "Dividir em partes iguais, a maior possível"
+    },
+    {
+     "q": "Todo irracional é real?",
+     "a": "Sim; mas nenhum irracional é racional"
+    },
+    {
+     "q": "Valor original após desconto",
+     "a": "Valor final ÷ (1 − taxa)"
+    },
+    {
+     "q": "Diferença de 40% para 50%",
+     "a": "10 pontos percentuais"
+    },
+    {
+     "q": "Juros simples: fórmula",
+     "a": "J = C·i·t"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-razao-proporcao",
+   "titulo": "2.2 Raciocínio numérico: razão, proporção, regra de três e sequências",
+   "prioridade": 1,
+   "horas": 8,
+   "resumo_md": "## Razão e proporção\n**Razão** de a para b = a/b (comparação por divisão). **Proporção** é a igualdade de duas razões: a/b = c/d, e vale a **propriedade fundamental: a·d = b·c** (produto dos meios = produto dos extremos). Propriedade da soma: a/b = c/d ⇒ (a+c)/(b+d) = a/b.\n**Escala** = medida no desenho / medida real (ex.: 1:50.000 → 1 cm no mapa = 50.000 cm = 500 m reais).\n\n## Grandezas\n- **Diretamente proporcionais:** uma sobe, a outra sobe na mesma razão (preço × quantidade).\n- **Inversamente proporcionais:** uma sobe, a outra desce (velocidade × tempo, operários × dias).\n\n## Regra de três simples (passo a passo)\n1. Monte a tabela com as grandezas na mesma ordem.\n2. Decida se são diretas ou inversas.\n3. Direta: multiplique em cruz. Inversa: inverta uma das colunas e multiplique em cruz.\nEx. inversa: 6 operários fazem a obra em 15 dias; 9 operários farão em x. 6·15 = 9·x → **x = 10 dias**.\n\n## Regra de três composta\nCompare **cada** grandeza com a incógnita separadamente (direta ou inversa) e multiplique as razões. Atalho seguro: calcule o **rendimento unitário** (ex.: peças por máquina-hora) e depois multiplique.\nEx.: 4 máquinas, 6 h/dia, 5 dias → 1.200 peças. Rendimento = 1200 / (4·6·5) = 10 peças por máquina-hora. 6 máquinas, 8 h/dia, 10 dias → 6·8·10·10 = **4.800 peças**.\n\n## Divisão proporcional\n- **Diretamente** a 2, 3, 7: soma = 12; cada \"parte\" = total/12.\n- **Inversamente** a 2 e 3: troque pelos inversos 1/2 e 1/3 (ou 3 e 2 após multiplicar por 6) e divida diretamente.\n\n## Sequências\n| Tipo | Regra | Exemplo |\n|---|---|---|\n| **PA** | soma-se razão r | aₙ = a₁ + (n−1)·r; Sₙ = (a₁+aₙ)·n/2 |\n| **PG** | multiplica-se razão q | aₙ = a₁·qⁿ⁻¹ |\n| Mista | ×2 +1, Fibonacci, quadrados | 2,5,11,23,47 → 95 |\nPara sequências: teste diferenças (1ª e 2ª), razões, e alternância de duas sequências intercaladas.\n\n## Mistura / percentual de solução\nQuantidade de soluto não muda ao diluir: (soluto + x)/(total + x) = percentual desejado.",
+   "dicas": [
+    "Regra de três: pergunte 'se uma grandeza aumenta, a outra aumenta?' para saber se é direta ou inversa.",
+    "Na composta, calcule o rendimento unitário (por pessoa, por hora) para evitar erro de sinal.",
+    "PA: a conta do n-ésimo termo é a₁ + (n−1)r, o expoente/fator é n−1 e não n.",
+    "Em divisão inversamente proporcional, use os inversos (ou multiplique por MMC para tirar frações).",
+    "Em sequências, tente primeiro a diferença entre termos consecutivos; se não for constante, tente a razão.",
+    "Escalas: converta tudo para a mesma unidade antes (1 km = 100.000 cm)."
+   ],
+   "pegadinhas": [
+    "Tratar operários × dias como diretamente proporcionais (é inversa).",
+    "Dividir inversamente proporcional usando os próprios números em vez dos inversos.",
+    "Na PA, usar n em vez de n−1 no cálculo do termo geral.",
+    "Somar razões em proporção (a/b + c/d) em vez de aplicar a propriedade da soma corretamente.",
+    "Misturar unidades na escala (cm no mapa vs km real).",
+    "Achar que mais máquinas e mais horas diminuem a produção: ambas são diretas com a produção."
+   ],
+   "flashcards": [
+    {
+     "q": "Propriedade fundamental da proporção",
+     "a": "a/b = c/d ⇒ a·d = b·c"
+    },
+    {
+     "q": "Velocidade e tempo (distância fixa) são?",
+     "a": "Inversamente proporcionais"
+    },
+    {
+     "q": "Fórmula do termo geral da PA",
+     "a": "aₙ = a₁ + (n−1)·r"
+    },
+    {
+     "q": "Soma dos n primeiros termos da PA",
+     "a": "Sₙ = (a₁+aₙ)·n/2"
+    },
+    {
+     "q": "Termo geral da PG",
+     "a": "aₙ = a₁·qⁿ⁻¹"
+    },
+    {
+     "q": "Escala 1:50.000, 4 cm no mapa = ?",
+     "a": "2 km"
+    },
+    {
+     "q": "Como dividir 840 inversamente proporcional a 2 e 3?",
+     "a": "Proporção 1/2 : 1/3 = 3 : 2 → 504 e 336"
+    },
+    {
+     "q": "Operários × dias: tipo de proporção",
+     "a": "Inversa"
+    },
+    {
+     "q": "Soma de 1 a n (inteiros)",
+     "a": "n(n+1)/2"
+    },
+    {
+     "q": "Regra de três composta: atalho",
+     "a": "Calcular o rendimento unitário e multiplicar"
+    },
+    {
+     "q": "Sequência 2,5,11,23,47: regra",
+     "a": "×2 + 1 (próximo: 95)"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-proposicoes",
+   "titulo": "3. Proposições, conectivos, negação, tabela-verdade e condições",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## Proposição\nSentença **declarativa** (afirma algo) à qual se pode atribuir **valor lógico V ou F**, nunca os dois. **Não são proposições:** perguntas, ordens (\"Estude!\"), exclamações, sentenças abertas (\"x + 2 = 5\" – até x ser dado) e paradoxos. Simples = sem conectivo; composta = ligada por conectivos.\n\n## Conectivos e tabela-verdade\n| Conectivo | Símbolo | Lê-se | É verdadeiro quando |\n|---|---|---|---|\n| Negação | ~p | não p | p é falso |\n| Conjunção | p ∧ q | p **e** q | **ambas** V |\n| Disjunção | p ∨ q | p **ou** q | **pelo menos uma** V (só F se ambas F) |\n| Disj. exclusiva | p ⊻ q | **ou p ou q** | valores **diferentes** |\n| Condicional | p → q | se p então q | **só é F em V→F** |\n| Bicondicional | p ↔ q | p se e somente se q | **mesmo valor** |\n\nNº de linhas da tabela = **2ⁿ** (n proposições simples): 2, 4, 8, 16…\n\n## Classificação\n- **Tautologia:** sempre V (ex.: p ∨ ~p; (p∧q) → p).\n- **Contradição:** sempre F (ex.: p ∧ ~p).\n- **Contingência:** nem uma, nem outra.\n\n## Negações essenciais\n- ~(p ∧ q) ≡ ~p ∨ ~q  e  ~(p ∨ q) ≡ ~p ∧ ~q (**De Morgan**)\n- ~(p → q) ≡ **p ∧ ~q** (a única forma de a condicional ser falsa)\n- ~(p ↔ q) ≡ p ⊻ q\n- ~(ou p ou q) ≡ p ↔ q\n- \"**Nem p nem q**\" = ~p ∧ ~q; sua negação é \"p ou q\".\n\n## Condição necessária e suficiente\nEm **p → q**: p é condição **suficiente** para q (basta p); q é condição **necessária** para p (sem q, não há p). Em p ↔ q, cada uma é necessária **e** suficiente. Truque: **a flecha sai do suficiente e chega ao necessário**.\n\n## Método para calcular valor lógico\n1. Atribua V/F às simples (às vezes a questão \"força\" valores: condicional falsa → p=V, q=F; conjunção verdadeira → ambas V; disjunção falsa → ambas F).\n2. Resolva parênteses de dentro para fora.\n3. Em compostas com 3 simples, conte as linhas: (p∨q)→r é falsa só em 3 linhas (p∨q=V e r=F), logo verdadeira em 5.\n\n## Exemplo resolvido\n\"Se chove, o jogo é cancelado\". Negação: \"**Chove e o jogo não é cancelado**\". Condição suficiente: chover. Condição necessária para chover: o jogo ser cancelado.",
+   "dicas": [
+    "Condicional só é falsa em V→F: 'promessa quebrada'.",
+    "Para a negação de 'se p então q' escreva 'p e não q' (mantém o 1º, nega o 2º, troca por E).",
+    "Flecha: p é suficiente, q é necessário.",
+    "2 elevado ao número de simples dá o número de linhas.",
+    "Tautologia clássica: p ou não-p; contradição clássica: p e não-p.",
+    "Quando a questão dá uma composta como verdadeira/falsa, descubra primeiro os valores das simples 'forçados'."
+   ],
+   "pegadinhas": [
+    "Negar 'p e q' como '~p e ~q' (o correto é ~p OU ~q).",
+    "Negar a condicional como 'se p então ~q' ou 'se ~p então ~q' (a negação é p E ~q).",
+    "Confundir 'ou' inclusivo (V se ao menos uma é V) com 'ou...ou' exclusivo.",
+    "Trocar necessária por suficiente: 'ser par é suficiente para ser divisível por 6' é falso.",
+    "Considerar uma pergunta ou uma ordem como proposição.",
+    "Condicional com antecedente falso é VERDADEIRA (vacuamente)."
+   ],
+   "flashcards": [
+    {
+     "q": "Quando p→q é falsa?",
+     "a": "Somente quando p é V e q é F"
+    },
+    {
+     "q": "Quando p↔q é verdadeira?",
+     "a": "Quando p e q têm o mesmo valor lógico"
+    },
+    {
+     "q": "Negação de p→q",
+     "a": "p ∧ ~q"
+    },
+    {
+     "q": "Negação de p ∧ q",
+     "a": "~p ∨ ~q"
+    },
+    {
+     "q": "Negação de p ∨ q",
+     "a": "~p ∧ ~q"
+    },
+    {
+     "q": "Negação de p↔q",
+     "a": "Ou p ou q (disjunção exclusiva)"
+    },
+    {
+     "q": "Número de linhas da tabela com 3 proposições",
+     "a": "8"
+    },
+    {
+     "q": "Tautologia",
+     "a": "Proposição composta sempre verdadeira"
+    },
+    {
+     "q": "Contradição",
+     "a": "Proposição composta sempre falsa"
+    },
+    {
+     "q": "Em p→q, p é condição...",
+     "a": "Suficiente para q"
+    },
+    {
+     "q": "Em p→q, q é condição...",
+     "a": "Necessária para p"
+    },
+    {
+     "q": "'Ou p ou q' é verdadeira quando?",
+     "a": "p e q têm valores diferentes"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-argumentacao",
+   "titulo": "4. Argumentação lógica, estruturas lógicas e diagramas lógicos",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Argumento\nConjunto de **premissas** (afirmações dadas como verdadeiras) que levam a uma **conclusão**. Um argumento é **válido** quando é **impossível** as premissas serem todas verdadeiras e a conclusão falsa. Validade é sobre a **forma**, não sobre a verdade factual. Argumento válido com premissas verdadeiras = **sólido**.\n\n## Método da falsidade da conclusão (o mais usado)\n1. Suponha a **conclusão FALSA** e encontre os valores que a tornam falsa.\n2. Force as **premissas VERDADEIRAS** com esses valores (e os que deles decorrem).\n3. Se for **possível** (sem contradição), o argumento é **inválido**. Se der **contradição**, é **válido**.\n(Alternativa: tabela-verdade, procurando linha com premissas V e conclusão F.)\n\n## Formas válidas clássicas\n| Nome | Forma |\n|---|---|\n| **Modus ponens** | p → q; p ⊢ q |\n| **Modus tollens** | p → q; ~q ⊢ ~p |\n| **Silogismo hipotético** | p → q; q → r ⊢ p → r |\n| **Silogismo disjuntivo** | p ∨ q; ~p ⊢ q |\n| Dilema construtivo | p→q; r→s; p∨r ⊢ q∨s |\n\n## Falácias (inválidos) muito cobradas\n- **Afirmação do consequente:** p → q; q ⊢ p (ERRADO).\n- **Negação do antecedente:** p → q; ~p ⊢ ~q (ERRADO).\n\n## Diagramas lógicos (quantificadores categóricos)\n| Proposição | Diagrama |\n|---|---|\n| Todo A é B | círculo A dentro de B |\n| Nenhum A é B | círculos disjuntos |\n| Algum A é B | círculos com interseção (há ao menos 1 elemento nela) |\n| Algum A não é B | há elemento de A fora de B |\nRegra: marque primeiro as premissas **universais** (Todo/Nenhum), depois as particulares (Algum). A conclusão só é válida se for verdadeira em **todos** os desenhos possíveis.\n- Todo A é B; todo B é C ⊢ **todo A é C** (válido).\n- Todo A é B; algum B é C ⊬ algum A é C (inválido).\n- Nenhum A é B; algum C é B ⊢ **algum C não é A** (válido).\n\n## Estruturas lógicas: problemas de associação e verdade/mentira\nMonte uma **tabela** (pessoas × atributos), marque X nas negações dadas e deduza por eliminação. Em \"quem mente?\", teste cada hipótese de culpado e conte quantas falas ficam verdadeiras; só uma hipótese deve atender à condição do enunciado.\n\n## Exemplo resolvido\nPremissas: \"Se estudo, passo. Se passo, fico feliz. Não fico feliz.\" Conclusão: \"Não estudei.\" Conclusão falsa → \"estudei\" (V). Então passo (V) e fico feliz (V), contradizendo a 3ª premissa. Impossível → **argumento válido**.",
+   "dicas": [
+    "Falsidade da conclusão: comece pela conclusão, nunca pelas premissas.",
+    "Se há premissa que é uma proposição simples ou uma conjunção, comece por ela (valor forçado).",
+    "Diagramas: universais primeiro, particulares depois.",
+    "Valide só o que acontece em TODOS os desenhos possíveis do diagrama.",
+    "Em problemas de associação, faça tabela e marque X; elimine até sobrar um.",
+    "Modus tollens: nega o consequente, nega o antecedente. Memorize."
+   ],
+   "pegadinhas": [
+    "Conclusão verdadeira não torna o argumento válido: validade é sobre a forma.",
+    "Afirmar o consequente (p→q; q ⊢ p) parece certo, mas é falácia.",
+    "'Todo A é B' não implica 'todo B é A'.",
+    "'Algum A é B' em lógica não exclui 'todo A é B' (algum = pelo menos um).",
+    "Premissas absurdas (falsas no mundo real) não invalidam o argumento; só a forma importa.",
+    "Em verdade/mentira, não esquecer de conferir a condição global do enunciado (só um mente, só um culpado)."
+   ],
+   "flashcards": [
+    {
+     "q": "Quando um argumento é válido?",
+     "a": "Quando não é possível ter premissas V e conclusão F"
+    },
+    {
+     "q": "Modus ponens",
+     "a": "p→q; p ⊢ q"
+    },
+    {
+     "q": "Modus tollens",
+     "a": "p→q; ~q ⊢ ~p"
+    },
+    {
+     "q": "Silogismo hipotético",
+     "a": "p→q; q→r ⊢ p→r"
+    },
+    {
+     "q": "Silogismo disjuntivo",
+     "a": "p∨q; ~p ⊢ q"
+    },
+    {
+     "q": "Falácia da afirmação do consequente",
+     "a": "p→q; q ⊢ p (inválido)"
+    },
+    {
+     "q": "Falácia da negação do antecedente",
+     "a": "p→q; ~p ⊢ ~q (inválido)"
+    },
+    {
+     "q": "Como é o diagrama de 'Nenhum A é B'?",
+     "a": "Dois círculos separados"
+    },
+    {
+     "q": "Como é o diagrama de 'Todo A é B'?",
+     "a": "A inteiramente dentro de B"
+    },
+    {
+     "q": "Passo 1 do método da falsidade da conclusão",
+     "a": "Supor a conclusão falsa"
+    },
+    {
+     "q": "Nenhum A é B; algum C é B ⊢ ?",
+     "a": "Algum C não é A"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-equivalencias",
+   "titulo": "5. Equivalências e implicações lógicas",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Conceito\nDuas proposições são **equivalentes** (≡) quando têm **a mesma tabela-verdade** (A ↔ B é tautologia). Há **implicação lógica** (A ⇒ B) quando A → B é tautologia (sempre que A é V, B é V).\n\n## Equivalências fundamentais (decorar!)\n| Original | Equivalentes |\n|---|---|\n| p → q | **~q → ~p** (contrapositiva) ≡ **~p ∨ q** |\n| p ∨ q | ~p → q ≡ ~q → p |\n| ~(p ∧ q) | ~p ∨ ~q (**De Morgan**) |\n| ~(p ∨ q) | ~p ∧ ~q (**De Morgan**) |\n| p ↔ q | (p→q) ∧ (q→p) ≡ (~p ∨ q) ∧ (~q ∨ p) |\n| ~(p → q) | p ∧ ~q |\n| ~(p ↔ q) | p ⊻ q (ou p ou q) |\n| p → (q → r) | (p ∧ q) → r |\n| ~~p | p (dupla negação) |\n| Comutativa/associativa/distributiva | p∧q ≡ q∧p; p∧(q∨r) ≡ (p∧q)∨(p∧r) |\n\n**A recíproca (q → p) e a inversa (~p → ~q) NÃO são equivalentes à condicional** (são equivalentes entre si).\n\n## Como transformar\n- **Condicional → ou:** \"Se A então B\" = \"**Não A ou B**\" (nega o 1º, mantém o 2º).\n- **Ou → condicional:** \"A ou B\" = \"Se não A, então B\".\n- **Contrapositiva:** inverte e nega ambos.\n\n## Implicações lógicas úteis\np ∧ q ⇒ p; p ⇒ p ∨ q; (p→q) ∧ p ⇒ q (modus ponens); (p→q) ∧ ~q ⇒ ~p (modus tollens); (p→q) ∧ (q→r) ⇒ (p→r). A volta não vale (p∨q não implica p∧q).\n\n## Método passo a passo para achar equivalência/negação em prova\n1. Identifique o conectivo principal.\n2. Se for condicional e pedirem **equivalente**: contrapositiva ou \"~p ou q\".\n3. Se pedirem **negação**: p e ~q.\n4. Se for E/OU: De Morgan (troca o conectivo e nega as partes).\n5. Confira com um caso numérico simples, se restar dúvida (valores V/F).\n\n## Exemplo resolvido\n\"Se o candidato é aprovado, então é nomeado.\" Equivalentes: \"Se não é nomeado, não é aprovado\" e \"O candidato não é aprovado ou é nomeado\". **Não** equivalentes: \"Se é nomeado, foi aprovado\" (recíproca) e \"Se não é aprovado, não é nomeado\" (inversa).",
+   "dicas": [
+    "p→q: duas formas equivalentes na ponta da língua: ~q→~p e ~p∨q.",
+    "Para negar uma condicional, 'p e não q'; para equivalente, 'não p ou q'. Nunca confunda.",
+    "De Morgan: troca E por OU (e vice-versa) e NEGA cada parte.",
+    "Recíproca e inversa são armadilhas; equivalem entre si, mas não à original.",
+    "Duvidou? Teste com p=V e q=F: a original dá F, então a equivalente também precisa dar F.",
+    "Bicondicional = duas condicionais (ida e volta)."
+   ],
+   "pegadinhas": [
+    "Tomar a recíproca (q→p) como equivalente de p→q.",
+    "Tomar a inversa (~p→~q) como contrapositiva.",
+    "Aplicar De Morgan sem trocar o conectivo (~(p∧q) = ~p ∧ ~q é ERRADO).",
+    "Negar 'p ou q' como '~p ou ~q'.",
+    "Achar que 'Se p então q' é equivalente a 'p ou ~q' (o correto é ~p ou q).",
+    "Negação de bicondicional como 'p ↔ ~q' é correta (≡ ou...ou), mas '~p ↔ ~q' não é: equivale à original."
+   ],
+   "flashcards": [
+    {
+     "q": "Contrapositiva de p→q",
+     "a": "~q→~p"
+    },
+    {
+     "q": "p→q em forma de ou",
+     "a": "~p ∨ q"
+    },
+    {
+     "q": "De Morgan para ~(p∧q)",
+     "a": "~p ∨ ~q"
+    },
+    {
+     "q": "De Morgan para ~(p∨q)",
+     "a": "~p ∧ ~q"
+    },
+    {
+     "q": "Recíproca de p→q",
+     "a": "q→p (não equivalente)"
+    },
+    {
+     "q": "Inversa de p→q",
+     "a": "~p→~q (não equivalente)"
+    },
+    {
+     "q": "p ∨ q equivale a que condicional?",
+     "a": "~p → q"
+    },
+    {
+     "q": "p↔q equivale a?",
+     "a": "(p→q) ∧ (q→p)"
+    },
+    {
+     "q": "p→(q→r) equivale a?",
+     "a": "(p∧q)→r"
+    },
+    {
+     "q": "~(p→q) equivale a?",
+     "a": "p ∧ ~q"
+    },
+    {
+     "q": "~(p↔q) equivale a?",
+     "a": "Ou p ou q (disjunção exclusiva)"
+    },
+    {
+     "q": "A ⇒ B significa?",
+     "a": "A→B é tautologia"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-quantificadores",
+   "titulo": "6. Quantificadores universal e existencial (negações)",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## Quantificadores\n- **Universal (∀):** \"todo\", \"qualquer\", \"para todo x\".\n- **Existencial (∃):** \"existe\", \"algum\", \"pelo menos um\" (em lógica, algum = ao menos um; **não** exclui \"todos\").\n- **Existencial de unicidade (∃!)**: existe um único.\n\nUma **sentença aberta** P(x) vira proposição ao ser quantificada.\n\n## Negações (tabela de ouro)\n| Proposição | Negação |\n|---|---|\n| **Todo** A é B | **Algum** A **não** é B |\n| **Nenhum** A é B | **Algum** A é B |\n| **Algum** A é B | **Nenhum** A é B |\n| **Algum** A **não** é B | **Todo** A é B |\n| ∀x P(x) | ∃x ~P(x) |\n| ∃x P(x) | ∀x ~P(x) |\nRegra: troque o quantificador (todo ↔ algum/existe) e **negue o predicado**; \"nenhum\" é \"todo ... não\" e vira \"algum\".\n\n## Relações entre as quatro proposições categóricas\n- \"Todo A é B\" e \"Nenhum A é B\" são **contrárias**: não podem ser ambas V, mas **podem** ser ambas F. Logo **uma não é a negação da outra**.\n- \"Algum A é B\" e \"Algum A não é B\" são **subcontrárias**: podem ser ambas V; não podem ser ambas F (se A existir).\n- \"Todo A é B\" e \"Algum A não é B\" são **contraditórias**: sempre valores opostos (negação uma da outra).\n\n## Contraexemplo\nPara **refutar** \"todo x tem P\", basta **um** contraexemplo. Para provar \"existe x com P\", basta **um** exemplo. Já provar \"todo\" exige demonstração geral.\n\n## Quantificadores com conectivos\nNegar \"∀x (P(x) ∨ Q(x))\": ∃x (~P(x) ∧ ~Q(x)) (De Morgan junto). Negar \"Todo x > 3 ou x < −3\": existe x com −3 ≤ x ≤ 3.\nNegar \"∀x (P → Q)\": ∃x (P ∧ ~Q): \"Todo político corrupto é preso\" → \"Existe político corrupto que não é preso\".\n\n## Exemplo resolvido\n\"Todo servidor é pontual.\" Negação: \"**Algum servidor não é pontual**\" (e não \"nenhum servidor é pontual\").",
+   "dicas": [
+    "Negação de 'todo' é 'algum não'; negação de 'nenhum' é 'algum'.",
+    "'Algum' = pelo menos um; pode haver todos.",
+    "Para refutar uma generalização, procure um único contraexemplo.",
+    "Em fórmulas: inverta ∀↔∃ e negue o que vem depois.",
+    "Dentro do predicado, aplique De Morgan/negação de condicional normalmente."
+   ],
+   "pegadinhas": [
+    "Negar 'Todo A é B' com 'Nenhum A é B' (ERRADO: são contrárias, não contraditórias).",
+    "Negar 'Algum A é B' com 'Algum A não é B' (ERRADO).",
+    "Achar que 'algum' significa 'apenas alguns, não todos'.",
+    "Negar 'Existe...' como 'Existe...não' em vez de 'Para todo... não'.",
+    "Esquecer de negar o predicado ao inverter o quantificador."
+   ],
+   "flashcards": [
+    {
+     "q": "Negação de 'Todo A é B'",
+     "a": "Algum A não é B"
+    },
+    {
+     "q": "Negação de 'Nenhum A é B'",
+     "a": "Algum A é B"
+    },
+    {
+     "q": "Negação de 'Algum A é B'",
+     "a": "Nenhum A é B"
+    },
+    {
+     "q": "Negação de 'Algum A não é B'",
+     "a": "Todo A é B"
+    },
+    {
+     "q": "Negação de ∀x P(x)",
+     "a": "∃x ~P(x)"
+    },
+    {
+     "q": "Negação de ∃x P(x)",
+     "a": "∀x ~P(x)"
+    },
+    {
+     "q": "'Todo A é B' e 'Nenhum A é B' são?",
+     "a": "Contrárias (podem ser ambas falsas)"
+    },
+    {
+     "q": "'Todo A é B' e 'Algum A não é B' são?",
+     "a": "Contraditórias"
+    },
+    {
+     "q": "O que basta para refutar 'todo x tem P'?",
+     "a": "Um contraexemplo"
+    },
+    {
+     "q": "'Algum' em lógica significa?",
+     "a": "Pelo menos um"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-contagem",
+   "titulo": "7. Problemas de contagem: princípios, arranjos, combinações e permutações",
+   "prioridade": 1,
+   "horas": 9,
+   "resumo_md": "## Princípios básicos\n- **Multiplicativo (etapas sucessivas, \"e\"):** se uma tarefa tem etapas com m, n, p… possibilidades, total = m·n·p… (3 camisas e 4 calças = 12 looks).\n- **Aditivo (escolhas alternativas, \"ou\"):** se há m maneiras de fazer A **ou** n de fazer B (sem sobreposição), total = m + n.\n- **Fatorial:** n! = n·(n−1)·…·1; 0! = 1.\n\n## Fórmulas\n| Situação | Fórmula |\n|---|---|\n| **Permutação simples** (ordenar n distintos) | Pₙ = n! |\n| **Permutação com repetição** (anagramas com letras repetidas) | n!/(a!·b!·…) |\n| **Permutação circular** | (n − 1)! |\n| **Arranjo** (escolhe p de n, **ordem importa**) | A(n,p) = n!/(n−p)! |\n| **Combinação** (escolhe p de n, **ordem NÃO importa**) | C(n,p) = n!/[p!(n−p)!] |\nPropriedades: C(n,p) = C(n,n−p); C(n,0)=1; C(n,1)=n.\n\n## Como decidir: arranjo ou combinação?\nPergunte: \"**trocar a ordem gera um resultado diferente?**\" Pódio, senha, fila, presidente/vice → **arranjo (ordem importa)**. Comissão, time, grupo, mão de cartas, apertos de mão → **combinação**.\n\n## Técnicas\n1. **Restrição primeiro:** preencha primeiro a posição com restrição (ex.: número par, 1º dígito não zero).\n2. **Complementar:** total − os que violam (ex.: pessoas que **não** ficam juntas = total − juntas).\n3. **Juntos:** trate o bloco como 1 elemento e multiplique pela permutação interna (Ana e Bia juntas em fila de 5: 4!·2! = 48).\n4. **Casos separados** (aditivo) quando uma restrição divide o problema (ex.: último dígito 0 ou não 0).\n\n## Exemplos resolvidos\n- Senhas de 3 dígitos distintos (0–9): 10·9·8 = **720**.\n- Comissão de 2 homens e 3 mulheres de 6 homens e 5 mulheres: C(6,2)·C(5,3) = 15·10 = **150**.\n- Anagramas de CARUARU (A,R,U duas vezes cada): 7!/(2!·2!·2!) = 5040/8 = **630**.\n- 6 pessoas em mesa redonda: 5! = **120**.\n- Jogos de turno único com 10 times: C(10,2) = **45**.\n\n## Atenção\nEm combinações com \"pelo menos\", use o **complementar** (total − nenhum). Em \"e\" multiplica; em \"ou\" soma.",
+   "dicas": [
+    "Pergunta-chave: 'a ordem importa?' Sim = arranjo/permutação; Não = combinação.",
+    "Comece sempre pela posição com restrição.",
+    "'Pelo menos um' → total menos 'nenhum'.",
+    "Juntos = bloco x permutação interna; separados = total − juntos.",
+    "Combinação cresce simétrica: C(n,p) = C(n,n−p).",
+    "Mesa redonda: fixe uma pessoa e permute as outras (n−1)!."
+   ],
+   "pegadinhas": [
+    "Usar combinação quando a ordem importa (e vice-versa).",
+    "Esquecer de dividir pelos fatoriais das repetições nos anagramas.",
+    "Esquecer que o zero não pode ser o 1º algarismo em números de vários dígitos.",
+    "Somar quando deveria multiplicar (etapas sucessivas).",
+    "Em 'juntos', esquecer a permutação interna do bloco.",
+    "Permutação circular: usar n! em vez de (n−1)!."
+   ],
+   "flashcards": [
+    {
+     "q": "Princípio multiplicativo",
+     "a": "Etapas sucessivas: multiplicam-se as possibilidades"
+    },
+    {
+     "q": "Princípio aditivo",
+     "a": "Alternativas excludentes: somam-se as possibilidades"
+    },
+    {
+     "q": "Fórmula de arranjo",
+     "a": "A(n,p) = n!/(n−p)!"
+    },
+    {
+     "q": "Fórmula de combinação",
+     "a": "C(n,p) = n!/[p!(n−p)!]"
+    },
+    {
+     "q": "Permutação circular de n",
+     "a": "(n−1)!"
+    },
+    {
+     "q": "Anagramas com repetição",
+     "a": "n! dividido pelos fatoriais das repetições"
+    },
+    {
+     "q": "0! vale?",
+     "a": "1"
+    },
+    {
+     "q": "C(8,3)",
+     "a": "56"
+    },
+    {
+     "q": "Quando usar combinação?",
+     "a": "Quando a ordem não importa (comissão, grupo)"
+    },
+    {
+     "q": "Como contar 'pelo menos um'?",
+     "a": "Total − nenhum"
+    },
+    {
+     "q": "Jogos todos contra todos, n times, turno único",
+     "a": "C(n,2)"
+    },
+    {
+     "q": "Pessoas que não ficam juntas",
+     "a": "Total − juntas (bloco)"
+    }
+   ]
+  },
+  {
+   "id": "raciocinio-probabilidade",
+   "titulo": "8. Noções de probabilidade",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Definições\n- **Experimento aleatório:** resultado imprevisível (lançar dado). **Espaço amostral (Ω ou S):** conjunto de todos os resultados possíveis. **Evento:** subconjunto do espaço amostral.\n- **Probabilidade (equiprováveis):** **P(A) = nº de casos favoráveis / nº de casos possíveis**, com 0 ≤ P(A) ≤ 1. Evento certo = 1; impossível = 0.\n\n## Regras\n| Regra | Fórmula |\n|---|---|\n| **Complementar** | P(Aᶜ) = 1 − P(A) |\n| **União** | P(A∪B) = P(A) + P(B) − P(A∩B) |\n| **Mutuamente exclusivos** (A∩B = ∅) | P(A∪B) = P(A) + P(B) |\n| **Condicional** | P(A\\|B) = P(A∩B)/P(B) |\n| **Independentes** | P(A∩B) = P(A)·P(B) |\n| **Sem independência** | P(A∩B) = P(A)·P(B\\|A) |\n**\"E\" multiplica, \"OU\" soma** (com atenção à interseção).\n\n## Independente x mutuamente exclusivo\nMutuamente exclusivos **não** são independentes (se um ocorre, o outro não pode ocorrer) — exceto se algum tiver probabilidade zero. Independência: saber de B não muda a chance de A.\n\n## Com e sem reposição\nCom reposição → eventos independentes (a urna volta ao original). Sem reposição → a segunda retirada depende da primeira (use frações com total diminuindo): P(duas brancas de 4 brancas e 6 pretas) = 4/10 · 3/9 = 2/15.\n\n## Técnicas\n1. Use **análise combinatória** para contar favoráveis e possíveis: P = C(favoráveis)/C(total).\n2. **Pelo menos um** → 1 − P(nenhum).\n3. Probabilidade **binomial** (n tentativas independentes, p de sucesso): P(k sucessos) = C(n,k)·pᵏ·(1−p)ⁿ⁻ᵏ. Ex.: exatamente 2 caras em 3 lançamentos = 3·(1/2)³ = 3/8.\n4. **Condicional por redução do espaço amostral:** \"sabendo que saiu par\" → o novo universo é {2,4,6}.\n\n## Exemplos resolvidos\n- Dois dados, soma 7: 6 casos em 36 → **1/6**.\n- Duas moedas, pelo menos uma cara: 1 − 1/4 = **3/4**.\n- Comissão de 3 entre 6 homens e 4 mulheres, todas mulheres: C(4,3)/C(10,3) = 4/120 = **1/30**.\n- Dado: saiu par; probabilidade de ser maior que 3 = 2/3 (casos {4,6} em {2,4,6}).",
+   "dicas": [
+    "Probabilidade = favoráveis/possíveis, sempre que os casos forem equiprováveis.",
+    "'Pelo menos um' → 1 − P(nenhum): economiza muita conta.",
+    "Condicional: encolha o espaço amostral para o evento dado.",
+    "Sem reposição, o denominador diminui a cada retirada.",
+    "E = multiplica; OU = soma (subtraindo a interseção se não forem exclusivos).",
+    "Simplifique a fração final; as alternativas costumam vir simplificadas."
+   ],
+   "pegadinhas": [
+    "Confundir mutuamente exclusivos com independentes.",
+    "Somar P(A)+P(B) sem subtrair a interseção quando os eventos se sobrepõem.",
+    "Usar o mesmo denominador nas duas retiradas sem reposição.",
+    "Achar que 'moeda deu cara 5 vezes seguidas, a próxima tem mais chance de coroa' (eventos independentes).",
+    "Probabilidade maior que 1 ou negativa: sinal de erro de conta.",
+    "Em dois dados, esquecer que (1,6) e (6,1) são casos distintos."
+   ],
+   "flashcards": [
+    {
+     "q": "Definição clássica de probabilidade",
+     "a": "Casos favoráveis ÷ casos possíveis (equiprováveis)"
+    },
+    {
+     "q": "Probabilidade do complementar",
+     "a": "1 − P(A)"
+    },
+    {
+     "q": "Probabilidade da união",
+     "a": "P(A)+P(B)−P(A∩B)"
+    },
+    {
+     "q": "Eventos independentes: interseção",
+     "a": "P(A)·P(B)"
+    },
+    {
+     "q": "Probabilidade condicional",
+     "a": "P(A|B) = P(A∩B)/P(B)"
+    },
+    {
+     "q": "Mutuamente exclusivos são independentes?",
+     "a": "Não (salvo probabilidade zero)"
+    },
+    {
+     "q": "P(soma 7) em dois dados",
+     "a": "1/6"
+    },
+    {
+     "q": "Espaço amostral de dois dados: tamanho",
+     "a": "36"
+    },
+    {
+     "q": "'Pelo menos um' em probabilidade",
+     "a": "1 − P(nenhum)"
+    },
+    {
+     "q": "Binomial: P(k sucessos)",
+     "a": "C(n,k)·pᵏ·(1−p)ⁿ⁻ᵏ"
+    },
+    {
+     "q": "Probabilidade do evento certo",
+     "a": "1"
+    },
+    {
+     "q": "Sem reposição: as retiradas são?",
+     "a": "Dependentes"
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "raciocinio-conjuntos-q01",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 1,
+   "enunciado": "Em um grupo de 80 pessoas, 45 falam inglês, 35 falam espanhol e 15 falam os dois idiomas. Quantas pessoas do grupo não falam nenhum dos dois idiomas?",
+   "alternativas": {
+    "A": "5",
+    "B": "15",
+    "C": "10",
+    "D": "20"
+   },
+   "gabarito": "B",
+   "explicacao": "União = 45 + 35 − 15 = 65; 80 − 65 = 15. As demais ignoram a subtração da interseção ou erram a conta."
+  },
+  {
+   "id": "raciocinio-conjuntos-q02",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 1,
+   "enunciado": "Sabe-se que n(A) = 30, n(B) = 20 e n(A ∪ B) = 42. O valor de n(A ∩ B) é:",
+   "alternativas": {
+    "A": "12",
+    "B": "10",
+    "C": "6",
+    "D": "8"
+   },
+   "gabarito": "D",
+   "explicacao": "n(A∩B) = n(A) + n(B) − n(A∪B) = 50 − 42 = 8. Os demais valores não satisfazem a fórmula."
+  },
+  {
+   "id": "raciocinio-conjuntos-q03",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 2,
+   "enunciado": "Em dois conjuntos A e B tem-se n(A) = 25, n(B) = 18 e n(A ∩ B) = 9. Quantos elementos pertencem a exatamente um dos dois conjuntos?",
+   "alternativas": {
+    "A": "25",
+    "B": "34",
+    "C": "43",
+    "D": "16"
+   },
+   "gabarito": "A",
+   "explicacao": "Só A = 16; só B = 9; exatamente um = 25. 34 é a união; 43 é a soma simples; 16 é só A."
+  },
+  {
+   "id": "raciocinio-conjuntos-q04",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 1,
+   "enunciado": "O número de subconjuntos de um conjunto com 5 elementos é:",
+   "alternativas": {
+    "A": "25",
+    "B": "31",
+    "C": "32",
+    "D": "10"
+   },
+   "gabarito": "C",
+   "explicacao": "2⁵ = 32 (inclui o vazio e o próprio conjunto). 31 seria o número de subconjuntos não vazios; 25 e 10 não correspondem à fórmula."
+  },
+  {
+   "id": "raciocinio-conjuntos-q05",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 3,
+   "enunciado": "Em uma escola de 200 alunos, 90 estudam Matemática, 80 Português e 70 História. Estudam Matemática e Português 30; Matemática e História 25; Português e História 20; os três, 10. Quantos alunos não estudam nenhuma das três disciplinas?",
+   "alternativas": {
+    "A": "35",
+    "B": "15",
+    "C": "25",
+    "D": "45"
+   },
+   "gabarito": "C",
+   "explicacao": "União = 240 − 75 + 10 = 175; 200 − 175 = 25. As demais esquecem de somar a interseção tripla ou de subtrair os pares."
+  },
+  {
+   "id": "raciocinio-conjuntos-q06",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 3,
+   "enunciado": "Considerando os dados da escola da questão anterior (200 alunos; Mat 90, Port 80, Hist 70; Mat∩Port 30, Mat∩Hist 25, Port∩Hist 20; os três 10), quantos alunos estudam apenas Matemática?",
+   "alternativas": {
+    "A": "45",
+    "B": "35",
+    "C": "55",
+    "D": "60"
+   },
+   "gabarito": "A",
+   "explicacao": "Só Mat = 90 − 30 − 25 + 10 = 45. 60 = 90 − 30 (esquece a Hist); as demais erram o ajuste da interseção tripla."
+  },
+  {
+   "id": "raciocinio-conjuntos-q07",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre conjuntos.",
+   "alternativas": {
+    "A": "A − B é formado pelos elementos de A que não pertencem a B.",
+    "B": "A ∩ B ⊂ A ∪ B, quaisquer que sejam A e B.",
+    "C": "O conjunto vazio é subconjunto de qualquer conjunto.",
+    "D": "Se A ⊂ B, então A ∪ B = A."
+   },
+   "gabarito": "D",
+   "explicacao": "Se A ⊂ B, A ∪ B = B (e A ∩ B = A); logo a primeira é a incorreta. As demais são definições/propriedades corretas."
+  },
+  {
+   "id": "raciocinio-conjuntos-q08",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 2,
+   "enunciado": "Em uma pesquisa com 70 pessoas, 40 gostam de café, 30 gostam de chá e 12 não gostam de nenhuma das duas bebidas. Quantas pessoas gostam apenas de chá?",
+   "alternativas": {
+    "A": "12",
+    "B": "18",
+    "C": "20",
+    "D": "28"
+   },
+   "gabarito": "B",
+   "explicacao": "Gostam de ao menos uma: 58. Ambas = 40 + 30 − 58 = 12. Apenas chá = 30 − 12 = 18. 12 é a interseção; 28 é só café."
+  },
+  {
+   "id": "raciocinio-conjuntos-q09",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 2,
+   "enunciado": "Sejam A = {1,2,3,4}, B = {3,4,5} e C = {4,5,6}. O número de elementos do conjunto (A − B) ∪ (B ∩ C) é:",
+   "alternativas": {
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6"
+   },
+   "gabarito": "B",
+   "explicacao": "A − B = {1,2}; B ∩ C = {4,5}; união = {1,2,4,5}, com 4 elementos."
+  },
+  {
+   "id": "raciocinio-conjuntos-q10",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 2,
+   "enunciado": "Num universo de 50 elementos, n(A) = 32, n(B) = 28 e n(A ∩ B) = 15. O número de elementos que pertencem a B e não pertencem a A é:",
+   "alternativas": {
+    "A": "17",
+    "B": "15",
+    "C": "3",
+    "D": "13"
+   },
+   "gabarito": "D",
+   "explicacao": "n(B − A) = 28 − 15 = 13. 17 é n(A − B); 15 é a interseção."
+  },
+  {
+   "id": "raciocinio-conjuntos-q11",
+   "topico": "raciocinio-conjuntos",
+   "dificuldade": 3,
+   "enunciado": "Numa turma de 60 alunos, 35 praticam futebol, 28 vôlei e 20 natação. Praticam futebol e vôlei 12; futebol e natação 8; vôlei e natação 10; e os três esportes, 5. Quantos alunos não praticam nenhum desses esportes?",
+   "alternativas": {
+    "A": "2",
+    "B": "0",
+    "C": "5",
+    "D": "7"
+   },
+   "gabarito": "A",
+   "explicacao": "União = 83 − 30 + 5 = 58; 60 − 58 = 2."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q01",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 1,
+   "enunciado": "O valor da expressão 2/3 + 3/4 − 1/6 é:",
+   "alternativas": {
+    "A": "4/5",
+    "B": "3/2",
+    "C": "5/4",
+    "D": "7/6"
+   },
+   "gabarito": "C",
+   "explicacao": "MMC 12: 8/12 + 9/12 − 2/12 = 15/12 = 5/4."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q02",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "A fração geratriz da dízima periódica 0,1222... é:",
+   "alternativas": {
+    "A": "11/99",
+    "B": "122/900",
+    "C": "11/90",
+    "D": "1/8"
+   },
+   "gabarito": "C",
+   "explicacao": "(12 − 1)/90 = 11/90: numerador = número completo menos parte que não repete; denominador = 9 (um algarismo no período) seguido de 0 (um algarismo antes do período)."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q03",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 1,
+   "enunciado": "Um produto sofreu aumento de 20% e, em seguida, desconto de 20%. Em relação ao preço original, o preço final:",
+   "alternativas": {
+    "A": "diminuiu 4%",
+    "B": "não se alterou",
+    "C": "aumentou 4%",
+    "D": "diminuiu 2%"
+   },
+   "gabarito": "A",
+   "explicacao": "1,20 × 0,80 = 0,96, queda de 4%. Percentuais sucessivos multiplicam fatores; não se cancelam."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q04",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "Um salário de R$ 2.500,00 recebeu reajuste de 8% e, mais tarde, de 5%. O salário final é de:",
+   "alternativas": {
+    "A": "R$ 2.825,00",
+    "B": "R$ 2.800,00",
+    "C": "R$ 2.860,00",
+    "D": "R$ 2.835,00"
+   },
+   "gabarito": "D",
+   "explicacao": "2500 × 1,08 = 2700; 2700 × 1,05 = 2835. 2825 resulta da soma 8% + 5% = 13% (erro)."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q05",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "Após receber desconto de 15%, um produto passou a custar R$ 170,00. O preço original era de:",
+   "alternativas": {
+    "A": "R$ 195,50",
+    "B": "R$ 200,00",
+    "C": "R$ 185,00",
+    "D": "R$ 215,00"
+   },
+   "gabarito": "B",
+   "explicacao": "Original = 170 / 0,85 = 200. 195,50 vem de 170 × 1,15 (erro comum)."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q06",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "Em uma prova com 40 questões, João acertou 70% e Maria acertou 32 questões. Em pontos percentuais, o percentual de acertos de Maria foi superior ao de João em:",
+   "alternativas": {
+    "A": "4 pontos percentuais",
+    "B": "10 pontos percentuais",
+    "C": "8 pontos percentuais",
+    "D": "14,3 pontos percentuais"
+   },
+   "gabarito": "B",
+   "explicacao": "Maria: 32/40 = 80%. 80% − 70% = 10 p.p. (14,3% seria o aumento relativo; 4 é a diferença de questões)."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q07",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "O valor de (0,2)² + √0,25 é:",
+   "alternativas": {
+    "A": "0,29",
+    "B": "0,70",
+    "C": "0,45",
+    "D": "0,54"
+   },
+   "gabarito": "D",
+   "explicacao": "0,04 + 0,5 = 0,54. 0,29 usa 0,25 como raiz; 0,70 usa 0,2 em vez de 0,2²."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q08",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 1,
+   "enunciado": "Dois sinais luminosos piscam, respectivamente, a cada 12 s e a cada 18 s. Se acabaram de piscar juntos, o próximo instante em que piscarão juntos ocorre em:",
+   "alternativas": {
+    "A": "36 segundos",
+    "B": "6 segundos",
+    "C": "72 segundos",
+    "D": "30 segundos"
+   },
+   "gabarito": "A",
+   "explicacao": "MMC(12,18) = 36. 6 é o MDC; 72 é múltiplo, mas não o menor."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q09",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 1,
+   "enunciado": "Duas fitas medem 48 cm e 72 cm e serão cortadas em pedaços iguais, de maior tamanho possível, sem sobras. O comprimento de cada pedaço será de:",
+   "alternativas": {
+    "A": "12 cm",
+    "B": "36 cm",
+    "C": "24 cm",
+    "D": "144 cm"
+   },
+   "gabarito": "C",
+   "explicacao": "MDC(48,72) = 24. 12 divide ambos mas não é o maior; 36 não divide 48; 144 é o MMC."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q10",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "O valor de 35% de 20% de 400 é:",
+   "alternativas": {
+    "A": "56",
+    "B": "140",
+    "C": "28",
+    "D": "220"
+   },
+   "gabarito": "C",
+   "explicacao": "20% de 400 = 80; 35% de 80 = 28. 56 e 140 usam percentuais isolados; 220 é 55% de 400."
+  },
+  {
+   "id": "raciocinio-numerico-reais-q11",
+   "topico": "raciocinio-numerico-reais",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "A raiz quadrada de 2 é um número racional.",
+    "B": "Todo número inteiro é um número racional.",
+    "C": "Toda dízima periódica é um número racional.",
+    "D": "A dízima 0,999... é igual a 1."
+   },
+   "gabarito": "A",
+   "explicacao": "√2 é irracional; as demais são verdadeiras (inteiro n = n/1; dízimas periódicas têm geratriz; 0,999... = 9/9 = 1)."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q01",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 1,
+   "enunciado": "Uma quantia de R$ 1.200,00 será dividida em partes diretamente proporcionais a 2, 3 e 7. A maior parte será de:",
+   "alternativas": {
+    "A": "R$ 600,00",
+    "B": "R$ 500,00",
+    "C": "R$ 400,00",
+    "D": "R$ 700,00"
+   },
+   "gabarito": "D",
+   "explicacao": "Soma = 12; cada parte vale 100; maior = 7 × 100 = 700."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q02",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 1,
+   "enunciado": "Seis operários constroem um muro em 15 dias. Mantido o ritmo de cada um, nove operários constroem o mesmo muro em:",
+   "alternativas": {
+    "A": "22,5 dias",
+    "B": "10 dias",
+    "C": "9 dias",
+    "D": "12 dias"
+   },
+   "gabarito": "B",
+   "explicacao": "Inversa: 6 × 15 = 9 × x, x = 10. 22,5 trataria como direta."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q03",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 3,
+   "enunciado": "Quatro máquinas, trabalhando 6 horas por dia durante 5 dias, produzem 1.200 peças. Seis máquinas iguais, trabalhando 8 horas por dia durante 10 dias, produzirão:",
+   "alternativas": {
+    "A": "3.600 peças",
+    "B": "4.800 peças",
+    "C": "2.400 peças",
+    "D": "5.400 peças"
+   },
+   "gabarito": "B",
+   "explicacao": "Rendimento = 1200/(4·6·5) = 10 peças por máquina-hora; 6·8·10·10 = 4800."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q04",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 1,
+   "enunciado": "Em uma turma, a razão entre o número de homens e o de mulheres é 3 para 5. Se há 48 alunos, o número de homens é:",
+   "alternativas": {
+    "A": "20",
+    "B": "24",
+    "C": "30",
+    "D": "18"
+   },
+   "gabarito": "D",
+   "explicacao": "Partes: 3 + 5 = 8; cada parte = 6; homens = 18. 30 é o número de mulheres."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q05",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 1,
+   "enunciado": "Em um mapa de escala 1:50.000, dois pontos distam 4 cm. A distância real entre eles é de:",
+   "alternativas": {
+    "A": "2 km",
+    "B": "20 km",
+    "C": "0,2 km",
+    "D": "8 km"
+   },
+   "gabarito": "A",
+   "explicacao": "4 × 50.000 = 200.000 cm = 2.000 m = 2 km."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q06",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 2,
+   "enunciado": "Na sequência 2, 5, 11, 23, 47, ... o próximo termo é:",
+   "alternativas": {
+    "A": "94",
+    "B": "91",
+    "C": "95",
+    "D": "99"
+   },
+   "gabarito": "C",
+   "explicacao": "Cada termo é o anterior × 2 + 1: 47 × 2 + 1 = 95."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q07",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 2,
+   "enunciado": "O 20º termo da progressão aritmética 7, 12, 17, 22, ... é:",
+   "alternativas": {
+    "A": "107",
+    "B": "97",
+    "C": "102",
+    "D": "100"
+   },
+   "gabarito": "C",
+   "explicacao": "a₂₀ = 7 + 19·5 = 102. 107 usaria n = 20 em vez de n − 1."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q08",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 2,
+   "enunciado": "A soma de todos os múltiplos positivos de 3 menores que 100 é:",
+   "alternativas": {
+    "A": "1.683",
+    "B": "1.650",
+    "C": "1.700",
+    "D": "1.584"
+   },
+   "gabarito": "A",
+   "explicacao": "3, 6, ..., 99: 33 termos; S = (3 + 99)·33/2 = 1683."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q09",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 3,
+   "enunciado": "O valor de R$ 840,00 será repartido entre duas pessoas em partes inversamente proporcionais a 2 e 3. Quem corresponde ao número 2 recebe:",
+   "alternativas": {
+    "A": "R$ 336,00",
+    "B": "R$ 420,00",
+    "C": "R$ 560,00",
+    "D": "R$ 504,00"
+   },
+   "gabarito": "D",
+   "explicacao": "1/2 : 1/3 = 3 : 2; total 5 partes de 168; quem é 2 recebe 3 partes = 504. 336 seria a divisão direta."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q10",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 1,
+   "enunciado": "Um carro a 90 km/h percorre certo trajeto em 4 horas. Mantendo velocidade constante de 120 km/h, o tempo gasto será de:",
+   "alternativas": {
+    "A": "3,5 horas",
+    "B": "3 horas",
+    "C": "2,5 horas",
+    "D": "5 horas"
+   },
+   "gabarito": "B",
+   "explicacao": "Distância = 360 km; 360/120 = 3 h. Velocidade e tempo são inversamente proporcionais."
+  },
+  {
+   "id": "raciocinio-razao-proporcao-q11",
+   "topico": "raciocinio-razao-proporcao",
+   "dificuldade": 3,
+   "enunciado": "Em 30 litros de uma solução, 20% é álcool. A quantidade de álcool puro que deve ser acrescentada para que a solução passe a ter 40% de álcool é de:",
+   "alternativas": {
+    "A": "6 litros",
+    "B": "10 litros",
+    "C": "8 litros",
+    "D": "12 litros"
+   },
+   "gabarito": "B",
+   "explicacao": "Álcool = 6 L. (6 + x)/(30 + x) = 0,4 → 6 + x = 12 + 0,4x → 0,6x = 6 → x = 10."
+  },
+  {
+   "id": "raciocinio-proposicoes-q01",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa que contém uma proposição lógica.",
+   "alternativas": {
+    "A": "Feliz aniversário!",
+    "B": "x + 2 = 5",
+    "C": "Estude bastante para a prova.",
+    "D": "7 é um número primo."
+   },
+   "gabarito": "D",
+   "explicacao": "Proposição é sentença declarativa com valor V ou F. As demais são exclamação, sentença aberta e ordem."
+  },
+  {
+   "id": "raciocinio-proposicoes-q02",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 2,
+   "enunciado": "Sendo p uma proposição verdadeira e q uma proposição falsa, os valores lógicos de (I) p ∧ q, (II) p → q e (III) q → p são, respectivamente:",
+   "alternativas": {
+    "A": "F, F e V",
+    "B": "V, F e V",
+    "C": "F, V e V",
+    "D": "F, F e F"
+   },
+   "gabarito": "A",
+   "explicacao": "p∧q = F; V→F = F; F→V = V."
+  },
+  {
+   "id": "raciocinio-proposicoes-q03",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 1,
+   "enunciado": "A negação da proposição \"Se chove, então o jogo é cancelado\" é:",
+   "alternativas": {
+    "A": "Se não chove, então o jogo não é cancelado.",
+    "B": "Não chove e o jogo é cancelado.",
+    "C": "Chove e o jogo não é cancelado.",
+    "D": "Se o jogo não é cancelado, então não chove."
+   },
+   "gabarito": "C",
+   "explicacao": "~(p→q) ≡ p ∧ ~q. A 2ª é a inversa; a 4ª é a contrapositiva (equivalente, não negação)."
+  },
+  {
+   "id": "raciocinio-proposicoes-q04",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 1,
+   "enunciado": "Uma tabela-verdade construída a partir de uma proposição composta por 4 proposições simples distintas possui:",
+   "alternativas": {
+    "A": "8 linhas",
+    "B": "12 linhas",
+    "C": "16 linhas",
+    "D": "32 linhas"
+   },
+   "gabarito": "C",
+   "explicacao": "2⁴ = 16."
+  },
+  {
+   "id": "raciocinio-proposicoes-q05",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta uma tautologia.",
+   "alternativas": {
+    "A": "(p ∧ q) → p",
+    "B": "p → (p ∧ q)",
+    "C": "p ∧ ~p",
+    "D": "(p ∨ q) → p"
+   },
+   "gabarito": "A",
+   "explicacao": "Se p∧q é V, p é V: sempre V. A 2ª e a 4ª são contingências; a 3ª é contradição."
+  },
+  {
+   "id": "raciocinio-proposicoes-q06",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 2,
+   "enunciado": "Considere a afirmação: \"Se um número é divisível por 6, então é par\". É correto afirmar que:",
+   "alternativas": {
+    "A": "ser par é condição suficiente para ser divisível por 6.",
+    "B": "ser divisível por 6 é condição necessária para ser par.",
+    "C": "ser par é condição necessária e suficiente para ser divisível por 6.",
+    "D": "ser divisível por 6 é condição suficiente para ser par."
+   },
+   "gabarito": "D",
+   "explicacao": "Em p→q, p é suficiente e q é necessária. As demais invertem ou transformam em bicondicional."
+  },
+  {
+   "id": "raciocinio-proposicoes-q07",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 1,
+   "enunciado": "A negação de \"João é médico ou Maria é engenheira\" é:",
+   "alternativas": {
+    "A": "João não é médico ou Maria não é engenheira.",
+    "B": "João não é médico e Maria não é engenheira.",
+    "C": "João é médico e Maria não é engenheira.",
+    "D": "Se João é médico, então Maria é engenheira."
+   },
+   "gabarito": "B",
+   "explicacao": "De Morgan: ~(p ∨ q) ≡ ~p ∧ ~q."
+  },
+  {
+   "id": "raciocinio-proposicoes-q08",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 2,
+   "enunciado": "A proposição \"Ou p ou q\" (disjunção exclusiva) é falsa quando:",
+   "alternativas": {
+    "A": "p é verdadeira e q é falsa.",
+    "B": "p e q têm o mesmo valor lógico.",
+    "C": "p é falsa e q é verdadeira.",
+    "D": "p é verdadeira, independentemente de q."
+   },
+   "gabarito": "B",
+   "explicacao": "A disjunção exclusiva é V quando os valores são diferentes; é F quando iguais (VV ou FF)."
+  },
+  {
+   "id": "raciocinio-proposicoes-q09",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que contém uma proposição verdadeira.",
+   "alternativas": {
+    "A": "Se 5 > 3, então 2 é ímpar.",
+    "B": "5 é par e 3 é primo.",
+    "C": "Ou 4 é par ou 6 é par.",
+    "D": "2 é ímpar se e somente se 3 é par."
+   },
+   "gabarito": "D",
+   "explicacao": "F↔F = V. As demais: V→F = F; F∧V = F; V⊻V = F."
+  },
+  {
+   "id": "raciocinio-proposicoes-q10",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 3,
+   "enunciado": "Na tabela-verdade da proposição (p ∨ q) → r, o número de linhas em que o valor lógico é verdadeiro é:",
+   "alternativas": {
+    "A": "5",
+    "B": "3",
+    "C": "4",
+    "D": "6"
+   },
+   "gabarito": "A",
+   "explicacao": "É falsa apenas quando p∨q = V e r = F: (p,q) ∈ {VV, VF, FV} com r = F, ou seja, 3 linhas; logo 8 − 3 = 5 verdadeiras."
+  },
+  {
+   "id": "raciocinio-proposicoes-q11",
+   "topico": "raciocinio-proposicoes",
+   "dificuldade": 3,
+   "enunciado": "Sabe-se que a proposição (p ∧ ~q) → r é falsa. Então os valores lógicos de p, q e r são, respectivamente:",
+   "alternativas": {
+    "A": "V, V e F",
+    "B": "F, F e F",
+    "C": "V, F e F",
+    "D": "V, F e V"
+   },
+   "gabarito": "C",
+   "explicacao": "Condicional falsa: antecedente V (p = V e ~q = V, logo q = F) e consequente F (r = F)."
+  },
+  {
+   "id": "raciocinio-argumentacao-q01",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 1,
+   "enunciado": "Considere as premissas: \"Todo servidor é estudioso\" e \"Todo estudioso é aprovado\". A conclusão que decorre logicamente dessas premissas é:",
+   "alternativas": {
+    "A": "Todo aprovado é servidor.",
+    "B": "Algum aprovado não é estudioso.",
+    "C": "Todo servidor é aprovado.",
+    "D": "Nenhum servidor é aprovado."
+   },
+   "gabarito": "C",
+   "explicacao": "Silogismo (todo A é B; todo B é C ⊢ todo A é C). As demais não decorrem; a 1ª inverte a relação."
+  },
+  {
+   "id": "raciocinio-argumentacao-q02",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Premissas: \"Se estudo, passo\"; \"Se passo, fico feliz\"; \"Não fico feliz\". A conclusão que torna o argumento válido é:",
+   "alternativas": {
+    "A": "Não estudei.",
+    "B": "Estudei e não passei.",
+    "C": "Passei.",
+    "D": "Estudei."
+   },
+   "gabarito": "A",
+   "explicacao": "Modus tollens encadeado: não feliz → não passei → não estudei. Qualquer outra conclusão contradiz alguma premissa."
+  },
+  {
+   "id": "raciocinio-argumentacao-q03",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale o argumento que constitui uma falácia (argumento inválido).",
+   "alternativas": {
+    "A": "Se chove, a rua molha. Choveu. Logo, a rua molha.",
+    "B": "Se chove, a rua molha. A rua não molhou. Logo, não choveu.",
+    "C": "Se chove, a rua molha. Se a rua molha, o trânsito pára. Logo, se chove, o trânsito pára.",
+    "D": "Se chove, a rua molha. A rua está molhada. Logo, choveu."
+   },
+   "gabarito": "D",
+   "explicacao": "A primeira afirma o consequente (inválida). As outras são modus ponens, modus tollens e silogismo hipotético (válidos)."
+  },
+  {
+   "id": "raciocinio-argumentacao-q04",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Dadas as premissas \"Nenhum A é B\" e \"Algum C é B\", a conclusão válida é:",
+   "alternativas": {
+    "A": "Todo C é B.",
+    "B": "Algum C não é A.",
+    "C": "Algum A é C.",
+    "D": "Nenhum C é A."
+   },
+   "gabarito": "B",
+   "explicacao": "Os C que são B estão fora de A, logo algum C não é A. 'Nenhum C é A' não é garantido: pode haver C que seja A e não B."
+  },
+  {
+   "id": "raciocinio-argumentacao-q05",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Três amigos, Pedro, Quênia e Rui, exercem, não necessariamente nessa ordem, as profissões de médico, advogado e engenheiro. Sabe-se que Pedro não é médico nem engenheiro e que Rui não é médico. Logo, Quênia é:",
+   "alternativas": {
+    "A": "advogada.",
+    "B": "médica.",
+    "C": "engenheira.",
+    "D": "médica ou engenheira, sem como determinar."
+   },
+   "gabarito": "B",
+   "explicacao": "Pedro só pode ser advogado; Rui não é médico, logo é engenheiro; sobra médica para Quênia."
+  },
+  {
+   "id": "raciocinio-argumentacao-q06",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 3,
+   "enunciado": "Pedro diz: \"Eu não quebrei o vaso\". Ana diz: \"Foi o Pedro\". Carlos diz: \"Eu não quebrei o vaso\". Sabe-se que apenas um dos três quebrou o vaso e que apenas um dos três disse a verdade. Quem quebrou o vaso foi:",
+   "alternativas": {
+    "A": "Pedro.",
+    "B": "Ana.",
+    "C": "Não é possível determinar.",
+    "D": "Carlos."
+   },
+   "gabarito": "D",
+   "explicacao": "Se foi Pedro, Ana e Carlos falam a verdade (2). Se foi Ana, Pedro e Carlos falam a verdade (2). Se foi Carlos, só Pedro fala a verdade (1). Só essa hipótese serve."
+  },
+  {
+   "id": "raciocinio-argumentacao-q07",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Premissas: \"Alguns médicos são professores\" e \"Todo professor é pesquisador\". A conclusão válida é:",
+   "alternativas": {
+    "A": "Alguns médicos são pesquisadores.",
+    "B": "Todo médico é pesquisador.",
+    "C": "Todo pesquisador é professor.",
+    "D": "Nenhum médico é pesquisador."
+   },
+   "gabarito": "A",
+   "explicacao": "Os médicos que são professores são pesquisadores. 'Todo médico' extrapola; as demais contradizem ou invertem."
+  },
+  {
+   "id": "raciocinio-argumentacao-q08",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que a conclusão NÃO decorre logicamente das premissas.",
+   "alternativas": {
+    "A": "Premissas: Todo A é B; nenhum B é C. Conclusão: Nenhum A é C.",
+    "B": "Premissas: Algum A é B; todo B é C. Conclusão: Algum A é C.",
+    "C": "Premissas: Todos os cães são mamíferos; alguns mamíferos são aquáticos. Conclusão: Alguns cães são aquáticos.",
+    "D": "Premissas: Se p então q; não q. Conclusão: não p."
+   },
+   "gabarito": "C",
+   "explicacao": "Os mamíferos aquáticos podem não ser cães: inválido. As demais são formas válidas."
+  },
+  {
+   "id": "raciocinio-argumentacao-q09",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 1,
+   "enunciado": "Um argumento é considerado válido quando:",
+   "alternativas": {
+    "A": "a conclusão é verdadeira.",
+    "B": "todas as premissas são verdadeiras.",
+    "C": "não é possível que todas as premissas sejam verdadeiras e a conclusão seja falsa.",
+    "D": "as premissas e a conclusão são verdadeiras no mundo real."
+   },
+   "gabarito": "C",
+   "explicacao": "Validade refere-se à forma lógica. Argumento válido pode ter premissa falsa; conclusão verdadeira não garante validade."
+  },
+  {
+   "id": "raciocinio-argumentacao-q10",
+   "topico": "raciocinio-argumentacao",
+   "dificuldade": 2,
+   "enunciado": "Premissas: \"O contrato é rescindido ou a multa é paga\" e \"A multa não foi paga\". Conclusão válida:",
+   "alternativas": {
+    "A": "O contrato foi rescindido.",
+    "B": "O contrato não foi rescindido.",
+    "C": "A multa foi paga.",
+    "D": "O contrato foi rescindido e a multa foi paga."
+   },
+   "gabarito": "A",
+   "explicacao": "Silogismo disjuntivo: p ∨ q; ~q ⊢ p. As demais contradem as premissas ou excedem o que se pode afirmar."
+  },
+  {
+   "id": "raciocinio-equivalencias-q01",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 1,
+   "enunciado": "Uma proposição logicamente equivalente a \"Se estudo, então passo\" é:",
+   "alternativas": {
+    "A": "Se passo, então estudo.",
+    "B": "Se não estudo, então não passo.",
+    "C": "Estudo e não passo.",
+    "D": "Se não passo, então não estudo."
+   },
+   "gabarito": "D",
+   "explicacao": "Contrapositiva: ~q → ~p. A 1ª é a recíproca, a 2ª é a inversa e a 4ª é a negação."
+  },
+  {
+   "id": "raciocinio-equivalencias-q02",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 1,
+   "enunciado": "A negação de \"Se o preço sobe, a demanda cai\" é:",
+   "alternativas": {
+    "A": "O preço não sobe e a demanda cai.",
+    "B": "O preço sobe e a demanda não cai.",
+    "C": "Se o preço não sobe, a demanda não cai.",
+    "D": "O preço sobe ou a demanda não cai."
+   },
+   "gabarito": "B",
+   "explicacao": "~(p→q) ≡ p ∧ ~q. A última usa OU (erro de De Morgan misturado)."
+  },
+  {
+   "id": "raciocinio-equivalencias-q03",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 2,
+   "enunciado": "A negação de \"Ana é gaúcha e Bruno é paulista\" é:",
+   "alternativas": {
+    "A": "Ana não é gaúcha e Bruno não é paulista.",
+    "B": "Ana não é gaúcha ou Bruno não é paulista.",
+    "C": "Ana é gaúcha ou Bruno não é paulista.",
+    "D": "Se Ana é gaúcha, então Bruno é paulista."
+   },
+   "gabarito": "B",
+   "explicacao": "De Morgan: ~(p∧q) ≡ ~p ∨ ~q. A 1ª manteria o E (erro comum)."
+  },
+  {
+   "id": "raciocinio-equivalencias-q04",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 1,
+   "enunciado": "\"Se o candidato é aprovado, então é nomeado\" é logicamente equivalente a:",
+   "alternativas": {
+    "A": "O candidato é aprovado ou não é nomeado.",
+    "B": "O candidato é nomeado e não é aprovado.",
+    "C": "Se o candidato é nomeado, então é aprovado.",
+    "D": "O candidato não é aprovado ou é nomeado."
+   },
+   "gabarito": "D",
+   "explicacao": "p→q ≡ ~p ∨ q. A 1ª é a negação trocada; a 3ª não equivale; a 4ª é a recíproca."
+  },
+  {
+   "id": "raciocinio-equivalencias-q05",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "p → q é logicamente equivalente a q → p.",
+    "B": "p → q é logicamente equivalente a ~q → ~p.",
+    "C": "~(p ∨ q) é logicamente equivalente a ~p ∧ ~q.",
+    "D": "p ↔ q é logicamente equivalente a (p → q) ∧ (q → p)."
+   },
+   "gabarito": "A",
+   "explicacao": "A recíproca não é equivalente à condicional (basta p=F, q=V). As demais são equivalências corretas."
+  },
+  {
+   "id": "raciocinio-equivalencias-q06",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 3,
+   "enunciado": "A negação da proposição \"Maria vai ao cinema se e somente se João vai\" é:",
+   "alternativas": {
+    "A": "Maria não vai ao cinema se e somente se João não vai.",
+    "B": "Se Maria vai ao cinema, então João vai.",
+    "C": "Ou Maria vai ao cinema ou João vai (mas não ambos).",
+    "D": "Maria não vai ao cinema e João não vai."
+   },
+   "gabarito": "C",
+   "explicacao": "~(p↔q) ≡ p ⊻ q. A 1ª é equivalente à original; as demais não são negação."
+  },
+  {
+   "id": "raciocinio-equivalencias-q07",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 2,
+   "enunciado": "A proposição \"Maria é médica ou João é advogado\" é logicamente equivalente a:",
+   "alternativas": {
+    "A": "Se Maria é médica, então João é advogado.",
+    "B": "Se Maria não é médica, então João não é advogado.",
+    "C": "Se Maria não é médica, então João é advogado.",
+    "D": "Maria não é médica e João é advogado."
+   },
+   "gabarito": "C",
+   "explicacao": "p ∨ q ≡ ~p → q. A 1ª e a 3ª não preservam a tabela; a 4ª é conjunção, mais forte."
+  },
+  {
+   "id": "raciocinio-equivalencias-q08",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 3,
+   "enunciado": "Assinale a implicação lógica (A ⇒ B) correta.",
+   "alternativas": {
+    "A": "(p ∧ q) ⇒ (p ∨ q)",
+    "B": "(p ∨ q) ⇒ (p ∧ q)",
+    "C": "q ⇒ (p ∧ q)",
+    "D": "(p → q) ⇒ (q → p)"
+   },
+   "gabarito": "A",
+   "explicacao": "Se p∧q é V, p∨q é V: tautologia. As demais admitem contraexemplo (p=V,q=F etc.)."
+  },
+  {
+   "id": "raciocinio-equivalencias-q09",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 3,
+   "enunciado": "\"Se chove, então, se faz frio, fico em casa\" é logicamente equivalente a:",
+   "alternativas": {
+    "A": "Se chove ou faz frio, fico em casa.",
+    "B": "Se chove, faz frio e fico em casa.",
+    "C": "Se faz frio, então chove e fico em casa.",
+    "D": "Se chove e faz frio, fico em casa."
+   },
+   "gabarito": "D",
+   "explicacao": "p → (q → r) ≡ (p ∧ q) → r (exportação). As demais alteram os conectivos."
+  },
+  {
+   "id": "raciocinio-equivalencias-q10",
+   "topico": "raciocinio-equivalencias",
+   "dificuldade": 2,
+   "enunciado": "A negação de \"Nem Ana nem Bia foram aprovadas\" é:",
+   "alternativas": {
+    "A": "Ana e Bia foram aprovadas.",
+    "B": "Ana ou Bia foi aprovada.",
+    "C": "Ana foi aprovada e Bia não foi.",
+    "D": "Nem Ana nem Bia foram reprovadas."
+   },
+   "gabarito": "B",
+   "explicacao": "\"Nem Ana nem Bia\" = ~a ∧ ~b; negação = a ∨ b (ao menos uma aprovada)."
+  },
+  {
+   "id": "raciocinio-quantificadores-q01",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 1,
+   "enunciado": "A negação de \"Todo auditor é pontual\" é:",
+   "alternativas": {
+    "A": "Nenhum auditor é pontual.",
+    "B": "Algum auditor não é pontual.",
+    "C": "Algum auditor é pontual.",
+    "D": "Todo auditor não é pontual."
+   },
+   "gabarito": "B",
+   "explicacao": "Negação de 'todo' = 'algum não'. 'Nenhum' é contrária, não negação."
+  },
+  {
+   "id": "raciocinio-quantificadores-q02",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 1,
+   "enunciado": "A negação de \"Existe servidor que não faltou\" é:",
+   "alternativas": {
+    "A": "Nenhum servidor faltou.",
+    "B": "Todo servidor não faltou.",
+    "C": "Algum servidor faltou.",
+    "D": "Todo servidor faltou."
+   },
+   "gabarito": "D",
+   "explicacao": "~(∃x ~P) ≡ ∀x P: todos faltaram."
+  },
+  {
+   "id": "raciocinio-quantificadores-q03",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 1,
+   "enunciado": "A negação de \"Nenhum aluno foi reprovado\" é:",
+   "alternativas": {
+    "A": "Algum aluno foi reprovado.",
+    "B": "Todo aluno foi reprovado.",
+    "C": "Algum aluno não foi reprovado.",
+    "D": "Todo aluno foi aprovado."
+   },
+   "gabarito": "A",
+   "explicacao": "Nenhum A é B ⇒ negação: algum A é B."
+  },
+  {
+   "id": "raciocinio-quantificadores-q04",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 2,
+   "enunciado": "A negação de \"Alguns processos estão prescritos\" é:",
+   "alternativas": {
+    "A": "Alguns processos não estão prescritos.",
+    "B": "Todo processo está prescrito.",
+    "C": "Nenhum processo está prescrito.",
+    "D": "Todos os processos não estão prescritos, exceto um."
+   },
+   "gabarito": "C",
+   "explicacao": "~(∃x P) ≡ ∀x ~P (nenhum). A 1ª pode ser V junto com a original; a 2ª não é negação."
+  },
+  {
+   "id": "raciocinio-quantificadores-q05",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "A negação de \"Todo A é B\" é \"Algum A não é B\".",
+    "B": "\"Algum A é B\" e \"Algum A não é B\" podem ser ambas verdadeiras.",
+    "C": "\"Todo A é B\" é a negação de \"Nenhum A é B\".",
+    "D": "A negação de \"Existe x tal que P(x)\" é \"Para todo x, não P(x)\"."
+   },
+   "gabarito": "C",
+   "explicacao": "'Todo' e 'nenhum' são contrárias (ambas podem ser falsas); não são negação. As demais estão corretas."
+  },
+  {
+   "id": "raciocinio-quantificadores-q06",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 1,
+   "enunciado": "Para demonstrar que a afirmação \"Todo número primo é ímpar\" é falsa, basta:",
+   "alternativas": {
+    "A": "apresentar um contraexemplo, como o número 2.",
+    "B": "apresentar um exemplo de primo ímpar.",
+    "C": "provar que há mais primos pares do que ímpares.",
+    "D": "verificar que o número 1 é primo."
+   },
+   "gabarito": "A",
+   "explicacao": "Uma única exceção refuta a generalização; 2 é primo e par. Exemplos favoráveis não provam nem refutam um 'todo'."
+  },
+  {
+   "id": "raciocinio-quantificadores-q07",
+   "topico": "raciocinio-quantificadores",
+   "dificuldade": 3,
+   "enunciado": "A negação da afirmação \"Todo número real x satisfaz x > 3 ou x < −3\" é:",
+   "alternativas": {
+    "A": "Todo número real x satisfaz −3 ≤ x ≤ 3.",
+    "B": "Existe número real x tal que x ≤ 3 ou x ≥ −3.",
+    "C": "Nenhum número real x satisfaz x > 3 ou x < −3, exceto o zero.",
+    "D": "Existe número real x tal que −3 ≤ x ≤ 3."
+   },
+   "gabarito": "D",
+   "explicacao": "∃x (~(x>3) ∧ ~(x<−3)) = ∃x (x ≤ 3 ∧ x ≥ −3). As demais erram o quantificador ou o conectivo."
+  },
+  {
+   "id": "raciocinio-contagem-q01",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 1,
+   "enunciado": "Uma pessoa possui 4 camisas, 3 calças e 2 pares de sapatos. O número de maneiras diferentes de se vestir usando uma camisa, uma calça e um par de sapatos é:",
+   "alternativas": {
+    "A": "9",
+    "B": "24",
+    "C": "12",
+    "D": "18"
+   },
+   "gabarito": "B",
+   "explicacao": "4 × 3 × 2 = 24 (princípio multiplicativo)."
+  },
+  {
+   "id": "raciocinio-contagem-q02",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 1,
+   "enunciado": "O número de senhas de 3 dígitos distintos, formadas com os algarismos de 0 a 9, é:",
+   "alternativas": {
+    "A": "1.000",
+    "B": "720",
+    "C": "504",
+    "D": "729"
+   },
+   "gabarito": "B",
+   "explicacao": "10 × 9 × 8 = 720. 1.000 permite repetição; 504 é 9×8×7 (proíbe zero inicial)."
+  },
+  {
+   "id": "raciocinio-contagem-q03",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 2,
+   "enunciado": "O número de anagramas da palavra CARUARU é:",
+   "alternativas": {
+    "A": "5.040",
+    "B": "1.260",
+    "C": "315",
+    "D": "630"
+   },
+   "gabarito": "D",
+   "explicacao": "7!/(2!·2!·2!) = 5040/8 = 630 (A, R e U aparecem duas vezes)."
+  },
+  {
+   "id": "raciocinio-contagem-q04",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 1,
+   "enunciado": "De quantas maneiras é possível formar uma comissão de 3 pessoas escolhidas entre 8 candidatos?",
+   "alternativas": {
+    "A": "56",
+    "B": "336",
+    "C": "24",
+    "D": "512"
+   },
+   "gabarito": "A",
+   "explicacao": "C(8,3) = 56 (ordem não importa). 336 = A(8,3)."
+  },
+  {
+   "id": "raciocinio-contagem-q05",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 2,
+   "enunciado": "Uma comissão será formada por 2 homens e 3 mulheres, escolhidos entre 6 homens e 5 mulheres. O número de comissões possíveis é:",
+   "alternativas": {
+    "A": "300",
+    "B": "25",
+    "C": "150",
+    "D": "1.800"
+   },
+   "gabarito": "C",
+   "explicacao": "C(6,2)·C(5,3) = 15·10 = 150."
+  },
+  {
+   "id": "raciocinio-contagem-q06",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 1,
+   "enunciado": "O número de maneiras de 6 pessoas sentarem-se ao redor de uma mesa circular, considerando que só a posição relativa importa, é:",
+   "alternativas": {
+    "A": "720",
+    "B": "24",
+    "C": "120",
+    "D": "60"
+   },
+   "gabarito": "C",
+   "explicacao": "Permutação circular: (6−1)! = 120."
+  },
+  {
+   "id": "raciocinio-contagem-q07",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 2,
+   "enunciado": "O número de anagramas da palavra FISCAL que começam por vogal é:",
+   "alternativas": {
+    "A": "240",
+    "B": "120",
+    "C": "360",
+    "D": "720"
+   },
+   "gabarito": "A",
+   "explicacao": "2 vogais (I, A) × 5! = 2 × 120 = 240."
+  },
+  {
+   "id": "raciocinio-contagem-q08",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 3,
+   "enunciado": "A quantidade de números pares de três algarismos distintos que podem ser formados com os algarismos de 0 a 9 é:",
+   "alternativas": {
+    "A": "360",
+    "B": "320",
+    "C": "405",
+    "D": "328"
+   },
+   "gabarito": "D",
+   "explicacao": "Termina em 0: 9·8 = 72. Termina em 2,4,6,8 (4 opções): centena não nula e ≠ unidade (8 opções) e dezena (8 opções): 4·8·8 = 256. Total 328."
+  },
+  {
+   "id": "raciocinio-contagem-q09",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 1,
+   "enunciado": "Um setor tem 12 servidores, outro tem 8 e um terceiro tem 5. Para escolher um único representante entre todos, de um setor qualquer, existem:",
+   "alternativas": {
+    "A": "480 possibilidades",
+    "B": "25 possibilidades",
+    "C": "60 possibilidades",
+    "D": "13 possibilidades"
+   },
+   "gabarito": "B",
+   "explicacao": "Princípio aditivo: 12 + 8 + 5 = 25."
+  },
+  {
+   "id": "raciocinio-contagem-q10",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 2,
+   "enunciado": "Cinco pessoas, entre elas Ana e Bia, serão colocadas em fila. O número de filas em que Ana e Bia ficam sempre juntas é:",
+   "alternativas": {
+    "A": "24",
+    "B": "48",
+    "C": "96",
+    "D": "120"
+   },
+   "gabarito": "B",
+   "explicacao": "Bloco (Ana,Bia): 4! × 2! = 48."
+  },
+  {
+   "id": "raciocinio-contagem-q11",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 1,
+   "enunciado": "Em um campeonato com 10 times, em que todos jogam contra todos uma única vez, o número de jogos é:",
+   "alternativas": {
+    "A": "90",
+    "B": "100",
+    "C": "55",
+    "D": "45"
+   },
+   "gabarito": "D",
+   "explicacao": "C(10,2) = 45. 90 conta ida e volta."
+  },
+  {
+   "id": "raciocinio-contagem-q12",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 2,
+   "enunciado": "Uma placa de veículo é formada por 3 letras (26 letras disponíveis) seguidas de 4 algarismos, podendo haver repetição. O número de placas distintas é:",
+   "alternativas": {
+    "A": "175.760.000",
+    "B": "67.600.000",
+    "C": "78.624.000",
+    "D": "17.576.000"
+   },
+   "gabarito": "A",
+   "explicacao": "26³ · 10⁴ = 17.576 × 10.000 = 175.760.000."
+  },
+  {
+   "id": "raciocinio-contagem-q13",
+   "topico": "raciocinio-contagem",
+   "dificuldade": 3,
+   "enunciado": "O número de maneiras de colocar 7 pessoas em fila, de modo que duas delas, Marcos e Lúcia, NÃO fiquem juntas, é:",
+   "alternativas": {
+    "A": "5.040",
+    "B": "1.440",
+    "C": "3.600",
+    "D": "720"
+   },
+   "gabarito": "C",
+   "explicacao": "Total 7! = 5040; juntas: 6!·2 = 1440; 5040 − 1440 = 3600."
+  },
+  {
+   "id": "raciocinio-probabilidade-q01",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 1,
+   "enunciado": "Lançando-se um dado comum de 6 faces, a probabilidade de obter um número primo é:",
+   "alternativas": {
+    "A": "1/3",
+    "B": "2/3",
+    "C": "1/2",
+    "D": "1/6"
+   },
+   "gabarito": "C",
+   "explicacao": "Primos: 2, 3 e 5 → 3/6 = 1/2."
+  },
+  {
+   "id": "raciocinio-probabilidade-q02",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 1,
+   "enunciado": "Lançando-se duas moedas honestas, a probabilidade de ocorrer pelo menos uma cara é:",
+   "alternativas": {
+    "A": "3/4",
+    "B": "1/2",
+    "C": "1/4",
+    "D": "2/3"
+   },
+   "gabarito": "A",
+   "explicacao": "1 − P(duas coroas) = 1 − 1/4 = 3/4."
+  },
+  {
+   "id": "raciocinio-probabilidade-q03",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 1,
+   "enunciado": "Uma urna contém 5 bolas vermelhas, 3 azuis e 2 verdes. Retirando-se uma bola ao acaso, a probabilidade de que não seja azul é:",
+   "alternativas": {
+    "A": "3/10",
+    "B": "1/2",
+    "C": "2/5",
+    "D": "7/10"
+   },
+   "gabarito": "D",
+   "explicacao": "Complementar: 1 − 3/10 = 7/10."
+  },
+  {
+   "id": "raciocinio-probabilidade-q04",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "Sendo P(A) = 0,5, P(B) = 0,4 e P(A ∩ B) = 0,2, a probabilidade de A ∪ B é:",
+   "alternativas": {
+    "A": "0,9",
+    "B": "0,7",
+    "C": "0,5",
+    "D": "0,3"
+   },
+   "gabarito": "B",
+   "explicacao": "0,5 + 0,4 − 0,2 = 0,7. 0,9 esquece a interseção."
+  },
+  {
+   "id": "raciocinio-probabilidade-q05",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 1,
+   "enunciado": "Dois eventos independentes A e B têm P(A) = 0,3 e P(B) = 0,5. A probabilidade de ocorrerem ambos é:",
+   "alternativas": {
+    "A": "0,80",
+    "B": "0,15",
+    "C": "0,65",
+    "D": "0,20"
+   },
+   "gabarito": "B",
+   "explicacao": "Independentes: 0,3 × 0,5 = 0,15. 0,80 = soma."
+  },
+  {
+   "id": "raciocinio-probabilidade-q06",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "Um dado honesto é lançado e sabe-se que o resultado é um número par. A probabilidade de ser maior que 3 é:",
+   "alternativas": {
+    "A": "1/2",
+    "B": "1/3",
+    "C": "1/6",
+    "D": "2/3"
+   },
+   "gabarito": "D",
+   "explicacao": "Espaço reduzido {2,4,6}; favoráveis {4,6}: 2/3."
+  },
+  {
+   "id": "raciocinio-probabilidade-q07",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "Uma urna tem 4 bolas brancas e 6 pretas. Retirando-se duas bolas, sem reposição, a probabilidade de ambas serem brancas é:",
+   "alternativas": {
+    "A": "2/15",
+    "B": "4/25",
+    "C": "1/5",
+    "D": "1/10"
+   },
+   "gabarito": "A",
+   "explicacao": "4/10 · 3/9 = 12/90 = 2/15. 4/25 seria com reposição."
+  },
+  {
+   "id": "raciocinio-probabilidade-q08",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 1,
+   "enunciado": "Lançando-se dois dados honestos, a probabilidade de a soma dos resultados ser 7 é:",
+   "alternativas": {
+    "A": "1/12",
+    "B": "7/36",
+    "C": "1/6",
+    "D": "1/9"
+   },
+   "gabarito": "C",
+   "explicacao": "Casos: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 em 36 = 1/6."
+  },
+  {
+   "id": "raciocinio-probabilidade-q09",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "De um grupo de 6 homens e 4 mulheres, 3 pessoas são escolhidas ao acaso. A probabilidade de as três serem mulheres é:",
+   "alternativas": {
+    "A": "1/10",
+    "B": "4/10",
+    "C": "1/30",
+    "D": "1/15"
+   },
+   "gabarito": "C",
+   "explicacao": "C(4,3)/C(10,3) = 4/120 = 1/30."
+  },
+  {
+   "id": "raciocinio-probabilidade-q10",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "Uma moeda honesta é lançada 3 vezes. A probabilidade de ocorrerem exatamente duas caras é:",
+   "alternativas": {
+    "A": "3/8",
+    "B": "1/4",
+    "C": "1/2",
+    "D": "1/8"
+   },
+   "gabarito": "A",
+   "explicacao": "C(3,2)·(1/2)³ = 3/8."
+  },
+  {
+   "id": "raciocinio-probabilidade-q11",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "Lançando-se dois dados honestos, a probabilidade de que pelo menos um deles mostre a face 6 é:",
+   "alternativas": {
+    "A": "1/3",
+    "B": "10/36",
+    "C": "1/6",
+    "D": "11/36"
+   },
+   "gabarito": "D",
+   "explicacao": "1 − (5/6)² = 1 − 25/36 = 11/36. 1/3 e 10/36 são aproximações indevidas."
+  },
+  {
+   "id": "raciocinio-probabilidade-q12",
+   "topico": "raciocinio-probabilidade",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "Para qualquer evento A, P(A) + P(Aᶜ) = 1.",
+    "B": "Dois eventos mutuamente exclusivos de probabilidades não nulas são sempre independentes.",
+    "C": "A probabilidade de qualquer evento está entre 0 e 1, inclusive.",
+    "D": "A probabilidade de um evento certo é igual a 1."
+   },
+   "gabarito": "B",
+   "explicacao": "Se A e B são mutuamente exclusivos e têm probabilidade não nula, P(A∩B)=0 ≠ P(A)·P(B): são dependentes. As demais são verdadeiras."
+  }
+ ]
+}

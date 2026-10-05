@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: organização político-administrativa e competências. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Organização político-administrativa e repartição de competências (arts. 18 a 36)",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Visão geral\nA **República Federativa do Brasil** é formada pela união indissolúvel de **União, Estados, Distrito Federal e Municípios**, todos **autônomos** (art. 18). Autonomia = capacidade de **auto-organização, autogoverno, autoadministração e normatização própria**. Soberania é só da República (do País); os entes têm autonomia. A capital federal é **Brasília**.\n\n## Formação e alteração dos entes (art. 18)\n| Ente | Como se altera |\n|---|---|\n| **Estados** | incorporação, subdivisão ou desmembramento: **plebiscito** da população + **lei complementar federal**, após oitiva das Assembleias Legislativas |\n| **Municípios** | criação, incorporação, fusão e desmembramento: **lei estadual**, dentro do período fixado por **lei complementar federal**, com **estudos de viabilidade municipal** e **consulta prévia por plebiscito** às populações envolvidas |\n| **Territórios** | criados por **lei complementar** (hoje não existem) |\n\n## Vedações comuns (art. 19)\nÉ proibido à União, Estados, DF e Municípios: estabelecer cultos religiosos ou igrejas, subvencioná-los ou embaraçar-lhes o funcionamento (salvo colaboração de interesse público, na forma da lei); recusar fé aos documentos públicos; criar distinções ou preferências entre brasileiros.\n\n## Repartição de competências\n| Tipo | Dispositivo | Quem | Observação |\n|---|---|---|---|\n| **Material exclusiva** | art. 21 | União | não delegável (ex.: manter o serviço postal, declarar guerra, organizar e manter **polícia civil, militar e bombeiros do DF**) |\n| **Legislativa privativa** | art. 22 | União | **delegável** a Estados por **lei complementar**, para questões específicas (parágrafo único) |\n| **Material comum** | art. 23 | União, Estados, DF e Municípios | cooperação; **lei complementar** fixa as normas (ex.: proteger bens de valor histórico, cuidar da saúde e assistência pública) |\n| **Legislativa concorrente** | art. 24 | União, Estados e DF (**Municípios não constam**) | União = **normas gerais**; Estados = suplementar |\n| **Municipal** | art. 30 | Municípios | **interesse local**; suplementar a legislação federal e estadual no que couber |\n| **Estados (residual)** | art. 25, §1º | Estados | competências **remanescentes** (as que não são vedadas) |\n\n### Dois pontos de segurança pública\n- **Art. 22, XXI**: compete **privativamente à União** legislar sobre normas gerais de organização, efetivos, material bélico, garantias, convocação e mobilização das **polícias militares e corpos de bombeiros militares**.\n- **Art. 24, XVI**: **concorrente** legislar sobre organização, garantias, direitos e deveres das **polícias civis**.\n\n### Concorrente: o mecanismo (art. 24, §§1º a 4º)\n1. A União limita-se a **normas gerais**.\n2. A competência da União **não exclui** a suplementar dos Estados.\n3. **Inexistindo lei federal** de normas gerais, os Estados exercem a competência **plena**, para atender suas peculiaridades.\n4. A **superveniência** de lei federal sobre normas gerais **suspende a eficácia** (não revoga!) da lei estadual **no que lhe for contrário**.\n\n## Estados, DF e Municípios\n- **Estados** (art. 25): organizam-se pelas Constituições e leis que adotarem; Assembleia Legislativa unicameral.\n- **Municípios** (art. 29): regem-se por **Lei Orgânica**, votada em **dois turnos**, **interstício mínimo de 10 dias**, aprovada por **2/3 dos membros da Câmara**.\n- **Distrito Federal** (art. 32): **não pode ser dividido em Municípios**; Lei Orgânica (mesmo rito); tem competências legislativas **estaduais e municipais**; polícias civil, militar e bombeiros **organizados e mantidos pela União** (art. 21, XIV), mas subordinados ao **Governador do DF**.\n\n## Intervenção (arts. 34 a 36)\nA regra é a **não intervenção**. A União só intervém nos Estados/DF para: manter a integridade nacional; repelir invasão estrangeira; **pôr termo a grave comprometimento da ordem pública**; garantir o livre exercício dos Poderes; reorganizar as finanças; prover a execução de lei federal, ordem ou decisão judicial; assegurar os **princípios sensíveis** (art. 34, VII). Quem decreta: o **Presidente da República**, em decreto que fixa amplitude, prazo e condições, com **interventor** se for o caso; o decreto é submetido ao Congresso em **24 horas**. Estados intervêm nos Municípios nas hipóteses do **art. 35** (dívida fundada, contas não prestadas, mínimo constitucional de ensino/saúde, provimento de representação pelo TJ).",
+   "dicas": [
+    "Art. 21 = \"A União FAZ\" (material, exclusiva); art. 22 = \"A União LEGISLA\" (privativa); art. 23 = todos FAZEM juntos; art. 24 = todos LEGISLAM (menos Município).",
+    "Concorrente tem o macete U-E-D: União, Estados, DF. Município NÃO está no art. 24 (mas suplementa pelo art. 30, II).",
+    "Polícia Militar: quem legisla normas gerais é a União (art. 22, XXI); quem comanda é o Governador (art. 144, §6º).",
+    "Lei federal superveniente SUSPENDE a estadual, não revoga: se a federal cair, a estadual volta a valer.",
+    "Território: sem plebiscito constitucional para criação, é lei complementar federal."
+   ],
+   "pegadinhas": [
+    "Trocar \"privativa\" por \"exclusiva\": exclusiva é o termo do art. 21 (não delegável); privativa (art. 22) pode ser delegada por lei complementar.",
+    "Dizer que Município legisla concorrentemente com União e Estados: o art. 24 não cita Municípios; eles têm competência suplementar (art. 30, II).",
+    "Afirmar que a lei federal superveniente REVOGA a lei estadual: a CF diz SUSPENDE a eficácia no que for contrário.",
+    "Afirmar que o DF pode ser dividido em Municípios: é vedado (art. 32).",
+    "Dizer que a criação de Município é por lei complementar estadual ou por lei federal: é lei ESTADUAL ordinária, dentro do período fixado por LC federal.",
+    "Colocar a legislação sobre polícia civil como privativa da União: é concorrente (art. 24, XVI); só PM/bombeiros (normas gerais) são privativas (art. 22, XXI)."
+   ],
+   "flashcards": [
+    {
+     "q": "Quais são os entes da Federação brasileira?",
+     "a": "União, Estados, Distrito Federal e Municípios, todos autônomos (art. 18)."
+    },
+    {
+     "q": "Como se cria um Município?",
+     "a": "Lei estadual, dentro do período fixado por LC federal, após estudos de viabilidade e plebiscito das populações envolvidas."
+    },
+    {
+     "q": "Qual dispositivo trata da competência legislativa privativa da União?",
+     "a": "Art. 22 (delegável a Estados por LC, nas questões específicas)."
+    },
+    {
+     "q": "Qual a diferença entre competência exclusiva (art. 21) e privativa (art. 22)?",
+     "a": "Exclusiva é material e indelegável; privativa é legislativa e delegável por lei complementar."
+    },
+    {
+     "q": "Quem legisla sobre normas gerais das PMs e bombeiros militares?",
+     "a": "A União, privativamente (art. 22, XXI)."
+    },
+    {
+     "q": "Quem legisla concorrentemente sobre polícias civis?",
+     "a": "União (normas gerais), Estados e DF (art. 24, XVI)."
+    },
+    {
+     "q": "O que acontece com a lei estadual quando sobrevém lei federal de normas gerais contrária?",
+     "a": "Tem a eficácia suspensa no que for contrário."
+    },
+    {
+     "q": "Qual o quórum e rito da Lei Orgânica municipal?",
+     "a": "Dois turnos, interstício mínimo de 10 dias, 2/3 dos membros da Câmara."
+    },
+    {
+     "q": "O DF pode ser dividido em Municípios?",
+     "a": "Não (art. 32)."
+    },
+    {
+     "q": "Quem organiza e mantém as polícias civil, militar e o corpo de bombeiros do DF?",
+     "a": "A União (art. 21, XIV)."
+    },
+    {
+     "q": "Em quanto tempo o decreto de intervenção federal vai ao Congresso?",
+     "a": "24 horas."
+    }
+   ],
+   "id": "const-b-t1"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t1-q01",
+   "topico": "const-b-t1",
+   "dificuldade": 1,
+   "enunciado": "Nos termos da Constituição Federal de 1988, compete privativamente à União legislar sobre",
+   "alternativas": {
+    "A": "normas gerais de organização, efetivos, material bélico, garantias, convocação e mobilização das polícias militares e dos corpos de bombeiros militares.",
+    "B": "direito urbanístico e direito econômico.",
+    "C": "organização, garantias, direitos e deveres das polícias civis.",
+    "D": "procedimentos em matéria processual.",
+    "E": "responsabilidade por dano ao meio ambiente e ao consumidor."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 22, XXI, é privativa da União. As demais (urbanístico, econômico, polícias civis, procedimentos processuais, responsabilidade por dano ao meio ambiente) são concorrentes (art. 24, I, XVI, XI, VIII).",
+   "resolucao_md": "**O que a questão pede:** identificar a matéria de competência legislativa PRIVATIVA da União.\n\n**Regra rápida:** O art. 22 lista o que só a União legisla; o art. 24 lista o que é concorrente (União, Estados e DF).\n\n**Passo a passo:**\n1. Veja o que cada alternativa cita: urbanístico, econômico, polícias civis, processo, meio ambiente.\n2. Esses cinco temas (menos o das PMs) estão no art. 24 (concorrente).\n3. Só \"normas gerais de organização... das PMs e bombeiros\" está no art. 22, XXI.\n4. Gabarito A.\n\n**Pegadinha:** Troca de \"polícia civil\" (concorrente) por \"polícia militar\" (privativa).\n\n**Macete:** Civil é concorrente; militar (normas gerais) é privativa da União."
+  },
+  {
+   "id": "const-b-t1-q02",
+   "topico": "const-b-t1",
+   "dificuldade": 2,
+   "enunciado": "Sobre a competência legislativa concorrente (art. 24 da CF), é correto afirmar que",
+   "alternativas": {
+    "A": "a competência da União para editar normas gerais exclui a competência suplementar dos Estados.",
+    "B": "a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.",
+    "C": "inexistindo lei federal, os Estados não podem legislar até que sobrevenha norma geral.",
+    "D": "a lei federal superveniente revoga integralmente a lei estadual anterior.",
+    "E": "os Municípios legislam concorrentemente com a União e os Estados em todas as matérias do art. 24."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 24, §§1º a 4º. A competência da União não exclui a suplementar dos Estados; sem lei federal, os Estados têm competência plena; a lei federal superveniente apenas suspende a estadual contrária; Municípios suplementam pelo art. 30, II.",
+   "resolucao_md": "**O que a questão pede:** o que a CF diz sobre o mecanismo da competência concorrente.\n\n**Regra rápida:** União = normas gerais; Estados = suplementar; sem lei federal, Estados legislam plenamente; lei federal nova SUSPENDE a estadual contrária.\n\n**Passo a passo:**\n1. Alternativa A: contraria o §2º (não exclui).\n2. C: contraria o §3º (competência plena).\n3. D: \"revoga integralmente\": a CF diz suspende, e só no contrário.\n4. E: Município não consta no art. 24.\n5. Resta B.\n\n**Pegadinha:** Verbos trocados: \"suspende\" por \"revoga\".\n\n**Macete:** Federal suspende, não revoga."
+  },
+  {
+   "id": "const-b-t1-q03",
+   "topico": "const-b-t1",
+   "dificuldade": 1,
+   "enunciado": "É competência material comum da União, dos Estados, do Distrito Federal e dos Municípios",
+   "alternativas": {
+    "A": "explorar os serviços de telecomunicações, nos termos da lei.",
+    "B": "organizar e manter a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal.",
+    "C": "proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos e as paisagens naturais notáveis.",
+    "D": "manter o serviço postal e o correio aéreo nacional.",
+    "E": "legislar privativamente sobre direito civil, penal e processual."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 23, III, é comum. Telecomunicações, correio e polícias do DF são competências materiais exclusivas da União (art. 21); legislar sobre direito civil e penal é privativo (art. 22, I).",
+   "resolucao_md": "**O que a questão pede:** achar a competência do art. 23 (comum).\n\n**Regra rápida:** O art. 23 reúne atribuições \"cuidar, proteger, combater, promover\" exercidas por todos os entes, em cooperação.\n\n**Passo a passo:**\n1. Itens A, B e C-segunda-opção citam serviços da União: art. 21 (exclusiva).\n2. D trata de legislar: art. 22 (privativa).\n3. Proteção de bens históricos e culturais aparece no art. 23, III.\n\n**Macete:** Verbos de cuidar e proteger = art. 23."
+  },
+  {
+   "id": "const-b-t1-q04",
+   "topico": "const-b-t1",
+   "dificuldade": 2,
+   "enunciado": "A criação de novo Município, segundo a Constituição Federal, depende de",
+   "alternativas": {
+    "A": "lei complementar estadual, aprovada pela Assembleia Legislativa e sancionada pelo Governador, sem consulta popular.",
+    "B": "lei ordinária federal, após parecer do Senado Federal.",
+    "C": "lei complementar federal e plebiscito apenas na população da área a ser emancipada.",
+    "D": "lei estadual, dentro do período determinado por lei complementar federal, precedida de estudos de viabilidade municipal e de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos.",
+    "E": "resolução da Assembleia Legislativa, dispensados os estudos de viabilidade."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 18, §4º: lei estadual, período definido por LC federal, estudos de viabilidade e plebiscito das populações envolvidas.",
+   "resolucao_md": "**O que a questão pede:** o procedimento constitucional de criação de Município.\n\n**Regra rápida:** Quem cria é o Estado (lei estadual); a União só fixa o período por LC; exige estudos de viabilidade e plebiscito.\n\n**Passo a passo:**\n1. Quem edita a lei criadora? Estado: eliminar B (federal) e C.\n2. Tipo de ato: lei, não resolução: eliminar E.\n3. Consulta: população dos Municípios envolvidos (não só da área emancipada).\n4. Resta D.\n\n**Pegadinha:** Em C aparece \"plebiscito\" e \"LC federal\", que soam certos, mas a lei criadora é estadual e a consulta é a todos os envolvidos.\n\n**Macete:** Município nasce de lei estadual."
+  },
+  {
+   "id": "const-b-t1-q05",
+   "topico": "const-b-t1",
+   "dificuldade": 2,
+   "enunciado": "A Lei Orgânica do Município será votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por",
+   "alternativas": {
+    "A": "maioria simples dos membros da Câmara, em turno único.",
+    "B": "três quintos dos membros da Câmara, com sanção do Prefeito.",
+    "C": "maioria absoluta dos membros da Câmara, com referendo da Assembleia Legislativa.",
+    "D": "dois terços dos membros da Assembleia Legislativa do Estado.",
+    "E": "dois terços dos membros da Câmara Municipal, que a promulgará."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 29, caput: dois turnos, interstício mínimo de 10 dias, 2/3 dos membros da Câmara Municipal, que a promulga (sem sanção do Prefeito).",
+   "resolucao_md": "**O que a questão pede:** completar o rito da Lei Orgânica municipal.\n\n**Regra rápida:** Art. 29: dois turnos, 10 dias, 2/3, promulgação pela Câmara.\n\n**Passo a passo:**\n1. Quórum de 2/3 aparece só em E (a lei é da Câmara, não da Assembleia).\n2. Descarte \"turno único\" e \"maioria simples\".\n3. A e B/C trazem quórum errado ou participação de outros entes.\n\n**Pegadinha:** Três quintos é quórum de emenda constitucional, não de Lei Orgânica.\n\n**Macete:** 10 dias e 2/3: Lei Orgânica."
+  },
+  {
+   "id": "const-b-t1-q06",
+   "topico": "const-b-t1",
+   "dificuldade": 1,
+   "enunciado": "Constitui hipótese em que a União poderá intervir nos Estados e no Distrito Federal",
+   "alternativas": {
+    "A": "pôr termo a grave comprometimento da ordem pública.",
+    "B": "quando o Governador for investigado por crime comum perante o STJ.",
+    "C": "quando o Estado instituir tributo próprio de sua competência.",
+    "D": "quando houver greve geral dos servidores estaduais.",
+    "E": "para reduzir as despesas com pessoal do Estado, que excedam o limite legal."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 34, III. As demais não constam do rol taxativo do art. 34.",
+   "resolucao_md": "**O que a questão pede:** identificar uma hipótese do art. 34.\n\n**Regra rápida:** O rol de intervenção federal é taxativo (a regra é a não intervenção).\n\n**Passo a passo:**\n1. Procure no art. 34 uma frase igual: \"pôr termo a grave comprometimento da ordem pública\" (III).\n2. As outras hipóteses são inventadas ou confundem consequências administrativas com intervenção.\n\n**Pegadinha:** Alternativas plausíveis, mas fora do rol.\n\n**Macete:** Intervenção é exceção: só o que estiver no art. 34."
+  },
+  {
+   "id": "const-b-t1-q07",
+   "topico": "const-b-t1",
+   "dificuldade": 2,
+   "enunciado": "A respeito do Distrito Federal na Constituição Federal, é correto afirmar que",
+   "alternativas": {
+    "A": "pode ser dividido em Municípios, desde que por lei complementar distrital.",
+    "B": "não pode ser dividido em Municípios, e suas polícias civil, militar e o corpo de bombeiros militar são organizados e mantidos pela União.",
+    "C": "tem competência legislativa apenas estadual, sem as municipais.",
+    "D": "sua Lei Orgânica é aprovada por maioria simples, em turno único.",
+    "E": "suas polícias são organizadas e mantidas pelo próprio DF, sem participação da União."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 32 (vedada a divisão em Municípios; competências estaduais e municipais; LO 2 turnos/2/3) e art. 21, XIV (União organiza e mantém as polícias do DF).",
+   "resolucao_md": "**O que a questão pede:** a regra constitucional sobre o DF.\n\n**Regra rápida:** DF = Estado + Município (competências), sem divisão em Municípios; polícias mantidas pela União.\n\n**Passo a passo:**\n1. A: o DF não se divide.\n2. C: tem as competências estaduais e as municipais.\n3. D: rito igual ao dos Municípios (2 turnos, 2/3).\n4. E: o art. 21, XIV, atribui à União.\n\n**Macete:** DF: nada de Município, polícias da União."
+  }
+ ]
+}

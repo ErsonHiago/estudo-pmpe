@@ -1,0 +1,40 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q201",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "Em uma apresentação, deseja-se que, ao clicar em um botão de um slide, seja aberto outro slide específico da mesma apresentação. O recurso mais adequado é",
+      "alternativas": {
+        "A": "a transição.",
+        "B": "o slide mestre.",
+        "C": "a mala direta.",
+        "D": "o ensaio de intervalos.",
+        "E": "o hiperlink (ou botão de ação)."
+      },
+      "gabarito": "E",
+      "explicacao": "Hiperlinks e botões de ação criam navegação para outro slide, site ou arquivo. Transição é efeito visual; slide mestre é padrão; mala direta é do Word.",
+      "resolucao_md": "**O que a questão pede**\nO recurso de navegação entre slides.\n\n**Conceito/Regra rápida**\nHiperlink / botão de ação = ir para outro slide, página web ou arquivo.\n\n**Passo a passo**\n1. Selecione o botão.\\n2. Inserir > Link (ou Ação).\\n3. Escolha \"Colocar neste documento\" e o slide.\\n4. Na apresentação, o clique leva ao slide escolhido.\n\n**Pegadinha**\nMala direta não existe no PowerPoint.\n\n**Macete**\nHiper-link = salto."
+    },
+    {
+      "id": "informatica-q202",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "No PowerPoint 2019, o atalho Ctrl+D tem a função de",
+      "alternativas": {
+        "A": "inserir um novo slide em branco.",
+        "B": "duplicar o slide selecionado.",
+        "C": "excluir o slide selecionado.",
+        "D": "iniciar a apresentação a partir do slide atual.",
+        "E": "salvar a apresentação em PDF."
+      },
+      "gabarito": "B",
+      "explicacao": "Ctrl+D duplica o slide selecionado; Ctrl+M insere novo slide; Shift+F5 inicia do slide atual.",
+      "resolucao_md": "**O que a questão pede**\nO que Ctrl+D faz no PowerPoint.\n\n**Conceito/Regra rápida**\n**D**uplicar = Ctrl+D. **M**ais um novo = Ctrl+M.\n\n**Passo a passo**\n```\\nAntes: [1][2][3]  (selecionado o 2)\\nCtrl+D\\nDepois: [1][2][2cópia][3]\\n```\n\n**Pegadinha**\nNo navegador, Ctrl+D adiciona aos favoritos: o contexto manda.\n\n**Macete**\nD = Duplicar."
+    }
+  ]
+}

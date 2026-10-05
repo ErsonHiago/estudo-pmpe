@@ -1,0 +1,168 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-hediondos",
+   "titulo": "Lei 8.072/1990 — Crimes Hediondos",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Base e critério\nA CF (art. 5º, XLIII) manda a lei considerar **inafiançáveis e insuscetíveis de graça ou anistia** a prática de **tortura, tráfico ilícito de entorpecentes, terrorismo** e os **crimes hediondos**. O Brasil adota o **critério legal** (o legislador enumera o rol), e não o judicial nem o misto. Tortura, tráfico e terrorismo são **equiparados a hediondos**: não estão no art. 1º, mas sofrem o mesmo regime (art. 2º).\n\n## Rol do art. 1º (consumados ou tentados)\n| Crime | Observação |\n|---|---|\n| **Homicídio** em atividade típica de **grupo de extermínio** (ainda que por um só agente) | art. 121 |\n| **Homicídio qualificado** | art. 121, §2º, I a IX (inclui **feminicídio**, homicídio contra **agente de segurança pública** e contra menor de 14 anos) |\n| **Lesão corporal gravíssima ou seguida de morte** contra autoridade ou agente dos arts. 142 e 144 da CF, sistema prisional, Força Nacional, ou seus parentes até 3º grau | art. 129, §§2º e 3º |\n| **Latrocínio** | art. 157, §3º, II |\n| **Roubo** com restrição de liberdade, com arma de fogo (uso restrito ou proibido) e com lesão grave/morte **[VERIFICAR a redação vigente do inc. II, após os vetos derrubados]** | art. 157 |\n| **Extorsão qualificada pela morte** | art. 158, §2º |\n| **Extorsão mediante sequestro** (e formas qualificadas) | art. 159 |\n| **Estupro** e **estupro de vulnerável** | arts. 213 e 217-A |\n| **Epidemia com resultado morte** | art. 267, §1º |\n| **Falsificação, corrupção ou adulteração de produto terapêutico ou medicinal** | art. 273 |\n| **Favorecimento da prostituição** de criança, adolescente ou vulnerável | art. 218-B |\n| **Genocídio** | Lei 2.889/1956 |\n\n**Parágrafo único do art. 1º (também hediondos):** genocídio; **posse ou porte ilegal de arma de fogo de uso proibido** (Lei 10.826, art. 16); **comércio ilegal** de armas (art. 17); **tráfico internacional** de arma (art. 18); **organização criminosa** direcionada a crime hediondo ou equiparado.\n\n## Regime jurídico (art. 2º e outras leis)\n| Tema | Regra |\n|---|---|\n| **Anistia, graça e indulto** | **vedados** |\n| **Fiança** | **vedada** |\n| **Prisão temporária** | **30 dias**, prorrogáveis por **igual período** em caso de extrema necessidade (a regra geral é 5+5) |\n| **Regime inicial** | o regime fechado obrigatório foi declarado inconstitucional pelo STF (HC 111.840); o juiz fixa conforme o caso |\n| **Progressão (LEP, art. 112)** | **40%** (primário), **50%** (primário com resultado morte; comando de organização criminosa hediondo), **60%** (reincidente em hediondo), **70%** (reincidente em hediondo com morte, vedado livramento) **[VERIFICAR percentuais após alterações]** |\n| **Livramento condicional** | após cumprir mais de **2/3** da pena, se não reincidente específico |\n| **Associação criminosa** (art. 8º) | pena de **3 a 6 anos** quando para crime hediondo, tortura, tráfico ou terrorismo |\n| **Delação** | quem denunciar o bando e permitir seu desmantelamento tem redução de **1/3 a 2/3** |\n\n## Tráfico privilegiado\nO tráfico de drogas do **art. 33, §4º**, da Lei 11.343 **não** é hediondo (STF; LEP, art. 112, §5º). Para isso: primário, bons antecedentes, não se dedica a atividades criminosas, nem integra organização criminosa.\n\n## Para a prova\nA AOCP costuma cobrar: (a) o **critério legal**; (b) que **tortura, tráfico e terrorismo são equiparados**; (c) o **prazo da prisão temporária** (30 + 30); (d) que **graça, anistia e indulto** são vedados; (e) **latrocínio, estupro, extorsão mediante sequestro** no rol.",
+   "dicas": [
+    "TTT: Tortura, Tráfico e Terrorismo = equiparados (não estão no art. 1º, mas têm o mesmo regime).",
+    "Prisão temporária: 5+5 (geral); 30+30 (hediondos e equiparados).",
+    "Hediondo: sem anistia, graça, indulto e fiança.",
+    "Latrocínio é hediondo; roubo simples não."
+   ],
+   "pegadinhas": [
+    "Dizer que o homicídio simples é sempre hediondo: só quando em atividade típica de grupo de extermínio; o qualificado é hediondo.",
+    "Dizer que a prisão temporária de hediondo é de 5 dias: são 30, prorrogáveis por mais 30.",
+    "Dizer que tortura, tráfico e terrorismo estão no art. 1º: são equiparados, previstos no art. 2º e na CF.",
+    "Dizer que o tráfico privilegiado (§4º) é hediondo: não é.",
+    "Dizer que o crime hediondo admite indulto: é vedado."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual o critério adotado para definir crime hediondo no Brasil?",
+     "a": "Critério legal (rol taxativo na lei)."
+    },
+    {
+     "q": "Quais são os crimes equiparados a hediondos?",
+     "a": "Tortura, tráfico de drogas e terrorismo."
+    },
+    {
+     "q": "Prazo da prisão temporária em crime hediondo?",
+     "a": "30 dias, prorrogáveis por igual período."
+    },
+    {
+     "q": "O que é vedado nos crimes hediondos (art. 2º)?",
+     "a": "Anistia, graça, indulto e fiança."
+    },
+    {
+     "q": "Qual o percentual de progressão do primário em hediondo (sem morte)?",
+     "a": "40% da pena."
+    },
+    {
+     "q": "Prazo mínimo para livramento condicional em hediondo?",
+     "a": "Mais de 2/3 da pena, se não reincidente específico."
+    },
+    {
+     "q": "Pena da associação criminosa para crime hediondo (art. 8º)?",
+     "a": "Reclusão de 3 a 6 anos."
+    },
+    {
+     "q": "Redução pela delação do art. 8º?",
+     "a": "1/3 a 2/3."
+    },
+    {
+     "q": "Latrocínio é hediondo?",
+     "a": "Sim (art. 157, §3º, II)."
+    },
+    {
+     "q": "O tráfico privilegiado é hediondo?",
+     "a": "Não."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-hediondos-q01",
+   "topico": "dh-c-hediondos",
+   "dificuldade": 1,
+   "enunciado": "Quanto ao conceito de crimes hediondos, o ordenamento jurídico brasileiro adota o critério",
+   "alternativas": {
+    "A": "legal, pelo qual o legislador enumera, em rol taxativo, os crimes considerados hediondos.",
+    "B": "judicial, pelo qual o juiz decide, caso a caso, a hediondez.",
+    "C": "misto, combinando rol legal e análise judicial da gravidade.",
+    "D": "doutrinário, conforme a opinião predominante da doutrina.",
+    "E": "subjetivo, conforme a repercussão social do crime."
+   },
+   "gabarito": "A",
+   "explicacao": "Lei 8.072/1990, art. 1º: rol legal.",
+   "resolucao_md": "**O que a questão pede:** o critério adotado.\n\n**Regra rápida:** o legislador lista os crimes: critério legal.\n\n**Passo a passo:**\n1. Judicial e misto dependem de avaliação do juiz.\n2. Doutrinário e subjetivo não são fontes de tipificação penal.\n\n**Pegadinha:** Pensar que o juiz decide a hediondez.\n\n**Macete:** Hediondo = lista da lei."
+  },
+  {
+   "id": "dh-c-hediondos-q02",
+   "topico": "dh-c-hediondos",
+   "dificuldade": 1,
+   "enunciado": "Segundo a Constituição Federal e a Lei nº 8.072/1990, são equiparados aos crimes hediondos:",
+   "alternativas": {
+    "A": "o furto qualificado, a receptação e o peculato.",
+    "B": "a tortura, o tráfico ilícito de entorpecentes e o terrorismo.",
+    "C": "o homicídio simples, a lesão corporal leve e a ameaça.",
+    "D": "o roubo simples, a extorsão simples e o estelionato.",
+    "E": "a injúria racial, o desacato e a resistência."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 5º, XLIII, CF e art. 2º da Lei 8.072: tortura, tráfico e terrorismo.",
+   "resolucao_md": "**O que a questão pede:** o trio equiparado.\n\n**Regra rápida:** TTT.\n\n**Passo a passo:**\n1. Furto qualificado, peculato: não são.\n2. Homicídio simples (fora do extermínio) e lesão leve: não.\n3. Roubo simples e estelionato: não.\n4. Injúria racial e desacato: não.\n\n**Pegadinha:** Confundir equiparados com o rol do art. 1º.\n\n**Macete:** TTT."
+  },
+  {
+   "id": "dh-c-hediondos-q03",
+   "topico": "dh-c-hediondos",
+   "dificuldade": 2,
+   "enunciado": "A prisão temporária, nos crimes hediondos e equiparados, terá o prazo de",
+   "alternativas": {
+    "A": "cinco dias, prorrogável por mais cinco.",
+    "B": "sessenta dias, sem prorrogação.",
+    "C": "trinta dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+    "D": "quinze dias, prorrogável uma única vez por dez.",
+    "E": "noventa dias, prorrogáveis por mais noventa."
+   },
+   "gabarito": "C",
+   "explicacao": "Lei 8.072, art. 2º, §4º. A regra geral (Lei 7.960) é 5+5.",
+   "resolucao_md": "**O que a questão pede:** o prazo especial.\n\n**Regra rápida:** 5+5 geral; 30+30 para hediondos.\n\n**Passo a passo:**\n1. 5+5: regra geral.\n2. 60 sem prorrogação: errado.\n3. 15+10: inventado.\n4. 90+90: desproporcional e inexistente.\n\n**Pegadinha:** Aplicar o prazo geral.\n\n**Macete:** Hediondo: 30 + 30."
+  },
+  {
+   "id": "dh-c-hediondos-q04",
+   "topico": "dh-c-hediondos",
+   "dificuldade": 2,
+   "enunciado": "De acordo com a Lei nº 8.072/1990, os crimes hediondos, a tortura, o tráfico de drogas e o terrorismo são insuscetíveis de",
+   "alternativas": {
+    "A": "apenas anistia, sendo admitidas a graça e o indulto.",
+    "B": "prisão em flagrante e prisão temporária.",
+    "C": "qualquer pena privativa de liberdade.",
+    "D": "anistia, graça e indulto, bem como de fiança.",
+    "E": "liberdade provisória sem fiança, em qualquer hipótese de forma absoluta."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 2º, I e II. A vedação à liberdade provisória sem fiança foi afastada pelo STF; vigora a análise concreta das cautelares.",
+   "resolucao_md": "**O que a questão pede:** as vedações do art. 2º.\n\n**Regra rápida:** anistia, graça, indulto e fiança.\n\n**Passo a passo:**\n1. Só anistia: errado.\n2. Flagrante e temporária são admitidas.\n3. Pena privativa: obviamente se aplica.\n4. Vedação absoluta de liberdade provisória: afastada pelo STF.\n\n**Pegadinha:** Esquecer o indulto.\n\n**Macete:** Graça, anistia, indulto, fiança: nada disso."
+  },
+  {
+   "id": "dh-c-hediondos-q05",
+   "topico": "dh-c-hediondos",
+   "dificuldade": 2,
+   "enunciado": "Qual das condutas a seguir é considerada crime hediondo pela Lei nº 8.072/1990?",
+   "alternativas": {
+    "A": "Furto simples.",
+    "B": "Lesão corporal leve.",
+    "C": "Injúria simples.",
+    "D": "Dano.",
+    "E": "Extorsão mediante sequestro."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 1º, IV: extorsão mediante sequestro e na forma qualificada.",
+   "resolucao_md": "**O que a questão pede:** achar o crime do rol.\n\n**Regra rápida:** violência extrema ou sequestro, estupro, latrocínio.\n\n**Passo a passo:**\n1. Furto simples, lesão leve, injúria e dano: não constam.\n2. Sobra a extorsão mediante sequestro.\n\n**Pegadinha:** Pensar que todo crime patrimonial é hediondo.\n\n**Macete:** Sequestro, latrocínio, estupro, homicídio qualificado."
+  },
+  {
+   "id": "dh-c-hediondos-q06",
+   "topico": "dh-c-hediondos",
+   "dificuldade": 3,
+   "enunciado": "O crime de tráfico de drogas previsto no art. 33, §4º, da Lei nº 11.343/2006 (tráfico privilegiado)",
+   "alternativas": {
+    "A": "é hediondo, não admitindo redução de pena.",
+    "B": "não é considerado hediondo ou equiparado, segundo a jurisprudência do STF e a Lei de Execução Penal.",
+    "C": "é hediondo, mas admite indulto.",
+    "D": "é considerado terrorismo.",
+    "E": "é insuscetível de fiança e de redução da pena em qualquer hipótese."
+   },
+   "gabarito": "B",
+   "explicacao": "LEP, art. 112, §5º, e STF (HC 118.533). Requisitos do §4º: primário, bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa.",
+   "resolucao_md": "**O que a questão pede:** a natureza do tráfico privilegiado.\n\n**Regra rápida:** privilegiado = sem hediondez; pena reduzida de 1/6 a 2/3.\n\n**Passo a passo:**\n1. Hediondo sem redução: errado.\n2. Hediondo com indulto: errado.\n3. Terrorismo: absurdo.\n4. Insuscetível de redução: o §4º prevê a redução.\n\n**Pegadinha:** Confundir com o tráfico comum (equiparado).\n\n**Macete:** Tráfico privilegiado = não hediondo."
+  }
+ ]
+}

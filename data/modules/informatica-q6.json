@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q151",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "Considere A1 = 10 e A2 = 20 em uma planilha. Na célula B1 foi digitada a fórmula\\n\\n=SE(E(A1>5;A2>30);\"X\";SE(OU(A1>5;A2>30);\"Y\";\"Z\"))\\n\\nO valor exibido em B1 é",
+      "alternativas": {
+        "A": "X",
+        "B": "Y",
+        "C": "Z",
+        "D": "VERDADEIRO",
+        "E": "FALSO"
+      },
+      "gabarito": "B",
+      "explicacao": "E exige as duas condições: 10>5 (V) e 20>30 (F), logo FALSO. OU exige só uma: V ou F = VERDADEIRO, logo o resultado é \"Y\".",
+      "resolucao_md": "**O que a questão pede**\nO texto exibido por um SE com E e OU.\n\n**Conceito/Regra rápida**\n**E**: todas verdadeiras. **OU**: pelo menos uma verdadeira.\n\n**Passo a passo**\n```\\nA1 = 10 ; A2 = 20\\nA1>5   -> VERDADEIRO\\nA2>30  -> FALSO\\nE(V;F)  = FALSO   -> vai para o SE de dentro\\nOU(V;F) = VERDADEIRO -> \"Y\"\\n```\\nB1 exibe **Y** (texto).\n\n**Pegadinha**\nA fórmula devolve o texto \"Y\", não VERDADEIRO.\n\n**Macete**\nE = todos; OU = algum."
+    },
+    {
+      "id": "informatica-q152",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere a planilha.\\n\\n| | A |\\n|---|---|\\n| 1 | 10 |\\n| 2 | 25 |\\n| 3 | 35 |\\n| 4 | 5 |\\n| 5 | 30 |\\n| 6 | 15 |\\n\\nO resultado da fórmula `=SOMASE(A1:A6;\">20\")-CONT.SE(A1:A6;\"<=15\")» é",
+      "alternativas": {
+        "A": "87",
+        "B": "90",
+        "C": "93",
+        "D": "84",
+        "E": "60"
+      },
+      "gabarito": "A",
+      "explicacao": "Valores maiores que 20: 25, 35 e 30 (soma 90). Valores menores ou iguais a 15: 10, 5 e 15 (3 células). 90 - 3 = 87.",
+      "resolucao_md": "**O que a questão pede**\nResultado de SOMASE menos CONT.SE.\n\n**Conceito/Regra rápida**\n**SOMASE** soma os valores que atendem ao critério. **CONT.SE** conta quantas células atendem.\n\n**Passo a passo**\n```\\nA1=10  A2=25  A3=35  A4=5  A5=30  A6=15\\n```\\n1. >20: A2 (25), A3 (35), A5 (30).\\n2. SOMASE = 25+35+30 = 90.\\n3. <=15: A1 (10), A4 (5), A6 (15).\\n4. CONT.SE = 3.\\n5. 90 - 3 = **87**.\n\n**Pegadinha**\nCONT.SE conta; não soma. O 15 entra por causa do `<=».\n\n**Macete**\nSOMA**SE** soma; CONT**.SE** conta."
+    },
+    {
+      "id": "informatica-q153",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Na planilha a seguir, a fórmula `=A1*B1» foi digitada em C1 e, depois, copiada para as células C2 e C3.\\n\\n| | A | B | C |\\n|---|---|---|---|\\n| 1 | 2 | 10 | =A1*B1 |\\n| 2 | 3 | 20 | |\\n| 3 | 4 | 30 | |\\n\\nO valor de `=SOMA(C1:C3)» é",
+      "alternativas": {
+        "A": "120",
+        "B": "160",
+        "C": "240",
+        "D": "300",
+        "E": "200"
+      },
+      "gabarito": "E",
+      "explicacao": "A referência é relativa: C2 vira =A2*B2 (60) e C3 vira =A3*B3 (120). C1 = 20. Soma = 20 + 60 + 120 = 200.",
+      "resolucao_md": "**O que a questão pede**\nA soma da coluna C após copiar a fórmula.\n\n**Conceito/Regra rápida**\nReferência **relativa** (A1) muda de acordo com o destino ao copiar.\n\n**Passo a passo**\n```\\n     A    B    C\\n1    2    10   =A1*B1 -> 20\\n2    3    20   =A2*B2 -> 60\\n3    4    30   =A3*B3 -> 120\\n```\\nSOMA(C1:C3) = 20 + 60 + 120 = **200**.\n\n**Pegadinha**\nNão se esqueça de somar também C1.\n\n**Macete**\nCopiou para baixo: a linha acompanha."
+    },
+    {
+      "id": "informatica-q154",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere a planilha, em que a fórmula `=A1*$B$1» foi digitada em C1 e copiada para C2 e C3.\\n\\n| | A | B | C |\\n|---|---|---|---|\\n| 1 | 100 | 5 | =A1*$B$1 |\\n| 2 | 200 | | |\\n| 3 | 300 | | |\\n\\nO valor exibido em C3 é",
+      "alternativas": {
+        "A": "0",
+        "B": "500",
+        "C": "1000",
+        "D": "1500",
+        "E": "15"
+      },
+      "gabarito": "D",
+      "explicacao": "$B$1 é referência absoluta e não muda ao copiar. C3 = A3*$B$1 = 300*5 = 1500.",
+      "resolucao_md": "**O que a questão pede**\nO valor de C3 após copiar.\n\n**Conceito/Regra rápida**\n**$B$1** fixa coluna e linha; **A1** (relativa) acompanha o destino.\n\n**Passo a passo**\n```\\n     A     B   C\\n1    100   5   =A1*$B$1 -> 500\\n2    200       =A2*$B$1 -> 1000\\n3    300       =A3*$B$1 -> 1500\\n```\\nC3 = **1500**.\n\n**Pegadinha**\nSem os cifrões, C3 seria =A3*B3 = 300*0 = 0.\n\n**Macete**\nCifrão = trava."
+    },
+    {
+      "id": "informatica-q155",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "Considere a planilha. A fórmula `=$A2*B$1» foi digitada em B2 e, depois, copiada para C3.\\n\\n| | A | B | C |\\n|---|---|---|---|\\n| 1 | | 10 | 100 |\\n| 2 | 2 | =$A2*B$1 | |\\n| 3 | 3 | | |\\n\\nO valor exibido em C3 é",
+      "alternativas": {
+        "A": "30",
+        "B": "200",
+        "C": "300",
+        "D": "20",
+        "E": "3"
+      },
+      "gabarito": "C",
+      "explicacao": "Copiando de B2 para C3 (uma coluna à direita e uma linha abaixo): $A2 vira $A3 (coluna A fixa, linha muda) e B$1 vira C$1 (linha 1 fixa, coluna muda). C3 = 3*100 = 300.",
+      "resolucao_md": "**O que a questão pede**\nA fórmula resultante em C3 e seu valor.\n\n**Conceito/Regra rápida**\nReferência mista: **$A2** fixa a coluna; **B$1** fixa a linha. O que não tem $ se desloca.\n\n**Passo a passo**\n```\\n         A    B           C\\n1             10          100\\n2        2    =$A2*B$1\\n3        3                =?\\n```\\n1. Deslocamento: +1 coluna, +1 linha.\\n2. $A2 -> coluna fixa (A), linha 2 vira 3 -> $A3.\\n3. B$1 -> coluna B vira C, linha fixa -> C$1.\\n4. C3 = $A3*C$1 = 3*100 = **300**.\n\n**Pegadinha**\n$ antes da letra = coluna fixa; $ antes do número = linha fixa.\n\n**Macete**\n$ trava o que vem logo depois dele."
+    },
+    {
+      "id": "informatica-q156",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere a planilha, em que a coluna A contém a matrícula, a B o nome e a C o salário.\\n\\n| | A | B | C |\\n|---|---|---|---|\\n| 1 | Matrícula | Nome | Salário |\\n| 2 | 101 | Ana | 2000 |\\n| 3 | 102 | Bruno | 2500 |\\n| 4 | 103 | Carla | 3000 |\\n| 5 | 104 | Davi | 3500 |\\n\\nO valor retornado por `=PROCV(103;A2:C5;3;0)» é",
+      "alternativas": {
+        "A": "Carla",
+        "B": "3000",
+        "C": "103",
+        "D": "2500",
+        "E": "3500"
+      },
+      "gabarito": "B",
+      "explicacao": "PROCV procura 103 na primeira coluna (A), encontra na linha 4 e devolve o valor da 3ª coluna da tabela (C), que é 3000. O argumento 0 pede correspondência exata.",
+      "resolucao_md": "**O que a questão pede**\nO resultado de um PROCV.\n\n**Conceito/Regra rápida**\n`=PROCV(valor; tabela; núm_coluna; 0)». Procura na 1ª coluna e devolve o valor da coluna de número indicado (contando a partir da 1ª coluna da tabela).\n\n**Passo a passo**\n```\\nPROCV(103 ; A2:C5 ; 3 ; 0)\\n1) Procura 103 na coluna A -> acha na linha 4 (Carla)\\n2) Coluna 3 da tabela A:C = C (Salário)\\n3) Cruza linha 4 com coluna C -> 3000\\n```\\nResultado: **3000**.\n\n**Pegadinha**\nO índice 2 devolveria \"Carla\"; o 3 devolve o salário.\n\n**Macete**\nPROCV: acha na primeira coluna, anda para a direita até o índice."
+    },
+    {
+      "id": "informatica-q157",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "Considerando a mesma tabela (matrículas 101 a 104 nas células A2:A5, nomes em B2:B5 e salários em C2:C5), o resultado de `=PROCV(105;A2:C5;3;0)» é",
+      "alternativas": {
+        "A": "#N/D",
+        "B": "#REF!",
+        "C": "#VALOR!",
+        "D": "0",
+        "E": "#NOME?"
+      },
+      "gabarito": "A",
+      "explicacao": "Com correspondência exata (0), a matrícula 105 não existe na primeira coluna; o Excel devolve o erro #N/D (valor não disponível). #REF! ocorreria se o índice fosse maior que o número de colunas da tabela.",
+      "resolucao_md": "**O que a questão pede**\nO resultado do PROCV quando o valor não existe.\n\n**Conceito/Regra rápida**\nPROCV exato (0) sem achar o valor -> **#N/D**. Índice maior que o nº de colunas -> **#REF!**.\n\n**Passo a passo**\n```\\nProcurar 105 em A2:A5 (101, 102, 103, 104)\\nNão existe -> #N/D\\n```\\nO índice 3 é válido (a tabela tem 3 colunas), por isso o erro não é #REF!.\n\n**Pegadinha**\n#N/D indica valor não encontrado.\n\n**Macete**\nNão achou? #N/D (Não Disponível)."
+    },
+    {
+      "id": "informatica-q158",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "Em uma planilha, a célula A1 contém 7,86. Na célula B1 foi digitada a fórmula `=ARRED(A1;1)+TRUNCAR(A1;1)+INT(A1)». O valor de B1 é",
+      "alternativas": {
+        "A": "22,6",
+        "B": "22,8",
+        "C": "23",
+        "D": "21,8",
+        "E": "22,7"
+      },
+      "gabarito": "E",
+      "explicacao": "ARRED(7,86;1) = 7,9 (arredonda). TRUNCAR(7,86;1) = 7,8 (corta sem arredondar). INT(7,86) = 7. Soma: 7,9 + 7,8 + 7 = 22,7.",
+      "resolucao_md": "**O que a questão pede**\nResultado combinando ARRED, TRUNCAR e INT.\n\n**Conceito/Regra rápida**\n**ARRED** arredonda; **TRUNCAR** corta as casas; **INT** devolve a parte inteira (para baixo).\n\n**Passo a passo**\n```\\nA1 = 7,86\\nARRED(A1;1)   = 7,9   (7,86 -> a 2ª casa 6 sobe a 1ª casa)\\nTRUNCAR(A1;1) = 7,8   (corta o 6)\\nINT(A1)       = 7\\n7,9 + 7,8 + 7 = 22,7\\n```\\nResultado: **22,7**.\n\n**Pegadinha**\nTruncar não arredonda.\n\n**Macete**\nARRED sobe, TRUNCAR corta, INT joga fora os decimais."
+    },
+    {
+      "id": "informatica-q159",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "O valor da fórmula `=MOD(17;5)+RAIZ(49)*POTÊNCIA(2;3)» é",
+      "alternativas": {
+        "A": "72",
+        "B": "17",
+        "C": "59",
+        "D": "58",
+        "E": "56"
+      },
+      "gabarito": "D",
+      "explicacao": "MOD(17;5) = 2 (resto de 17 por 5); RAIZ(49) = 7; POTÊNCIA(2;3) = 8. Multiplicação primeiro: 7*8 = 56; depois 2 + 56 = 58.",
+      "resolucao_md": "**O que a questão pede**\nO valor da expressão com MOD, RAIZ e POTÊNCIA.\n\n**Conceito/Regra rápida**\n**MOD** = resto da divisão. **RAIZ** = raiz quadrada. **POTÊNCIA(b;e)** = b elevado a e.\n\n**Passo a passo**\n```\\nMOD(17;5)      = 2    (17 = 3*5 + 2)\\nRAIZ(49)       = 7\\nPOTÊNCIA(2;3)  = 2*2*2 = 8\\n=2 + 7*8 = 2 + 56 = 58\\n```\\nResultado: **58**.\n\n**Pegadinha**\nSomar tudo antes de multiplicar dá 72.\n\n**Macete**\nPrimeiro as funções, depois × antes de +."
+    },
+    {
+      "id": "informatica-q160",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Na planilha, A1 contém 10 e A2 contém o texto `PM». Ao digitar em A3 a fórmula `=A1+A2», o Excel exibirá",
+      "alternativas": {
+        "A": "#NOME?",
+        "B": "#DIV/0!",
+        "C": "#VALOR!",
+        "D": "#REF!",
+        "E": "#N/D"
+      },
+      "gabarito": "C",
+      "explicacao": "Somar número com texto que não pode ser convertido gera #VALOR! (tipo de argumento errado).",
+      "resolucao_md": "**O que a questão pede**\nO erro gerado pela soma de número com texto.\n\n**Conceito/Regra rápida**\n#VALOR! = operando do tipo errado. #NOME? = função/nome inexistente. #DIV/0! = divisão por zero. #REF! = referência inválida.\n\n**Passo a passo**\n```\\nA1 = 10   A2 = PM (texto)\\nA3 = A1+A2 = 10 + \"PM\" -> não dá para somar\\n```\\nResultado: **#VALOR!**.\n\n**Pegadinha**\nSe A2 fosse \"5\" (texto numérico), o Excel converteria e somaria.\n\n**Macete**\nVALOR errado = #VALOR!"
+    }
+  ]
+}

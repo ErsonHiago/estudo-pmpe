@@ -1,0 +1,227 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-art5-g2",
+      "titulo": "Art. 5º, grupo 2: inviolabilidades (domicílio, correspondência, vida privada), propriedade e função social, vida e segurança",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Intimidade, vida privada, honra e imagem (art. 5º, X)\n\"São **invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas**, assegurado o direito a **indenização pelo dano material ou moral** decorrente de sua violação.\" São direitos da personalidade; a violação gera indenização (dano material, moral ou à imagem).\n\n## Inviolabilidade do domicílio (art. 5º, XI)\n\"A **casa é asilo inviolável do indivíduo**, ninguém nela podendo penetrar **sem consentimento do morador**, salvo em caso de **flagrante delito ou desastre**, ou para **prestar socorro**, ou, **durante o dia, por determinação judicial**.\"\n| Situação | Pode entrar sem consentimento? |\n|---|---|\n| Flagrante delito | **Sim**, a qualquer hora, sem mandado |\n| Desastre | **Sim**, a qualquer hora |\n| Prestar socorro | **Sim**, a qualquer hora |\n| Determinação judicial (mandado) | **Só durante o dia** |\nPontos de prova: \"casa\" é conceito amplo (STF): abrange também escritório, consultório e quarto de hotel ocupado, mas não bar ou loja aberta ao público. A CF **não define \"dia\"**; a doutrina diverge entre o critério cronológico (por exemplo, das 6h às 18h) e o físico-astronômico (luz solar). A Lei de Abuso de Autoridade (Lei 13.869/2019) tipifica cumprir mandado de busca e apreensão domiciliar fora do período das 5h às 21h [VERIFICAR]. **Só o juiz** expede mandado de busca domiciliar (cláusula de reserva de jurisdição): nem delegado, nem MP, nem CPI.\n\n## Sigilo de correspondência e comunicações (art. 5º, XII)\n\"É inviolável o sigilo da **correspondência** e das comunicações **telegráficas, de dados e das comunicações telefônicas**, salvo, **no último caso** (comunicações telefônicas), **por ordem judicial**, nas hipóteses e na forma que a lei estabelecer para fins de **investigação criminal ou instrução processual penal**.\" A lei é a **Lei 9.296/1996** (interceptação telefônica). Observações: a exceção expressa é só para a telefônica; interceptação exige ordem **judicial**, finalidade **penal** e lei regulamentadora; não vale para fins cíveis ou administrativos.\n\n## Proteção de dados pessoais (art. 5º, LXXIX)\nIncluído pela **EC 115/2022**: \"é assegurado, nos termos da lei, o direito à **proteção dos dados pessoais, inclusive nos meios digitais**.\" Regulamentação principal: LGPD (Lei 13.709/2018).\n\n## Direito à vida e à segurança\nO **caput** do art. 5º torna inviolável o direito à **vida** (base para a vedação da pena de morte, salvo guerra declarada, art. 5º, XLVII, a) e à **segurança** (individual, jurídica e, no art. 144, a segurança pública como dever do Estado e direito e responsabilidade de todos). O Estado deve proteger a vida em dois sentidos: não tirá-la arbitrariamente e garantir condições de existência digna.\n\n## Propriedade e função social (art. 5º, XXII a XXVI)\n| Inciso | Regra |\n|---|---|\n| XXII | é **garantido** o direito de propriedade |\n| XXIII | a propriedade atenderá à sua **função social** |\n| XXIV | **desapropriação** por necessidade ou utilidade pública ou interesse social, mediante **justa e prévia indenização em dinheiro**, ressalvados os casos da própria CF (por exemplo, títulos da dívida pública na desapropriação por descumprimento da função social urbana ou para reforma agrária) |\n| XXV | **requisição** em iminente perigo público: a autoridade usa a propriedade particular, com **indenização ulterior, se houver dano** |\n| XXVI | **pequena propriedade rural**, assim definida em lei, trabalhada pela família, **não será objeto de penhora** para pagamento de débitos decorrentes de sua atividade produtiva |\n\n**Desapropriação x requisição:** na desapropriação a indenização é **prévia**; na requisição é **posterior e só se houver dano**; a requisição é de uso, a desapropriação transfere a propriedade.\n\n## Macetes\n- **Casa:** \"F-D-S-J(dia)\": Flagrante, Desastre, Socorro entram a qualquer hora; Judicial só de dia.\n- **Desapropriação:** JUSTA, PRÉVIA, DINHEIRO (3 palavras).\n- **Telefone:** exceção judicial só para o telefônico.",
+      "dicas": [
+        "Domicílio: flagrante, desastre e socorro = qualquer hora; mandado judicial = só de dia.",
+        "Desapropriação = justa, prévia e em dinheiro; requisição = indenização ulterior, se houver dano.",
+        "Sigilo: a exceção judicial é só para comunicação telefônica, para fim penal (Lei 9.296/96).",
+        "Só o juiz expede mandado de busca domiciliar; a CF não diz o que é \"dia\".",
+        "Pequena propriedade rural trabalhada pela família: impenhorável para dívida da própria atividade produtiva."
+      ],
+      "pegadinhas": [
+        "Dizer que o mandado judicial permite entrar em casa a qualquer hora: só durante o dia.",
+        "Dizer que flagrante delito só autoriza entrar durante o dia ou com mandado: não, a qualquer hora e sem mandado.",
+        "Dizer que a ordem judicial pode quebrar sigilo telefônico para fins cíveis ou administrativos: só investigação criminal ou instrução processual penal.",
+        "Trocar \"justa e prévia indenização em dinheiro\" por \"posterior\" ou \"em títulos\" como regra geral.",
+        "Dizer que o delegado ou o Ministério Público pode expedir mandado de busca domiciliar: só o juiz.",
+        "Afirmar que a requisição exige indenização prévia: é ulterior, e só se houver dano.",
+        "Dizer que a pequena propriedade rural é impenhorável para qualquer dívida: só para débitos da atividade produtiva."
+      ],
+      "flashcards": [
+        {
+          "q": "Quais direitos o art. 5º, X declara invioláveis?",
+          "a": "Intimidade, vida privada, honra e imagem, com direito a indenização por dano material ou moral."
+        },
+        {
+          "q": "Quando se pode entrar em casa sem consentimento do morador?",
+          "a": "Flagrante delito, desastre, socorro (qualquer hora) ou determinação judicial (só de dia)."
+        },
+        {
+          "q": "O mandado judicial de busca domiciliar vale à noite?",
+          "a": "Não: só durante o dia (art. 5º, XI)."
+        },
+        {
+          "q": "Quem pode expedir mandado de busca domiciliar?",
+          "a": "Somente o juiz (cláusula de reserva de jurisdição)."
+        },
+        {
+          "q": "Qual sigilo pode ser quebrado por ordem judicial segundo o art. 5º, XII?",
+          "a": "O das comunicações telefônicas, para investigação criminal ou instrução processual penal."
+        },
+        {
+          "q": "Qual lei regulamenta a interceptação telefônica?",
+          "a": "Lei 9.296/1996."
+        },
+        {
+          "q": "Qual emenda inseriu a proteção de dados pessoais no art. 5º?",
+          "a": "EC 115/2022 (inciso LXXIX), inclusive nos meios digitais."
+        },
+        {
+          "q": "O que a propriedade deve atender?",
+          "a": "Sua função social (art. 5º, XXIII)."
+        },
+        {
+          "q": "Requisitos da desapropriação comum?",
+          "a": "Necessidade ou utilidade pública ou interesse social, com justa e prévia indenização em dinheiro."
+        },
+        {
+          "q": "Como é a indenização na requisição por iminente perigo público?",
+          "a": "Ulterior, se houver dano (art. 5º, XXV)."
+        },
+        {
+          "q": "Quando a pequena propriedade rural é impenhorável?",
+          "a": "Se trabalhada pela família e para dívidas decorrentes de sua atividade produtiva (art. 5º, XXVI)."
+        },
+        {
+          "q": "Em que artigo está a segurança pública?",
+          "a": "Art. 144 (dever do Estado, direito e responsabilidade de todos)."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-art5-g2-q01",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "Policiais militares, às 23h, ouvem disparos de arma de fogo e gritos vindos de uma residência e ali ingressam, sem mandado e sem consentimento do morador, encontrando o agressor em plena prática do crime. Com base no art. 5º, XI, da CF/88, o ingresso",
+      "alternativas": {
+        "A": "é ilícito, pois só se pode entrar em casa alheia com mandado judicial, a qualquer hora.",
+        "B": "é ilícito, pois só seria permitido durante o dia, mesmo em flagrante.",
+        "C": "é ilícito, pois depende de autorização do delegado de polícia.",
+        "D": "é lícito, pois a inviolabilidade do domicílio cede diante do flagrante delito, que autoriza o ingresso a qualquer hora, sem mandado.",
+        "E": "é ilícito, pois só se admite com consentimento do morador, sem exceção."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: o flagrante delito é exceção que não depende de horário nem de ordem judicial. Demais: A) o mandado judicial só vale durante o dia, e o flagrante dispensa mandado. B) a restrição ao dia vale para a determinação judicial, não para flagrante. C) delegado não autoriza entrada em domicílio. E) o art. 5º, XI prevê exceções.",
+      "resolucao_md": "**O que a questão pede**\nAplicar as exceções à inviolabilidade do domicílio.\n\n**Conceito/Regra rápida**\n**Art. 5º, XI**: sem consentimento só em **flagrante delito, desastre ou socorro** (qualquer hora) ou **por determinação judicial, durante o dia**.\n\n**Passo a passo**\n1. Fato: crime acontecendo (flagrante), às 23h, sem mandado.\n2. Flagrante é exceção independente de horário e de ordem judicial.\n3. Elimine as que exigem mandado \"a qualquer hora\" (mandado só de dia).\n4. Elimine as que exigem \"dia\" para flagrante.\n5. Elimine delegado e \"sem exceções\".\n6. Marque D.\n\n**Pegadinha**\nRestrição de horário se aplica só ao mandado judicial.\n\n**Macete**\nF-D-S qualquer hora; J só de dia."
+    },
+    {
+      "id": "const-a-art5-g2-q02",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "Quanto à determinação judicial como exceção à inviolabilidade do domicílio (art. 5º, XI, da CF/88), é correto afirmar que o ingresso sem consentimento do morador",
+      "alternativas": {
+        "A": "é permitido por determinação judicial a qualquer hora do dia ou da noite.",
+        "B": "é permitido por ordem do Ministério Público, durante o dia.",
+        "C": "é permitido por ordem do delegado de polícia, em qualquer horário.",
+        "D": "é permitido por determinação judicial apenas durante a noite, para evitar a destruição de provas.",
+        "E": "é permitido por determinação judicial, mas apenas durante o dia."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é o texto do inciso XI. Demais: A) a noite está excluída para mandado judicial. B) a ordem tem que ser judicial. C) delegado não pode, e o horário também é restrito. D) o texto fala em \"durante o dia\".",
+      "resolucao_md": "**O que a questão pede**\nLembrar as condições do mandado judicial de busca domiciliar.\n\n**Conceito/Regra rápida**\n**Art. 5º, XI**: \"durante o dia, por determinação judicial\". Dois requisitos: autoridade (juiz) e tempo (dia).\n\n**Passo a passo**\n1. Fixe os dois requisitos: juiz e dia.\n2. Elimine MP e delegado (autoridade errada).\n3. Elimine as que dizem noite ou \"qualquer hora\".\n4. Alternativa E.\n\n**Pegadinha**\nTrocar \"dia\" por \"noite\" ou \"qualquer horário\" é a pegadinha clássica.\n\n**Macete**\nJuiz + dia."
+    },
+    {
+      "id": "const-a-art5-g2-q03",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "No que se refere ao sigilo das comunicações, previsto no art. 5º, XII, da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "a ordem judicial pode quebrar o sigilo das comunicações telefônicas, nas hipóteses e na forma que a lei estabelecer, para fins de investigação criminal ou instrução processual penal.",
+        "B": "o delegado de polícia pode determinar a interceptação telefônica em caso de urgência, independentemente de ordem judicial.",
+        "C": "a interceptação telefônica pode ser autorizada para instruir processo civil ou administrativo.",
+        "D": "o sigilo das comunicações é absoluto e não admite exceção constitucional.",
+        "E": "o membro do Ministério Público pode determinar diretamente a interceptação telefônica."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é a redação do inciso XII. Demais: B) só ordem judicial. C) a finalidade constitucional é penal. D) o inciso XII ressalva a comunicação telefônica por ordem judicial. E) a medida é de competência judicial (reserva de jurisdição).",
+      "resolucao_md": "**O que a questão pede**\nReconhecer a exceção ao sigilo das comunicações.\n\n**Conceito/Regra rápida**\n**Art. 5º, XII**: exceção por ordem judicial **somente** para comunicações telefônicas, em investigação criminal ou instrução processual penal, nos termos da lei (Lei 9.296/96).\n\n**Passo a passo**\n1. Palavras-chave: ordem judicial, telefônica, criminal/processual penal, lei.\n2. Elimine delegado e MP (sem ordem judicial).\n3. Elimine finalidade civil/administrativa.\n4. Elimine \"sigilo absoluto\".\n5. Alternativa A.\n\n**Pegadinha**\nOs três erros típicos: autoridade errada, finalidade errada e \"absoluto\".\n\n**Macete**\nTelefone + juiz + processo penal."
+    },
+    {
+      "id": "const-a-art5-g2-q04",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA a respeito dos direitos previstos no art. 5º, X, da CF/88.",
+      "alternativas": {
+        "A": "A intimidade é inviolável.",
+        "B": "A violação da imagem de uma pessoa gera apenas o direito de resposta, não havendo direito a indenização.",
+        "C": "A vida privada é inviolável.",
+        "D": "A honra é inviolável.",
+        "E": "É assegurado o direito a indenização pelo dano material ou moral decorrente da violação desses direitos."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: o inciso X assegura indenização pelo dano material ou moral. Demais: A) consta expressamente no inciso X. C) consta no inciso X. D) consta no inciso X. E) é a parte final do inciso X.",
+      "resolucao_md": "**O que a questão pede**\nAchar a alternativa falsa (INCORRETA).\n\n**Conceito/Regra rápida**\n**Art. 5º, X**: intimidade, vida privada, honra e imagem invioláveis, **com direito a indenização** por dano material ou moral. (O direito de resposta, art. 5º, V, soma-se à indenização, não a substitui.)\n\n**Passo a passo**\n1. Leia: pede a INCORRETA.\n2. As quatro alternativas simples repetem o inciso X.\n3. A alternativa B diz que a imagem só gera resposta, sem indenização: contradiz o inciso X e o inciso V (\"além da indenização\").\n\n**Pegadinha**\nA banca troca \"e\" por \"apenas\": resposta e indenização cumulam-se.\n\n**Macete**\nViolou imagem? Resposta + indenização."
+    },
+    {
+      "id": "const-a-art5-g2-q05",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "Sobre a desapropriação, prevista no art. 5º, XXIV, da CF/88, é correto afirmar que, em regra, ela depende de",
+      "alternativas": {
+        "A": "necessidade ou utilidade pública, mediante indenização posterior, em títulos da dívida pública.",
+        "B": "simples conveniência da Administração, mediante indenização em dinheiro.",
+        "C": "necessidade ou utilidade pública, ou interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos na própria Constituição.",
+        "D": "ordem judicial prévia e indenização em bens equivalentes.",
+        "E": "interesse social, mediante indenização ulterior, se houver dano."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é o texto do inciso XXIV. Demais: A) a regra é prévia e em dinheiro; títulos são exceções constitucionais. B) exige necessidade, utilidade pública ou interesse social. D) a indenização é em dinheiro, e a desapropriação não depende de ordem judicial prévia para ser declarada. E) essa é a lógica da requisição (art. 5º, XXV).",
+      "resolucao_md": "**O que a questão pede**\nIdentificar os requisitos da desapropriação.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXIV**: três hipóteses (necessidade pública, utilidade pública, interesse social) e indenização **justa, prévia e em dinheiro**.\n\n**Passo a passo**\n1. Fixe \"justa, prévia e em dinheiro\".\n2. Elimine a que diz \"posterior\" e \"títulos\" como regra.\n3. Elimine \"simples conveniência\".\n4. Elimine \"bens equivalentes\".\n5. Elimine a que usa regra da requisição.\n6. Alternativa C.\n\n**Pegadinha**\nTítulos da dívida existem, mas só nos casos que a própria CF prevê.\n\n**Macete**\nJUSTA, PRÉVIA, DINHEIRO."
+    },
+    {
+      "id": "const-a-art5-g2-q06",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "Em situação de iminente perigo público, a autoridade competente utiliza propriedade particular para evitar o alastramento de um incêndio de grandes proporções. Nos termos do art. 5º, XXV, da CF/88,",
+      "alternativas": {
+        "A": "a medida só é permitida mediante prévia e justa indenização em dinheiro.",
+        "B": "a medida é permitida, sem direito a qualquer indenização, por se tratar de interesse público.",
+        "C": "a medida depende de autorização judicial prévia e de consentimento do proprietário.",
+        "D": "a medida é permitida, assegurada ao proprietário indenização ulterior, se houver dano.",
+        "E": "a medida só é válida em tempo de guerra declarada."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o texto do inciso XXV. Demais: A) prévia indenização é regra da desapropriação. B) havendo dano, há indenização. C) o inciso não exige tais condições. E) o inciso fala em iminente perigo público, sem restringir à guerra.",
+      "resolucao_md": "**O que a questão pede**\nDistinguir requisição de desapropriação.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXV (requisição)**: uso da propriedade particular em iminente perigo público; **indenização ulterior, se houver dano**.\n\n**Passo a passo**\n1. Identifique: iminente perigo público + uso temporário = requisição.\n2. Na requisição a indenização é depois e condicionada a dano.\n3. Elimine \"prévia\" (desapropriação).\n4. Elimine \"sem indenização\", \"autorização prévia\" e \"guerra\".\n5. Alternativa D.\n\n**Pegadinha**\nPrévia (desapropriação) x ulterior (requisição).\n\n**Macete**\nPerigo iminente: usa primeiro, paga depois, se houver dano."
+    },
+    {
+      "id": "const-a-art5-g2-q07",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "De acordo com o art. 5º, XXVI, da CF/88, a pequena propriedade rural, assim definida em lei, trabalhada pela família,",
+      "alternativas": {
+        "A": "não será objeto de penhora para o pagamento de qualquer débito, inclusive tributário e alimentar.",
+        "B": "poderá ser penhorada para pagamento de débitos decorrentes de sua atividade produtiva, desde que autorizado pelo juiz.",
+        "C": "será definida por decreto do Chefe do Poder Executivo.",
+        "D": "será impenhorável desde que trabalhada por empregados contratados.",
+        "E": "não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é a redação do inciso XXVI. Demais: A) a impenhorabilidade é restrita aos débitos da atividade produtiva. B) inverte a regra: não será objeto de penhora. C) é definida em lei. D) o requisito é ser trabalhada pela família.",
+      "resolucao_md": "**O que a questão pede**\nEntender a impenhorabilidade da pequena propriedade rural.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXVI**: pequena propriedade rural (definida em lei), trabalhada pela família: impenhorável para dívidas **da atividade produtiva**.\n\n**Passo a passo**\n1. Fixe três pontos: definida em lei, trabalhada pela família, dívidas da atividade produtiva.\n2. Elimine \"qualquer débito\".\n3. Elimine a que diz que pode ser penhorada.\n4. Elimine \"decreto\" e \"empregados\".\n5. Alternativa E.\n\n**Pegadinha**\nGeneralizar para \"qualquer dívida\" é o erro mais comum.\n\n**Macete**\nFamília + atividade produtiva = impenhorável."
+    },
+    {
+      "id": "const-a-art5-g2-q08",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 1,
+      "enunciado": "Em relação à proteção de dados pessoais na Constituição Federal de 1988, é correto afirmar que",
+      "alternativas": {
+        "A": "é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais, previsto no art. 5º, LXXIX, incluído pela EC 115/2022.",
+        "B": "o direito à proteção de dados pessoais aplica-se somente a documentos físicos.",
+        "C": "a Constituição não prevê expressamente a proteção de dados, que decorre apenas do direito à vida privada.",
+        "D": "o direito foi inserido no art. 5º pela Emenda Constitucional 45/2004.",
+        "E": "o direito aplica-se apenas aos dados de pessoas jurídicas."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é o texto do inciso LXXIX. Demais: B) o inciso inclui os meios digitais. C) após a EC 115/2022 há previsão expressa. D) a inserção decorreu da EC 115/2022. E) trata-se de dados pessoais (pessoas naturais).",
+      "resolucao_md": "**O que a questão pede**\nReconhecer o inciso LXXIX do art. 5º.\n\n**Conceito/Regra rápida**\n**Art. 5º, LXXIX (EC 115/2022)**: proteção dos dados pessoais, inclusive nos meios digitais, nos termos da lei (LGPD).\n\n**Passo a passo**\n1. Lembre: dados pessoais + meios digitais + \"nos termos da lei\".\n2. Elimine \"somente físicos\" e \"só pessoas jurídicas\".\n3. Elimine \"sem previsão expressa\" (existe o inciso LXXIX).\n4. Elimine EC 45/2004 (reforma do Judiciário).\n5. Alternativa A.\n\n**Pegadinha**\nDatas e números de emendas são trocados com frequência.\n\n**Macete**\nEC 115 = dados; EC 45 = reforma do Judiciário."
+    },
+    {
+      "id": "const-a-art5-g2-q09",
+      "topico": "const-a-art5-g2",
+      "dificuldade": 2,
+      "enunciado": "Analise as afirmativas sobre o direito de propriedade na CF/88.\n\nI. É garantido o direito de propriedade.\nII. A propriedade atenderá à sua função social.\nIII. A desapropriação pode ocorrer por necessidade ou utilidade pública, ou por interesse social.\nIV. Em caso de iminente perigo público, o uso da propriedade particular exige prévia indenização em dinheiro.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I e II, apenas.",
+        "B": "I, II e III, apenas.",
+        "C": "II, III e IV, apenas.",
+        "D": "I, III e IV, apenas.",
+        "E": "I, II, III e IV."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: os itens I, II e III correspondem aos incisos XXII, XXIII e XXIV; o item IV inverte a regra da requisição. Demais: A) o item III também é verdadeiro. C) o item IV é falso e o item I verdadeiro foi excluído. D) o item IV é falso. E) o item IV é falso: na requisição a indenização é ulterior, se houver dano.",
+      "resolucao_md": "**O que a questão pede**\nMarcar a combinação correta de itens.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXII-XXV**: garantia da propriedade; função social; desapropriação; requisição com indenização ulterior.\n\n**Passo a passo**\n1. Item I: XXII. Verdadeiro.\n2. Item II: XXIII. Verdadeiro.\n3. Item III: XXIV. Verdadeiro.\n4. Item IV: contradiz o XXV (indenização ulterior, se houver dano). Falso.\n5. Combinação: I, II e III. Alternativa B.\n\n**Pegadinha**\nItem IV mistura desapropriação com requisição.\n\n**Macete**\nPrévia = desapropriar; ulterior = requisitar."
+    }
+  ]
+}

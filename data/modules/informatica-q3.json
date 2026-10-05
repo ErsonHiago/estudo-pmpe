@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q121",
+      "topico": "informatica-windows11",
+      "dificuldade": 2,
+      "enunciado": "Um usuário precisa ENCERRAR um programa que travou, usando o Prompt de Comando. Primeiro lista os processos em execução e depois força o encerramento do notepad.exe. Os comandos adequados são, respectivamente,",
+      "alternativas": {
+        "A": "tasklist e taskkill.",
+        "B": "dir e del.",
+        "C": "ipconfig e ping.",
+        "D": "tasklist e tracert.",
+        "E": "taskkill e tasklist."
+      },
+      "gabarito": "A",
+      "explicacao": "tasklist lista processos; taskkill /IM nome.exe encerra o processo. A ordem do enunciado é listar e depois encerrar.",
+      "resolucao_md": "**O que a questão pede**\nComandos para listar e encerrar processos.\n\n**Conceito/Regra rápida**\ntasklist = lista processos. taskkill = encerra (mata) processos.\n\n**Passo a passo**\n```\\nC:\\> tasklist\\n   notepad.exe   4120 ...\\nC:\\> taskkill /IM notepad.exe\\n   ÊXITO: o processo encerrado.\\n```\n\n**Pegadinha**\nA ordem importa: a alternativa que inverte os dois é a pegadinha.\n\n**Macete**\ntask-LIST = lista; task-KILL = mata."
+    },
+    {
+      "id": "informatica-q122",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "No Windows 11, o atalho Win+Shift+S serve para",
+      "alternativas": {
+        "A": "bloquear a tela.",
+        "B": "abrir o Gerenciador de Tarefas.",
+        "C": "salvar o arquivo atual.",
+        "D": "abrir as Configurações.",
+        "E": "capturar uma região da tela com a Ferramenta de Captura."
+      },
+      "gabarito": "E",
+      "explicacao": "Win+Shift+S abre a captura de tela (retangular, livre, janela ou tela inteira). Configurações é Win+I; Gerenciador é Ctrl+Shift+Esc.",
+      "resolucao_md": "**O que a questão pede**\nFunção de Win+Shift+S.\n\n**Conceito/Regra rápida**\nS = Screenshot/Snip. A imagem vai para a área de transferência (e para a Ferramenta de Captura).\n\n**Passo a passo**\n1. Win+Shift+S escurece a tela.\\n2. O usuário seleciona a área.\\n3. A imagem é copiada e pode ser colada com Ctrl+V.\n\n**Pegadinha**\nPrint Screen copia a tela toda; Win+Shift+S permite escolher a área.\n\n**Macete**\nS de Snip (recorte)."
+    },
+    {
+      "id": "informatica-q123",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "Para copiar para a área de transferência APENAS a janela ativa (e não a tela inteira), utiliza-se o atalho",
+      "alternativas": {
+        "A": "Print Screen.",
+        "B": "Ctrl+Print Screen.",
+        "C": "Alt+Print Screen.",
+        "D": "Shift+Print Screen.",
+        "E": "Win+Print Screen."
+      },
+      "gabarito": "C",
+      "explicacao": "Print Screen copia a tela inteira; Alt+Print Screen copia somente a janela ativa. (Win+Print Screen salva a tela inteira em arquivo na pasta Imagens.)",
+      "resolucao_md": "**O que a questão pede**\nCaptura só da janela ativa.\n\n**Conceito/Regra rápida**\nPrint Screen = tela inteira. Alt + Print Screen = só a janela em foco.\n\n**Passo a passo**\n1. Clique na janela desejada.\\n2. Pressione Alt+Print Screen.\\n3. Cole (Ctrl+V) no Paint ou no Word.\n\n**Pegadinha**\nWin+Print Screen também captura, mas a tela toda e grava arquivo.\n\n**Macete**\nAlt = \"só a janela Alta (ativa)\"."
+    },
+    {
+      "id": "informatica-q124",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "Pressionar Win+D no Windows 11 tem como efeito",
+      "alternativas": {
+        "A": "abrir o Explorador de Arquivos.",
+        "B": "abrir a caixa Executar.",
+        "C": "excluir o item selecionado.",
+        "D": "mostrar a Área de Trabalho, minimizando as janelas abertas (e restaurá-las ao pressionar novamente).",
+        "E": "abrir o Menu Iniciar."
+      },
+      "gabarito": "D",
+      "explicacao": "D de Desktop: mostra/oculta a Área de Trabalho. Win+E abre o Explorador, Win+R abre Executar e a tecla Win sozinha abre o Menu Iniciar.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Win+D.\n\n**Conceito/Regra rápida**\nWin+D = Desktop. Win+E = Explorer. Win+R = Run. Win+I = configurações (Information/Settings).\n\n**Passo a passo**\n1. Win+D mostra a área de trabalho.\\n2. Pressionando de novo, as janelas voltam.\\n3. Win+M também minimiza todas, mas não restaura com o mesmo atalho.\n\n**Pegadinha**\nNão confundir com Win+M (só minimiza).\n\n**Macete**\nD de Desktop."
+    },
+    {
+      "id": "informatica-q125",
+      "topico": "informatica-windows11",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA a respeito do Windows 11.",
+      "alternativas": {
+        "A": "A Segurança do Windows reúne o Microsoft Defender Antivírus e o Firewall.",
+        "B": "O Painel de Controle foi totalmente removido do sistema, sendo substituído pelo aplicativo Configurações.",
+        "C": "O Menu Iniciar fica, por padrão, centralizado na Barra de Tarefas.",
+        "D": "A Visão de Tarefas permite criar e alternar entre áreas de trabalho virtuais.",
+        "E": "Os Layouts de Snap ajudam a organizar janelas na tela."
+      },
+      "gabarito": "B",
+      "explicacao": "O Painel de Controle ainda existe no Windows 11 (ainda usado, por exemplo, em Programas e Recursos e Opções de Energia) ao lado do aplicativo Configurações. As demais afirmações são verdadeiras.",
+      "resolucao_md": "**O que a questão pede**\nA frase falsa sobre o Windows 11.\n\n**Conceito/Regra rápida**\nNo Windows 11 convivem **Configurações** (Win+I, moderna) e **Painel de Controle** (clássico).\n\n**Passo a passo**\n1. Defender + Firewall formam a Segurança do Windows (verdadeira).\\n2. Menu Iniciar centralizado por padrão (verdadeira).\\n3. Visão de Tarefas = áreas virtuais (verdadeira).\\n4. Layouts de Snap (verdadeira).\\n5. \"Painel de Controle totalmente removido\" é **falsa**.\n\n**Pegadinha**\nA palavra \"totalmente\" é o sinal de alerta.\n\n**Macete**\nWindows 11: dois painéis, não um só."
+    },
+    {
+      "id": "informatica-q126",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "O atalho de teclado Alt+Tab no Windows permite",
+      "alternativas": {
+        "A": "bloquear o computador.",
+        "B": "fechar a janela ativa.",
+        "C": "abrir o Gerenciador de Tarefas.",
+        "D": "alternar entre as janelas e programas abertos.",
+        "E": "abrir a caixa Executar."
+      },
+      "gabarito": "D",
+      "explicacao": "Alt+Tab alterna entre janelas abertas. Alt+F4 fecha; Win+L bloqueia; Ctrl+Shift+Esc abre o Gerenciador; Win+R abre Executar.",
+      "resolucao_md": "**O que a questão pede**\nFunção de Alt+Tab.\n\n**Conceito/Regra rápida**\nAlt+Tab = troca de janela. Win+Tab = Visão de Tarefas (visual das janelas e áreas virtuais).\n\n**Passo a passo**\n1. Segure Alt e aperte Tab para percorrer as janelas.\\n2. Solte para escolher.\\n3. As demais alternativas pertencem a outros atalhos.\n\n**Pegadinha**\nAlt+Tab (alterna) x Alt+F4 (fecha).\n\n**Macete**\nTab = \"tabuleiro\" de janelas."
+    },
+    {
+      "id": "informatica-q127",
+      "topico": "informatica-windows11",
+      "dificuldade": 2,
+      "enunciado": "No Windows 11, o atalho Win+V permite",
+      "alternativas": {
+        "A": "colar o último item copiado sem formatação.",
+        "B": "abrir a Visão de Tarefas.",
+        "C": "abrir o Gerenciador de Dispositivos.",
+        "D": "ativar o ditado por voz.",
+        "E": "abrir o histórico da área de transferência, escolhendo itens copiados anteriormente para colar."
+      },
+      "gabarito": "E",
+      "explicacao": "Win+V abre o histórico da área de transferência (se estiver habilitado em Configurações). Ctrl+V cola só o último item; Win+Tab abre a Visão de Tarefas.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Win+V.\n\n**Conceito/Regra rápida**\nCtrl+V cola o **último** item. Win+V mostra **vários** itens copiados (histórico).\n\n**Passo a passo**\n1. Copie vários textos com Ctrl+C.\\n2. Pressione Win+V.\\n3. Escolha na lista qual colar.\n\n**Pegadinha**\nNão confunda Ctrl+V (um item) com Win+V (histórico).\n\n**Macete**\nWin+V = \"ver\" o que foi copiado."
+    },
+    {
+      "id": "informatica-q128",
+      "topico": "informatica-windows11",
+      "dificuldade": 2,
+      "enunciado": "No Prompt de Comando, ao executar o comando `del *.tmp» em uma pasta, o resultado será",
+      "alternativas": {
+        "A": "a exclusão da pasta chamada *.tmp.",
+        "B": "a exclusão de todas as pastas da unidade.",
+        "C": "a exclusão de todos os arquivos com extensão .tmp existentes na pasta atual.",
+        "D": "a exibição (listagem) dos arquivos .tmp, sem excluí-los.",
+        "E": "a criação de um arquivo chamado *.tmp."
+      },
+      "gabarito": "C",
+      "explicacao": "O asterisco é curinga que substitui qualquer sequência de caracteres; del apaga arquivos (não pastas). Listar seria dir.",
+      "resolucao_md": "**O que a questão pede**\nO que faz `del *.tmp».\n\n**Conceito/Regra rápida**\n`*» substitui vários caracteres; `?» substitui um. `del» apaga arquivos; pastas são removidas com `rd».\n\n**Passo a passo**\n```\\nPasta atual: a.tmp  b.tmp  nota.txt\\nC:\\Pasta> del *.tmp\\nDepois:       nota.txt\\n```\n\n**Pegadinha**\ndel não apaga pastas.\n\n**Macete**\nAsterisco = \"qualquer coisa\"."
+    },
+    {
+      "id": "informatica-q129",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "Para abrir rapidamente a caixa Executar no Windows 11 (onde se pode digitar `cmd» para abrir o Prompt de Comando), utiliza-se o atalho",
+      "alternativas": {
+        "A": "Win+E.",
+        "B": "Win+R.",
+        "C": "Win+D.",
+        "D": "Win+I.",
+        "E": "Win+L."
+      },
+      "gabarito": "B",
+      "explicacao": "Win+R abre Executar. Win+E abre o Explorador; Win+D a Área de Trabalho; Win+I as Configurações; Win+L bloqueia.",
+      "resolucao_md": "**O que a questão pede**\nAtalho da caixa Executar.\n\n**Conceito/Regra rápida**\nR de Run (executar).\n\n**Passo a passo**\n1. Win+R.\\n2. Digite `cmd» e pressione Enter.\\n3. O Prompt de Comando se abre.\n\n**Pegadinha**\nComparar com Win+E (Explorer).\n\n**Macete**\nR = Run."
+    },
+    {
+      "id": "informatica-q130",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "No Windows 11, o recurso Layouts de Snap, acessível por exemplo com Win+Z, tem como finalidade",
+      "alternativas": {
+        "A": "organizar e encaixar as janelas abertas em posições predefinidas da tela.",
+        "B": "capturar imagens da tela.",
+        "C": "proteger o computador contra vírus.",
+        "D": "compactar arquivos de uma pasta.",
+        "E": "limpar arquivos temporários do disco."
+      },
+      "gabarito": "A",
+      "explicacao": "Snap Layouts permite dispor janelas lado a lado (metade, terços, quadrantes). Captura é Win+Shift+S; antivírus é a Segurança do Windows; limpeza é o Sensor de armazenamento.",
+      "resolucao_md": "**O que a questão pede**\nPara que serve o Layout de Snap.\n\n**Conceito/Regra rápida**\nSnap = encaixar janelas. Win+setas também encaixa/maximiza/minimiza.\n\n**Passo a passo**\n1. Win+Z abre as opções de layout.\\n2. Escolha a posição de cada janela.\\n3. As demais alternativas são outros recursos: captura, antivírus, compactador, Sensor de armazenamento.\n\n**Pegadinha**\nNão confundir com Visão de Tarefas (áreas de trabalho virtuais).\n\n**Macete**\nSnap = \"encaixe\" de janelas."
+    }
+  ]
+}

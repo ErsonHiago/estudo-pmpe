@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q051",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 2,
+   "enunciado": "O capitão José de Barros Lima, o «Leão Coroado», é lembrado em 1817 porque",
+   "alternativas": {
+    "A": "matou o brigadeiro Manuel Joaquim Barbosa de Castro, que ordenava sua prisão, dando início ao levante.",
+    "B": "assinou a rendição no Forte do Brum.",
+    "C": "presidiu o Governo Provisório.",
+    "D": "foi o fuzilado em 1825.",
+    "E": "comandou a esquadra enviada para reprimir o movimento."
+   },
+   "gabarito": "A",
+   "explicacao": "Matou o brigadeiro.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem e ato.\n\n**Conceito/Regra rápida**\n6 de março: Barros Lima mata o brigadeiro; o governador **Caetano Pinto** se rende no Forte do Brum.\n\n**Passo a passo**\n1. Quem iniciou? Barros Lima.\n2. Quem se rendeu? Caetano Pinto.\n\n**Pegadinha**\nConfundir Barros Lima com o governador.\n\n**Macete**\nLeão Coroado = estopim.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q052",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 2,
+   "enunciado": "Após o levante, quem se rendeu no Forte do Brum foi",
+   "alternativas": {
+    "A": "o capitão Barros Lima.",
+    "B": "o governador Caetano Pinto de Miranda Montenegro.",
+    "C": "Frei Caneca.",
+    "D": "Domingos José Martins.",
+    "E": "Manuel de Carvalho Pais de Andrade."
+   },
+   "gabarito": "B",
+   "explicacao": "Caetano Pinto.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o governador.\n\n**Conceito/Regra rápida**\nO governador realista capitulou; o governo foi tomado pelos revoltosos.\n\n**Passo a passo**\n1. Quem governava? Caetano Pinto.\n2. As demais opções são líderes revoltosos ou de 1824.\n\n**Pegadinha**\nAtribuir a rendição a um líder da revolução.\n\n**Macete**\nRendeu-se quem governava.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q053",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 2,
+   "enunciado": "O Governo Provisório de 1817 teve cinco membros, representando",
+   "alternativas": {
+    "A": "clero, nobreza, burguesia, escravos e indígenas.",
+    "B": "Executivo, Legislativo, Judiciário, Moderador e Imprensa.",
+    "C": "clero, magistratura, militares, agricultura e comércio.",
+    "D": "Olinda, Recife, Paraíba, Ceará e Rio Grande do Norte.",
+    "E": "liberais, conservadores, praieiros, guabirus e cabanos."
+   },
+   "gabarito": "C",
+   "explicacao": "Clero, magistratura, militares, agricultura, comércio.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer a composição.\n\n**Conceito/Regra rápida**\nCinco membros: Padre João Ribeiro (clero), José Luís de Mendonça (magistratura), Domingos Teotônio Jorge (militares), Manuel Correia de Araújo (agricultura) e Domingos José Martins (comércio).\n\n**Passo a passo**\n1. Ligue cada setor a um nome.\n2. As outras opções misturam conceitos.\n\n**Pegadinha**\nMisturar com as províncias da Confederação (1824).\n\n**Macete**\nCinco setores sociais.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q054",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre as causas da Revolução de 1817.",
+   "alternativas": {
+    "A": "A crise econômica pela queda do açúcar e do algodão.",
+    "B": "Os privilégios aos portugueses em cargos civis e militares.",
+    "C": "A influência do Iluminismo e das independências americanas.",
+    "D": "O protesto contra a dissolução da Assembleia Constituinte por D. Pedro I.",
+    "E": "O ressentimento por impostos que sustentavam a corte no Rio."
+   },
+   "gabarito": "D",
+   "explicacao": "A incorreta é D.",
+   "resolucao_md": "**O que a questão pede**\nAchar a causa de outro movimento.\n\n**Conceito/Regra rápida**\nA dissolução da Constituinte é causa de **1824**.\n\n**Passo a passo**\n1. Lembre os anos: 1817 = C. João VI; 1824 = C. Pedro I.\n2. As outras são causas de 1817.\n\n**Pegadinha**\nMisturar causas dos dois movimentos.\n\n**Macete**\n1817: João VI. 1824: Pedro I.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q055",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 3,
+   "enunciado": "Sobre as ideias e instituições ligadas a 1817, analise as afirmativas.\n\nI. O Areópago de Itambé e a Academia do Paraíso, lojas maçônicas, difundiram ideias iluministas.\nII. O Seminário de Olinda foi espaço de circulação de ideias iluministas.\nIII. O movimento proclamou monarquia constitucional sob D. Pedro I.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I.",
+    "B": "Apenas II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e III.",
+    "E": "Apenas I e II."
+   },
+   "gabarito": "E",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar as bases intelectuais e o regime.\n\n**Conceito/Regra rápida**\n1817 proclamou uma **república**. D. Pedro I só assumiu o Império após 1822.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado, pois o regime foi republicano e Pedro I nem era imperador.\n3. Resposta: I e II.\n\n**Pegadinha**\nAnacronismo (Pedro I em 1817).\n\n**Macete**\nRepública em 1817.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q056",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta os fatos na ORDEM CRONOLÓGICA correta.",
+   "alternativas": {
+    "A": "Conspiração dos Suassunas; Revolução de 1817; Confederação do Equador; Revolução Praieira.",
+    "B": "Revolução de 1817; Conspiração dos Suassunas; Confederação do Equador; Praieira.",
+    "C": "Conspiração dos Suassunas; Confederação do Equador; 1817; Praieira.",
+    "D": "Conspiração dos Suassunas; 1817; Praieira; Confederação do Equador.",
+    "E": "Confederação do Equador; 1817; Conspiração dos Suassunas; Praieira."
+   },
+   "gabarito": "A",
+   "explicacao": "A ordem é 1801, 1817, 1824, 1848.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar quatro movimentos.\n\n**Conceito/Regra rápida**\n**1801 → 1817 → 1824 → 1848**.\n\n**Passo a passo**\n1. Marque as datas.\n2. Os Suassunas (1801) são o prelúdio de 1817.\n\n**Pegadinha**\nTrocar 1824 e 1848.\n\n**Macete**\n01, 17, 24, 48.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q057",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 2,
+   "enunciado": "A bandeira de Pernambuco, a mesma da Revolução de 1817, e a data magna do Estado remetem a",
+   "alternativas": {
+    "A": "2 de julho.",
+    "B": "6 de março.",
+    "C": "7 de setembro.",
+    "D": "19 de abril.",
+    "E": "13 de janeiro."
+   },
+   "gabarito": "B",
+   "explicacao": "6 de março.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer a data magna.\n\n**Conceito/Regra rápida**\n**6 de março** = data magna. 2 de julho = 1824; 13 de janeiro = Frei Caneca; 19 de abril = Guararapes.\n\n**Passo a passo**\n1. Ligue 6 de março a 1817.\n2. As outras datas são de outros fatos.\n\n**Pegadinha**\nConfundir com 2 de julho (Confederação).\n\n**Macete**\n6 de março = 1817.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q058",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 3,
+   "enunciado": "Leia: «Movimento que, no Recife, depôs o governador e proclamou república, durando cerca de 75 dias, entre março e maio, em reação à monarquia portuguesa sediada no Rio de Janeiro.» O trecho descreve",
+   "alternativas": {
+    "A": "a Confederação do Equador.",
+    "B": "a Praieira.",
+    "C": "a Revolução Pernambucana de 1817.",
+    "D": "a Guerra dos Mascates.",
+    "E": "a Insurreição de 1645-54."
+   },
+   "gabarito": "C",
+   "explicacao": "1817.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer o movimento pelo texto.\n\n**Conceito/Regra rápida**\n**75 dias** + corte no Rio de Janeiro (desde 1808) = 1817.\n\n**Passo a passo**\n1. Pistas: república, 75 dias, corte no Rio.\n2. 1824 foi contra Pedro I; 1848 foi liberal; 1710 foi econômico; 1645 foi antiholandês.\n\n**Pegadinha**\nConfundir com 1824.\n\n**Macete**\n75 dias = 1817.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q059",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 1,
+   "enunciado": "A Confederação do Equador foi proclamada em",
+   "alternativas": {
+    "A": "6 de março de 1817, por Barros Lima.",
+    "B": "13 de janeiro de 1825, por Frei Caneca.",
+    "C": "7 de setembro de 1822, por D. Pedro I.",
+    "D": "2 de julho de 1824, por Manuel de Carvalho Pais de Andrade.",
+    "E": "2 de fevereiro de 1849, por Nunes Machado."
+   },
+   "gabarito": "D",
+   "explicacao": "Manuel de Carvalho.",
+   "resolucao_md": "**O que a questão pede**\nDatar e identificar o líder.\n\n**Conceito/Regra rápida**\nConfederação = **2 de julho de 1824**, **Manuel de Carvalho**.\n\n**Passo a passo**\n1. Associe 1824 ao presidente da Confederação.\n2. As demais datas são de outros fatos.\n\n**Pegadinha**\nTrocar com 1817.\n\n**Macete**\n2 de julho.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q060",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 2,
+   "enunciado": "Entre as causas da Confederação do Equador, está",
+   "alternativas": {
+    "A": "a queda do gabinete liberal por D. Pedro II.",
+    "B": "a cobrança de dívidas pela WIC.",
+    "C": "a elevação do Recife a vila.",
+    "D": "a abdicação de D. Pedro I.",
+    "E": "a dissolução da Constituinte por D. Pedro I e a outorga da Constituição de 1824."
+   },
+   "gabarito": "E",
+   "explicacao": "Dissolução da Constituinte.",
+   "resolucao_md": "**O que a questão pede**\nAssociar causa e movimento.\n\n**Conceito/Regra rápida**\n1824: Constituição **outorgada** + Paes Barreto nomeado + centralização.\n\n**Passo a passo**\n1. Dissolução da Constituinte = 1823-24.\n2. As demais são de 1848, 1645, 1709 e 1831.\n\n**Pegadinha**\nTrocar causas entre movimentos.\n\n**Macete**\nPedro I = 1824.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: segurança pública (art. 144). A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Segurança pública: art. 144 completo (órgãos, competências, PMs, bombeiros e guardas municipais)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Conceito e rol de órgãos (art. 144, caput)\nA **segurança pública**, **dever do Estado, direito e responsabilidade de todos**, é exercida **para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio**, por meio dos seguintes órgãos:\n| Inciso | Órgão | Quem organiza/mantém |\n|---|---|---|\n| I | **Polícia Federal** | União |\n| II | **Polícia Rodoviária Federal** | União |\n| III | **Polícia Ferroviária Federal** | União |\n| IV | **Polícias civis** | Estados e DF |\n| V | **Polícias militares e corpos de bombeiros militares** | Estados e DF |\n| VI | **Polícias penais** federal, estaduais e distrital (EC 104/2019) | respectivos entes |\nO rol do caput é **taxativo** quanto aos incisos. As **guardas municipais** não estão nos incisos: estão no §8º (ver abaixo).\n\n## Competências, órgão por órgão\n| Órgão | Natureza e atribuições (CF, art. 144) |\n|---|---|\n| **Polícia Federal** (§1º) | órgão **permanente**, organizado e mantido pela União, **estruturado em carreira**. I) apurar infrações penais contra a **ordem política e social** ou em detrimento de bens, serviços e interesses da **União** (autarquias e empresas públicas) e infrações de **repercussão interestadual ou internacional** que exijam **repressão uniforme**; II) prevenir e reprimir o **tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho**; III) exercer as funções de **polícia marítima, aeroportuária e de fronteiras**; IV) exercer, **com exclusividade**, as funções de **polícia judiciária da União** |\n| **PRF** (§2º) | **patrulhamento ostensivo das rodovias federais** |\n| **PFF** (§3º) | **patrulhamento ostensivo das ferrovias federais** |\n| **Polícias civis** (§4º) | **dirigidas por delegados de polícia de carreira**; **funções de polícia judiciária** e **apuração de infrações penais, exceto as militares**, ressalvada a competência da União |\n| **Polícias militares** (§5º) | **polícia ostensiva** e **preservação da ordem pública** |\n| **Bombeiros militares** (§5º) | além das atribuições definidas em lei, **execução de atividades de defesa civil** |\n| **Polícias penais** (§5º-A) | vinculadas ao órgão administrador do sistema penal da unidade federativa, cabe a **segurança dos estabelecimentos penais** |\n| **Guardas municipais** (§8º) | **proteção de bens, serviços e instalações** do Município, conforme a lei |\n\n## Pontos de prova sobre PMs e bombeiros\n- **Forças auxiliares e reserva do Exército** (§6º); **subordinam-se aos Governadores** dos Estados, do DF e dos Territórios, juntamente com as **polícias civis e polícias penais estaduais e distrital**.\n- A **competência legislativa** sobre normas gerais de organização, efetivos, material bélico, garantias, convocação e mobilização das PMs e CBMs é **privativa da União** (art. 22, XXI); sobre **polícias civis**, é **concorrente** (art. 24, XVI).\n- No **DF**, as polícias civil, militar, penal e o corpo de bombeiros são **organizados e mantidos pela União** (art. 21, XIV), subordinando-se ao Governador do DF.\n- PM faz **preservação da ordem pública** e **policiamento ostensivo (fardado)**; a apuração de **crimes militares** não é função da polícia civil.\n\n## Demais parágrafos\n- **§7º**: a lei disciplinará a organização e o funcionamento dos órgãos de segurança pública, para garantir a **eficiência**.\n- **§9º**: a **remuneração** dos policiais é fixada por **subsídio** (art. 39, §4º).\n- **§10**: **segurança viária** (educação, engenharia e fiscalização de trânsito); no âmbito dos **Municípios**, compete aos órgãos ou entidades executivos de trânsito e a **agentes de trânsito**, estruturados em carreira.\n\n## Guardas municipais\nO Município **pode** (faculdade, não dever) constituir guarda municipal destinada à **proteção de seus bens, serviços e instalações**. O **Estatuto Geral das Guardas Municipais** é a **Lei 13.022/2014**; a **Lei 13.675/2018** criou o **SUSP** (Sistema Único de Segurança Pública) e inclui as guardas entre os integrantes operacionais. O **STF** vem reconhecendo as guardas municipais como integrantes do sistema de segurança pública, com atuação ostensiva e comunitária dentro de seus limites legais, sem funções de polícia judiciária [VERIFICAR as teses recentes: ADPF 995 e RE 608.588].\n\n## Súmula Vinculante 11 (certeza)\n**\"Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.\"**\n\n## Macete\n**Federal**: PF (polícia judiciária da União, fronteiras), PRF (rodovias), PFF (ferrovias). **Estadual**: **PC** investiga (judiciária), **PM** previne (ostensiva), **CBM** salva (defesa civil), **PP** guarda presídio. **Município**: guarda protege o patrimônio.",
+   "dicas": [
+    "PC investiga (judiciária), PM previne (ostensiva), CBM = defesa civil, PP = presídios.",
+    "Polícia judiciária da União = só a PF (com exclusividade); dos Estados = polícias civis.",
+    "PM e CBM: forças auxiliares e reserva do Exército, mas subordinadas ao Governador.",
+    "Guarda municipal: faculdade do Município, proteção de bens, serviços e instalações.",
+    "Polícia civil NÃO apura crimes militares; esses são tratados na esfera militar."
+   ],
+   "pegadinhas": [
+    "Dizer que as polícias civis têm polícia ostensiva ou que a PM tem polícia judiciária: troca de funções.",
+    "Afirmar que a guarda municipal faz parte dos incisos do caput do art. 144: o texto a trata no §8º, como faculdade municipal.",
+    "Dizer que as PMs estão subordinadas ao Exército ou ao Ministro da Defesa: subordinam-se ao Governador (são só reserva do Exército).",
+    "Atribuir à PRF a polícia judiciária da União: é exclusiva da PF.",
+    "Atribuir ao CBM o policiamento ostensivo: cabe-lhe defesa civil e atribuições em lei.",
+    "Esquecer a polícia penal (EC 104/2019) como órgão do caput e dizer que a segurança dos presídios é da PM."
+   ],
+   "flashcards": [
+    {
+     "q": "Quais os órgãos de segurança pública do art. 144?",
+     "a": "PF, PRF, PFF, polícias civis, polícias militares e corpos de bombeiros militares, polícias penais."
+    },
+    {
+     "q": "Qual a função das polícias civis?",
+     "a": "Polícia judiciária e apuração de infrações penais (exceto as militares), sob direção de delegado de carreira."
+    },
+    {
+     "q": "Qual a função das polícias militares?",
+     "a": "Polícia ostensiva e preservação da ordem pública."
+    },
+    {
+     "q": "O que incumbe aos corpos de bombeiros militares?",
+     "a": "Atividades de defesa civil, além das atribuições definidas em lei."
+    },
+    {
+     "q": "A quem se subordinam as PMs e bombeiros?",
+     "a": "Aos Governadores (são forças auxiliares e reserva do Exército)."
+    },
+    {
+     "q": "Qual órgão exerce, com exclusividade, a polícia judiciária da União?",
+     "a": "A Polícia Federal."
+    },
+    {
+     "q": "O que faz a Polícia Rodoviária Federal?",
+     "a": "Patrulhamento ostensivo das rodovias federais."
+    },
+    {
+     "q": "O que faz a polícia penal?",
+     "a": "Segurança dos estabelecimentos penais."
+    },
+    {
+     "q": "Para que os Municípios podem constituir guardas municipais?",
+     "a": "Proteção de seus bens, serviços e instalações, conforme a lei."
+    },
+    {
+     "q": "Qual lei é o Estatuto Geral das Guardas Municipais?",
+     "a": "Lei 13.022/2014."
+    },
+    {
+     "q": "Como são remunerados os policiais?",
+     "a": "Por subsídio em parcela única (art. 39, §4º)."
+    },
+    {
+     "q": "Qual a SV 11 do STF?",
+     "a": "Uso de algemas só em casos de resistência, fundado receio de fuga ou perigo, com justificativa escrita."
+    }
+   ],
+   "id": "const-b-t8"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t8-q01",
+   "topico": "const-b-t8",
+   "dificuldade": 1,
+   "enunciado": "Segundo o art. 144 da Constituição Federal, a segurança pública é exercida, para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, por meio dos seguintes órgãos:",
+   "alternativas": {
+    "A": "polícia federal; polícias civis; polícias militares; guardas municipais; Forças Armadas.",
+    "B": "polícia federal; polícia rodoviária federal; polícias civis; polícias militares; Força Nacional de Segurança.",
+    "C": "polícia federal; polícias civis; polícias militares; bombeiros civis; agências de inteligência.",
+    "D": "polícia federal; polícias civis e militares, apenas.",
+    "E": "polícia federal; polícia rodoviária federal; polícia ferroviária federal; polícias civis; polícias militares e corpos de bombeiros militares; polícias penais federal, estaduais e distrital."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 144, I a VI (EC 104/2019 incluiu as polícias penais).",
+   "resolucao_md": "**O que a questão pede:** o rol dos órgãos do caput do art. 144.\n\n**Regra rápida:** Seis incisos: PF, PRF, PFF, polícias civis, PMs e CBMs, polícias penais.\n\n**Passo a passo:**\n1. Procure o rol completo.\n2. As demais alternativas incluem entes que não estão nos incisos (Forças Armadas, Força Nacional, agências) ou omitem órgãos.\n\n**Pegadinha:** Esquecer a polícia penal.\n\n**Macete:** Seis incisos, com PF, PRF, PFF e polícia penal."
+  },
+  {
+   "id": "const-b-t8-q02",
+   "topico": "const-b-t8",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA a respeito dos órgãos de segurança pública previstos no art. 144 da Constituição Federal.",
+   "alternativas": {
+    "A": "Às polícias civis, dirigidas por delegados de polícia de carreira, incumbem as funções de polícia ostensiva e a preservação da ordem pública.",
+    "B": "A Polícia Federal exerce, com exclusividade, as funções de polícia judiciária da União.",
+    "C": "Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública.",
+    "D": "Aos corpos de bombeiros militares incumbe, além das atribuições definidas em lei, a execução de atividades de defesa civil.",
+    "E": "A Polícia Rodoviária Federal destina-se ao patrulhamento ostensivo das rodovias federais."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 144, §4º: polícia civil = polícia judiciária e apuração de infrações penais (exceto militares). Polícia ostensiva é da PM (§5º).",
+   "resolucao_md": "**O que a questão pede:** achar a alternativa FALSA.\n\n**Regra rápida:** Civil = judiciária; PM = ostensiva; CBM = defesa civil; PF = judiciária da União; PRF = rodovias.\n\n**Passo a passo:**\n1. Confira cada alternativa com a tabela de competências.\n2. B, C, D, E coincidem com o texto constitucional.\n3. A troca a função da polícia civil pela da PM.\n\n**Pegadinha:** Questão de INCORRETA: marcar a que erra.\n\n**Macete:** Civil investiga; PM policia fardada."
+  },
+  {
+   "id": "const-b-t8-q03",
+   "topico": "const-b-t8",
+   "dificuldade": 2,
+   "enunciado": "De acordo com a Súmula Vinculante nº 11 do Supremo Tribunal Federal, só é lícito o uso de algemas",
+   "alternativas": {
+    "A": "sempre que o preso for conduzido por policiais, como regra de segurança.",
+    "B": "em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito.",
+    "C": "apenas nos crimes hediondos e equiparados.",
+    "D": "quando houver mera presunção de periculosidade, a critério do agente.",
+    "E": "somente durante o interrogatório em juízo."
+   },
+   "gabarito": "B",
+   "explicacao": "SV 11: excepcionalidade justificada por escrito; descumprimento gera responsabilidade e nulidade.",
+   "resolucao_md": "**O que a questão pede:** lembrar a SV 11.\n\n**Regra rápida:** Algemas: exceção (resistência, fuga, perigo), com justificativa por escrito.\n\n**Passo a passo:**\n1. A e D: regra geral e mera presunção não bastam.\n2. C e E: restrições não previstas pela súmula (crimes hediondos; interrogatório).\n\n**Pegadinha:** Algemar como regra.\n\n**Macete:** Algema: exceção justificada por escrito."
+  },
+  {
+   "id": "const-b-t8-q04",
+   "topico": "const-b-t8",
+   "dificuldade": 2,
+   "enunciado": "Sobre as polícias militares e os corpos de bombeiros militares, é correto afirmar que",
+   "alternativas": {
+    "A": "exercem a polícia judiciária e apuram as infrações penais comuns.",
+    "B": "aos bombeiros militares incumbe o policiamento ostensivo de trânsito nas rodovias federais.",
+    "C": "cabem às polícias militares a polícia ostensiva e a preservação da ordem pública, e, juntamente com os bombeiros, são forças auxiliares e reserva do Exército, subordinadas ao Governador.",
+    "D": "subordinam-se ao Ministro da Defesa e ao Comandante do Exército.",
+    "E": "nas capitais, subordinam-se ao Prefeito."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 144, §§5º e 6º.",
+   "resolucao_md": "**O que a questão pede:** combinar competência e subordinação.\n\n**Regra rápida:** PM: ostensiva e ordem pública. PM e CBM: forças auxiliares e reserva do Exército; subordinadas ao Governador.\n\n**Passo a passo:**\n1. A: é função da polícia civil.\n2. B: a PRF faz rodovias federais; CBM faz defesa civil.\n3. D: subordinação ao Governador.\n4. E: o Prefeito não comanda PM.\n\n**Pegadinha:** Reserva do Exército não significa subordinação ao Exército.\n\n**Macete:** Reserva do Exército, subordinada ao Governador."
+  },
+  {
+   "id": "const-b-t8-q05",
+   "topico": "const-b-t8",
+   "dificuldade": 2,
+   "enunciado": "No tocante às guardas municipais, a Constituição Federal estabelece que",
+   "alternativas": {
+    "A": "os Municípios são obrigados a constituí-las, com poder de polícia judiciária.",
+    "B": "integram o rol dos incisos do caput do art. 144, ao lado das polícias penais.",
+    "C": "subordinam-se ao Governador do Estado.",
+    "D": "os Municípios poderão constituí-las, destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.",
+    "E": "destinam-se à polícia ostensiva e à preservação da ordem pública, com exclusividade."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 144, §8º.",
+   "resolucao_md": "**O que a questão pede:** a regra constitucional sobre guarda municipal.\n\n**Regra rápida:** Faculdade do Município; finalidade: proteção de bens, serviços e instalações municipais.\n\n**Passo a passo:**\n1. A: não é obrigatória, nem tem polícia judiciária.\n2. B: está no §8º, não nos incisos.\n3. C: subordina-se ao Prefeito.\n4. E: a PM é quem faz polícia ostensiva.\n\n**Pegadinha:** A atuação ostensiva e comunitária reconhecida pelo STF não altera o texto do §8º [VERIFICAR teses recentes].\n\n**Macete:** Guarda: o Município pode e protege o patrimônio."
+  },
+  {
+   "id": "const-b-t8-q06",
+   "topico": "const-b-t8",
+   "dificuldade": 2,
+   "enunciado": "Compete à Polícia Federal, nos termos do §1º do art. 144 da Constituição Federal,",
+   "alternativas": {
+    "A": "realizar o patrulhamento ostensivo das rodovias federais.",
+    "B": "exercer as funções de polícia judiciária dos Estados.",
+    "C": "garantir a segurança dos estabelecimentos penais estaduais.",
+    "D": "executar atividades de defesa civil.",
+    "E": "exercer, com exclusividade, as funções de polícia judiciária da União."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 144, §1º, IV.",
+   "resolucao_md": "**O que a questão pede:** atribuições da PF.\n\n**Regra rápida:** PF: apurar infrações federais, tráfico, contrabando, descaminho, polícia marítima, aeroportuária e de fronteiras, e judiciária da União com exclusividade.\n\n**Passo a passo:**\n1. A: PRF.\n2. B: polícias civis.\n3. C: polícias penais.\n4. D: bombeiros.\n\n**Macete:** Judiciária da União: só a PF."
+  },
+  {
+   "id": "const-b-t8-q07",
+   "topico": "const-b-t8",
+   "dificuldade": 2,
+   "enunciado": "Às polícias penais, previstas no art. 144, VI, da Constituição Federal, cabe",
+   "alternativas": {
+    "A": "a segurança dos estabelecimentos penais, estando vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem.",
+    "B": "a polícia judiciária e a apuração de infrações penais comuns.",
+    "C": "o patrulhamento ostensivo das vias públicas.",
+    "D": "a defesa civil e o combate a incêndios.",
+    "E": "a proteção dos bens, serviços e instalações dos Municípios."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 144, §5º-A (EC 104/2019).",
+   "resolucao_md": "**O que a questão pede:** a função da polícia penal.\n\n**Regra rápida:** Polícia penal = segurança dos estabelecimentos penais.\n\n**Passo a passo:**\n1. B: polícia civil.\n2. C: PM.\n3. D: bombeiros.\n4. E: guardas municipais.\n\n**Macete:** Penal = presídio."
+  }
+ ]
+}

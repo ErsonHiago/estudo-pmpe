@@ -1,0 +1,234 @@
+{
+  "id": "historia-pe",
+  "titulo": "História de Pernambuco",
+  "disciplina": "historia",
+  "descricao": "Cobre todo o Anexo II de História de Pernambuco (10 questões na prova): colonização, açúcar, Olinda e Recife, holandeses, movimentos de resistência, período republicano, cultura popular e aspectos afro-brasileiros. A AOCP cobra sobretudo datas, personagens e causas trocados entre os movimentos (1654 x 1710 x 1817 x 1824 x 1848).",
+  "topicos": [
+    {
+      "id": "historia-pe-ocupacao",
+      "titulo": "1. Ocupação e colonização: contatos iniciais, Capitanias Hereditárias e Duarte Coelho",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## Primeiros contatos (1500-1530)\nA região de Pernambuco era habitada por povos indígenas do tronco **Tupi** (litoral) e **Tapuias/Jê** (interior). Na faixa litorânea viviam principalmente os **Caetés**, inimigos dos portugueses e conhecidos pela antropofagia ritual; os **Tabajaras** (cacique **Arco Verde**) tornaram-se aliados dos portugueses; os **Potiguaras** ficaram mais ao norte (e depois aliaram-se aos holandeses, enquanto **Felipe Camarão**, potiguara, lutou com os portugueses).\n\nO primeiro contato foi comercial: o **escambo do pau-brasil** (indígenas cortavam e carregavam a madeira em troca de machados, espelhos, tecidos). Em **1516** foi instalada a **feitoria de Igaraçu** (a primeira feitoria do Brasil, na Ilha de Itamaracá/Igaraçu, ligada a Cristóvão Jacques). Franceses também traficavam pau-brasil, o que ameaçava a posse portuguesa.\n\n## Capitanias Hereditárias (1534)\nPara ocupar e defender a terra sem gastar dinheiro da Coroa, **D. João III** dividiu o litoral em **15 lotes (14 capitanias)** doados a **12 donatários**. Cada donatário recebia:\n- **Carta de Doação**: concedia a posse hereditária (não a propriedade plena) e poderes (fundar vilas, escravizar indígenas, cobrar impostos locais);\n- **Foral**: definia direitos e deveres perante a Coroa (tributos, monopólio do pau-brasil e das especiarias).\n\nAs capitanias eram **hereditárias** (passavam aos filhos), mas **inalienáveis**. A maioria fracassou (falta de recursos, distância, ataques indígenas). As bem-sucedidas foram **Pernambuco** e **São Vicente**.\n\n## Duarte Coelho e a Nova Lusitânia\n**Duarte Coelho Pereira** recebeu a capitania de **Pernambuco** (chamada **Nova Lusitânia**), com cerca de **60 léguas** de costa, entre o **rio São Francisco** e o **rio Igaraçu/Santa Cruz**. Chegou em **1535**, fundou **Igaraçu** (primeira vila) e **Olinda** (sede da capitania). Investiu seu próprio patrimônio, trouxe famílias, plantou **cana-de-açúcar** e instalou **engenhos**, enfrentando Caetés e franceses. Foi auxiliado pelo cunhado **Jerônimo de Albuquerque** (casado com a indígena Maria do Espírito Santo Arcoverde, filha do cacique Arco Verde) e, após sua morte (1554), a capitania foi governada por sua viúva **Brites de Albuquerque**.\n\n## Governo-Geral\nEm **1548/1549** a Coroa criou o **Governo-Geral** (Tomé de Sousa, Bahia) para centralizar a administração, mas as capitanias continuaram existindo até o século XVIII (Pernambuco foi uma das últimas a ser incorporada à Coroa, em 1716).\n\n## Resumo-relâmpago\n| Fato | Data |\n|---|---|\n| Feitoria de Igaraçu | 1516 |\n| Capitanias Hereditárias | 1534 |\n| Chegada de Duarte Coelho / fundação de Olinda | 1535 |\n| Governo-Geral | 1548-49 |",
+      "dicas": [
+        "Capitanias bem-sucedidas = Pernambuco e São Vicente (açúcar). Pernambuco = Duarte Coelho = Nova Lusitânia = Olinda.",
+        "Hereditária não é vendável: o donatário tinha posse, a propriedade era do rei.",
+        "Carta de Doação = poderes; Foral = obrigações e tributos.",
+        "Caetés = inimigos (litoral); Tabajaras = aliados (Arco Verde).",
+        "Duarte Coelho X Brites de Albuquerque: ele fundou, ela governou depois (viúva)."
+      ],
+      "pegadinhas": [
+        "A banca troca o donatário: Duarte Coelho é de Pernambuco; Martim Afonso de Sousa é de São Vicente; Pero do Campo Tourinho é de Porto Seguro.",
+        "«As capitanias foram um sucesso generalizado» — falso: só Pernambuco e São Vicente prosperaram.",
+        "«O donatário era dono da terra» — falso: tinha posse hereditária; a propriedade permanecia com o rei.",
+        "Confundir Capitanias (1534) com Governo-Geral (1548): o Governo-Geral não extinguiu as capitanias imediatamente.",
+        "Dizer que Olinda foi fundada pelos holandeses ou por Maurício de Nassau — falso (Nassau fundou Mauritsstad no Recife)."
+      ],
+      "flashcards": [
+        {"q": "Quem foi o donatário de Pernambuco?", "a": "Duarte Coelho Pereira."},
+        {"q": "Nome da capitania de Pernambuco?", "a": "Nova Lusitânia."},
+        {"q": "Que rei criou as Capitanias Hereditárias?", "a": "D. João III, em 1534."},
+        {"q": "O que era a Carta de Doação?", "a": "Documento que concedia a posse hereditária e os poderes ao donatário."},
+        {"q": "O que era o Foral?", "a": "Documento que fixava direitos e deveres do donatário perante a Coroa (tributos)."},
+        {"q": "Primeira feitoria do Brasil?", "a": "Igaraçu (1516)."},
+        {"q": "Povo indígena inimigo de Duarte Coelho no litoral?", "a": "Caetés."},
+        {"q": "Cacique Tabajara aliado dos portugueses?", "a": "Arco Verde."},
+        {"q": "Quem governou Pernambuco após a morte de Duarte Coelho?", "a": "Sua viúva, Brites de Albuquerque (com Jerônimo de Albuquerque)."},
+        {"q": "Quais capitanias prosperaram?", "a": "Pernambuco e São Vicente."}
+      ]
+    },
+    {
+      "id": "historia-pe-acucar",
+      "titulo": "2. A importância do açúcar para a economia pernambucana",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## Por que o açúcar?\nO açúcar era produto caro na Europa, o clima quente e úmido da **Zona da Mata** pernambucana e o solo de **massapê** (argiloso, escuro, muito fértil) eram ideais para a cana, e o litoral facilitava o escoamento por navio. O capital veio de Portugal e, depois, de **financiadores flamengos** (Holanda refinava e distribuía o açúcar). Pernambuco tornou-se o **maior produtor do Brasil nos séculos XVI-XVII**, com a riqueza concentrada em Olinda.\n\n## O sistema do engenho (plantation)\nModelo: **latifúndio + monocultura + trabalho escravo + exportação**.\n| Elemento | O que é |\n|---|---|\n| **Engenho** | Unidade produtora (terras, moenda, casa de caldeiras, casa de purgar) |\n| **Casa-grande** | Residência do senhor de engenho |\n| **Senzala** | Alojamento dos escravizados |\n| **Moenda** | Esmaga a cana (movida a água, boi ou força humana) |\n| **Casa de purgar** | Onde o açúcar era purificado em fôrmas de barro |\n| **Senhor de engenho** | Dono do engenho, elite social e política |\n| **Lavradores de cana** | Plantavam em terra própria/alugada e levavam a cana ao engenho alheio |\n\nA mão de obra foi inicialmente **indígena** e depois majoritariamente **africana** (tráfico negreiro; o Recife era grande porto de desembarque). Predominava o **açúcar mascavo e branco** exportado em caixas.\n\n## Consequências sociais\n- Sociedade **rural, patriarcal e escravista**, com a **casa-grande** como centro (tema de **Gilberto Freyre**, «Casa-Grande & Senzala», 1933).\n- Riqueza e poder político da **nobreza da terra** (Olinda), em conflito com os comerciantes (Recife) — origem da **Guerra dos Mascates**.\n- Concentração fundiária que marca a desigualdade rural até hoje (Ligas Camponesas no século XX).\n\n## Altos e baixos\n- **1580-1640**: União Ibérica; açúcar em auge; atrai o interesse holandês.\n- **1630-1654**: invasão holandesa. Após a expulsão, os holandeses levaram técnicas para as **Antilhas** (Caribe), que passaram a concorrer com preço menor; o açúcar pernambucano entrou em **crise** a partir da segunda metade do século XVII.\n- **Século XIX**: modernização; **engenhos centrais e usinas**; o **algodão** (Agreste/Sertão) também teve peso.\n- **Séculos XX-XXI**: usinas em declínio na Zona da Mata; hoje o polo é diversificado (Suape, fruticultura em Petrolina).\n\n## Resumo\nAçúcar = Zona da Mata + massapê + escravidão + exportação. Foi o alicerce econômico, social e político de Pernambuco colonial.",
+      "dicas": [
+        "Massapê + Zona da Mata + litoral = cana. Sertão = pecuária; Agreste = policultura/algodão.",
+        "Engenho = a fábrica inteira; moenda é só uma parte dela.",
+        "Gilberto Freyre = Casa-Grande & Senzala (1933), sobre o mundo do engenho.",
+        "Crise do açúcar pernambucano = concorrência antilhana, com técnica levada pelos holandeses."
+      ],
+      "pegadinhas": [
+        "«O açúcar de Pernambuco era produzido em minifúndios com mão de obra assalariada» — falso: latifúndio, monocultura e escravidão.",
+        "Trocar Zona da Mata (cana) por Sertão (pecuária) como região canavieira.",
+        "Dizer que a escravidão africana foi a única mão de obra desde o início: no começo houve forte uso do indígena.",
+        "«Os holandeses criaram o cultivo da cana em Pernambuco» — falso: já existia desde Duarte Coelho (anos 1530); os holandeses vieram atrás do açúcar já produzido.",
+        "Confundir casa-grande (moradia do senhor) com casa de purgar (etapa de purificação do açúcar)."
+      ],
+      "flashcards": [
+        {"q": "Solo ideal para a cana no Nordeste?", "a": "Massapê (argiloso, escuro, fértil)."},
+        {"q": "Região de Pernambuco da cana-de-açúcar?", "a": "Zona da Mata."},
+        {"q": "Tripé da economia açucareira?", "a": "Latifúndio, monocultura e trabalho escravo (voltado à exportação)."},
+        {"q": "O que é casa-grande?", "a": "Residência do senhor de engenho."},
+        {"q": "O que é senzala?", "a": "Alojamento dos escravizados."},
+        {"q": "Para que servia a moenda?", "a": "Esmagar a cana para extrair o caldo."},
+        {"q": "Quem eram os lavradores de cana?", "a": "Produtores que plantavam cana e moíam no engenho de terceiros."},
+        {"q": "Por que o açúcar pernambucano entrou em crise após 1654?", "a": "Concorrência do açúcar antilhano, mais barato, com técnicas levadas pelos holandeses."},
+        {"q": "Obra de Gilberto Freyre sobre o mundo do engenho?", "a": "Casa-Grande & Senzala (1933)."},
+        {"q": "Quem financiava e refinava o açúcar brasileiro antes de 1630?", "a": "Comerciantes flamengos/holandeses."}
+      ]
+    },
+    {
+      "id": "historia-pe-olinda-recife",
+      "titulo": "3. Formação de Olinda e Recife",
+      "prioridade": 2,
+      "horas": 2,
+      "resumo_md": "## Olinda: a cidade da nobreza açucareira\n- Fundada por **Duarte Coelho** em **1535**, em local alto e de «**linda situação**» (a tradição diz que a expressão «Ó linda!» deu origem ao nome).\n- Sede da capitania e centro político, religioso e cultural: abrigava a **nobreza da terra** (senhores de engenho). Tinha **Câmara**, **Sé** e importantes **conventos** (São Francisco, 1585; Mosteiro de São Bento; Igreja da Graça, jesuítas).\n- Em **1676** foi elevada a **cidade** (criação do bispado de Olinda).\n- Foi sede do **Seminário de Olinda** (1800, bispo **Azeredo Coutinho**), onde circularam ideias iluministas que alimentaram a **Revolução de 1817**.\n- Em **1827** sediou um dos dois primeiros **cursos jurídicos do Brasil** (o outro em São Paulo); a faculdade foi transferida para o Recife em **1854**.\n- Em **1982** foi declarada **Patrimônio Cultural da Humanidade pela UNESCO**.\n\n## Recife: o porto do açúcar\n- O nome vem dos **arrecifes** (recifes de pedra) que formam o porto natural. Começou como povoado de pescadores, armazéns e estivadores a serviço de Olinda, onde chegavam e partiam navios do açúcar.\n- Com o crescimento do comércio, atraiu **mercadores portugueses** (os «mascates»).\n- Durante a **dominação holandesa (1630-1654)** tornou-se capital da **Nova Holanda**; **Maurício de Nassau** (1637) construiu a **Cidade Maurícia (Mauritsstad)**, na ilha de Antônio Vaz, com **pontes**, canais, palácios e urbanização planejada; a **sinagoga Kahal Zur Israel** (1636) foi a primeira das Américas.\n- Em **1709** foi elevada a **vila**, desmembrando-se de Olinda — estopim da **Guerra dos Mascates**.\n- Tornou-se **cidade em 1823** e **capital da província em 1827**, substituindo Olinda.\n\n## Olinda x Recife\n| Característica | Olinda | Recife |\n|---|---|---|\n| Origem | Fundada por Duarte Coelho, 1535 | Povoado portuário, arrecifes |\n| Função | Sede política/religiosa | Porto e comércio |\n| Elite | Senhores de engenho (nobreza da terra) | Comerciantes portugueses (mascates) |\n| Apelido | «Pés-rombudos» | «Mascates» |\n| Grande momento | Séc. XVI-XVII | Nassau (1637-44) e depois de 1710 |\n\n## Ideia central\nA rivalidade **terra (Olinda) x comércio (Recife)** explica a Guerra dos Mascates; a vitória econômica do Recife culmina na transferência da capital em 1827.",
+      "dicas": [
+        "Olinda = terra e açúcar (nobreza); Recife = comércio e porto (mascates).",
+        "Vila de Recife = 1709; cidade = 1823; capital = 1827.",
+        "UNESCO: Olinda (1982).",
+        "Seminário de Olinda (1800) = berço de ideias da Revolução de 1817."
+      ],
+      "pegadinhas": [
+        "Atribuir a fundação do Recife a Duarte Coelho ou a Nassau — o Recife cresceu como porto; Nassau construiu a Cidade Maurícia.",
+        "Dizer que Recife virou vila em 1710 (a data de 1709 é a elevação; 1710 é o ano da revolta).",
+        "Confundir Olinda como cidade portuária — o porto era o Recife.",
+        "Dizer que a Faculdade de Direito nasceu no Recife em 1827 — nasceu em Olinda e foi transferida em 1854.",
+        "Trocar «mascates» (Recife, comerciantes) por «pés-rombudos» (Olinda, senhores de engenho)."
+      ],
+      "flashcards": [
+        {"q": "Quem fundou Olinda e quando?", "a": "Duarte Coelho, 1535."},
+        {"q": "Origem do nome Recife?", "a": "Arrecifes (recifes de pedra) do porto."},
+        {"q": "Ano em que Recife virou vila?", "a": "1709."},
+        {"q": "Ano em que Recife virou capital da província?", "a": "1827."},
+        {"q": "Quem construiu a Cidade Maurícia?", "a": "Maurício de Nassau (1637-44)."},
+        {"q": "Primeira sinagoga das Américas?", "a": "Kahal Zur Israel, Recife (1636)."},
+        {"q": "Seminário de Olinda foi fundado por quem?", "a": "Bispo Azeredo Coutinho (1800)."},
+        {"q": "Olinda como patrimônio mundial?", "a": "UNESCO, 1982."},
+        {"q": "Onde funcionou o curso jurídico antes do Recife?", "a": "Em Olinda (1827), transferido em 1854."},
+        {"q": "Elite de Olinda e elite do Recife?", "a": "Senhores de engenho (pés-rombudos) x comerciantes portugueses (mascates)."}
+      ]
+    },
+    {
+      "id": "historia-pe-holandes",
+      "titulo": "4. A presença holandesa e o governo de Maurício de Nassau",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Por que os holandeses vieram?\nDurante a **União Ibérica (1580-1640)**, Portugal estava sob a Espanha, inimiga dos Países Baixos. Os holandeses eram refinadores e distribuidores do açúcar brasileiro e perderam esse comércio. Em **1621** criaram a **Companhia das Índias Ocidentais (WIC)**, que tentou primeiro **Salvador (1624-25)** e depois **Pernambuco**, por ser o maior produtor de açúcar.\n\n## Invasão e conquista (1630-1637)\n- **Fevereiro de 1630**: frota da WIC (almirante **Hendrik Lonck**, tropas de **Waerdenburch**) desembarca e toma **Olinda** e **Recife**. **Olinda foi incendiada** (1631) e o Recife virou centro holandês.\n- **Resistência**: **Matias de Albuquerque** organiza o **Arraial do Bom Jesus**, com guerrilha («guerra volante»).\n- **Domingos Fernandes Calabar**, mestiço que conhecia o terreno, passou para o lado holandês (1632) e ajudou nas vitórias; foi capturado e **executado em 1635**. O Arraial caiu em 1635.\n\n## Governo de Maurício de Nassau (1637-1644)\n**João Maurício de Nassau-Siegen** chegou em 1637 como governador da **Nova Holanda** (Brasil holandês). Realizações:\n- **Urbanismo**: fundou a **Cidade Maurícia (Mauritsstad)**, ilha de Antônio Vaz; **pontes** (entre elas a primeira grande ponte do Brasil); canais, diques; **palácios de Vrijburg (Friburgo) e da Boa Vista**.\n- **Cultura e ciência**: trouxe artistas (**Frans Post**, paisagista; **Albert Eckhout**, retratista e naturezas-mortas) e cientistas (**Willem Piso**, médico; **Georg Marcgrave**, astrônomo e naturalista — observatório astronômico), com a obra «História Natural do Brasil».\n- **Tolerância religiosa**: convivência de calvinistas, católicos e judeus (sinagoga Kahal Zur Israel).\n- **Economia**: concedeu **créditos a senhores de engenho** para reerguer a produção; estendeu o domínio até **Sergipe e Maranhão** e tomou **Luanda (Angola)** em 1641 para garantir fornecimento de escravos.\n- **Saída**: em **1644** voltou à Holanda por desentendimentos com a WIC (cobrança das dívidas e gastos).\n\n## Fim do domínio\nApós Nassau, a WIC cobrou dívidas, aumentou impostos e exigiu pagamento imediato, gerando revolta dos senhores — a **Insurreição Pernambucana (1645-1654)**. Em **1654** os holandeses capitularam; em **1661** (**Tratado de Haia**) Portugal pagou indenização (4 milhões de cruzados) à Holanda.\n\n## Quadro-síntese\n| Data | Evento |\n|---|---|\n| 1621 | Criação da WIC |\n| 1624-25 | Tentativa em Salvador |\n| 1630 | Invasão de Pernambuco |\n| 1635 | Execução de Calabar; queda do Arraial |\n| 1637-1644 | Governo de Nassau |\n| 1654 | Capitulação holandesa |\n| 1661 | Tratado de Haia |",
+      "dicas": [
+        "WIC = Companhia das Índias Ocidentais (1621). Cuidado: a VOC é a das Índias Orientais.",
+        "Nassau: 1637-1644 (sete anos). Dominação total: 1630-1654 (24 anos).",
+        "Arte e ciência: Post e Eckhout = pintores; Piso e Marcgrave = ciência.",
+        "Nassau não foi expulso: saiu em 1644 por atrito com a WIC."
+      ],
+      "pegadinhas": [
+        "«Nassau foi expulso pelos pernambucanos» — falso; a expulsão dos holandeses ocorreu em 1654, dez anos após sua saída.",
+        "Atribuir a invasão à Companhia das Índias Orientais (VOC) — errado: foi a WIC.",
+        "Dizer que Nassau perseguiu católicos e judeus — o governo foi marcado por tolerância religiosa.",
+        "Confundir 1ª tentativa holandesa (Salvador, 1624) com a de Pernambuco (1630).",
+        "Trocar Calabar (passou aos holandeses) com Henrique Dias ou Camarão (lutaram contra os holandeses)."
+      ],
+      "flashcards": [
+        {"q": "Sigla da companhia holandesa que invadiu Pernambuco?", "a": "WIC (Companhia das Índias Ocidentais), criada em 1621."},
+        {"q": "Ano da invasão holandesa de Pernambuco?", "a": "1630."},
+        {"q": "Período do governo de Nassau?", "a": "1637-1644."},
+        {"q": "Como se chamava a cidade de Nassau no Recife?", "a": "Cidade Maurícia (Mauritsstad)."},
+        {"q": "Quem foi Calabar?", "a": "Mestiço que passou para o lado holandês; executado em 1635."},
+        {"q": "Pintores do séquito de Nassau?", "a": "Frans Post e Albert Eckhout."},
+        {"q": "Cientistas do séquito de Nassau?", "a": "Willem Piso e Georg Marcgrave."},
+        {"q": "Por que Nassau deixou o Brasil?", "a": "Conflitos com a WIC sobre dívidas e gastos (1644)."},
+        {"q": "Que tratado encerrou a disputa luso-holandesa?", "a": "Tratado de Haia (1661)."},
+        {"q": "Ano da capitulação holandesa?", "a": "1654 (Campo do Taborda, 26 de janeiro)."}
+      ]
+    },
+    {
+      "id": "historia-pe-palmares",
+      "titulo": "5.1 Quilombo dos Palmares",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## O que foi\nPalmares foi o maior e mais duradouro **quilombo** do período colonial: um conjunto de **mocambos** (aldeias fortificadas) na **Serra da Barriga**, hoje em **União dos Palmares (AL)**, mas à época território da **capitania de Pernambuco**. Existiu durante cerca de **um século (séc. XVII, a partir de c. 1600 até 1694-95)** e chegou a reunir milhares de pessoas (estimativas variam muito; fala-se em até 20 mil, **[VERIFICAR]** número exato).\n\n## Organização\n- Confederação de mocambos com **chefias** próprias; capital: o mocambo do **Macaco**.\n- População de **africanos fugidos**, crioulos, indígenas e brancos pobres.\n- **Economia**: agricultura (milho, mandioca, feijão, banana, cana), caça, artesanato e trocas com vizinhos; incursões para libertar escravizados.\n- Defesa: paliçadas, fossos e vigilância.\n\n## Líderes\n| Líder | Papel |\n|---|---|\n| **Ganga Zumba** | Primeiro grande chefe; aceitou o **acordo de paz de 1678** (Recife) com o governador **Pedro de Almeida**: liberdade aos nascidos em Palmares em troca de submissão. Foi desacreditado e morreu envenenado (c. 1680). |\n| **Zumbi** | Sobrinho de Ganga Zumba; rejeitou o acordo e liderou a resistência. Nasceu livre em Palmares (c. 1655), foi criado por um padre e voltou ao quilombo. |\n| **Dandara** | Guerreira, companheira de Zumbi (tradição). |\n\n## Combate e destruição\n- Holandeses e portugueses atacaram Palmares várias vezes.\n- Governo contratou o bandeirante paulista **Domingos Jorge Velho**, que, com apoio de outras forças, tomou o **Cerro do Macaco em fevereiro de 1694**.\n- **Zumbi foi capturado e morto em 20 de novembro de 1695**. Daí o **Dia da Consciência Negra (20 de novembro)**, instituído pela **Lei 12.519/2011**.\n\n## Memória e proteção\n- **Zumbi dos Palmares** está inscrito no **Livro dos Heróis da Pátria** (Lei 9.315/1996).\n- **Serra da Barriga** foi tombada pelo IPHAN (1985).\n\n## Mensagem para a prova\nPalmares = resistência do negro à escravidão, líderes Ganga Zumba (acordo) e Zumbi (resistência), fim em 1694/1695, bandeirante Domingos Jorge Velho, Dia 20/11.",
+      "dicas": [
+        "Ganga Zumba = acordo (1678); Zumbi = resistência até o fim (1695).",
+        "Serra da Barriga/União dos Palmares hoje em AL, mas era Pernambuco colonial.",
+        "20 de novembro = morte de Zumbi (1695) = Dia da Consciência Negra.",
+        "Macaco = capital; Domingos Jorge Velho = bandeirante paulista que destruiu o quilombo."
+      ],
+      "pegadinhas": [
+        "Dizer que Zumbi aceitou o acordo de paz — falso; foi Ganga Zumba.",
+        "Situar Palmares na Bahia ou em Minas.",
+        "Afirmar que Palmares foi destruído pelos holandeses.",
+        "Trocar Domingos Jorge Velho (bandeirante) por André Vidal de Negreiros (Guerra holandesa).",
+        "Dizer que o Dia da Consciência Negra é 13 de maio (Lei Áurea) — falso: é 20 de novembro."
+      ],
+      "flashcards": [
+        {"q": "Onde ficava o quilombo de Palmares?", "a": "Serra da Barriga (hoje União dos Palmares, AL), então capitania de Pernambuco."},
+        {"q": "Quem foi o primeiro grande líder de Palmares?", "a": "Ganga Zumba."},
+        {"q": "Quem liderou a resistência até o fim?", "a": "Zumbi."},
+        {"q": "Ano do acordo de paz de Ganga Zumba?", "a": "1678."},
+        {"q": "Quem destruiu o Macaco em 1694?", "a": "Domingos Jorge Velho (bandeirante paulista)."},
+        {"q": "Data da morte de Zumbi?", "a": "20 de novembro de 1695."},
+        {"q": "Lei do Dia da Consciência Negra?", "a": "Lei 12.519/2011."},
+        {"q": "O que é mocambo?", "a": "Aldeia fortificada de quilombolas."},
+        {"q": "Quem era Dandara?", "a": "Guerreira de Palmares, companheira de Zumbi."},
+        {"q": "Zumbi está em qual livro nacional?", "a": "Livro dos Heróis da Pátria (Lei 9.315/1996)."}
+      ]
+    },
+    {
+      "id": "historia-pe-insurreicao-1654",
+      "titulo": "5.2 Insurreição Pernambucana (1645-1654)",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## O que foi\nA **Insurreição Pernambucana** (também chamada de **Restauração Pernambucana** ou **Guerra da Luz Divina**) foi o levante de colonos luso-brasileiros contra o domínio holandês (**1645-1654**), terminando com a **expulsão dos holandeses**. NÃO confunda com a Revolução Pernambucana de **1817** (contra a Coroa portuguesa, republicana).\n\n## Causas\n- Após a saída de Nassau (1644), a WIC passou a **cobrar dívidas** dos senhores de engenho e a exigir pagamento imediato;\n- Apertos fiscais, perseguição a **católicos** (conflito religioso) e crise econômica;\n- Apoio velado de Portugal (já independente da Espanha desde 1640).\n\n## Líderes (quem foi quem)\n| Personagem | Origem/papel |\n|---|---|\n| **João Fernandes Vieira** | Rico senhor de engenho, principal articulador político |\n| **André Vidal de Negreiros** | Paraibano, chefe militar; |\n| **Henrique Dias** | Negro, comandou o **Terço dos Henriques** (soldados negros) |\n| **Felipe Camarão (Poti)** | Chefe **potiguara**, comandante dos índios aliados (morreu em 1648) |\n| **Antônio Dias Cardoso** | Mestre-de-campo, estratégia da guerra de emboscada |\n| **Francisco Barreto de Meneses** | Comandante-geral das tropas luso-brasileiras na fase final |\n\nSímbolo: união de **branco, negro e índio** contra o invasor, vista como origem do **sentimento nacional** e do **Exército Brasileiro**.\n\n## Batalhas-chave\n- **Monte das Tabocas (agosto de 1645)**: primeira grande vitória dos insurretos;\n- **1ª Batalha dos Guararapes (19 de abril de 1648)** — **Dia do Exército**;\n- **2ª Batalha dos Guararapes (19 de fevereiro de 1649)**;\n- **Campo do Taborda (26 de janeiro de 1654)**: capitulação holandesa, após cerco ao Recife.\n\nEm **1661**, o **Tratado de Haia** formalizou o fim da disputa, com indenização de Portugal.\n\n## Consequências\n- Fim da **Nova Holanda**; recolonização portuguesa;\n- Crise açucareira (concorrência das Antilhas);\n- Senhores de engenho reforçaram prestígio e se sentiram credores perante a Coroa;\n- Reforço da identidade pernambucana («Leão do Norte»).\n\n## Como não confundir\n**1654** = expulsão dos holandeses, líderes Fernandes Vieira, Vidal, Dias, Camarão. **1817** = república contra Portugal, líderes Domingos José Martins, padre João Ribeiro, Frei Caneca. **1710** = Mascates (Olinda x Recife).",
+      "dicas": [
+        "Guararapes: 1648 (abril, dia 19) e 1649 (fevereiro, dia 19). O Dia do Exército é 19 de abril.",
+        "Quem lutou? Branco (Fernandes Vieira/Vidal), negro (Henrique Dias), índio (Camarão).",
+        "1654 = fim dos holandeses; 1661 = pagamento (Haia).",
+        "Monte das Tabocas (1645) = primeira vitória; Campo do Taborda = rendição (1654)."
+      ],
+      "pegadinhas": [
+        "Dizer que a Insurreição ocorreu em 1817 ou foi contra Portugal.",
+        "Atribuir a liderança a Frei Caneca ou a Domingos José Martins (são da fase 1817/1824).",
+        "Afirmar que Maurício de Nassau liderou os holandeses derrotados — ele já tinha saído em 1644.",
+        "Trocar Henrique Dias (negro) por Felipe Camarão (índio).",
+        "Dizer que os holandeses foram expulsos em 1630 — 1630 é o ano da invasão."
+      ],
+      "flashcards": [
+        {"q": "Período da Insurreição Pernambucana?", "a": "1645-1654."},
+        {"q": "Quem era Henrique Dias?", "a": "Comandante do Terço de soldados negros."},
+        {"q": "Quem era Felipe Camarão?", "a": "Chefe potiguara, aliado dos portugueses."},
+        {"q": "Rico senhor de engenho articulador do levante?", "a": "João Fernandes Vieira."},
+        {"q": "Data da 1ª Batalha dos Guararapes?", "a": "19 de abril de 1648."},
+        {"q": "Data da 2ª Batalha dos Guararapes?", "a": "19 de fevereiro de 1649."},
+        {"q": "O que ocorreu em 26/01/1654?", "a": "Capitulação holandesa no Campo do Taborda."},
+        {"q": "Que dia comemora o Exército Brasileiro?", "a": "19 de abril (1ª Guararapes)."},
+        {"q": "Causa imediata do levante?", "a": "Cobrança de dívidas e pressão fiscal/religiosa da WIC após Nassau."},
+        {"q": "Tratado que encerrou a questão?", "a": "Haia, 1661."}
+      ]
+    },
+    {
+      "id": "historia-pe-mascates",
+      "titulo": "5.3 Guerra dos Mascates (1710-1711)",
+      "prioridade": 2,
+      "horas": 2,
+      "resumo_md": "## O que foi\nConflito entre a **nobreza açucareira de Olinda** (senhores de engenho, apelidados de **«pés-rombudos»**) e os **comerciantes portugueses do Recife** (os **«mascates»**), entre **1710 e 1711**.\n\n## Causas\n- A elite de Olinda estava **endividada** com os mercadores do Recife, que cobravam juros altos e se enriqueciam;\n- Em **1709** o Recife foi elevado a **vila**, desmembrando-se de Olinda; ganhou **Câmara** própria e **pelourinho** (símbolo de autonomia).\n- Olinda via nisso perda de poder político e econômico.\n\n## Fatos\n- **1710**: o pelourinho é erguido no Recife (por ordem do governador **Sebastião de Castro e Caldas**); partidários de Olinda **derrubam o pelourinho**; o governador é **ferido** em emboscada e foge para a Bahia. Líder de Olinda: **Bernardo Vieira de Melo**; a cidade chegou a cogitar um governo próprio (ideia de república, à moda de Veneza).\n- O Recife é **sitiado** pelos olindenses; o bispo **D. Manuel Álvares da Costa** mediou o conflito.\n- **1711**: chega o novo governador **Félix José Machado de Mendonça**, que **prendeu** lideranças olindenses, enquanto os mascates retomaram a vila. Ao final, o Recife manteve a autonomia e tornou-se a principal sede administrativa.\n\n## Consequências\n- **Vitória política do Recife** e dos comerciantes;\n- Fim da supremacia de Olinda e declínio dos senhores de engenho;\n- A Coroa reforçou o controle sobre a capitania.\n\n## Para guardar\n| Lado | Quem | Apelido | Interesse |\n|---|---|---|---|\n| Olinda | Senhores de engenho | pés-rombudos | Manter poder e escapar das dívidas |\n| Recife | Comerciantes portugueses | mascates | Autonomia política e comércio |\n\n**Não é movimento anticolonial nem republicano**: foi disputa de elites locais.",
+      "dicas": [
+        "Pés-rombudos = Olinda (terra); mascates = Recife (comércio).",
+        "Estopim: elevação do Recife a vila (1709) + pelourinho.",
+        "Não foi separatista: foi disputa interna entre elites.",
+        "Resultado: Recife prevaleceu."
+      ],
+      "pegadinhas": [
+        "Dizer que foi movimento republicano contra Portugal (falso).",
+        "Dizer que Olinda venceu e manteve a primazia (falso).",
+        "Trocar os apelidos: os «mascates» são do Recife, não de Olinda.",
+        "Datar a guerra em 1817, 1824 ou 1848.",
+        "Afirmar que Recife virou capital da província já em 1710 — a capital definitiva é de 1827."
+      ],
+      "flashcards": [
+        {"q": "Período da Guerra dos Mascates?", "a": "1710-1711."},
+        {"q": "Quem eram os mascates?", "a": "Comerciantes portugueses do Recife."},
+        {"q": "Quem eram os pés-rombudos?", "a": "Senhores de engenho de Olinda."},
+        {"q": "Causa imediata da guerra?", "a": "Elevação do Recife a vila (1709) e instalação do pelourinho."},
+        {"q": "Líder dos olindenses?", "a": "Bernardo Vieira de Melo."},
+        {"q": "Governador ferido em 1710?", "a": "Sebastião de Castro e Caldas."},
+        {"q": "Quem mediou o conflito?", "a": "Bispo D. Manuel Álvares da Costa."},
+        {"q": "Quem venceu a disputa?", "a": "O Recife (mascates)."},
+        {"q": "O que simbolizava o pelourinho?", "a": "Autonomia municipal e justiça da vila."},
+        {"q": "Governador de 1711 que reprimiu Olinda?", "a": "Félix José Machado de Mendonça."}
+      ]
+    }
+  ],
+  "questoes": []
+}

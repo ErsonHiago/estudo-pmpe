@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q171",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "Em uma planilha, as notas de uma turma estão em A1:A5 (8, 6, 9, 4 e 7). Na célula B1 foi digitada a fórmula\\n\\n=SE(CONT.SE(A1:A5;\">=7\")>=3;\"Turma Ok\";\"Revisar\")\\n\\nO valor exibido em B1 é",
+      "alternativas": {
+        "A": "Revisar",
+        "B": "3",
+        "C": "VERDADEIRO",
+        "D": "#VALOR!",
+        "E": "Turma Ok"
+      },
+      "gabarito": "E",
+      "explicacao": "Notas >= 7: 8, 9 e 7, ou seja, 3. O teste 3>=3 é verdadeiro, então o SE devolve \"Turma Ok\".",
+      "resolucao_md": "**O que a questão pede**\nO texto exibido pelo SE com CONT.SE.\n\n**Conceito/Regra rápida**\nPrimeiro resolve-se a função de dentro (CONT.SE), depois o teste do SE.\n\n**Passo a passo**\n```\\nA1:A5 = 8, 6, 9, 4, 7\\nCONT.SE(A1:A5;\">=7\") -> 8, 9, 7 = 3\\nTeste: 3>=3 -> VERDADEIRO\\nSE(VERDADEIRO;\"Turma Ok\";...) -> Turma Ok\\n```\n\n**Pegadinha**\nO número 7 entra por causa de `>=».\n\n**Macete**\nResolva de dentro para fora."
+    },
+    {
+      "id": "informatica-q172",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere a planilha: A1 = 10, A2 vazia, A3 = 20 e A4 contendo o texto `x». O resultado de `=MÉDIA(A1:A4)» é",
+      "alternativas": {
+        "A": "15",
+        "B": "7,5",
+        "C": "10",
+        "D": "#VALOR!",
+        "E": "30"
+      },
+      "gabarito": "A",
+      "explicacao": "MÉDIA ignora células vazias e texto dentro do intervalo. Soma = 10 + 20 = 30, dividida por 2 células numéricas = 15.",
+      "resolucao_md": "**O que a questão pede**\nA média de um intervalo com vazia e texto.\n\n**Conceito/Regra rápida**\nMÉDIA considera apenas as células com **números**; vazias e textos são ignorados (não contam como zero).\n\n**Passo a passo**\n```\\nA1 = 10   A2 = (vazia)   A3 = 20   A4 = \"x\"\\nNúmeros: 10 e 20 -> soma 30, quantidade 2\\nMÉDIA = 30/2 = 15\\n```\\nResultado: **15**.\n\n**Pegadinha**\nDividir por 4 (7,5) pressupõe contar vazia e texto como zero.\n\n**Macete**\nMÉDIA só olha números."
+    },
+    {
+      "id": "informatica-q173",
+      "topico": "informatica-atalhos",
+      "dificuldade": 1,
+      "enunciado": "Os atalhos de teclado Ctrl+Z e Ctrl+Y, usados na maioria dos programas do Windows, Office e LibreOffice, servem, respectivamente, para",
+      "alternativas": {
+        "A": "refazer e desfazer a última ação.",
+        "B": "desfazer e refazer a última ação.",
+        "C": "copiar e colar.",
+        "D": "recortar e copiar.",
+        "E": "salvar e fechar."
+      },
+      "gabarito": "B",
+      "explicacao": "Ctrl+Z desfaz; Ctrl+Y refaz (repete). Copiar é Ctrl+C, colar é Ctrl+V, recortar é Ctrl+X.",
+      "resolucao_md": "**O que a questão pede**\nFunções de Ctrl+Z e Ctrl+Y.\n\n**Conceito/Regra rápida**\nFamílias de edição: C (copiar), X (recortar), V (colar), Z (desfazer), Y (refazer).\n\n**Passo a passo**\n1. Apague um texto por engano.\\n2. Ctrl+Z traz o texto de volta (desfaz).\\n3. Ctrl+Y apaga de novo (refaz o que foi desfeito).\n\n**Pegadinha**\nA AOCP troca Z por Y e pergunta qual desfaz.\n\n**Macete**\nZ desfaz; Y \"yeah\", refaz."
+    },
+    {
+      "id": "informatica-q174",
+      "topico": "informatica-atalhos",
+      "dificuldade": 1,
+      "enunciado": "A tecla de função F12 é utilizada, no Word e no Excel, para",
+      "alternativas": {
+        "A": "abrir a Ajuda.",
+        "B": "verificar a ortografia.",
+        "C": "atualizar a página.",
+        "D": "abrir a caixa Salvar como.",
+        "E": "iniciar a apresentação de slides."
+      },
+      "gabarito": "D",
+      "explicacao": "F12 = Salvar como. F1 = ajuda; F7 = ortografia; F5 = atualizar ou iniciar apresentação (PowerPoint).",
+      "resolucao_md": "**O que a questão pede**\nFunção da tecla F12.\n\n**Conceito/Regra rápida**\nTeclas de função mais cobradas: F1 ajuda; F2 renomear/editar; F4 repetir/alternar referência; F5 atualizar/iniciar apresentação; F7 ortografia; F11 tela cheia; F12 Salvar como.\n\n**Passo a passo**\n```\\nF1  = Ajuda\\nF2  = Renomear / editar célula\\nF5  = Atualizar / iniciar apresentação\\nF7  = Ortografia\\nF11 = Tela cheia\\nF12 = Salvar como\\n```\n\n**Pegadinha**\nF12 não é ajuda.\n\n**Macete**\nF12 é a última: Salvar como."
+    },
+    {
+      "id": "informatica-q175",
+      "topico": "informatica-atalhos",
+      "dificuldade": 1,
+      "enunciado": "No Microsoft PowerPoint, a tecla F5 e o atalho Shift+F5 têm como função, respectivamente,",
+      "alternativas": {
+        "A": "iniciar a apresentação a partir do slide atual e a partir do primeiro slide.",
+        "B": "salvar e salvar como.",
+        "C": "iniciar a apresentação a partir do primeiro slide e a partir do slide atual.",
+        "D": "atualizar a página e abrir o histórico.",
+        "E": "inserir novo slide e duplicar slide."
+      },
+      "gabarito": "C",
+      "explicacao": "F5 inicia do começo; Shift+F5 inicia do slide em que o usuário está. Novo slide é Ctrl+M; duplicar slide é Ctrl+D.",
+      "resolucao_md": "**O que a questão pede**\nDiferença entre F5 e Shift+F5.\n\n**Conceito/Regra rápida**\nF5 = do começo. Shift+F5 = do slide atual.\n\n**Passo a passo**\n```\\nExemplo: o usuário está no slide 7 de 20.\\nF5        -> inicia no slide 1\\nShift+F5  -> inicia no slide 7\\n```\n\n**Pegadinha**\nA AOCP inverte as duas.\n\n**Macete**\nShift = \"daqui\"."
+    },
+    {
+      "id": "informatica-q176",
+      "topico": "informatica-atalhos",
+      "dificuldade": 1,
+      "enunciado": "Em um explorador de arquivos ou editor, o atalho Ctrl+X executa a ação de",
+      "alternativas": {
+        "A": "copiar o item selecionado, mantendo o original.",
+        "B": "excluir definitivamente o item.",
+        "C": "fechar o programa.",
+        "D": "desfazer a última ação.",
+        "E": "recortar (mover) o item selecionado."
+      },
+      "gabarito": "E",
+      "explicacao": "Ctrl+X recorta (o item sai do local de origem quando for colado em outro). Copiar é Ctrl+C; desfazer é Ctrl+Z; excluir definitivamente é Shift+Delete.",
+      "resolucao_md": "**O que a questão pede**\nO que Ctrl+X faz.\n\n**Conceito/Regra rápida**\nX lembra uma tesoura: **recorta**. O item só some da origem depois de colado (Ctrl+V).\n\n**Passo a passo**\n1. Selecione o arquivo.\\n2. Ctrl+X.\\n3. Vá à outra pasta e Ctrl+V: o arquivo foi movido.\n\n**Pegadinha**\nCtrl+X não copia.\n\n**Macete**\nX = tesoura (recorta)."
+    },
+    {
+      "id": "informatica-q177",
+      "topico": "informatica-atalhos",
+      "dificuldade": 1,
+      "enunciado": "Nos navegadores Google Chrome e Microsoft Edge, o atalho Ctrl+Shift+T tem a função de",
+      "alternativas": {
+        "A": "abrir uma nova aba em branco.",
+        "B": "abrir uma janela anônima.",
+        "C": "fechar a aba atual.",
+        "D": "reabrir a última aba fechada.",
+        "E": "abrir a página de downloads."
+      },
+      "gabarito": "D",
+      "explicacao": "Ctrl+Shift+T reabre a última aba fechada. Nova aba = Ctrl+T; fechar aba = Ctrl+W; janela anônima/InPrivate = Ctrl+Shift+N; downloads = Ctrl+J.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Ctrl+Shift+T.\n\n**Conceito/Regra rápida**\nNavegadores: Ctrl+T nova aba; Ctrl+W fecha; Ctrl+Shift+T **reabre**; Ctrl+Shift+N anônima; Ctrl+J downloads; Ctrl+H histórico; Ctrl+D favorito.\n\n**Passo a passo**\n1. Feche uma aba por engano (Ctrl+W).\\n2. Pressione Ctrl+Shift+T.\\n3. A aba volta.\n\n**Pegadinha**\nCtrl+T apenas abre uma aba nova vazia.\n\n**Macete**\nT de Tab; Shift = \"traga de volta\"."
+    },
+    {
+      "id": "informatica-q178",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "No Google Chrome, o atalho de teclado Ctrl+Shift+N serve para",
+      "alternativas": {
+        "A": "reabrir a última aba fechada.",
+        "B": "abrir o histórico de navegação.",
+        "C": "abrir uma nova janela anônima.",
+        "D": "limpar o cache do navegador.",
+        "E": "abrir uma nova aba."
+      },
+      "gabarito": "C",
+      "explicacao": "Ctrl+Shift+N abre janela anônima (no Edge, InPrivate), que não grava histórico local. Histórico é Ctrl+H.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Ctrl+Shift+N.\n\n**Conceito/Regra rápida**\nN de **N**ew incognito window (anônima). Ela não grava histórico, cookies e dados de formulário **no computador**.\n\n**Passo a passo**\n1. Ctrl+Shift+N abre janela anônima.\\n2. Ao fechar, histórico e cookies da sessão são descartados.\\n3. O provedor e o site ainda podem registrar o acesso.\n\n**Pegadinha**\nAnônima não torna o usuário invisível na internet.\n\n**Macete**\nN = aNônima."
+    },
+    {
+      "id": "informatica-q179",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "No Chrome e no Edge, o atalho Ctrl+F5 (ou Ctrl+Shift+R) tem como função",
+      "alternativas": {
+        "A": "recarregar a página ignorando o cache armazenado.",
+        "B": "atualizar a página usando sempre o cache.",
+        "C": "abrir a página em tela cheia.",
+        "D": "fechar o navegador.",
+        "E": "abrir o histórico de downloads."
+      },
+      "gabarito": "A",
+      "explicacao": "F5 recarrega a página normalmente; Ctrl+F5 força o recarregamento ignorando o cache. F11 é tela cheia.",
+      "resolucao_md": "**O que a questão pede**\nDiferença entre F5 e Ctrl+F5.\n\n**Conceito/Regra rápida**\nF5 = atualizar. Ctrl+F5 = atualizar **sem usar o cache** (baixa tudo de novo).\n\n**Passo a passo**\n1. F5: pode reaproveitar arquivos guardados em cache.\\n2. Ctrl+F5: busca tudo novamente do servidor.\n\n**Pegadinha**\nNão é tela cheia (F11).\n\n**Macete**\nCtrl+F5 = \"força\" a atualização."
+    },
+    {
+      "id": "informatica-q180",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "No Microsoft Excel, ao pressionar Alt+Enter durante a edição do conteúdo de uma célula, ocorre",
+      "alternativas": {
+        "A": "a confirmação do conteúdo e a passagem para a célula de baixo.",
+        "B": "uma quebra de linha dentro da própria célula.",
+        "C": "a inserção de uma nova planilha.",
+        "D": "o preenchimento automático da coluna.",
+        "E": "a exclusão da linha."
+      },
+      "gabarito": "B",
+      "explicacao": "Alt+Enter insere nova linha dentro da célula. Enter simples confirma e desce para a célula de baixo.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Alt+Enter na célula.\n\n**Conceito/Regra rápida**\nEnter = confirma (e desce). Alt+Enter = quebra de linha **na mesma célula**.\n\n**Passo a passo**\n```\\nA1: digite  Soldado  [Alt+Enter]  PMPE  [Enter]\\nA1 exibe duas linhas de texto na mesma célula:\\n  Soldado\\n  PMPE\\n```\n\n**Pegadinha**\nNão confundir com a quebra de página do Word (Ctrl+Enter).\n\n**Macete**\nAlt+Enter = linha nova na célula."
+    }
+  ]
+}

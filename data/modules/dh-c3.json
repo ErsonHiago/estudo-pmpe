@@ -1,0 +1,168 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-eca1",
+   "titulo": "ECA (Lei 8.069/1990) — Parte 1: direitos fundamentais e prevenção",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Conceitos e prioridade absoluta\nO **Estatuto da Criança e do Adolescente** adota a **doutrina da proteção integral** (CF, art. 227). Considera-se (art. 2º):\n\n| Categoria | Faixa etária |\n|---|---|\n| **Criança** | até **12 anos incompletos** |\n| **Adolescente** | de **12 a 18 anos** de idade |\n\nO Estatuto aplica-se **excepcionalmente às pessoas entre 18 e 21 anos** (parágrafo único). Art. 4º: é dever da **família, da comunidade, da sociedade em geral e do poder público** assegurar, com **absoluta prioridade**, os direitos fundamentais. A prioridade compreende: (a) primazia de **receber proteção e socorro** em quaisquer circunstâncias; (b) **precedência de atendimento** nos serviços públicos; (c) **preferência na formulação e execução** de políticas sociais; (d) **destinação privilegiada de recursos** públicos.\n\n## Direitos fundamentais\n- **Vida e saúde** (art. 7º): políticas que permitam o nascimento e desenvolvimento sadio.\n- **Liberdade, respeito e dignidade** (art. 15): são pessoas em desenvolvimento e sujeitos de direitos.\n- **Direito à liberdade (art. 16)** compreende: I ir, vir e estar nos **logradouros públicos e espaços comunitários**, ressalvadas as restrições legais; II **opinião e expressão**; III **crença e culto religioso**; IV **brincar, praticar esportes e divertir-se**; V participar da **vida familiar e comunitária**, sem discriminação; VI participar da **vida política**, na forma da lei; VII buscar **refúgio, auxílio e orientação**.\n- **Direito ao respeito (art. 17):** inviolabilidade da **integridade física, psíquica e moral**, abrangendo a preservação da imagem, da identidade, da autonomia, dos valores, das ideias e crenças, dos espaços e objetos pessoais.\n- **Art. 18:** dever de todos de velar pela dignidade, pondo a criança e o adolescente a salvo de tratamento desumano, violento, aterrorizante, vexatório ou constrangedor. **Art. 18-A (Lei Menino Bernardo, 13.010/2014):** direito de ser educado e cuidado **sem o uso de castigo físico** ou tratamento cruel ou degradante.\n- **Convivência familiar** (art. 19): criação no seio da família; a falta de recursos materiais **não** é motivo para perda do poder familiar.\n- **Educação** (arts. 53 e ss.): dirigentes de escolas comunicam ao **Conselho Tutelar** os casos de maus-tratos, reiteração de faltas injustificadas e evasão, esgotados os recursos escolares, e elevados níveis de repetência (art. 56).\n- **Profissionalização** (arts. 60 e ss.): trabalho **proibido a menores de 16 anos**, salvo como **aprendiz a partir de 14**; proibido trabalho **noturno, perigoso, insalubre ou penoso** a menor de 18.\n\n## Prevenção (arts. 70 a 85)\n**Art. 70:** é dever de **todos** prevenir a ocorrência de ameaça ou violação.\n\n| Tema | Regra |\n|---|---|\n| Diversões e espetáculos (arts. 74-75) | informar natureza, faixa etária e local; **menores de 10 anos** só entram e ficam **acompanhados dos pais ou responsável** |\n| **Art. 81 — proibida a venda** a criança ou adolescente de | I armas, munições e explosivos; II **bebidas alcoólicas**; III produtos que causem **dependência** física ou psíquica; IV fogos de estampido e artifício (exceto os de reduzido potencial); V revistas com material impróprio; VI **bilhetes lotéricos** |\n| Hospedagem (art. 82) | proibido hospedar em hotel, motel, pensão ou congênere, **salvo se acompanhados dos pais ou com autorização** |\n| Viagem nacional (art. 83) | **criança** não viaja para fora da **comarca** desacompanhada dos pais/responsável sem **autorização judicial** (dispensada: comarca contígua ou mesma região metropolitana; acompanhada de ascendente ou colateral até 3º grau; autorização escrita com **firma reconhecida**) |\n| Viagem ao exterior (arts. 84-85) | dispensa-se autorização se acompanhado de **ambos os pais**, ou de um com autorização do outro; sem autorização judicial, não sai com **estrangeiro residente no exterior** |\n\nAtenção: o art. 83 trata de **criança** (adolescente viaja pelo território nacional sem autorização).",
+   "dicas": [
+    "Criança: 0 a 12 incompletos. Adolescente: 12 a 18. Exceção: 18 a 21.",
+    "Prioridade absoluta tem 4 faces: socorro, precedência, políticas, recursos.",
+    "Art. 81 (proibição de venda): armas, álcool, dependência, fogos, revistas, bilhetes lotéricos.",
+    "Menor de 10 anos em espetáculo = só acompanhado."
+   ],
+   "pegadinhas": [
+    "Dizer que criança é quem tem até 12 anos COMPLETOS: é 12 incompletos.",
+    "Afirmar que o adolescente precisa de autorização judicial para viajar dentro do país: o art. 83 trata da criança.",
+    "Dizer que a falta de recursos materiais justifica a perda do poder familiar: não justifica (art. 23).",
+    "Incluir tabaco fora do rol do art. 81 por engano: leia a lista (armas, álcool, dependência, fogos, revistas, bilhetes).",
+    "Pensar que menor de 16 pode trabalhar como aprendiz: só a partir dos 14."
+   ],
+   "flashcards": [
+    {
+     "q": "Quem é criança segundo o ECA?",
+     "a": "A pessoa até 12 anos de idade incompletos."
+    },
+    {
+     "q": "Quem é adolescente?",
+     "a": "A pessoa entre 12 e 18 anos de idade."
+    },
+    {
+     "q": "Quando o ECA se aplica a pessoas de 18 a 21 anos?",
+     "a": "Excepcionalmente, nos casos previstos em lei."
+    },
+    {
+     "q": "O que compreende a prioridade absoluta?",
+     "a": "Primazia de socorro, precedência de atendimento, preferência em políticas e destinação privilegiada de recursos."
+    },
+    {
+     "q": "Qual a idade mínima de trabalho e a do aprendiz?",
+     "a": "16 anos, salvo aprendiz a partir de 14."
+    },
+    {
+     "q": "O que veda o art. 18-A?",
+     "a": "Castigo físico, tratamento cruel ou degradante na educação da criança e do adolescente."
+    },
+    {
+     "q": "Menores de 10 anos em diversões públicas?",
+     "a": "Só ingressam e permanecem acompanhados dos pais ou responsável."
+    },
+    {
+     "q": "Quais produtos o art. 81 proíbe vender?",
+     "a": "Armas, munições e explosivos; bebidas alcoólicas; produtos que causem dependência; fogos; revistas impróprias; bilhetes lotéricos."
+    },
+    {
+     "q": "Quem precisa de autorização judicial para viajar para fora da comarca (art. 83)?",
+     "a": "A criança desacompanhada dos pais ou responsável (com as dispensas legais)."
+    },
+    {
+     "q": "A quem a escola comunica maus-tratos e evasão?",
+     "a": "Ao Conselho Tutelar."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-eca1-q01",
+   "topico": "dh-c-eca1",
+   "dificuldade": 1,
+   "enunciado": "Nos termos da Lei nº 8.069/1990 (ECA), é correto afirmar que",
+   "alternativas": {
+    "A": "considera-se criança a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade.",
+    "B": "considera-se criança a pessoa até doze anos completos, e adolescente aquela entre treze e dezoito anos.",
+    "C": "considera-se adolescente a pessoa entre catorze e dezoito anos de idade, sem exceção.",
+    "D": "o Estatuto nunca se aplica a pessoas com mais de dezoito anos.",
+    "E": "considera-se criança a pessoa até dez anos incompletos."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 2º do ECA. O parágrafo único admite aplicação excepcional até 21 anos.",
+   "resolucao_md": "**O que a questão pede:** as faixas etárias do art. 2º.\n\n**Regra rápida:** criança < 12 (incompletos); adolescente 12 a 18.\n\n**Passo a passo:**\n1. B muda para 12 completos e 13 anos: errado.\n2. C põe 14 anos: errado.\n3. D nega a aplicação excepcional até 21: errado.\n4. E fala em 10 anos: errado (10 aparece no art. 75, espetáculos).\n\n**Pegadinha:** Confundir 12 incompletos com 12 completos.\n\n**Macete:** 12 divide criança de adolescente (nos 12 já é adolescente)."
+  },
+  {
+   "id": "dh-c-eca1-q02",
+   "topico": "dh-c-eca1",
+   "dificuldade": 2,
+   "enunciado": "A garantia de prioridade absoluta prevista no art. 4º do ECA compreende, EXCETO:",
+   "alternativas": {
+    "A": "primazia de receber proteção e socorro em quaisquer circunstâncias.",
+    "B": "precedência de atendimento nos serviços públicos ou de relevância pública.",
+    "C": "isenção de responsabilidade civil e penal da criança e do adolescente em qualquer hipótese.",
+    "D": "preferência na formulação e na execução das políticas sociais públicas.",
+    "E": "destinação privilegiada de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude."
+   },
+   "gabarito": "C",
+   "explicacao": "O art. 4º, parágrafo único, traz as quatro alíneas. Não há isenção de responsabilidade: adolescentes respondem por ato infracional com medidas socioeducativas.",
+   "resolucao_md": "**O que a questão pede:** achar o item que NÃO integra a prioridade absoluta.\n\n**Regra rápida:** quatro faces: socorro, precedência, políticas, recursos.\n\n**Passo a passo:**\n1. A, B, D e E repetem as alíneas a, b, c e d do art. 4º.\n2. O item de isenção de responsabilidade não consta.\n\n**Pegadinha:** Questão com \"EXCETO\": a certa é a falsa.\n\n**Macete:** Prioridade = SPPR: Socorro, Precedência, Políticas, Recursos."
+  },
+  {
+   "id": "dh-c-eca1-q03",
+   "topico": "dh-c-eca1",
+   "dificuldade": 2,
+   "enunciado": "Segundo o art. 81 do ECA, é proibido vender à criança ou ao adolescente",
+   "alternativas": {
+    "A": "apenas armas de fogo, sendo permitida a venda de munições.",
+    "B": "apenas cigarros e produtos de tabaco.",
+    "C": "revistas e livros de qualquer natureza.",
+    "D": "bebidas alcoólicas e bilhetes lotéricos, entre outros produtos expressamente indicados.",
+    "E": "brinquedos e jogos eletrônicos de qualquer natureza."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 81: armas, munições e explosivos; bebidas alcoólicas; produtos que causem dependência; fogos; revistas impróprias; bilhetes lotéricos.",
+   "resolucao_md": "**O que a questão pede:** o rol do art. 81.\n\n**Regra rápida:** lista de seis incisos (armas, álcool, dependência, fogos, revistas impróprias, loteria).\n\n**Passo a passo:**\n1. A isola armas e libera munições: o inciso I proíbe ambas.\n2. B restringe a tabaco: o rol é mais amplo (e a venda de produtos que causam dependência já abrange o tabaco).\n3. C generaliza as revistas: a proibição é para as impróprias ou inadequadas.\n4. E inventa brinquedos.\n\n**Pegadinha:** Generalizar \"revistas\" (só as impróprias).\n\n**Macete:** Seis proibições: armas, álcool, dependência, fogos, revistas, loteria."
+  },
+  {
+   "id": "dh-c-eca1-q04",
+   "topico": "dh-c-eca1",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta acerca da viagem de criança, nos termos do ECA.",
+   "alternativas": {
+    "A": "O adolescente não pode viajar para fora da comarca sem autorização judicial em nenhuma hipótese.",
+    "B": "A autorização judicial é sempre dispensada se a criança viajar com qualquer pessoa maior de idade.",
+    "C": "Não é necessária autorização judicial para a criança sair do País com estrangeiro residente no exterior.",
+    "D": "A autorização judicial é necessária mesmo que a criança viaje acompanhada de ascendente.",
+    "E": "A criança não poderá viajar para fora da comarca onde reside, desacompanhada dos pais ou do responsável, sem expressa autorização judicial, salvo as hipóteses de dispensa previstas em lei."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 83 e §1º. O art. 83 trata de criança; a dispensa vale para ascendente ou colateral até 3º grau, comarca contígua, etc.; sair do País com estrangeiro residente no exterior exige autorização judicial (art. 85).",
+   "resolucao_md": "**O que a questão pede:** a regra do art. 83.\n\n**Regra rápida:** criança + fora da comarca + desacompanhada = autorização judicial, com dispensas.\n\n**Passo a passo:**\n1. A: o art. 83 não trata de adolescente.\n2. B: não basta \"qualquer maior\": é ascendente ou colateral até 3º grau comprovado.\n3. C: inverte o art. 85.\n4. D: nega a dispensa para ascendente.\n\n**Pegadinha:** Estender a regra ao adolescente.\n\n**Macete:** Art. 83 só fala de criança."
+  },
+  {
+   "id": "dh-c-eca1-q05",
+   "topico": "dh-c-eca1",
+   "dificuldade": 2,
+   "enunciado": "De acordo com o ECA, o direito à liberdade da criança e do adolescente NÃO compreende",
+   "alternativas": {
+    "A": "a faculdade de frequentar, sem acompanhante e sem qualquer restrição legal, quaisquer locais e diversões.",
+    "B": "brincar, praticar esportes e divertir-se.",
+    "C": "opinião e expressão.",
+    "D": "crença e culto religioso.",
+    "E": "participar da vida política, na forma da lei."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 16: o direito de ir, vir e estar em logradouros públicos tem as restrições legais; diversões públicas têm limitações de idade (arts. 74-75). Os demais incisos constam do art. 16.",
+   "resolucao_md": "**O que a questão pede:** o que não integra o art. 16.\n\n**Regra rápida:** liberdade existe, mas com as ressalvas legais.\n\n**Passo a passo:**\n1. B, C, D e E repetem os incisos IV, II, III e VI.\n2. A retira as ressalvas legais.\n\n**Pegadinha:** Pegadinha do \"sem qualquer restrição\".\n\n**Macete:** Liberdade do ECA = com ressalvas legais."
+  },
+  {
+   "id": "dh-c-eca1-q06",
+   "topico": "dh-c-eca1",
+   "dificuldade": 2,
+   "enunciado": "A respeito do trabalho do adolescente, previsto no ECA, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "É permitido o trabalho noturno ao adolescente maior de quatorze anos.",
+    "B": "É proibido qualquer trabalho a menores de dezesseis anos de idade, salvo na condição de aprendiz, a partir dos quatorze anos.",
+    "C": "A condição de aprendiz permite o trabalho a partir de doze anos.",
+    "D": "O trabalho insalubre é permitido ao maior de dezesseis anos.",
+    "E": "Não há restrição de idade para trabalho doméstico não remunerado em jornada integral."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 60 do ECA e CF, art. 7º, XXXIII. Trabalho noturno, perigoso, insalubre ou penoso é vedado a menor de 18.",
+   "resolucao_md": "**O que a questão pede:** a idade mínima do trabalho.\n\n**Regra rápida:** 16 anos; aprendiz a partir de 14.\n\n**Passo a passo:**\n1. A: noturno é vedado a menor de 18.\n2. C: aprendiz é de 14, não 12.\n3. D: insalubre é vedado a menor de 18.\n4. E: inventa exceção.\n\n**Pegadinha:** Achar que aos 16 tudo é permitido.\n\n**Macete:** 14 aprendiz, 16 trabalho, 18 noturno/insalubre."
+  }
+ ]
+}

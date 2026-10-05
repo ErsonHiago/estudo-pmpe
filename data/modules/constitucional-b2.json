@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: Administração Pública e servidores públicos. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Administração Pública: art. 37 (princípios, concurso, cargos, acumulação, responsabilidade do Estado) e servidores públicos (arts. 38 a 41)",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Princípios da Administração (art. 37, caput)\nA Administração direta e indireta de qualquer dos Poderes e entes obedecerá aos princípios de **L**egalidade, **I**mpessoalidade, **M**oralidade, **P**ublicidade e **E**ficiência (**LIMPE**; eficiência entrou pela EC 19/98).\n\n## Acesso a cargos, concurso e comissão\n| Tema | Regra |\n|---|---|\n| Acesso (I) | brasileiros que preencham os requisitos da lei; **estrangeiros**, na forma da lei |\n| Concurso (II) | **provas ou provas e títulos**; ressalva: **cargo em comissão** declarado em lei de livre nomeação e exoneração |\n| Validade (III) | **até 2 anos**, **prorrogável uma vez por igual período** |\n| Prioridade (IV) | durante o prazo, o aprovado tem **prioridade** sobre novos concursados |\n| Funções de confiança (V) | só por **servidores efetivos**; cargos em comissão: percentuais mínimos de servidores de carreira; **destinam-se apenas a direção, chefia e assessoramento** |\n| PcD (VIII) | a lei reservará **percentual** de cargos e definirá critérios |\n| Temporários (IX) | contratação por tempo determinado para **necessidade temporária de excepcional interesse público** |\n\nSe não observar os incisos II e III: **nulidade do ato e punição da autoridade responsável** (§2º).\n\n## Direitos coletivos e remuneração\n- **Sindicalização** (VI): garantida ao servidor civil. **Greve** (VII): nos termos e limites de **lei específica**. **Militares: proibidas sindicalização e greve** (art. 142, §3º, IV).\n- Remuneração e subsídio só por **lei específica**; **revisão geral anual**, sempre na mesma data e sem distinção de índices (X).\n- **Teto** (XI): **subsídio mensal dos Ministros do STF**. Subtetos: Municípios = subsídio do **Prefeito**; Estados/DF: Executivo = **Governador**, Legislativo = **Deputados Estaduais**, Judiciário = **Desembargadores do TJ (90,25% do subsídio dos Ministros do STF)**.\n- Vedada a vinculação ou equiparação de espécies remuneratórias; os acréscimos não se acumulam para acréscimos ulteriores (efeito cascata, XIV); vencimentos **irredutíveis** (XV, com exceções).\n\n## Acumulação de cargos (XVI e XVII)\nRegra: **proibida**. Exceções, **havendo compatibilidade de horários** e respeitado o teto: **a)** dois cargos de **professor**; **b)** um de **professor** com outro **técnico ou científico**; **c)** dois cargos ou empregos privativos de **profissionais de saúde, com profissões regulamentadas**. A proibição abrange cargos, empregos e funções em autarquias, fundações, empresas públicas, sociedades de economia mista e subsidiárias. Aposentadoria do art. 40 (ou dos arts. 42 e 142) **não pode** ser somada à remuneração de cargo público, salvo cargos acumuláveis, eletivos e em comissão (§10).\n\n## Responsabilidade, probidade e publicidade\n- **§6º**: pessoas jurídicas de direito público e de direito privado prestadoras de serviço público respondem **objetivamente** (teoria do risco administrativo) pelos danos que seus agentes, **nessa qualidade**, causarem a terceiros, **assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa** (o agente responde de forma **subjetiva**).\n- **§4º** improbidade: suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação da lei, **sem prejuízo da ação penal**.\n- **§1º**: publicidade com caráter **educativo, informativo ou de orientação social**; proibidos nomes, símbolos ou imagens que caracterizem **promoção pessoal**.\n\n## Servidores públicos (arts. 38 a 41)\n- **Art. 38 (mandato eletivo):** mandato federal, estadual ou distrital = **afastamento** do cargo; Prefeito = afastado, **podendo optar** pela remuneração; **Vereador** = havendo compatibilidade de horários, acumula; não havendo, aplica-se a regra do Prefeito.\n- **Art. 39:** regime jurídico e planos de carreira; **subsídio em parcela única** para membros de Poder, detentores de mandato eletivo, Ministros e Secretários; aos servidores ocupantes de cargo estendem-se direitos do art. 7º (13º, férias +1/3, licença-gestante etc.). [VERIFICAR] a situação do regime jurídico único (art. 39, caput) após as decisões do STF na ADI 2135.\n- **Art. 40 (RPPS):** regime próprio, de caráter **contributivo e solidário**; aposentadoria por incapacidade permanente, **compulsória aos 75 anos** (LC 152/2015) e voluntária (idade e tempo mínimos nos termos da lei do ente) [VERIFICAR requisitos atuais].\n- **Art. 41 (estabilidade):** cargo **efetivo**, concurso, **3 anos de efetivo exercício** e **avaliação especial de desempenho**. Só perde o cargo por: **sentença judicial transitada em julgado**; **processo administrativo com ampla defesa**; **avaliação periódica de desempenho** (LC), com ampla defesa. Demissão invalidada = **reintegração**; cargo extinto = **disponibilidade** com remuneração proporcional ao tempo de serviço.",
+   "dicas": [
+    "LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência.",
+    "Prazo do concurso: 2 anos + 2 anos (uma vez). Estabilidade: 3 anos. Compulsória: 75 anos.",
+    "Acumulação: \"2P, 1P+1T, 2S\" = dois professores, professor + técnico/científico, dois de saúde.",
+    "Teto = subsídio do STF; subteto municipal = Prefeito; estadual = Governador/Deputado/Desembargador (90,25%).",
+    "Responsabilidade: Estado = OBJETIVA; agente = SUBJETIVA (regresso só com dolo ou culpa)."
+   ],
+   "pegadinhas": [
+    "Trocar \"objetiva\" por \"subjetiva\" para o Estado (ou dizer que o regresso exige apenas dolo): o regresso cabe em DOLO OU CULPA.",
+    "Dizer que o concurso vale 2 anos prorrogável por 2 vezes: é prorrogável UMA vez.",
+    "Afirmar que cargos em comissão servem a quaisquer atribuições: só direção, chefia e assessoramento.",
+    "Estabilidade em 2 anos (estágio probatório antigo) ou \"automática\": são 3 anos de efetivo exercício, com avaliação especial.",
+    "Revisão geral anual com índices diferentes por categoria: deve ser na mesma data e sem distinção de índices.",
+    "Greve do servidor civil exige lei complementar: a CF diz lei específica; e militares não podem fazer greve nem sindicalizar-se."
+   ],
+   "flashcards": [
+    {
+     "q": "Quais os princípios do art. 37, caput?",
+     "a": "Legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE)."
+    },
+    {
+     "q": "Qual a validade do concurso público?",
+     "a": "Até 2 anos, prorrogável uma vez por igual período."
+    },
+    {
+     "q": "O que implica descumprir os incisos II e III do art. 37?",
+     "a": "Nulidade do ato e punição da autoridade responsável."
+    },
+    {
+     "q": "Qual o teto remuneratório geral?",
+     "a": "Subsídio mensal dos Ministros do STF."
+    },
+    {
+     "q": "Quais acumulações remuneradas são permitidas?",
+     "a": "Dois de professor; professor + técnico/científico; dois de saúde regulamentados; sempre com compatibilidade de horários."
+    },
+    {
+     "q": "Qual a responsabilidade do Estado por danos de seus agentes?",
+     "a": "Objetiva (risco administrativo), com direito de regresso contra o agente nos casos de dolo ou culpa."
+    },
+    {
+     "q": "Em quanto tempo o servidor adquire estabilidade?",
+     "a": "3 anos de efetivo exercício, em cargo efetivo por concurso, com avaliação especial de desempenho."
+    },
+    {
+     "q": "Quais as formas de perda do cargo do servidor estável?",
+     "a": "Sentença transitada em julgado; processo administrativo com ampla defesa; avaliação periódica de desempenho (LC)."
+    },
+    {
+     "q": "Em que idade ocorre a aposentadoria compulsória do servidor?",
+     "a": "Aos 75 anos (LC 152/2015)."
+    },
+    {
+     "q": "O que a publicidade oficial NÃO pode conter?",
+     "a": "Nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores."
+    },
+    {
+     "q": "O servidor eleito Prefeito: como fica?",
+     "a": "Afasta-se do cargo, podendo optar pela remuneração (art. 38, II)."
+    }
+   ],
+   "id": "const-b-t2"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t2-q01",
+   "topico": "const-b-t2",
+   "dificuldade": 1,
+   "enunciado": "De acordo com o art. 37 da Constituição Federal, o prazo de validade do concurso público será de",
+   "alternativas": {
+    "A": "até um ano, prorrogável por tempo indeterminado.",
+    "B": "até três anos, improrrogável.",
+    "C": "até dois anos, prorrogável uma vez, por igual período.",
+    "D": "até quatro anos, prorrogável duas vezes.",
+    "E": "até cinco anos, prorrogável uma vez, por igual período."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 37, III: prazo de até 2 anos, prorrogável uma vez, por igual período.",
+   "resolucao_md": "**O que a questão pede:** o prazo constitucional de validade do concurso.\n\n**Regra rápida:** Validade de até 2 anos + uma prorrogação por igual período.\n\n**Passo a passo:**\n1. Procure \"dois anos\" e \"uma vez\".\n2. A, B, D e E alteram o prazo ou a possibilidade de prorrogação.\n\n**Macete:** 2 + 2, uma vez só."
+  },
+  {
+   "id": "const-b-t2-q02",
+   "topico": "const-b-t2",
+   "dificuldade": 2,
+   "enunciado": "Considerando as regras de acumulação remunerada de cargos públicos previstas na Constituição Federal, é lícita a acumulação, havendo compatibilidade de horários, de",
+   "alternativas": {
+    "A": "dois cargos técnicos ou científicos, quaisquer que sejam.",
+    "B": "um cargo de professor com um cargo de natureza administrativa comum.",
+    "C": "um cargo de policial militar com um cargo de contador na administração direta.",
+    "D": "dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.",
+    "E": "três cargos de professor, desde que haja compatibilidade de horários."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 37, XVI, \"c\". As exceções são exaustivas: dois de professor; professor + técnico/científico; dois de saúde regulamentados.",
+   "resolucao_md": "**O que a questão pede:** encontrar a hipótese de acumulação permitida.\n\n**Regra rápida:** Regra: proibida. Exceções: 2 professores; professor + técnico/científico; 2 de saúde.\n\n**Passo a passo:**\n1. Liste as exceções do inciso XVI.\n2. A: \"dois técnicos\" não está na lista.\n3. B: professor só acumula com técnico/científico, não com cargo administrativo comum.\n4. C: militar tem regra própria (art. 142, §3º, VIII) e a combinação citada não é permitida.\n5. E: o limite é \"dois\", não três.\n\n**Pegadinha:** Alternativas que parecem razoáveis porque há compatibilidade de horário: ela é necessária, mas não suficiente.\n\n**Macete:** 2P, P+T, 2S."
+  },
+  {
+   "id": "const-b-t2-q03",
+   "topico": "const-b-t2",
+   "dificuldade": 2,
+   "enunciado": "Sobre a responsabilidade civil do Estado, nos termos do art. 37, §6º, da Constituição Federal, é correto afirmar que",
+   "alternativas": {
+    "A": "a responsabilidade do Estado é subjetiva, dependendo da prova de culpa do agente.",
+    "B": "o direito de regresso contra o agente só é cabível se houver comprovado dolo.",
+    "C": "a responsabilidade é de risco integral, sem admitir excludentes.",
+    "D": "o Estado responde solidariamente com o agente, que fica isento de ressarcir a administração.",
+    "E": "as pessoas jurídicas de direito público respondem objetivamente pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa."
+   },
+   "gabarito": "E",
+   "explicacao": "O §6º adota a responsabilidade objetiva (risco administrativo); regresso em dolo ou culpa.",
+   "resolucao_md": "**O que a questão pede:** a regra do art. 37, §6º.\n\n**Regra rápida:** Estado: objetiva. Agente: subjetiva (regresso exige dolo ou culpa).\n\n**Passo a passo:**\n1. A: o Estado responde sem precisar provar culpa (objetiva).\n2. B: o regresso cabe em dolo OU culpa.\n3. C: é risco administrativo, não integral.\n4. D: o agente pode ser acionado em regresso.\n\n**Pegadinha:** B parece certa, mas restringe ao dolo.\n\n**Macete:** Objetiva para o Estado, regresso com dolo ou culpa."
+  },
+  {
+   "id": "const-b-t2-q04",
+   "topico": "const-b-t2",
+   "dificuldade": 2,
+   "enunciado": "O servidor nomeado para cargo de provimento efetivo em virtude de concurso público adquire estabilidade",
+   "alternativas": {
+    "A": "após três anos de efetivo exercício, sendo obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade.",
+    "B": "após dois anos de exercício, de forma automática.",
+    "C": "imediatamente com a posse, por ter sido aprovado em concurso.",
+    "D": "após cinco anos de exercício, independentemente de avaliação.",
+    "E": "após três anos de exercício, mesmo se nomeado para cargo em comissão."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 41, caput e §4º: três anos de efetivo exercício e avaliação especial de desempenho; vale para cargo efetivo.",
+   "resolucao_md": "**O que a questão pede:** requisitos da estabilidade.\n\n**Regra rápida:** Cargo efetivo + concurso + 3 anos + avaliação especial.\n\n**Passo a passo:**\n1. Elimine prazos de 2 e 5 anos.\n2. Elimine \"imediatamente com a posse\".\n3. Elimine cargo em comissão (não gera estabilidade).\n\n**Pegadinha:** Prazo de 2 anos (regime antigo).\n\n**Macete:** Estabilidade: 3 anos e avaliação."
+  },
+  {
+   "id": "const-b-t2-q05",
+   "topico": "const-b-t2",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA a respeito da Administração Pública na Constituição Federal.",
+   "alternativas": {
+    "A": "O direito de greve do servidor público civil será exercido nos termos e nos limites definidos em lei específica.",
+    "B": "A revisão geral anual da remuneração dos servidores poderá ter índices distintos entre as categorias, conforme o Poder a que pertençam.",
+    "C": "A publicidade dos atos dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, sem promoção pessoal.",
+    "D": "O teto remuneratório geral corresponde ao subsídio mensal dos Ministros do Supremo Tribunal Federal.",
+    "E": "Os cargos em comissão destinam-se apenas às atribuições de direção, chefia e assessoramento."
+   },
+   "gabarito": "B",
+   "explicacao": "A revisão geral anual é sempre na mesma data e sem distinção de índices (art. 37, X). As demais estão corretas: VII, §1º, XI, V.",
+   "resolucao_md": "**O que a questão pede:** achar a alternativa FALSA (questão de \"INCORRETA\").\n\n**Regra rápida:** Em questões \"INCORRETA\", marque a única que contraria a CF.\n\n**Passo a passo:**\n1. Verifique cada item: greve (VII), publicidade (§1º), teto (XI), comissão (V): todos conferem.\n2. A revisão geral exige mesma data e mesmo índice (X): este é o erro.\n\n**Pegadinha:** Inverter o comando: marcar uma correta.\n\n**Macete:** Revisão geral: mesma data, sem distinção de índices."
+  },
+  {
+   "id": "const-b-t2-q06",
+   "topico": "const-b-t2",
+   "dificuldade": 2,
+   "enunciado": "De acordo com o art. 37, §4º, da Constituição Federal, os atos de improbidade administrativa importarão",
+   "alternativas": {
+    "A": "apenas multa civil, ficando vedada a perda da função pública.",
+    "B": "prisão administrativa por até 30 dias e perda do cargo.",
+    "C": "suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.",
+    "D": "inelegibilidade perpétua e confisco de todos os bens do agente.",
+    "E": "extinção automática do mandato, sem necessidade de decisão judicial ou processo."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 37, §4º, descreve as quatro consequências e ressalva a ação penal.",
+   "resolucao_md": "**O que a questão pede:** as sanções constitucionais da improbidade.\n\n**Regra rápida:** Quatro consequências: suspensão de direitos políticos, perda da função, indisponibilidade de bens, ressarcimento ao erário.\n\n**Passo a passo:**\n1. Procure o conjunto completo dos quatro.\n2. Descarte as que trazem prisão administrativa, confisco total ou extinção automática.\n\n**Macete:** S-P-I-R."
+  },
+  {
+   "id": "const-b-t2-q07",
+   "topico": "const-b-t2",
+   "dificuldade": 1,
+   "enunciado": "A não observância das regras de investidura por concurso público e de prazo de validade (art. 37, II e III, da CF) implica",
+   "alternativas": {
+    "A": "mera irregularidade formal, sanável pela autoridade.",
+    "B": "anulabilidade, convalidando-se o ato após cinco anos.",
+    "C": "apenas multa ao servidor irregularmente investido.",
+    "D": "nulidade do ato e punição da autoridade responsável.",
+    "E": "ineficácia relativa, preservados todos os efeitos funcionais."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 37, §2º: nulidade do ato e punição da autoridade responsável.",
+   "resolucao_md": "**O que a questão pede:** a consequência do descumprimento dos incisos II e III.\n\n**Regra rápida:** O §2º do art. 37 diz: nulidade + punição da autoridade.\n\n**Passo a passo:**\n1. Descartar \"irregularidade sanável\", \"anulabilidade\" e \"ineficácia relativa\".\n2. A multa ao servidor não está prevista.\n\n**Macete:** Sem concurso: nulo e autoridade punida."
+  }
+ ]
+}

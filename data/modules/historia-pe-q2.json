@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q011",
+   "topico": "historia-pe-acucar",
+   "dificuldade": 2,
+   "enunciado": "Sobre a economia açucareira em Pernambuco, analise as afirmativas.\n\nI. Os lavradores de cana plantavam em terra própria ou alugada e levavam a cana ao engenho de outro proprietário.\nII. A mão de obra escravizada foi inicialmente indígena e depois majoritariamente africana.\nIII. O capital para o açúcar veio exclusivamente da Inglaterra, sem participação de Portugal ou da Flandres.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I e II.",
+    "B": "Apenas II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e III.",
+    "E": "Apenas II e III."
+   },
+   "gabarito": "A",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar o que é verdadeiro sobre produção e financiamento.\n\n**Conceito/Regra rápida**\nCapital: **Portugal** e depois **financiadores flamengos**. Mão de obra: **indígena → africana**.\n\n**Passo a passo**\n1. I: correto, é a definição de lavrador de cana.\n2. II: correto, o Recife era grande porto de desembarque de africanos.\n3. III: errado, «exclusivamente» e «Inglaterra» não aparecem.\n4. Resposta: I e II.\n\n**Pegadinha**\nPalavra «exclusivamente» e país trocado.\n\n**Macete**\nCapital: Portugal + Flandres.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q012",
+   "topico": "historia-pe-acucar",
+   "dificuldade": 2,
+   "enunciado": "A obra «Casa-Grande & Senzala» (1933), que trata da formação da sociedade patriarcal e escravista do açúcar, é de autoria de",
+   "alternativas": {
+    "A": "Joaquim Nabuco.",
+    "B": "Gilberto Freyre.",
+    "C": "Capiba.",
+    "D": "Celso Furtado.",
+    "E": "Paulo Freire."
+   },
+   "gabarito": "B",
+   "explicacao": "Gilberto Freyre.",
+   "resolucao_md": "**O que a questão pede**\nAssociar autor e obra.\n\n**Conceito/Regra rápida**\n**Gilberto Freyre**: sociólogo pernambucano, **Casa-Grande & Senzala (1933)**. **Nabuco**: O Abolicionismo. **Furtado**: SUDENE. **Freire**: alfabetização.\n\n**Passo a passo**\n1. Casa-grande = senhor; senzala = escravizado: título de Freyre.\n2. Elimine os demais pelo que cada um é famoso.\n\n**Pegadinha**\nTrocar Freyre por Nabuco, ambos recifenses.\n\n**Macete**\nFreyre = casa-grande.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q013",
+   "topico": "historia-pe-acucar",
+   "dificuldade": 2,
+   "enunciado": "Antes da invasão de 1630, os holandeses relacionavam-se com o açúcar brasileiro principalmente como",
+   "alternativas": {
+    "A": "simples consumidores sem participação na cadeia do produto.",
+    "B": "proprietários de engenhos na Zona da Mata.",
+    "C": "refinadores, distribuidores e financiadores do produto na Europa.",
+    "D": "concorrentes que produziam açúcar nas Antilhas desde o século XV.",
+    "E": "fiscais da Coroa portuguesa nos portos de Recife e Olinda."
+   },
+   "gabarito": "C",
+   "explicacao": "A resposta é refinadores/financiadores.",
+   "resolucao_md": "**O que a questão pede**\nEntender a motivação econômica da invasão.\n\n**Conceito/Regra rápida**\nOs holandeses refinavam e distribuíam o açúcar; ao perder esse comércio na **União Ibérica**, criaram a **WIC (1621)** e invadiram Pernambuco.\n\n**Passo a passo**\n1. Cause → efeito: eram parceiros comerciais, perderam o comércio, invadiram.\n2. Elimine A (não tinham engenhos), B (anacrônico) e D (não eram fiscais).\n\n**Pegadinha**\nEsquecer que antes eram aliados comerciais.\n\n**Macete**\nParceiros viram invasores.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q014",
+   "topico": "historia-pe-olinda-recife",
+   "dificuldade": 1,
+   "enunciado": "O nome «Recife» tem origem",
+   "alternativas": {
+    "A": "no sobrenome do donatário Duarte Coelho.",
+    "B": "na exclamação «Ó linda!», dita pelos fundadores.",
+    "C": "no nome de um cacique tabajara.",
+    "D": "nos arrecifes de pedra que formam o porto natural.",
+    "E": "no governador holandês que a fundou."
+   },
+   "gabarito": "D",
+   "explicacao": "Arrecifes.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a origem do nome.\n\n**Conceito/Regra rápida**\n**Recife** vem de **arrecifes**; **Olinda** vem da tradição de «Ó linda situação».\n\n**Passo a passo**\n1. Pense no porto natural protegido por pedras.\n2. A e B: confundem com Olinda.\n\n**Pegadinha**\nMisturar as etimologias de Olinda e Recife.\n\n**Macete**\nRecife = recifes.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q015",
+   "topico": "historia-pe-olinda-recife",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre Olinda.",
+   "alternativas": {
+    "A": "Foi fundada por Duarte Coelho, em 1535.",
+    "B": "Sediou o Seminário de Olinda, criado em 1800.",
+    "C": "Abrigou um dos dois primeiros cursos jurídicos do Brasil, em 1827.",
+    "D": "Foi elevada à categoria de cidade em 1676, com a criação do bispado.",
+    "E": "Foi declarada Patrimônio Cultural da Humanidade pela UNESCO em 1992."
+   },
+   "gabarito": "E",
+   "explicacao": "A incorreta é E.",
+   "resolucao_md": "**O que a questão pede**\nAchar a data trocada.\n\n**Conceito/Regra rápida**\nOlinda: **UNESCO em 1982** (não 1992).\n\n**Passo a passo**\n1. Cheque as datas dos itens: 1535, 1800, 1827, 1676, todas corretas.\n2. E traz 1992, quando o correto é 1982.\n\n**Pegadinha**\nDatas parecidas (82 x 92).\n\n**Macete**\n82 de Olinda, 2001 de Noronha.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q016",
+   "topico": "historia-pe-olinda-recife",
+   "dificuldade": 2,
+   "enunciado": "O Seminário de Olinda, criado em 1800 pelo bispo Azeredo Coutinho, é lembrado porque",
+   "alternativas": {
+    "A": "nele circularam ideias iluministas que alimentaram a Revolução Pernambucana de 1817.",
+    "B": "formou os oficiais que expulsaram os holandeses em 1654.",
+    "C": "foi o primeiro curso de Direito do Brasil, em 1827.",
+    "D": "deu origem à Guerra dos Mascates.",
+    "E": "abrigou a sede do governo holandês."
+   },
+   "gabarito": "A",
+   "explicacao": "Ideias iluministas levaram a 1817.",
+   "resolucao_md": "**O que a questão pede**\nRelacionar instituição e movimento.\n\n**Conceito/Regra rápida**\nSeminário (1800) → ideias iluministas → **1817**. Faculdade de Direito é de **1827**.\n\n**Passo a passo**\n1. Ordene: 1800 antes de 1817.\n2. Elimine A (1654 é anterior), B (outra instituição), C (1710), D (holandeses 1630-54).\n\n**Pegadinha**\nConfundir seminário (1800) com faculdade (1827).\n\n**Macete**\nSeminário → 1817.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q017",
+   "topico": "historia-pe-olinda-recife",
+   "dificuldade": 2,
+   "enunciado": "Durante a dominação holandesa, o Recife tornou-se capital da Nova Holanda, e Maurício de Nassau construiu a Cidade Maurícia",
+   "alternativas": {
+    "A": "no alto de Olinda, com muralhas e fortes.",
+    "B": "na ilha de Antônio Vaz, com pontes, canais e palácios.",
+    "C": "na foz do São Francisco, com porto e engenhos.",
+    "D": "no Arraial do Bom Jesus, junto ao Capibaribe.",
+    "E": "na ilha de Itamaracá, junto à feitoria."
+   },
+   "gabarito": "B",
+   "explicacao": "Ilha de Antônio Vaz.",
+   "resolucao_md": "**O que a questão pede**\nLocalizar a obra de Nassau.\n\n**Conceito/Regra rápida**\n**Mauritsstad** = ilha de **Antônio Vaz**, Recife; palácios de **Vrijburg** e **Boa Vista**.\n\n**Passo a passo**\n1. Lembre: Recife holandês, Olinda queimada.\n2. Elimine B (Olinda foi incendiada), A, C, D.\n\n**Pegadinha**\nDizer que Nassau governou de Olinda.\n\n**Macete**\nNassau = Recife, Antônio Vaz.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q018",
+   "topico": "historia-pe-olinda-recife",
+   "dificuldade": 3,
+   "enunciado": "Sobre a história de Olinda e do Recife, analise as afirmativas.\n\nI. Olinda foi elevada a cidade em 1676, com a criação do bispado.\nII. A Faculdade de Direito, criada em Olinda em 1827, foi transferida para o Recife em 1854.\nIII. O Recife foi a sede da capitania desde sua fundação por Duarte Coelho, em 1535.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas III.",
+    "B": "Apenas I e III.",
+    "C": "Apenas I e II.",
+    "D": "Apenas II e III.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar os itens de datas e papéis.\n\n**Conceito/Regra rápida**\n**Olinda** = sede da capitania e nobreza; **Recife** = porto a serviço de Olinda, sede só depois.\n\n**Passo a passo**\n1. I: correto. II: correto.\n2. III: errado, a sede era Olinda.\n3. Resposta: I e II.\n\n**Pegadinha**\nInverter os papéis das duas cidades.\n\n**Macete**\nOlinda manda, Recife comercia.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q019",
+   "topico": "historia-pe-olinda-recife",
+   "dificuldade": 2,
+   "enunciado": "A relação entre Olinda e Recife no período colonial é corretamente descrita em:",
+   "alternativas": {
+    "A": "O Recife era a sede religiosa e política, e Olinda era apenas porto.",
+    "B": "Olinda concentrava os comerciantes portugueses, os mascates.",
+    "C": "As duas cidades sempre tiveram igual autonomia e mesma Câmara.",
+    "D": "Olinda abrigava a nobreza açucareira e o poder político; o Recife começou como povoado portuário a serviço de Olinda e atraiu mercadores portugueses.",
+    "E": "O Recife foi fundado por indígenas Caetés como aldeia livre."
+   },
+   "gabarito": "D",
+   "explicacao": "A rivalidade nasce da divisão de funções.",
+   "resolucao_md": "**O que a questão pede**\nCompreender a origem da rivalidade que levou a 1710.\n\n**Conceito/Regra rápida**\nOlinda = **nobreza da terra (pés-rombudos)**; Recife = **mascates**.\n\n**Passo a passo**\n1. Ligue cada cidade ao seu grupo social.\n2. Elimine A (inverte), D (inverte), B (autonomia veio em 1709) e C (inventado).\n\n**Pegadinha**\nInverter quem é mascate.\n\n**Macete**\nOlinda = engenho; Recife = comércio.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q020",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 1,
+   "enunciado": "A invasão holandesa de Pernambuco, em 1630, está relacionada ao fato de que",
+   "alternativas": {
+    "A": "Portugal declarara guerra à Holanda por motivos religiosos em 1500.",
+    "B": "a Holanda desejava ocupar o Sertão para explorar ouro.",
+    "C": "o Brasil já era independente e a Holanda queria reconhecê-lo.",
+    "D": "a Espanha havia entregue o Nordeste à Holanda em 1580.",
+    "E": "a União Ibérica colocou Portugal sob a Espanha, inimiga dos Países Baixos, que perderam o comércio do açúcar."
+   },
+   "gabarito": "E",
+   "explicacao": "União Ibérica explica a invasão.",
+   "resolucao_md": "**O que a questão pede**\nEntender a causa da invasão.\n\n**Conceito/Regra rápida**\n**União Ibérica (1580-1640)** → Portugal sob a Espanha → conflito com os Países Baixos → **WIC (1621)** → invasão (1630).\n\n**Passo a passo**\n1. Causa → fato: monte a cadeia.\n2. Elimine A (ouro de Minas é posterior), B (Brasil não era independente), C (falso), E (data absurda).\n\n**Pegadinha**\nEsquecer o contexto da União Ibérica.\n\n**Macete**\nUnião Ibérica = Holanda inimiga.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

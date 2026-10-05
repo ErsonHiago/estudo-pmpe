@@ -1,0 +1,354 @@
+{
+  "id": "informatica",
+  "titulo": "Informática (Windows 11, Office 2019, LibreOffice 7, Internet e Segurança)",
+  "disciplina": "informatica",
+  "descricao": "Cobre todo o Anexo II de Informática (10 questões): internet/intranet, navegadores e nuvem, segurança, backup, hardware e arquivos, Windows 11 e Prompt de Comando, e Office 2019/LibreOffice 7. A AOCP cobra muito atalho de teclado, fórmula de Excel (SE, SOMASE, CONT.SE, PROCV, referência absoluta) e segurança (malwares, phishing, criptografia).",
+  "topicos": [
+    {
+      "id": "informatica-internet-intranet",
+      "titulo": "1. Conceito de internet e intranet",
+      "prioridade": 2,
+      "horas": 3,
+      "resumo_md": "## O que é a Internet\nA **Internet** é a rede mundial de computadores: um conjunto gigantesco de redes interligadas que conversam usando a mesma \"língua\", a família de protocolos **TCP/IP**. Ela é pública e aberta: qualquer pessoa com acesso (via provedor, o **ISP**) pode usar. Não confunda **Internet** (a estrutura física e lógica) com **World Wide Web (WWW)**, que é apenas um dos serviços que rodam sobre a Internet (as páginas com hipertexto). E-mail, FTP e mensagens são outros serviços.\n\n## Intranet e Extranet\n| Rede | Acesso | Tecnologia | Exemplo |\n|---|---|---|---|\n| **Internet** | Pública, mundial | TCP/IP | Sites, e-mail, redes sociais |\n| **Intranet** | **Privada**, só de uma organização (funcionários) | Usa **as mesmas tecnologias da Internet** (navegador, HTTP, e-mail) | Portal interno da PMPE |\n| **Extranet** | Intranet **estendida** a parceiros/clientes com login | Mesmas tecnologias, acesso controlado de fora | Portal de fornecedores |\n\nA intranet **não precisa estar conectada à Internet** para existir. Ela é definida pelo **uso restrito**, não pela distância. Para acessar a intranet de fora da empresa com segurança usa-se uma **VPN** (Rede Privada Virtual), que cria um \"túnel\" criptografado pela Internet.\n\n## Endereços e nomes\n- **IP**: endereço numérico de cada máquina. **IPv4** tem 32 bits, escrito em 4 números de 0 a 255 (ex.: 192.168.0.10). **IPv6** tem 128 bits, em hexadecimal (ex.: 2001:db8::1).\n- **DNS**: serviço que traduz **nome em IP** (www.pm.pe.gov.br vira um número).\n- **DHCP**: serviço que **distribui IPs automaticamente** aos dispositivos da rede.\n- **URL**: endereço completo de um recurso, ex.: `https://www.site.com.br/pagina`. Partes: protocolo (https), domínio (site.com.br), caminho (/pagina). O sufixo **.gov.br** indica governo brasileiro; **.com.br** comercial.\n\n## Protocolos principais\n| Protocolo | Função |\n|---|---|\n| **HTTP / HTTPS** | Transferir páginas web (HTTPS = com criptografia/segurança) |\n| **FTP** | Transferir arquivos |\n| **SMTP** | **Enviar** e-mail |\n| **POP3** | **Receber** e-mail baixando para o computador (normalmente apaga do servidor) |\n| **IMAP** | Receber e-mail **mantendo no servidor**, sincronizado entre dispositivos |\n| **DNS** | Nomes para IP |\n| **DHCP** | IP automático |\n| **TCP/IP** | Conjunto-base da Internet |\n\n## Tipos de rede por alcance\n**PAN** (pessoal, Bluetooth), **LAN** (local, uma casa/prédio), **MAN** (metropolitana, cidade), **WAN** (ampla, países; a Internet é a maior WAN). **Wi-Fi** é rede local sem fio; **Ethernet** é com cabo.\n\n## E-mail: campos\n**Para** (destinatário principal), **Cc** (cópia visível a todos), **Cco** (cópia oculta: os demais não veem). Anexos têm limite de tamanho.\n\n## Velocidade\nMede-se em **bits por segundo** (Mbps = megabits). 100 Mbps equivalem a cerca de 12,5 MB/s (divida por 8).",
+      "dicas": [
+        "Intranet = mesma tecnologia da Internet, mas uso restrito (privado). Extranet = intranet aberta a parceiros com login.",
+        "SMTP envia, POP3 baixa, IMAP sincroniza: pense em S = Saída.",
+        "DNS = Dicionário de Nomes (nome vira IP). DHCP = Distribui IP.",
+        "Internet NÃO é igual a WWW: a Web é um serviço dentro da Internet.",
+        "Mbps tem 'b' minúsculo (bits); MB/s tem B maiúsculo (bytes): divida por 8."
+      ],
+      "pegadinhas": [
+        "'A intranet só funciona com acesso à Internet' é FALSO: ela pode ser totalmente isolada.",
+        "'Internet e World Wide Web são sinônimos' é FALSO: a WWW é um dos serviços.",
+        "'POP3 é usado para enviar e-mails' é FALSO: quem envia é o SMTP.",
+        "'Cco: todos os destinatários veem os endereços ocultos' é FALSO: ficam ocultos entre si.",
+        "'Extranet é uma rede pública' é FALSO: é restrita a usuários autorizados externos."
+      ],
+      "flashcards": [
+        {"q": "O que é intranet?", "a": "Rede privada de uma organização que usa as tecnologias da Internet (navegador, HTTP, e-mail) com acesso restrito."},
+        {"q": "O que é extranet?", "a": "Intranet ampliada para parceiros/clientes autorizados, com login."},
+        {"q": "Qual protocolo envia e-mails?", "a": "SMTP."},
+        {"q": "Diferença entre POP3 e IMAP?", "a": "POP3 baixa a mensagem para a máquina; IMAP mantém no servidor, sincronizando dispositivos."},
+        {"q": "Para que serve o DNS?", "a": "Traduzir nomes de domínio em endereços IP."},
+        {"q": "Para que serve o DHCP?", "a": "Atribuir endereços IP automaticamente aos dispositivos."},
+        {"q": "Quantos bits tem IPv4 e IPv6?", "a": "IPv4: 32 bits; IPv6: 128 bits."},
+        {"q": "O que é VPN?", "a": "Rede privada virtual: túnel criptografado pela Internet para acesso seguro à rede privada."},
+        {"q": "Diferença entre Cc e Cco?", "a": "Cc: cópia visível a todos; Cco: cópia oculta."},
+        {"q": "Qual a maior WAN do mundo?", "a": "A Internet."}
+      ]
+    },
+    {
+      "id": "informatica-navegadores-nuvem",
+      "titulo": "2. Navegadores, serviços de Internet e computação em nuvem",
+      "prioridade": 2,
+      "horas": 4,
+      "resumo_md": "## Navegadores\n**Navegador (browser)** é o programa que acessa e exibe páginas web. Principais: **Google Chrome**, **Microsoft Edge** (padrão do Windows 11), **Mozilla Firefox**, Safari, Opera. Mecanismos de **busca** (Google, Bing) NÃO são navegadores: são sites.\n\n### Recursos que caem em prova\n| Recurso | O que faz |\n|---|---|\n| **Histórico** | Lista de páginas visitadas |\n| **Cache** | Cópia local de arquivos de sites para carregar mais rápido |\n| **Cookies** | Pequenos arquivos que o site grava no seu computador (login, preferências, rastreamento) |\n| **Favoritos** | Endereços salvos (Ctrl+D) |\n| **Janela anônima** (Chrome) / **InPrivate** (Edge) / **Navegação privativa** (Firefox) | **Não grava** histórico, cookies e dados de formulário **no computador** ao fechar; NÃO esconde sua atividade do provedor, do empregador ou do site |\n| **Downloads** | Arquivos baixados (Ctrl+J) |\n| **Extensões / complementos** | Recursos adicionais |\n\n### Atalhos de navegador (Chrome/Edge)\n| Atalho | Ação |\n|---|---|\n| Ctrl+T | Nova aba |\n| Ctrl+W (ou Ctrl+F4) | Fechar aba |\n| Ctrl+Shift+T | Reabrir aba fechada |\n| Ctrl+N | Nova janela |\n| Ctrl+Shift+N | Janela anônima (Chrome) / InPrivate (Edge) |\n| Ctrl+Shift+P | Navegação privativa no Firefox |\n| Ctrl+H | Histórico |\n| Ctrl+J | Downloads |\n| Ctrl+D | Adicionar aos favoritos |\n| Ctrl+L ou F6 | Seleciona a barra de endereço |\n| F5 / Ctrl+R | Atualizar página |\n| Ctrl+F5 | Atualizar ignorando o cache |\n| F11 | Tela cheia |\n| Ctrl+Shift+Del | Limpar dados de navegação |\n| Ctrl+Tab | Próxima aba |\n| Ctrl+P | Imprimir |\n| Ctrl+F | Localizar na página |\n\n## Serviços de Internet\n**Buscadores** (operadores: aspas = frase exata; sinal de menos exclui termo; `site:` restringe a um site), **e-mail** (webmail), **mensagens instantâneas**, **videoconferência** (Teams, Meet, Zoom), **redes sociais**, **streaming**, **comércio eletrônico**, **fóruns**, **blogs**, **wikis**.\n\n## Computação em nuvem (cloud computing)\nÉ o fornecimento de recursos de TI (armazenamento, processamento, software) **pela Internet, sob demanda**, pagando conforme o uso, sem o usuário manter o servidor físico. Características: acesso de qualquer lugar, **elasticidade**, escalabilidade, pagamento por uso.\n\n| Modelo de serviço | O que o provedor entrega | Exemplo |\n|---|---|---|\n| **SaaS** (Software como Serviço) | O **software pronto** | Gmail, Microsoft 365 online, Google Docs |\n| **PaaS** (Plataforma como Serviço) | Plataforma para desenvolver/rodar aplicações | Google App Engine |\n| **IaaS** (Infraestrutura como Serviço) | Servidores, rede, armazenamento virtuais | Amazon EC2, Azure VMs |\n\n| Modelo de implantação | Característica |\n|---|---|\n| **Nuvem pública** | De terceiros, aberta a vários clientes |\n| **Nuvem privada** | Exclusiva de uma organização |\n| **Nuvem híbrida** | Combina pública e privada |\n\nServiços de armazenamento em nuvem: **OneDrive** (Microsoft), **Google Drive**, **Dropbox**, **iCloud**. Vantagens: acesso em qualquer lugar, compartilhamento, cópia fora do local. Riscos: depende de Internet, privacidade e segurança dos dados no provedor.",
+      "dicas": [
+        "Anônima = não deixa rastros NO SEU PC; o provedor e o site ainda veem você.",
+        "SaaS = software pronto (usuário final); PaaS = programador; IaaS = administrador de infraestrutura.",
+        "Ctrl+Shift+T = 'desfazer' o fechamento de aba.",
+        "Ctrl+F5 = atualiza ignorando o cache.",
+        "Edge é o navegador padrão do Windows 11; Google é buscador, não navegador."
+      ],
+      "pegadinhas": [
+        "'A navegação anônima torna o usuário invisível ao provedor de Internet' é FALSO.",
+        "'Cookies são vírus' é FALSO: são arquivos de dados do site, embora possam ser usados para rastreamento.",
+        "'Google Chrome é um mecanismo de busca' é FALSO: Chrome é navegador; Google é buscador.",
+        "'Nuvem privada é aquela compartilhada entre vários clientes' é FALSO: é exclusiva de uma organização.",
+        "'No SaaS o cliente gerencia o servidor e o sistema operacional' é FALSO: isso é IaaS."
+      ],
+      "flashcards": [
+        {"q": "Atalho para reabrir a última aba fechada?", "a": "Ctrl+Shift+T."},
+        {"q": "Atalho para janela anônima no Chrome?", "a": "Ctrl+Shift+N."},
+        {"q": "Atalho para navegação privativa no Firefox?", "a": "Ctrl+Shift+P."},
+        {"q": "O que são cookies?", "a": "Pequenos arquivos gravados pelo site no computador, guardando preferências, login e rastreio."},
+        {"q": "O que é cache do navegador?", "a": "Cópia local de arquivos de páginas para acelerar o carregamento."},
+        {"q": "Atalho que abre o histórico?", "a": "Ctrl+H."},
+        {"q": "Atalho que abre os downloads?", "a": "Ctrl+J."},
+        {"q": "O que é SaaS?", "a": "Software como serviço: aplicativo pronto usado pela Internet (ex.: Gmail)."},
+        {"q": "O que é IaaS?", "a": "Infraestrutura como serviço: servidores, rede e armazenamento virtuais."},
+        {"q": "O que é nuvem híbrida?", "a": "Combinação de nuvem pública e privada."},
+        {"q": "Atalho para atualizar sem usar o cache?", "a": "Ctrl+F5."}
+      ]
+    },
+    {
+      "id": "informatica-seguranca",
+      "titulo": "3. Proteção e segurança da informação",
+      "prioridade": 1,
+      "horas": 8,
+      "resumo_md": "## Pilares da segurança (CIDA / DICA)\n| Princípio | Significado | Exemplo de proteção |\n|---|---|---|\n| **Confidencialidade** | Só quem tem direito acessa | Criptografia, senha |\n| **Integridade** | A informação não é alterada indevidamente | Hash, assinatura digital |\n| **Disponibilidade** | Acessível quando preciso | Backup, nobreak, redundância |\n| **Autenticidade** | Garante quem é o autor/usuário | Certificado, biometria |\n| **Não repúdio (irretratabilidade)** | O autor não pode negar | Assinatura digital |\n\n**Vulnerabilidade** = falha/fraqueza; **ameaça** = algo que pode explorar; **risco** = probabilidade x impacto.\n\n## Malwares (códigos maliciosos)\n| Malware | Característica principal |\n|---|---|\n| **Vírus** | Se anexa a um arquivo/programa **hospedeiro** e precisa ser executado pelo usuário; se propaga infectando outros arquivos |\n| **Worm (verme)** | Se **autorreplica** pela rede **sem hospedeiro e sem ação do usuário**; consome banda e recursos |\n| **Cavalo de Troia (trojan)** | Parece programa útil (jogo, cartão virtual) mas executa ação maliciosa; **não se replica** |\n| **Spyware** | Espiona e envia informações do usuário |\n| **Keylogger** | Registra **teclas digitadas** (senhas) |\n| **Screenlogger** | Registra a tela/cliques (burla teclado virtual) |\n| **Ransomware** | **Sequestra**: criptografa arquivos e exige **resgate** (cripto) |\n| **Backdoor** | Abre uma **porta dos fundos** para acesso remoto futuro |\n| **Rootkit** | **Esconde** a presença do invasor/malware e garante acesso privilegiado |\n| **Adware** | Exibe propaganda indesejada |\n| **Bot / Botnet** | Computador **zumbi** controlado remotamente; rede de bots faz DDoS e spam |\n| **Hijacker** | Sequestra o navegador (muda página inicial/buscador) |\n| **Sniffer** | **Fareja** (captura) pacotes na rede |\n\n## Ataques e golpes\n- **Engenharia social**: engana a pessoa (não é falha técnica).\n- **Phishing**: mensagem falsa (e-mail/SMS/site) que \"pesca\" dados, imitando banco/empresa.\n- **Pharming**: redireciona para **site falso** adulterando o **DNS**, mesmo digitando o endereço correto.\n- **DoS / DDoS**: sobrecarga para derrubar o serviço (DDoS = distribuído, de muitos computadores/botnet) — ataca a **disponibilidade**.\n- **Força bruta**: testa senhas até acertar. **Spoofing**: falsificação de identidade (IP/e-mail). **Man-in-the-middle**: invasor intercepta a comunicação. **SQL injection**: injeta comandos em formulários. **Spam**: e-mail em massa não solicitado.\n\n## Proteção\n- **Antivírus**: detecta/remove malware (precisa estar atualizado). **Antispyware**.\n- **Firewall**: filtra o tráfego da rede; **não substitui o antivírus**. **IDS** detecta, **IPS** detecta e bloqueia intrusões.\n- **Atualizações** do sistema, **backup**, não abrir anexos/links suspeitos, **senhas fortes** (longas, variadas) e **autenticação em dois fatores (MFA)**.\n- **Autenticação**: algo que você **sabe** (senha), **tem** (token, celular), **é** (biometria).\n\n## Criptografia\n| Tipo | Chaves | Uso |\n|---|---|---|\n| **Simétrica** | **Uma** chave igual para cifrar e decifrar; rápida (AES) | Dados em volume |\n| **Assimétrica** | **Par**: pública e privada (RSA) | Troca segura de chaves, assinatura |\n\nRegra: para **confidencialidade** cifra-se com a **chave pública do destinatário**, que só decifra com a **sua privada**. Na **assinatura digital** o autor assina com a **sua chave privada** e qualquer um confere com a **pública** (garante autenticidade, integridade e não repúdio). **Hash** (SHA, MD5) gera um resumo de tamanho fixo, **sem volta**; qualquer mudança altera o hash. **Certificado digital** (ICP-Brasil) vincula identidade a chave pública. **HTTPS** + cadeado = conexão criptografada (não garante que o site seja honesto).",
+      "dicas": [
+        "Vírus precisa de hospedeiro e ação do usuário; worm se espalha sozinho pela rede.",
+        "Trojan não se replica; é 'presente de grego'.",
+        "Ransomware = resgate (criptografa seus arquivos). Backup é a melhor defesa.",
+        "Confidencialidade: chave PÚBLICA do destinatário cifra. Assinatura: chave PRIVADA do remetente assina.",
+        "Phishing = pescaria (isca); Pharming = DNS adulterado (farm, fazenda de sites falsos).",
+        "DDoS ataca a DISPONIBILIDADE."
+      ],
+      "pegadinhas": [
+        "'O firewall elimina vírus de arquivos' é FALSO: ele filtra tráfego; antivírus remove malware.",
+        "'Worm precisa de um programa hospedeiro' é FALSO: quem precisa é o vírus.",
+        "'Cavalo de Troia se replica automaticamente' é FALSO.",
+        "'Na assinatura digital usa-se a chave pública do remetente para assinar' é FALSO: assina-se com a PRIVADA.",
+        "'Hash pode ser revertido para obter o original' é FALSO.",
+        "'O cadeado (HTTPS) garante que o site é confiável/legítimo' é FALSO: garante apenas a criptografia da conexão.",
+        "'Criptografia simétrica usa duas chaves' é FALSO: uma só."
+      ],
+      "flashcards": [
+        {"q": "Quais os pilares clássicos da segurança?", "a": "Confidencialidade, Integridade, Disponibilidade (mais Autenticidade e Não repúdio)."},
+        {"q": "Qual a diferença entre vírus e worm?", "a": "Vírus depende de hospedeiro e ação do usuário; worm se replica sozinho pela rede."},
+        {"q": "O que faz um ransomware?", "a": "Criptografa os arquivos e exige resgate."},
+        {"q": "O que faz um keylogger?", "a": "Registra as teclas digitadas."},
+        {"q": "O que é um backdoor?", "a": "Porta dos fundos que permite acesso remoto posterior."},
+        {"q": "O que faz um rootkit?", "a": "Esconde a presença do malware/invasor e mantém acesso privilegiado."},
+        {"q": "O que é pharming?", "a": "Redirecionamento a site falso por adulteração do DNS."},
+        {"q": "O que é DDoS?", "a": "Ataque distribuído de negação de serviço (vários computadores/botnet), contra a disponibilidade."},
+        {"q": "Criptografia simétrica x assimétrica?", "a": "Simétrica: uma chave; assimétrica: par público/privado."},
+        {"q": "Com qual chave se faz a assinatura digital?", "a": "Com a chave privada do autor."},
+        {"q": "O que é MFA?", "a": "Autenticação multifator: combina senha, algo que se tem e/ou biometria."},
+        {"q": "Firewall substitui o antivírus?", "a": "Não: filtra tráfego de rede; antivírus detecta/remove malware."}
+      ]
+    },
+    {
+      "id": "informatica-backup-armazenamento",
+      "titulo": "4. Armazenamento de dados e cópia de segurança (backup)",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Dispositivos de armazenamento\n| Dispositivo | Tecnologia | Observações |\n|---|---|---|\n| **HD (disco rígido, HDD)** | **Magnética**, pratos giratórios | Barato por GB, mais lento, sensível a impacto |\n| **SSD** | **Memória flash**, sem partes móveis | Mais rápido, silencioso, resistente a impacto |\n| **Pendrive / cartão SD** | Flash (USB) | Portátil |\n| **CD / DVD / Blu-ray** | **Óptica** (laser) | CD ~700 MB, DVD ~4,7 GB, Blu-ray 25 GB+ |\n| **Fita magnética (LTO)** | Magnética sequencial | Backup de grande volume, arquivamento |\n| **NAS** | Armazenamento ligado à **rede** | Vários usuários |\n| **Nuvem** | Servidores remotos pela Internet | Cópia fora do local |\n\n**Unidades**: 1 byte = 8 bits; 1 KB = 1024 B; 1 MB = 1024 KB; 1 GB = 1024 MB; 1 TB = 1024 GB (em provas, 1024; fabricantes usam 1000).\n\n**RAID** (agrupar discos): **RAID 0** (striping, velocidade, **sem** redundância), **RAID 1** (espelhamento, dois discos iguais, tolera falha de um), **RAID 5** (paridade, mínimo 3 discos, tolera falha de um). RAID **não substitui** backup.\n\n## Backup\n**Backup** é a **cópia de segurança** dos dados em outro local/mídia para recuperar em caso de perda (falha, ataque, erro humano). **Restauração** é recuperar os dados a partir da cópia.\n\nOs backups usam o **atributo de arquivamento** (marca \"arquivo modificado desde o último backup\"). Alguns backups **desmarcam** esse atributo; outros não.\n\n| Tipo | Copia o quê? | Desmarca atributo? | Restauração precisa de |\n|---|---|---|---|\n| **Normal (completo/full)** | **Todos** os arquivos selecionados | **Sim** | Apenas ele |\n| **Incremental** | Só o que **mudou desde o último backup (normal ou incremental)** | **Sim** | Normal + **TODOS** os incrementais, na ordem |\n| **Diferencial** | Só o que mudou desde o **último backup normal** (cresce a cada dia) | **Não** | Normal + **o último** diferencial |\n| **Cópia** | Todos os selecionados | **Não** | Só ele (não interfere na rotina) |\n| **Diário** | Arquivos modificados **no dia** | **Não** | — |\n\n**Comparação**: o incremental é o **mais rápido e ocupa menos espaço** para fazer, mas a **restauração é mais lenta** (várias fitas). O diferencial faz backup maior a cada dia, mas **restaura mais rápido** (2 conjuntos). O completo é o mais lento para fazer e o mais simples para restaurar.\n\n**Exemplo**: Normal no domingo; incremental de segunda a sábado. Se o disco falhar na sexta, restaura-se **o normal + incrementais de segunda a quinta** (todos). Com diferencial: **normal + o diferencial de quinta**.\n\n## Boas práticas\n- **Regra 3-2-1**: 3 cópias, em 2 mídias diferentes, 1 delas fora do local (offsite/nuvem).\n- Testar restaurações periodicamente; backup automatizado e criptografado.\n- Backup **online** (nuvem) x **offline**; **local** x **remoto**.\n- **Backup armazenado no mesmo disco** não protege contra falha do disco.\n- **Ransomware**: backup offline é a defesa mais eficaz.\n- No Windows 11: **Histórico de Arquivos** e **Backup do Windows** (OneDrive) nas Configurações.",
+      "dicas": [
+        "Incremental = pouquinho (só o novo desde o último). Diferencial = diferença acumulada desde o normal.",
+        "Restaurar: incremental precisa de TUDO; diferencial só de 2 (normal + último).",
+        "Quem desmarca o atributo: normal e incremental. Diferencial e cópia NÃO desmarcam.",
+        "SSD = flash, sem partes móveis. HD = magnético.",
+        "RAID não é backup."
+      ],
+      "pegadinhas": [
+        "'O backup diferencial desmarca o atributo de arquivamento' é FALSO.",
+        "'Para restaurar com incrementais basta o último incremental' é FALSO: precisa do normal e de todos.",
+        "'O backup incremental copia tudo que mudou desde o último backup normal' é FALSO: isso é o diferencial (incremental conta desde o último backup de qualquer tipo que desmarca).",
+        "'Manter a cópia no mesmo HD do original garante segurança' é FALSO.",
+        "'RAID 1 dispensa o backup' é FALSO: replica também erros e exclusões."
+      ],
+      "flashcards": [
+        {"q": "Qual backup copia todos os arquivos e desmarca o atributo?", "a": "Backup normal (completo)."},
+        {"q": "O que copia o backup incremental?", "a": "Só o que mudou desde o último backup (normal ou incremental); desmarca o atributo."},
+        {"q": "O que copia o backup diferencial?", "a": "O que mudou desde o último backup normal; não desmarca o atributo."},
+        {"q": "Qual backup não altera o atributo de arquivamento e copia tudo?", "a": "Backup de cópia."},
+        {"q": "Restauração com incremental precisa de quê?", "a": "Do backup normal e de todos os incrementais em sequência."},
+        {"q": "Restauração com diferencial precisa de quê?", "a": "Do normal e do último diferencial."},
+        {"q": "O que diz a regra 3-2-1?", "a": "3 cópias, 2 mídias diferentes, 1 fora do local."},
+        {"q": "HD é qual tecnologia? E SSD?", "a": "HD: magnética; SSD: memória flash."},
+        {"q": "RAID 1 faz o quê?", "a": "Espelhamento de discos (redundância)."},
+        {"q": "Quantos MB tem 1 GB (em prova)?", "a": "1024 MB."}
+      ]
+    },
+    {
+      "id": "informatica-hardware-arquivos",
+      "titulo": "5. Organização de computadores, periféricos e gerenciamento de arquivos e pastas",
+      "prioridade": 2,
+      "horas": 5,
+      "resumo_md": "## Componentes do computador\n**Hardware** é a parte física; **software** é a parte lógica (programas). Esquema: **Entrada -> Processamento -> Saída**, com **armazenamento** de apoio.\n\n### Processador (CPU)\nÉ o \"cérebro\". Partes: **UC** (Unidade de Controle, coordena), **ULA** (Unidade Lógica e Aritmética, faz contas e comparações) e **registradores** (memórias minúsculas e rapidíssimas). Velocidade em **GHz** (clock); processadores modernos têm vários **núcleos (cores)**. Fabricantes: Intel, AMD.\n\n### Memórias\n| Memória | Característica |\n|---|---|\n| **RAM** | Principal; **volátil** (perde o conteúdo ao desligar); guarda o que está em uso; leitura e escrita |\n| **ROM** | **Não volátil**; guarda o **firmware** (BIOS/UEFI); só leitura (em princípio) |\n| **Cache** | Pequena e **muito rápida**, dentro/perto da CPU (L1, L2, L3) |\n| **Registradores** | As mais rápidas, dentro da CPU |\n| **Memória virtual (arquivo de paginação)** | Parte do disco usada como \"extensão\" da RAM |\n| **Armazenamento secundário** | HD, SSD, pendrive: **não volátil** |\n\nHierarquia (mais rápida/cara/menor para mais lenta/barata/maior): **registradores > cache > RAM > SSD/HD**.\n\n### Placa-mãe e barramentos\nPlaca-mãe liga todos os componentes. **Fonte** alimenta. **Placa de vídeo (GPU)**, de som, de rede. **BIOS/UEFI** inicia o hardware no boot (POST) antes do sistema operacional.\n\n### Dispositivos de entrada, saída e mistos\n| Tipo | Exemplos |\n|---|---|\n| **Entrada** | Teclado, mouse, scanner, microfone, webcam, leitor de código de barras |\n| **Saída** | Monitor, impressora, caixa de som, projetor |\n| **Entrada e saída (mistos)** | **Monitor touchscreen, pendrive, HD/SSD, impressora multifuncional, modem, placa de rede** |\n\n### Portas e conexões\n**USB** (universal, hot-plug), **HDMI** (áudio e vídeo digital), **DisplayPort**, **VGA** (vídeo analógico antigo), **RJ-45** (cabo de rede), **P2** (áudio), **Bluetooth** e **Wi-Fi** (sem fio). **Driver** é o software que permite ao sistema operacional usar um periférico. **Plug and Play** = reconhecimento automático ao conectar. **Instalar** impressora: conectar, instalar o driver e, em Configurações > Bluetooth e dispositivos > Impressoras e scanners, adicionar.\n\n## Arquivos e pastas\n**Arquivo** = conjunto de dados com **nome + extensão** (relatorio.docx). **Pasta** (diretório) organiza arquivos e outras pastas (estrutura hierárquica, em árvore). Caminho exemplo: `C:\\Usuarios\\Ana\\Documentos\\relatorio.docx`.\n\n- **Caracteres proibidos em nomes**: `\\ / : * ? \" < > |`.\n- Extensões comuns: .docx (Word), .xlsx (Excel), .pptx (PowerPoint), .odt/.ods/.odp (LibreOffice), .pdf, .txt, .jpg/.png (imagem), .mp3 (áudio), .mp4 (vídeo), .zip/.rar (compactado), .exe (executável).\n- **Copiar** (Ctrl+C / Ctrl+V): duplica. **Recortar/Mover** (Ctrl+X / Ctrl+V): muda de lugar. Arrastar na **mesma unidade** **move**; para **outra unidade** **copia**. **Ctrl** ao arrastar copia; **Shift** ao arrastar move; **Alt** ao arrastar cria atalho.\n- **Excluir**: Delete envia à **Lixeira** (recuperável); **Shift+Delete** exclui definitivamente (sem Lixeira). Arquivos de pendrive e de rede, em geral, **não vão à Lixeira**.\n- **Renomear**: **F2**. **Propriedades**: Alt+Enter. **Atalho**: ponteiro para o item original.\n- **Compactar** reduz o tamanho (ZIP).",
+      "dicas": [
+        "RAM é volátil; ROM, HD e SSD não são.",
+        "Dispositivo misto (E/S): touchscreen, pendrive, HD, multifuncional.",
+        "Mesma unidade: arrastar move. Outra unidade: arrastar copia.",
+        "Shift+Del = apaga sem Lixeira. F2 = renomear.",
+        "Cinco proibidos em nome: \\ / : * ? \" < > | (memorize a barra e os dois-pontos)."
+      ],
+      "pegadinhas": [
+        "'A memória RAM mantém os dados após desligar' é FALSO: é volátil.",
+        "'A ULA controla o fluxo das instruções' é FALSO: isso é a UC; a ULA calcula.",
+        "'Arquivos excluídos de um pendrive vão para a Lixeira' é FALSO (geralmente).",
+        "'O monitor é um dispositivo apenas de saída' é FALSO se for touchscreen (misto).",
+        "'Pode-se nomear um arquivo como relatorio/2026' é FALSO: a barra é proibida."
+      ],
+      "flashcards": [
+        {"q": "O que é a ULA?", "a": "Unidade Lógica e Aritmética: faz cálculos e comparações na CPU."},
+        {"q": "O que faz a Unidade de Controle?", "a": "Coordena e controla a execução das instruções."},
+        {"q": "RAM é volátil ou não volátil?", "a": "Volátil: perde o conteúdo ao desligar."},
+        {"q": "O que a ROM guarda?", "a": "O firmware (BIOS/UEFI); não volátil."},
+        {"q": "Memória mais rápida do computador?", "a": "Registradores (dentro da CPU)."},
+        {"q": "O que é driver?", "a": "Software que permite ao sistema operacional controlar um periférico."},
+        {"q": "Tecla para renomear arquivo?", "a": "F2."},
+        {"q": "Como excluir sem passar pela Lixeira?", "a": "Shift+Delete."},
+        {"q": "Arrastar entre unidades diferentes faz o quê?", "a": "Copia."},
+        {"q": "Quais caracteres não podem ser usados em nomes?", "a": "\\ / : * ? \" < > |"},
+        {"q": "Exemplo de dispositivo misto?", "a": "Pendrive, HD, tela touchscreen, multifuncional."}
+      ]
+    },
+    {
+      "id": "informatica-windows11",
+      "titulo": "6. Ambiente operacional Windows 11 e Prompt de Comando",
+      "prioridade": 1,
+      "horas": 6,
+      "resumo_md": "## Visão geral do Windows 11 (português)\nO **sistema operacional** gerencia hardware, memória, arquivos e programas. O Windows 11 tem **Menu Iniciar centralizado** (por padrão), **Barra de Tarefas** (ícones, relógio, bandeja do sistema), **Widgets**, **Pesquisa**, **Visão de Tarefas** (áreas de trabalho virtuais), **Layouts de Snap** (organizar janelas), **Explorador de Arquivos**, **Microsoft Edge** e **Segurança do Windows** (antivírus Microsoft Defender + firewall).\n\n### Configurações x Painel de Controle\nAmbos existem. **Configurações** (Win+I) é a interface moderna; o **Painel de Controle** é a clássica (ainda existe para itens como Programas e Recursos, Opções de Energia). Para desinstalar programas: Configurações > Aplicativos > Aplicativos instalados, ou Painel de Controle > Programas e Recursos.\n\n### Atalhos do Windows\n| Atalho | Ação |\n|---|---|\n| **Win** | Abre o Menu Iniciar |\n| **Win+D** | Mostrar/ocultar a Área de Trabalho |\n| **Win+E** | Abre o Explorador de Arquivos |\n| **Win+L** | **Bloqueia** o computador |\n| **Win+R** | Caixa **Executar** |\n| **Win+I** | **Configurações** |\n| **Win+V** | Histórico da área de transferência |\n| **Win+Shift+S** | Captura de tela (Ferramenta de Captura) |\n| **Win+Tab** | Visão de Tarefas |\n| **Win+Z** | Layouts de Snap |\n| **Win+W** | Widgets |\n| **Win+M** | Minimizar todas as janelas |\n| **Win+setas** | Encaixar/maximizar/minimizar janela |\n| **Alt+Tab** | Alternar entre janelas |\n| **Alt+F4** | Fecha a janela/aplicativo ativo (na Área de Trabalho abre desligar) |\n| **Ctrl+Shift+Esc** | **Gerenciador de Tarefas** |\n| **Ctrl+Alt+Del** | Tela de segurança (bloquear, trocar usuário, gerenciador) |\n| **F2** | Renomear |\n| **F5** | Atualizar |\n| **Print Screen** | Copia a tela inteira para a área de transferência |\n| **Alt+Print Screen** | Copia só a janela ativa |\n| **Ctrl+Shift+N** | Nova pasta (no Explorador) |\n| **Alt+Enter** | Propriedades |\n\n**Gerenciador de Tarefas**: mostra processos, desempenho (CPU, memória, disco, rede), inicializar; permite **finalizar tarefa** de um programa travado.\n\n### Outros recursos\n- **Contas**: administrador x padrão; PIN, senha, Windows Hello (biometria).\n- **Windows Update**: atualizações (Configurações > Windows Update).\n- **Segurança do Windows**: proteção contra vírus, firewall, controle de aplicativos.\n- **Lixeira**: guarda itens excluídos até esvaziar. **Bloco de Notas** (.txt), **WordPad** (descontinuado), **Paint**, **Calculadora**, **Ferramenta de Captura**.\n- **Sensor de armazenamento**: limpa arquivos temporários. **Modo de suspensão / hibernar / desligar / reiniciar**.\n\n## Prompt de Comando (cmd)\nAcessa-se por Win+R > `cmd`. Executa comandos de texto.\n\n| Comando | Função | Exemplo |\n|---|---|---|\n| **dir** | Lista arquivos e pastas | `dir` |\n| **cd** | Entra/muda de pasta | `cd Documentos`; `cd ..` sobe um nível; `cd \\` vai à raiz |\n| **md / mkdir** | **Cria** pasta | `md Projetos` |\n| **rd / rmdir** | Remove pasta | `rd Projetos` |\n| **copy** | Copia arquivo | `copy a.txt D:\\` |\n| **move** | Move arquivo | `move a.txt D:\\` |\n| **ren** | Renomeia | `ren a.txt b.txt` |\n| **del** | **Apaga arquivo** | `del a.txt` |\n| **type** | Exibe o conteúdo de texto | `type a.txt` |\n| **cls** | Limpa a tela | `cls` |\n| **ipconfig** | Mostra a configuração de **IP** da rede | `ipconfig /all` |\n| **ping** | Testa **conectividade** com outro host | `ping 8.8.8.8` |\n| **tasklist** | **Lista** processos em execução | `tasklist` |\n| **taskkill** | **Encerra** processo | `taskkill /IM notepad.exe` |\n| **tracert** | Mostra a **rota** até o destino | `tracert site.com` |\n| **hostname** | Nome do computador | |\n| **chkdsk** | Verifica disco | |\n| **shutdown** | Desliga/reinicia | `shutdown /s` |\n| **exit** | Fecha o prompt | |\n| **help** | Ajuda dos comandos | |\n\nCuriosidade: `*` e `?` são curingas (`del *.tmp` apaga todos os .tmp).",
+      "dicas": [
+        "Win+L = Lock (bloquear). Win+D = Desktop. Win+E = Explorer. Win+R = Run (Executar). Win+I = Configurações.",
+        "Ctrl+Shift+Esc abre direto o Gerenciador de Tarefas.",
+        "md = make directory (cria); rd = remove directory; del = delete file.",
+        "ipconfig = configuração de IP; ping = teste de conexão; tasklist = lista processos; taskkill = mata processo.",
+        "cd.. sobe um nível."
+      ],
+      "pegadinhas": [
+        "'O comando del remove pastas' é FALSO: arquivos (pastas: rd).",
+        "'O comando dir cria um diretório' é FALSO: lista; quem cria é md.",
+        "'Win+L desliga o computador' é FALSO: bloqueia a sessão.",
+        "'No Windows 11 o Painel de Controle foi removido' é FALSO: ainda existe.",
+        "'Ctrl+Alt+Del abre o Gerenciador de Tarefas diretamente' é FALSO: abre a tela de opções; o direto é Ctrl+Shift+Esc.",
+        "'ping exibe a configuração de IP' é FALSO: ipconfig."
+      ],
+      "flashcards": [
+        {"q": "Atalho para bloquear o Windows?", "a": "Win+L."},
+        {"q": "Atalho para abrir Configurações?", "a": "Win+I."},
+        {"q": "Atalho direto do Gerenciador de Tarefas?", "a": "Ctrl+Shift+Esc."},
+        {"q": "Atalho da captura de tela?", "a": "Win+Shift+S."},
+        {"q": "Atalho para mostrar a Área de Trabalho?", "a": "Win+D."},
+        {"q": "Comando para criar pasta?", "a": "md (mkdir)."},
+        {"q": "Comando para listar processos?", "a": "tasklist."},
+        {"q": "Comando para ver o IP?", "a": "ipconfig."},
+        {"q": "Comando para testar conexão?", "a": "ping."},
+        {"q": "Comando para apagar arquivo?", "a": "del."},
+        {"q": "Como subir um nível de pasta no cmd?", "a": "cd .."},
+        {"q": "Atalho que abre o Explorador de Arquivos?", "a": "Win+E."}
+      ]
+    },
+    {
+      "id": "informatica-word-writer",
+      "titulo": "7a. Editores de texto: Word 2019 e LibreOffice Writer 7",
+      "prioridade": 2,
+      "horas": 4,
+      "resumo_md": "## Conceitos\n**Word** (Microsoft, formato **.docx**) e **Writer** (LibreOffice, formato **.odt**). Ambos fazem edição e formatação de texto, tabelas, imagens, cabeçalho/rodapé, numeração de página, sumário automático, estilos, mala direta, revisão e exportação em **PDF**. O Word também abre/salva .doc, .rtf, .txt, .pdf e modelo .dotx; o Writer salva .odt, .ott (modelo), .doc, .docx, .pdf.\n\n## Formatação\n- **Caractere**: fonte, tamanho, **negrito**, *itálico*, <u>sublinhado</u>, cor, sobrescrito (x²), subscrito (H₂O), maiúsculas/minúsculas (Shift+F3 no Word).\n- **Parágrafo**: alinhamento (esquerda, centralizado, direita, **justificado**), recuo, espaçamento entre linhas, marcadores e numeração.\n- **Página**: margens, orientação (retrato/paisagem), tamanho (A4), colunas, quebra de página, cabeçalho e rodapé.\n- **Estilos** (Título 1, Normal) permitem montar **sumário automático**.\n- **Tabelas**: inserir, mesclar células, bordas, ordenar. **Localizar e substituir**. **Ortografia e gramática (F7)**. **Controlar alterações** e comentários (guia Revisão). **Mala direta** (cartas personalizadas).\n- **Pincel de formatação** copia a formatação.\n- **Exportar PDF**: Word: Arquivo > Exportar > Criar documento PDF/XPS (ou Salvar como > PDF). Writer: Arquivo > Exportar como > Exportar como PDF.\n\n## Atalhos\n| Ação | Word 2019 (PT-BR) | Writer 7 (PT-BR) |\n|---|---|---|\n| Negrito | **Ctrl+N** | **Ctrl+B** |\n| Itálico | Ctrl+I | Ctrl+I |\n| Sublinhado | **Ctrl+S** | **Ctrl+U** |\n| Salvar | **Ctrl+B** | Ctrl+S |\n| Salvar como | **F12** | Ctrl+Shift+S |\n| Imprimir | Ctrl+P | Ctrl+P |\n| Desfazer / Refazer | Ctrl+Z / Ctrl+Y | Ctrl+Z / Ctrl+Y |\n| Copiar / Recortar / Colar | Ctrl+C / X / V | Ctrl+C / X / V |\n| Selecionar tudo | Ctrl+T [VERIFICAR] | **Ctrl+A** |\n| Localizar | Ctrl+L [VERIFICAR] | **Ctrl+F** |\n| Localizar e substituir | Ctrl+U [VERIFICAR] | **Ctrl+H** |\n| Centralizar | Ctrl+E | Ctrl+E |\n| Justificar | Ctrl+J | Ctrl+J |\n| Alinhar à esquerda | Ctrl+Q [VERIFICAR] | Ctrl+L |\n| Alinhar à direita | Ctrl+G [VERIFICAR] | Ctrl+R |\n| Quebra de página | Ctrl+Enter | Ctrl+Enter |\n| Ortografia | F7 | F7 |\n| Ir ao início/fim do documento | Ctrl+Home / Ctrl+End | Ctrl+Home / Ctrl+End |\n\nObservação: no Word em **português**, as letras de Negrito (**N**), Sublinhado (**S**) e Salvar (**B**) vêm das palavras em português; no Writer valem as letras da versão em inglês (**B**old, **U**nderline). Confirme sempre a letra pedida e o programa citado. As letras do Word para localizar/substituir/selecionar tudo variam por versão e idioma: confira em questão.",
+      "dicas": [
+        "Word PT-BR: Negrito = Ctrl+N, Sublinhado = Ctrl+S, Salvar = Ctrl+B. Writer: Negrito = Ctrl+B, Sublinhado = Ctrl+U.",
+        "Ctrl+Z desfaz; Ctrl+Y refaz. F12 = Salvar como no Word.",
+        "Writer: Ctrl+F localiza e Ctrl+H substitui.",
+        "Extensões: Word .docx; Writer .odt.",
+        "Estilos de título viram sumário automático."
+      ],
+      "pegadinhas": [
+        "'No Word em português, Ctrl+B aplica negrito' é FALSO: salva. Negrito = Ctrl+N.",
+        "'O Writer salva por padrão em .docx' é FALSO: .odt.",
+        "'Ctrl+Y desfaz a última ação' é FALSO: refaz.",
+        "'Cabeçalho e rodapé ficam no corpo do texto' é FALSO: ficam nas margens superior e inferior.",
+        "'Ctrl+P salva o documento' é FALSO: imprime."
+      ],
+      "flashcards": [
+        {"q": "Extensão padrão do Word 2019?", "a": ".docx."},
+        {"q": "Extensão padrão do Writer?", "a": ".odt."},
+        {"q": "Negrito no Word em português?", "a": "Ctrl+N."},
+        {"q": "Negrito no Writer?", "a": "Ctrl+B."},
+        {"q": "Sublinhado no Writer?", "a": "Ctrl+U."},
+        {"q": "Salvar como no Word?", "a": "F12."},
+        {"q": "Tecla de verificação ortográfica?", "a": "F7."},
+        {"q": "Atalho do Writer para localizar e substituir?", "a": "Ctrl+H."},
+        {"q": "Como justificar o texto?", "a": "Ctrl+J."},
+        {"q": "Como inserir quebra de página?", "a": "Ctrl+Enter."},
+        {"q": "Como exportar em PDF no Writer?", "a": "Arquivo > Exportar como > Exportar como PDF."}
+      ]
+    },
+    {
+      "id": "informatica-excel-calc",
+      "titulo": "7b. Planilhas: Excel 2019 e LibreOffice Calc 7 (fórmulas, funções, referências e gráficos)",
+      "prioridade": 1,
+      "horas": 10,
+      "resumo_md": "## Conceitos básicos\nUma **pasta de trabalho** (Excel, **.xlsx**) / **planilha** (Calc, **.ods**) contém várias **planilhas**. Cada planilha tem **colunas** (letras A, B, C...) e **linhas** (números 1, 2, 3...). O cruzamento é a **célula** (ex.: **B3** = coluna B, linha 3). Um **intervalo** é `A1:B3` (de A1 até B3, ou seja, 6 células: A1,A2,A3,B1,B2,B3). Toda **fórmula começa com =**. O separador de argumentos no Excel em português é o **ponto e vírgula ( ; )**.\n\n**Operadores**: + - * / ^ (potência), % (porcentagem), & (concatena texto), comparação = > < >= <= <> (diferente). **Ordem de cálculo**: parênteses, depois ^, depois * e /, depois + e -. Ex.: `=2+3*4` = 14; `=(2+3)*4` = 20; `=2^3*2` = 16.\n\n## Funções essenciais (exemplos com resultado)\nConsidere A1=10, A2=20, A3=30, A4=40.\n\n| Função | Para que serve | Exemplo | Resultado |\n|---|---|---|---|\n| **SOMA** | Soma | `=SOMA(A1:A4)` | 100 |\n| **MÉDIA** | Média aritmética | `=MÉDIA(A1:A4)` | 25 |\n| **MÁXIMO** | Maior valor | `=MÁXIMO(A1:A4)` | 40 |\n| **MÍNIMO** | Menor valor | `=MÍNIMO(A1:A4)` | 10 |\n| **MULT** | Multiplica | `=MULT(A1;A2)` | 200 |\n| **CONT.NÚM** | Conta células com **números** | `=CONT.NÚM(A1:A4)` | 4 |\n| **CONT.VALORES** | Conta células **não vazias** | `=CONT.VALORES(A1:A5)` | 4 |\n| **CONTAR.VAZIO** | Conta células vazias | `=CONTAR.VAZIO(A1:A5)` | 1 |\n| **SE** | Teste lógico | `=SE(A1>5;\"Sim\";\"Não\")` | Sim |\n| **E** | Verdadeiro se **todas** as condições são verdadeiras | `=E(A1>5;A2>30)` | FALSO |\n| **OU** | Verdadeiro se **alguma** é verdadeira | `=OU(A1>5;A2>30)` | VERDADEIRO |\n| **NÃO** | Inverte | `=NÃO(A1>5)` | FALSO |\n| **CONT.SE** | Conta células que atendem a **um critério** | `=CONT.SE(A1:A4;\">15\")` | 3 |\n| **SOMASE** | Soma células que atendem a um critério | `=SOMASE(A1:A4;\">15\")` | 90 |\n| **MÉDIASE** | Média com critério | `=MÉDIASE(A1:A4;\">15\")` | 30 |\n| **ARRED** | Arredonda para N casas | `=ARRED(3,14159;2)` | 3,14 |\n| **TRUNCAR** | Corta casas sem arredondar | `=TRUNCAR(3,789;1)` | 3,7 |\n| **INT** | Parte inteira (arredonda para baixo) | `=INT(7,9)` | 7 |\n| **MOD** | Resto da divisão | `=MOD(10;3)` | 1 |\n| **RAIZ** | Raiz quadrada | `=RAIZ(81)` | 9 |\n| **POTÊNCIA** | Potência | `=POTÊNCIA(2;5)` | 32 |\n| **ABS** | Valor absoluto | `=ABS(-5)` | 5 |\n| **HOJE** | Data de hoje (atualiza sempre) | `=HOJE()` | data atual |\n| **AGORA** | Data e hora atuais | `=AGORA()` | data/hora |\n| **PROCV** | Procura valor na **1ª coluna** de uma tabela e devolve de outra coluna | `=PROCV(2;A1:B3;2;0)` | ver abaixo |\n| **CONCATENAR** / `&` | Junta textos | `=\"Ana\"&\" \"&\"Lima\"` | Ana Lima |\n| **ESQUERDA / DIREITA / EXT.TEXTO** | Partes do texto | `=ESQUERDA(\"POLICIA\";3)` | POL |\n| **MAIÚSCULA / MINÚSCULA / PRI.MAIÚSCULA** | Caixa do texto | `=MAIÚSCULA(\"pm\")` | PM |\n| **MAIOR / MENOR** | k-ésimo maior/menor | `=MAIOR(A1:A4;2)` | 30 |\n| **SOMARPRODUTO** | Soma dos produtos | | |\n\n### PROCV\n`=PROCV(valor_procurado; matriz_tabela; núm_índice_coluna; [procurar_intervalo])`. O valor é procurado na **primeira coluna** da tabela; o número indica **qual coluna devolver**. O último argumento: **0 ou FALSO = correspondência exata**; 1 ou VERDADEIRO (ou omitido) = aproximada (exige a 1ª coluna **em ordem crescente**). **PROCH** faz o mesmo na horizontal.\n\n### SE aninhado\n`=SE(B2>=7;\"Aprovado\";SE(B2>=5;\"Recuperação\";\"Reprovado\"))`. Nota 6 → Recuperação.\n\n## Referências de célula\n| Tipo | Exemplo | Comportamento ao copiar/arrastar |\n|---|---|---|\n| **Relativa** | A1 | Muda de acordo com o destino |\n| **Absoluta** | **$A$1** | **Fixa** coluna e linha |\n| **Mista** | **$A1** ou **A$1** | Fixa só a coluna ($A) ou só a linha (A$) |\n\nA tecla **F4** (com a referência em edição) alterna: A1 → $A$1 → A$1 → $A1 → A1. Ex.: em C1, `=A1*B1` copiada para C2 vira `=A2*B2`. Se fosse `=A1*$B$1`, em C2 vira `=A2*$B$1`.\n\nReferência a **outra planilha**: Excel `=Plan2!A1`; Calc `=$Plan2.A1`.\n\n## Mensagens de erro\n**#DIV/0!** (divisão por zero), **#NOME?** (nome de função/intervalo inexistente), **#VALOR!** (tipo de dado errado), **#REF!** (referência inválida/excluída), **#N/D** (valor não encontrado, comum no PROCV), **#NÚM!** (número inválido), **#####** (coluna estreita demais para o valor).\n\n## Gráficos\nInserir > Gráficos. Tipos: **colunas/barras** (comparar categorias), **linhas** (evolução no tempo), **pizza/setores** (partes de um **todo**, uma série), **dispersão**, **área**. Elementos: título, eixos, legenda, rótulos de dados, séries.\n\n## Outros recursos\n**Preenchimento automático** (alça), **classificar** (A→Z), **filtro**, **formatação condicional**, **tabela dinâmica**, congelar painéis, **mesclar e centralizar**, formatos (moeda, %, data). Exportar PDF: Arquivo > Exportar/Salvar como PDF. Atalhos: **F2** edita célula; **Ctrl+;** data atual fixa; **Ctrl+Shift+;** hora atual; **Alt+Enter** quebra de linha dentro da célula; **Ctrl+Home** vai a A1; **Ctrl+Seta** salta ao fim do bloco; **Ctrl+Espaço** seleciona coluna; **Shift+Espaço** seleciona linha; **Alt+=** autossoma.",
+      "dicas": [
+        "Toda fórmula começa com =; argumentos separados por ponto e vírgula.",
+        "F4 alterna referência absoluta ($). $ trava o que vem logo depois dele.",
+        "CONT.NÚM conta só números; CONT.VALORES conta qualquer não vazia.",
+        "PROCV: o último argumento 0 = exato. Sempre use 0 nos exercícios.",
+        "Ordem das contas: parênteses, potência, multiplicação/divisão, soma/subtração.",
+        "Em SE, texto vai entre aspas."
+      ],
+      "pegadinhas": [
+        "'CONT.SE soma os valores que atendem ao critério' é FALSO: conta; quem soma é SOMASE.",
+        "'PROCV procura em qualquer coluna da tabela' é FALSO: procura na primeira coluna.",
+        "'A referência $A1 fixa a linha' é FALSO: fixa a coluna.",
+        "'=SOMA(A1;A3) soma o intervalo de A1 a A3' é FALSO: soma só A1 e A3 (o intervalo usa dois-pontos).",
+        "'ARRED(2,5;0) resulta em 2' é FALSO: arredonda para 3 (meio sobe).",
+        "'HOJE() grava a data digitada de forma fixa' é FALSO: atualiza todo dia; fixa é Ctrl+;.",
+        "'Gráfico de pizza compara várias séries' é FALSO: representa uma série (partes de um todo)."
+      ],
+      "flashcards": [
+        {"q": "Com que símbolo começa toda fórmula?", "a": "Com o sinal de igual (=)."},
+        {"q": "Separador de argumentos no Excel em português?", "a": "Ponto e vírgula (;)."},
+        {"q": "Diferença CONT.SE x SOMASE?", "a": "CONT.SE conta as células que atendem ao critério; SOMASE soma."},
+        {"q": "O que faz o PROCV?", "a": "Busca um valor na 1ª coluna de uma tabela e retorna o valor de outra coluna da mesma linha."},
+        {"q": "O 4º argumento do PROCV com 0 significa?", "a": "Correspondência exata."},
+        {"q": "O que é $A$1?", "a": "Referência absoluta (fixa coluna e linha)."},
+        {"q": "Tecla que alterna as referências?", "a": "F4."},
+        {"q": "Tecla para editar a célula?", "a": "F2."},
+        {"q": "O que a função E retorna?", "a": "VERDADEIRO se todas as condições forem verdadeiras."},
+        {"q": "Erro #DIV/0! significa?", "a": "Divisão por zero."},
+        {"q": "Erro #REF! significa?", "a": "Referência de célula inválida (ex.: excluída)."},
+        {"q": "Como o Calc escreve referência a outra planilha?", "a": "$Plan2.A1 (com ponto)."},
+        {"q": "Qual gráfico mostra partes de um todo?", "a": "Pizza (setores)."}
+      ]
+    },
+    {
+      "id": "informatica-atalhos",
+      "titulo": "7c. Atalhos de teclado essenciais (tabela geral)",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## Atalhos universais (Windows, Office e LibreOffice)\n| Atalho | Ação |\n|---|---|\n| **Ctrl+C** | Copiar |\n| **Ctrl+X** | Recortar |\n| **Ctrl+V** | Colar |\n| **Ctrl+Z** | **Desfazer** |\n| **Ctrl+Y** | **Refazer** (repete) |\n| **Ctrl+A** | Selecionar tudo (Excel/Writer/Windows) |\n| **Ctrl+S** | Salvar (**no Word PT-BR, Ctrl+B**) |\n| **Ctrl+P** | Imprimir |\n| **Ctrl+F** | Localizar |\n| **Ctrl+H** | Substituir (Writer/Excel); no navegador, Histórico |\n| **Ctrl+N** | Novo documento (**no Word PT-BR: Negrito**) |\n| **Ctrl+O** | Abrir (no Word PT-BR, Ctrl+A abre) [VERIFICAR] |\n| **Ctrl+B** | Negrito (Writer, Calc, Impress); no Word PT-BR salva |\n| **Ctrl+I** | Itálico |\n| **Ctrl+U** | Sublinhado (Writer/Calc); no Word PT-BR é Ctrl+S |\n| **Ctrl+W** | Fechar documento/aba |\n| **Ctrl+Home / Ctrl+End** | Início / fim |\n| **Ctrl+Setas** | Move palavra a palavra (ou bloco no Excel) |\n| **Shift+Setas** | Seleciona |\n| **Ctrl+Enter** | Quebra de página (Word/Writer) |\n| **Alt+Tab** | Alternar janelas |\n| **Alt+F4** | Fechar programa |\n| **Esc** | Cancelar |\n| **Delete** | Excluir (vai à Lixeira) |\n| **Shift+Delete** | Excluir definitivamente |\n\n## Teclas de função\n| Tecla | Função |\n|---|---|\n| **F1** | Ajuda |\n| **F2** | Renomear (Explorador) / editar célula (Excel/Calc) |\n| **F3** | Buscar (Explorador) / Colar nome (Excel) |\n| **F4** | Alterna referência absoluta/relativa (Excel/Calc); repete última ação (Word) |\n| **F5** | Atualizar (Explorador/navegador); Ir para (Excel/Word); **iniciar apresentação** (PowerPoint/Impress) |\n| **F7** | Verificar ortografia e gramática |\n| **F11** | Tela cheia (navegadores/Explorador) |\n| **F12** | **Salvar como** (Word/Excel) |\n| **Shift+F5** | Apresentação a partir do slide atual |\n| **Shift+F3** | Alterna maiúsculas/minúsculas no Word |\n\n## Windows (tecla Win)\nWin+D (área de trabalho), Win+E (Explorador), Win+L (bloquear), Win+R (executar), Win+I (configurações), Win+V (histórico da área de transferência), Win+Shift+S (captura), Win+Tab (visão de tarefas), Ctrl+Shift+Esc (Gerenciador de Tarefas).\n\n## Excel/Calc\nF2 editar; F4 fixar referência; Ctrl+; data; Ctrl+Shift+; hora; Alt+Enter quebra de linha na célula; Ctrl+Home vai a A1; Ctrl+Espaço seleciona a coluna; Shift+Espaço seleciona a linha; Alt+= autossoma.\n\n## PowerPoint/Impress\nF5 inicia do começo; Shift+F5 do slide atual; Esc sai; Ctrl+M novo slide (PowerPoint); Ctrl+D duplica slide (PowerPoint, no Impress duplicar slide é diferente); B ou . escurece a tela em apresentação.\n\n## Navegadores\nCtrl+T nova aba; Ctrl+W fecha aba; Ctrl+Shift+T reabre; Ctrl+Shift+N anônima (Chrome/Edge); Ctrl+H histórico; Ctrl+J downloads; Ctrl+D favorito; Ctrl+L barra de endereço; F5 atualiza; Ctrl+F5 atualiza sem cache.\n\n## Como estudar\nDecore em famílias: **editar** (C/X/V/Z/Y), **arquivo** (S/P/O/N/W), **formatar** (B/I/U), **procurar** (F/H), e as teclas F1 a F12. Em provas AOCP, a pegadinha mais comum é a letra do **Negrito/Sublinhado/Salvar no Word em português**.",
+      "dicas": [
+        "Ctrl+Z desfaz, Ctrl+Y refaz. Ambos são cobrados em par.",
+        "F2 renomeia/edita; F4 fixa referência (Excel); F5 atualiza/inicia apresentação; F7 ortografia; F12 salvar como.",
+        "Win+L = bloquear; Win+D = área de trabalho.",
+        "Shift+Del = excluir sem Lixeira."
+      ],
+      "pegadinhas": [
+        "'Ctrl+X copia o arquivo' é FALSO: recorta (move).",
+        "'F5 no navegador fecha a página' é FALSO: atualiza.",
+        "'Ctrl+Y desfaz' é FALSO: refaz.",
+        "'F12 abre a ajuda' é FALSO: F1 é a ajuda; F12 é Salvar como.",
+        "'Shift+F5 inicia a apresentação do primeiro slide' é FALSO: do slide atual."
+      ],
+      "flashcards": [
+        {"q": "Ctrl+Z?", "a": "Desfazer."},
+        {"q": "Ctrl+Y?", "a": "Refazer."},
+        {"q": "Ctrl+X?", "a": "Recortar."},
+        {"q": "F1?", "a": "Ajuda."},
+        {"q": "F2?", "a": "Renomear/editar célula."},
+        {"q": "F4 no Excel?", "a": "Alterna referência absoluta/relativa."},
+        {"q": "F5 no PowerPoint?", "a": "Inicia a apresentação do começo."},
+        {"q": "F7?", "a": "Verificar ortografia."},
+        {"q": "F12 no Word?", "a": "Salvar como."},
+        {"q": "Shift+Delete?", "a": "Exclui definitivamente, sem Lixeira."},
+        {"q": "Alt+Tab?", "a": "Alternar entre janelas."},
+        {"q": "Alt+F4?", "a": "Fecha a janela/aplicativo ativo."}
+      ]
+    },
+    {
+      "id": "informatica-apresentacoes",
+      "titulo": "7d. Apresentações: PowerPoint 2019 e LibreOffice Impress 7",
+      "prioridade": 3,
+      "horas": 2,
+      "resumo_md": "## Conceitos\n**PowerPoint** (formatos **.pptx**; **.ppsx** abre direto em apresentação; **.potx** modelo) e **Impress** (**.odp**; modelo .otp). Uma apresentação é formada por **slides**. Cada slide tem um **layout** (título, conteúdo, duas colunas...), com **caixas de texto**, imagens, tabelas, gráficos, vídeos, **SmartArt** (diagramas).\n\n## Recursos importantes\n| Recurso | Descrição |\n|---|---|\n| **Slide mestre** | Define o padrão (fundo, fontes, logotipo) de todos os slides; alteração no mestre reflete em todos |\n| **Tema / design** | Conjunto de cores, fontes e efeitos |\n| **Transição** | Efeito na **passagem de um slide para o outro** |\n| **Animação** | Efeito em **objetos dentro do slide** (entrada, ênfase, saída) |\n| **Notas do orador** | Anotações do apresentador, não aparecem ao público |\n| **Cabeçalho e rodapé / número do slide** | Informações repetidas |\n| **Hiperlink / botões de ação** | Navegar para slide, site, arquivo |\n| **Classificação de slides** | Visão de miniaturas para reorganizar |\n| **Modo de leitura / apresentador** | Visões de exibição |\n| **Ensaiar intervalos** | Grava a duração de cada slide |\n\n### Modos de exibição (PowerPoint)\n**Normal**, **Estrutura de tópicos**, **Classificação de Slides**, **Anotações**, **Modo de Leitura**, **Apresentação de Slides**.\n\n## Atalhos\n| Atalho | Ação |\n|---|---|\n| **F5** | Iniciar a apresentação **do começo** |\n| **Shift+F5** | Iniciar do **slide atual** |\n| **Esc** | Encerrar a apresentação |\n| **Ctrl+M** | Novo slide |\n| **Ctrl+D** | Duplicar slide (PowerPoint) |\n| **Ctrl+B / I / U** | Negrito / Itálico / Sublinhado (PowerPoint em português usa Ctrl+N para negrito e Ctrl+S para sublinhado [VERIFICAR]) |\n| **Setas, Enter, Espaço, PgDn** | Avançar |\n| **PgUp, Backspace** | Voltar |\n| **B ou .** | Tela preta |\n| **W ou ,** | Tela branca |\n\n## Exportar\nArquivo > Exportar > **PDF** (ou Salvar como > PDF); também é possível salvar como **vídeo (MP4)**, **imagens (JPG/PNG)** e **apresentação de slides**. No Impress: Arquivo > Exportar como > Exportar como PDF; também exporta para .pptx.\n\n## Boas práticas\nPoucos textos por slide, contraste, fonte legível, consistência pelo slide mestre.",
+      "dicas": [
+        "Transição = entre slides; Animação = dentro do slide.",
+        "F5 do começo; Shift+F5 do slide atual.",
+        ".ppsx abre direto na apresentação; .pptx abre em edição.",
+        "O slide mestre muda todos os slides de uma vez."
+      ],
+      "pegadinhas": [
+        "'Transição aplica efeito a um objeto do slide' é FALSO: é animação.",
+        "'As notas do orador são visíveis ao público' é FALSO.",
+        "'O Impress salva em .pptx por padrão' é FALSO: .odp.",
+        "'A edição no slide mestre afeta somente o slide atual' é FALSO."
+      ],
+      "flashcards": [
+        {"q": "Extensão padrão do PowerPoint?", "a": ".pptx."},
+        {"q": "Extensão padrão do Impress?", "a": ".odp."},
+        {"q": "Extensão que abre direto em apresentação?", "a": ".ppsx."},
+        {"q": "Diferença entre transição e animação?", "a": "Transição: entre slides; animação: nos objetos dentro do slide."},
+        {"q": "F5 faz o quê?", "a": "Inicia a apresentação do primeiro slide."},
+        {"q": "Shift+F5 faz o quê?", "a": "Inicia a partir do slide atual."},
+        {"q": "Para que serve o slide mestre?", "a": "Padronizar a formatação de todos os slides."},
+        {"q": "Como inserir um novo slide?", "a": "Ctrl+M."},
+        {"q": "O que são notas do orador?", "a": "Anotações do apresentador, não exibidas ao público."}
+      ]
+    }
+  ],
+  "questoes": []
+}

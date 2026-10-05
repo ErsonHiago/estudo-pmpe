@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q141",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Em um texto, deseja-se escrever a fórmula `m²» e a fórmula `CO₂». Para isso, o número 2 deve receber, respectivamente, as formatações",
+      "alternativas": {
+        "A": "subscrito e sobrescrito.",
+        "B": "sobrescrito e sobrescrito.",
+        "C": "subscrito e subscrito.",
+        "D": "negrito e itálico.",
+        "E": "sobrescrito e subscrito."
+      },
+      "gabarito": "E",
+      "explicacao": "Expoente (m²) fica acima da linha = sobrescrito. Índice químico (CO₂) fica abaixo da linha = subscrito.",
+      "resolucao_md": "**O que a questão pede**\nPosição do número 2 em m² e CO₂.\n\n**Conceito/Regra rápida**\nSobrescrito = acima da linha. Subscrito = abaixo da linha.\n\n**Passo a passo**\n```\\nm²   -> 2 acima  -> sobrescrito\\nCO₂  -> 2 abaixo -> subscrito \\n```\n\n**Pegadinha**\nA ordem do enunciado é a pegadinha: cuide para não inverter.\n\n**Macete**\n**Sobre** = em cima; **sub** = embaixo."
+    },
+    {
+      "id": "informatica-q142",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa que apresenta o atalho que, no Word, alterna o texto selecionado entre MAIÚSCULAS, minúsculas e Primeira Letra Maiúscula de cada palavra.",
+      "alternativas": {
+        "A": "Ctrl+F3.",
+        "B": "Alt+F3.",
+        "C": "Shift+F3.",
+        "D": "F3.",
+        "E": "Shift+F5."
+      },
+      "gabarito": "C",
+      "explicacao": "Shift+F3 alterna a caixa do texto no Word. F7 é ortografia; F12 é Salvar como; Shift+F5 vai ao último ponto de edição no Word.",
+      "resolucao_md": "**O que a questão pede**\nAtalho de maiúsculas/minúsculas.\n\n**Conceito/Regra rápida**\nShift+F3 = muda a caixa (Maiúsculas -> minúsculas -> Primeira Letra Maiúscula).\n\n**Passo a passo**\n1. Selecione `policia militar».\\n2. Shift+F3 -> `Policia militar».\\n3. Shift+F3 -> `POLICIA MILITAR».\\n4. Shift+F3 -> `policia militar».\n\n**Pegadinha**\nShift+F5 não é apresentação no Word (só no PowerPoint).\n\n**Macete**\nShift + F3 = \"Troca a Caixa\"."
+    },
+    {
+      "id": "informatica-q143",
+      "topico": "informatica-word-writer",
+      "dificuldade": 1,
+      "enunciado": "A tecla de função utilizada para iniciar a verificação de ortografia e gramática no Word e no Writer é",
+      "alternativas": {
+        "A": "F1.",
+        "B": "F5.",
+        "C": "F11.",
+        "D": "F7.",
+        "E": "F12."
+      },
+      "gabarito": "D",
+      "explicacao": "F7 inicia a correção ortográfica. F1 é ajuda, F5 atualiza/ir para, F11 é tela cheia e F12 é Salvar como.",
+      "resolucao_md": "**O que a questão pede**\nTecla de ortografia.\n\n**Conceito/Regra rápida**\nF7 = verificar ortografia e gramática.\n\n**Passo a passo**\n1. F1 = ajuda.\\n2. F5 = atualizar (apresentação em PowerPoint).\\n3. F7 = ortografia.\\n4. F11 = tela cheia (navegador).\\n5. F12 = Salvar como.\n\n**Pegadinha**\nDecore F1, F2, F4, F5, F7 e F12.\n\n**Macete**\nF7 = verificar ortografia (decore)."
+    },
+    {
+      "id": "informatica-q144",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Com relação a cabeçalho e rodapé em editores de texto, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "O cabeçalho ocupa a margem superior da página.",
+        "B": "O cabeçalho e o rodapé ficam dentro da área do corpo do texto e, por isso, são alterados apenas na página em que o cursor está.",
+        "C": "O rodapé ocupa a margem inferior da página.",
+        "D": "Podem conter número de página, data e nome do documento.",
+        "E": "Uma alteração feita no cabeçalho normalmente se repete em todas as páginas da seção."
+      },
+      "gabarito": "B",
+      "explicacao": "Cabeçalho e rodapé ficam nas margens superior e inferior (fora do corpo do texto) e se repetem nas páginas da seção. Por isso a afirmação que os coloca no corpo e os restringe a uma página é incorreta.",
+      "resolucao_md": "**O que a questão pede**\nA frase falsa sobre cabeçalho e rodapé.\n\n**Conceito/Regra rápida**\nCabeçalho = margem superior; rodapé = margem inferior; ambos se repetem nas páginas.\n\n**Passo a passo**\n1. Margem superior/inferior: verdadeiras.\\n2. Número de página, data: verdadeira.\\n3. Alteração se repete: verdadeira.\\n4. Corpo do texto e só uma página: **falsa**.\n\n**Pegadinha**\nQuem vê \"corpo do texto\" deve desconfiar.\n\n**Macete**\nCabeçalho no topo, rodapé no pé, e os dois se repetem."
+    },
+    {
+      "id": "informatica-q145",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Considere os atalhos de alinhamento de parágrafo no Word e no Writer.\\n\\nI. Ctrl+E centraliza o parágrafo.\\nII. Ctrl+J justifica o parágrafo.\\nIII. Ctrl+Enter justifica o parágrafo.\\n\\nEstá(ão) correto(s)",
+      "alternativas": {
+        "A": "apenas I e II.",
+        "B": "apenas I.",
+        "C": "apenas II.",
+        "D": "apenas III.",
+        "E": "I, II e III."
+      },
+      "gabarito": "A",
+      "explicacao": "Ctrl+E centraliza e Ctrl+J justifica. Ctrl+Enter insere quebra de página, não justifica.",
+      "resolucao_md": "**O que a questão pede**\nQuais atalhos de alinhamento estão certos.\n\n**Conceito/Regra rápida**\nCentralizar = Ctrl+E (cEntralizar). Justificar = Ctrl+J. Quebra de página = Ctrl+Enter.\n\n**Passo a passo**\n```\\nI   Ctrl+E centraliza ........... CERTO\\nII  Ctrl+J justifica ........... CERTO\\nIII Ctrl+Enter justifica ....... ERRADO (é quebra de página)\\n```\\nCorretos: **I e II**.\n\n**Pegadinha**\nCtrl+Enter é quebra de página, em ambos os programas.\n\n**Macete**\nJ de Justificar, E de cEntralizar."
+    },
+    {
+      "id": "informatica-q146",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Sobre o LibreOffice Writer 7 e o Microsoft Word 2019, é CORRETO afirmar que",
+      "alternativas": {
+        "A": "o Writer não consegue abrir arquivos .docx.",
+        "B": "o Word salva por padrão no formato .odt.",
+        "C": "o Writer é um programa pago, de uso exclusivo do Windows.",
+        "D": "ambos são capazes de salvar documentos no formato .docx e exportá-los para PDF.",
+        "E": "nenhum dos dois permite criar tabelas."
+      },
+      "gabarito": "D",
+      "explicacao": "Os dois salvam em .docx e exportam PDF. O Writer abre .docx; o padrão do Word é .docx; o LibreOffice é gratuito e multiplataforma; ambos criam tabelas.",
+      "resolucao_md": "**O que a questão pede**\nA afirmação verdadeira comparando Word e Writer.\n\n**Conceito/Regra rápida**\nWriter: padrão .odt, gratuito, multiplataforma, salva .docx. Word: padrão .docx, pago, salva .odt também.\n\n**Passo a passo**\n1. Writer abre .docx? Sim -> alternativa falsa.\\n2. Padrão do Word é .odt? Não, é .docx -> falsa.\\n3. Writer pago e só Windows? Falso: livre e multiplataforma.\\n4. Tabelas? Os dois criam -> falsa.\\n5. Restou: ambos salvam .docx e PDF.\n\n**Pegadinha**\n\"Exclusivo\" e \"nenhum\" são palavras de alerta.\n\n**Macete**\nOs dois conversam: abrem e salvam os formatos um do outro."
+    },
+    {
+      "id": "informatica-q147",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 1,
+      "enunciado": "Considere a planilha a seguir, elaborada no Microsoft Excel 2019 (ou no LibreOffice Calc 7).\\n\\n| | A | B |\\n|---|---|---|\\n| 1 | 10 | =SOMA(A1:A3) |\\n| 2 | 20 | =MÉDIA(A1:A3) |\\n| 3 | 30 | =B1/B2+MÁXIMO(A1:A3) |\\n\\nO valor exibido na célula B3 é",
+      "alternativas": {
+        "A": "33",
+        "B": "30",
+        "C": "60",
+        "D": "50",
+        "E": "36"
+      },
+      "gabarito": "A",
+      "explicacao": "B1 = 60 e B2 = 20. Logo B3 = 60/20 + 30 = 3 + 30 = 33.",
+      "resolucao_md": "**O que a questão pede**\nO valor de B3.\n\n**Conceito/Regra rápida**\nCalcule as células de cima para baixo. `SOMA» soma, `MÉDIA» tira a média, `MÁXIMO» devolve o maior valor. Divisão vem antes da soma.\n\n**Passo a passo**\n```\\n     A    B\\n1   10   =SOMA(A1:A3)      -> 10+20+30 = 60\\n2   20   =MÉDIA(A1:A3)     -> 60/3 = 20\\n3   30   =B1/B2+MÁXIMO(A1:A3)\\n```\\n1. B1 = 60.\\n2. B2 = 20.\\n3. B1/B2 = 60/20 = 3.\\n4. MÁXIMO(A1:A3) = 30.\\n5. B3 = 3 + 30 = **33**.\n\n**Pegadinha**\nQuem soma 60+20+30 ou esquece a divisão erra.\n\n**Macete**\nFaça uma célula de cada vez, de cima para baixo."
+    },
+    {
+      "id": "informatica-q148",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "No Excel, o resultado da fórmula `=2+3*4^2/6-1» é",
+      "alternativas": {
+        "A": "11",
+        "B": "19",
+        "C": "9",
+        "D": "7",
+        "E": "15"
+      },
+      "gabarito": "C",
+      "explicacao": "Ordem: potência (4^2 = 16), multiplicação e divisão da esquerda para a direita (3*16 = 48; 48/6 = 8) e, por fim, soma e subtração: 2 + 8 - 1 = 9.",
+      "resolucao_md": "**O que a questão pede**\nO resultado da expressão.\n\n**Conceito/Regra rápida**\nOrdem de cálculo: parênteses, depois **^**, depois multiplicação e divisão (da esquerda para a direita), depois **+ e -**.\n\n**Passo a passo**\n```\\n=2+3*4^2/6-1\\n1) 4^2        = 16\\n2) 3*16       = 48\\n3) 48/6       = 8\\n4) 2+8-1      = 9\\n```\\nResultado: **9**.\n\n**Pegadinha**\nCalcular da esquerda para a direita, sem respeitar a prioridade, leva a outros valores.\n\n**Macete**\nPotência manda; depois vezes/dividido; por último mais/menos."
+    },
+    {
+      "id": "informatica-q149",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere a planilha a seguir.\\n\\n| | A |\\n|---|---|\\n| 1 | 5 |\\n| 2 | PM |\\n| 3 | (vazia) |\\n| 4 | 12 |\\n| 5 | Soldado |\\n\\nSe, na célula B1, for digitada a fórmula `=CONT.NÚM(A1:A5)+CONT.VALORES(A1:A5)*CONTAR.VAZIO(A1:A5)», o valor exibido será",
+      "alternativas": {
+        "A": "7",
+        "B": "6",
+        "C": "9",
+        "D": "10",
+        "E": "4"
+      },
+      "gabarito": "B",
+      "explicacao": "CONT.NÚM conta só números (5 e 12 = 2). CONT.VALORES conta células não vazias (4). CONTAR.VAZIO conta vazias (1). Resultado: 2 + 4*1 = 6.",
+      "resolucao_md": "**O que a questão pede**\nResultado combinando três funções de contagem.\n\n**Conceito/Regra rápida**\n**CONT.NÚM** = só números. **CONT.VALORES** = tudo que não está vazio. **CONTAR.VAZIO** = células vazias.\n\n**Passo a passo**\n```\\n     A\\n1    5        (número)\\n2    PM       (texto)\\n3             (vazia)\\n4    12       (número)\\n5    Soldado  (texto)\\n```\\n1. CONT.NÚM = 2 (A1 e A4).\\n2. CONT.VALORES = 4 (A1, A2, A4, A5).\\n3. CONTAR.VAZIO = 1 (A3).\\n4. Multiplicação primeiro: 4*1 = 4.\\n5. 2 + 4 = **6**.\n\n**Pegadinha**\nSe somar tudo da esquerda para a direita, obtém-se 7; a multiplicação tem prioridade.\n\n**Macete**\nNÚM = números; VALORES = tudo que tem algo; VAZIO = nada."
+    },
+    {
+      "id": "informatica-q150",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Em uma planilha, os alunos da turma tiveram as notas abaixo, e a fórmula da célula C2 foi copiada até C4.\\n\\n| | A | B | C |\\n|---|---|---|---|\\n| 1 | Aluno | Nota | Situação |\\n| 2 | Ana | 7 | =SE(B2>=7;\"Aprovado\";SE(B2>=5;\"Recuperação\";\"Reprovado\")) |\\n| 3 | Bruno | 5 | |\\n| 4 | Carla | 3 | |\\n\\nApós copiar a fórmula, os valores exibidos em C2, C3 e C4 serão, respectivamente,",
+      "alternativas": {
+        "A": "Recuperação, Recuperação e Reprovado.",
+        "B": "Aprovado, Aprovado e Reprovado.",
+        "C": "Aprovado, Reprovado e Reprovado.",
+        "D": "Recuperação, Reprovado e Reprovado.",
+        "E": "Aprovado, Recuperação e Reprovado."
+      },
+      "gabarito": "E",
+      "explicacao": "C2: 7>=7 verdadeiro, Aprovado. C3: 5>=7 falso; 5>=5 verdadeiro, Recuperação. C4: 3>=7 falso; 3>=5 falso, Reprovado.",
+      "resolucao_md": "**O que a questão pede**\nO resultado do SE aninhado copiado para baixo.\n\n**Conceito/Regra rápida**\n`SE(teste; se verdadeiro; se falso)». O SE interno só roda quando o primeiro teste é falso. `>=» inclui o valor igual.\n\n**Passo a passo**\n```\\nC2 (nota 7): B2>=7 ? 7>=7 VERDADEIRO  -> \"Aprovado\"\\nC3 (nota 5): B3>=7 ? 5>=7 FALSO\\n             B3>=5 ? 5>=5 VERDADEIRO  -> \"Recuperação\"\\nC4 (nota 3): B4>=7 ? FALSO ; B4>=5 ? FALSO -> \"Reprovado\"\\n```\\nResposta: **Aprovado, Recuperação, Reprovado**.\n\n**Pegadinha**\nCom `>=» a nota exatamente 7 e a exatamente 5 passam no teste; com `>» não passariam.\n\n**Macete**\nSE aninhado: testa na ordem; o primeiro VERDADEIRO decide."
+    }
+  ]
+}

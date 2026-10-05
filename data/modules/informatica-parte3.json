@@ -1,0 +1,360 @@
+{
+  "id": "informatica",
+  "titulo": "Informática (Windows 11, Office 2019, LibreOffice 7, Internet e Segurança)",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q023",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Um ataque de negação de serviço distribuído (DDoS) tem como objetivo principal comprometer qual princípio da segurança da informação?",
+      "alternativas": {
+        "A": "Confidencialidade.",
+        "B": "Integridade.",
+        "C": "Autenticidade.",
+        "D": "Não repúdio.",
+        "E": "Disponibilidade."
+      },
+      "gabarito": "E",
+      "explicacao": "O DDoS sobrecarrega o serviço com requisições de muitas máquinas, tornando-o indisponível. Afeta a disponibilidade.",
+      "resolucao_md": "**O que pede:** o princípio atingido por um DDoS.\n\n**Passo a passo**\n1. DDoS = muitos computadores (botnet) acessando ao mesmo tempo.\n2. O serviço fica fora do ar.\n3. Fora do ar = indisponível, logo disponibilidade.\n\n**Macete:** DoS = Denial of Service: nega o acesso."
+    },
+    {
+      "id": "informatica-q024",
+      "topico": "informatica-seguranca",
+      "dificuldade": 3,
+      "enunciado": "Sobre funções de hash (como SHA-256), é correto afirmar que",
+      "alternativas": {
+        "A": "permitem recuperar o texto original a partir do resumo gerado.",
+        "B": "geram um resumo de tamanho fixo e, por não serem reversíveis, são usadas para verificar a integridade dos dados.",
+        "C": "utilizam um par de chaves, uma pública e outra privada.",
+        "D": "são exemplos de malware que criptografam arquivos.",
+        "E": "servem exclusivamente para compactar arquivos."
+      },
+      "gabarito": "B",
+      "explicacao": "Hash gera um 'resumo' fixo irreversível; qualquer alteração no arquivo muda o hash, o que permite verificar a integridade.",
+      "resolucao_md": "**Regra:** hash = impressão digital do arquivo. Tamanho fixo, sem volta.\n\n**Passo a passo**\n1. A: errada, é irreversível.\n2. B: certa.\n3. C: errada, isso é criptografia assimétrica.\n4. D e E: absurdas.\n\n**Macete:** hash = digital do arquivo; mudou um bit, mudou o hash."
+    },
+    {
+      "id": "informatica-q025",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Qual dos exemplos a seguir representa uma autenticação em dois fatores (verificação em duas etapas)?",
+      "alternativas": {
+        "A": "Digitar duas vezes a mesma senha.",
+        "B": "Usar uma senha longa com letras e números.",
+        "C": "Responder a duas perguntas de segurança baseadas em dados pessoais.",
+        "D": "Informar a senha e, em seguida, um código temporário enviado ao celular do usuário.",
+        "E": "Entrar com o mesmo login em dois computadores."
+      },
+      "gabarito": "D",
+      "explicacao": "Dois fatores combinam categorias distintas: algo que se sabe (senha) e algo que se possui (celular/token). As demais usam um único fator.",
+      "resolucao_md": "**Regra:** fatores: sabe (senha), tem (token/celular), é (biometria). 2FA = duas categorias diferentes.\n\n**Passo a passo:** D combina senha (sabe) + código no celular (tem).\n\n**Pegadinha:** duas senhas ou duas perguntas continuam sendo 'algo que sabe'.\n\n**Macete:** dois fatores = dois tipos diferentes."
+    },
+    {
+      "id": "informatica-q026",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "O phishing é uma técnica de fraude que consiste em",
+      "alternativas": {
+        "A": "enviar mensagens falsas, imitando instituições conhecidas, para induzir a vítima a fornecer dados pessoais ou financeiros.",
+        "B": "derrubar um servidor com excesso de acessos.",
+        "C": "alterar o DNS para redirecionar o usuário.",
+        "D": "testar sequencialmente todas as senhas possíveis.",
+        "E": "interceptar pacotes na rede para leitura."
+      },
+      "gabarito": "A",
+      "explicacao": "Phishing é a 'pescaria' de dados com mensagens e sites falsos. B: DDoS. C: pharming. D: força bruta. E: sniffing.",
+      "resolucao_md": "**Passo a passo**\n1. Phishing = isca (e-mail, SMS, site clonado) para o usuário entregar seus dados.\n2. Cada outra alternativa descreve outro ataque (B DDoS, C pharming, D força bruta, E sniffer).\n\n**Macete:** phishing = fishing = pescar."
+    },
+    {
+      "id": "informatica-q027",
+      "topico": "informatica-seguranca",
+      "dificuldade": 3,
+      "enunciado": "Ao acessar um site com protocolo HTTPS e o ícone de cadeado fechado, o usuário tem a garantia de que",
+      "alternativas": {
+        "A": "o site é totalmente confiável e livre de golpes.",
+        "B": "o computador está livre de vírus.",
+        "C": "o provedor de Internet não conhece o endereço acessado.",
+        "D": "a comunicação entre o navegador e o site é criptografada, mas isso não comprova a idoneidade do site.",
+        "E": "o site foi aprovado pelo governo."
+      },
+      "gabarito": "D",
+      "explicacao": "HTTPS criptografa o tráfego, mas sites fraudulentos também podem usar HTTPS. O cadeado não comprova honestidade nem protege contra malware.",
+      "resolucao_md": "**O que pede:** o que o cadeado garante de fato.\n\n**Passo a passo**\n1. HTTPS = HTTP + criptografia (TLS).\n2. Protege a conexão entre você e o site.\n3. Golpistas também obtêm certificados; portanto não garante idoneidade.\n\n**Pegadinha:** associar cadeado a 'site seguro de verdade'.\n\n**Macete:** cadeado = canal protegido, não site honesto."
+    },
+    {
+      "id": "informatica-q028",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Na criptografia simétrica,",
+      "alternativas": {
+        "A": "são utilizadas duas chaves diferentes: uma pública e outra privada.",
+        "B": "a mesma chave é utilizada tanto para cifrar quanto para decifrar a mensagem.",
+        "C": "não é necessário o uso de chaves.",
+        "D": "a chave pública do destinatário decifra a mensagem.",
+        "E": "o resultado não pode ser decifrado por ninguém."
+      },
+      "gabarito": "B",
+      "explicacao": "Simétrica = uma única chave compartilhada. A, D: assimétrica. E: descreve o hash.",
+      "resolucao_md": "**Passo a passo:** simétrica = chave única compartilhada (rápida, ex.: AES); o desafio é distribuir a chave com segurança, razão pela qual se usa a assimétrica para trocá-la.\n\n**Macete:** simétrica = 1 chave; assimétrica = 2 chaves."
+    },
+    {
+      "id": "informatica-q029",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "Qual das práticas a seguir NÃO é recomendada para a proteção de contas e dados?",
+      "alternativas": {
+        "A": "Manter o sistema operacional e os programas atualizados.",
+        "B": "Habilitar a autenticação em dois fatores.",
+        "C": "Desconfiar de links e anexos de remetentes desconhecidos.",
+        "D": "Fazer backup periódico dos arquivos importantes.",
+        "E": "Usar a mesma senha em todos os serviços, para não esquecê-la."
+      },
+      "gabarito": "E",
+      "explicacao": "Reutilizar a mesma senha faz com que o vazamento em um serviço comprometa todos os demais.",
+      "resolucao_md": "**Passo a passo:** A a D são boas práticas. E é a única que amplia o risco: um vazamento compromete todas as contas.\n\n**Macete:** uma senha para cada serviço (use gerenciador de senhas)."
+    },
+    {
+      "id": "informatica-q030",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "A engenharia social, no contexto da segurança da informação, é",
+      "alternativas": {
+        "A": "um programa antivírus corporativo.",
+        "B": "um tipo de firewall.",
+        "C": "o conjunto de técnicas que exploram a confiança e o fator humano para obter informações ou acessos indevidos.",
+        "D": "um algoritmo de criptografia simétrica.",
+        "E": "um protocolo de transferência de arquivos."
+      },
+      "gabarito": "C",
+      "explicacao": "Engenharia social engana pessoas (ligações, e-mails falsos, falso suporte técnico) em vez de explorar falhas técnicas.",
+      "resolucao_md": "**Passo a passo:** o alvo é a pessoa, não a máquina. Exemplo: falso técnico pedindo a senha por telefone.\n\n**Macete:** a falha é humana."
+    },
+    {
+      "id": "informatica-q031",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "O programa ou dispositivo utilizado para capturar e analisar os pacotes que trafegam em uma rede, podendo ser usado de forma maliciosa para obter informações sensíveis, é chamado de",
+      "alternativas": {
+        "A": "hijacker.",
+        "B": "adware.",
+        "C": "bot.",
+        "D": "backdoor.",
+        "E": "sniffer."
+      },
+      "gabarito": "E",
+      "explicacao": "Sniffer ('farejador') captura tráfego de rede. Hijacker sequestra o navegador; adware exibe propaganda; bot é zumbi; backdoor é porta dos fundos.",
+      "resolucao_md": "**Passo a passo:** to sniff = farejar; o sniffer fareja pacotes na rede. Conexões HTTPS/VPN dificultam o proveito do que foi capturado.\n\n**Macete:** sniffer = fareja."
+    },
+    {
+      "id": "informatica-q032",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Um computador infectado que passa a ser controlado remotamente por um invasor, fazendo parte de uma rede utilizada para disparar spam e ataques DDoS, é conhecido como",
+      "alternativas": {
+        "A": "keylogger.",
+        "B": "bot (computador zumbi).",
+        "C": "screenlogger.",
+        "D": "ransomware.",
+        "E": "cavalo de Troia."
+      },
+      "gabarito": "B",
+      "explicacao": "Bot é o computador zumbi controlado remotamente; vários formam uma botnet.",
+      "resolucao_md": "**Passo a passo:** o dono nem percebe; o computador obedece ao invasor (zumbi). Muitos zumbis = botnet, usada em DDoS.\n\n**Macete:** bot = robô/zumbi."
+    },
+    {
+      "id": "informatica-q033",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 1,
+      "enunciado": "O SSD (Solid State Drive) é um dispositivo de armazenamento que se caracteriza por",
+      "alternativas": {
+        "A": "armazenar dados em pratos magnéticos giratórios.",
+        "B": "ser uma memória volátil, que perde os dados ao ser desligado.",
+        "C": "utilizar memória flash, sem partes móveis, sendo mais rápido e resistente a impactos que o HD.",
+        "D": "gravar dados com laser em discos ópticos.",
+        "E": "ser exclusivamente de uso em servidores."
+      },
+      "gabarito": "C",
+      "explicacao": "SSD usa memória flash não volátil, sem partes móveis. A descreve o HD; D, mídias ópticas.",
+      "resolucao_md": "**Passo a passo:** HD = magnético com partes móveis; SSD = flash sem partes móveis; DVD/Blu-ray = óptico.\n\n**Macete:** SSD = sem movimento, flash."
+    },
+    {
+      "id": "informatica-q034",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 2,
+      "enunciado": "O tipo de backup que copia todos os arquivos selecionados e, em seguida, desmarca o atributo de arquivamento (marca-os como já copiados) é o backup",
+      "alternativas": {
+        "A": "normal (completo).",
+        "B": "diferencial.",
+        "C": "de cópia.",
+        "D": "diário.",
+        "E": "incremental."
+      },
+      "gabarito": "A",
+      "explicacao": "O normal copia tudo e desmarca o atributo. O incremental desmarca, mas só copia o que mudou. O diferencial, o de cópia e o diário não desmarcam.",
+      "resolucao_md": "**Passo a passo (tabela)**\n| Tipo | Copia | Desmarca atributo |\n|---|---|---|\n| Normal | Tudo | Sim |\n| Incremental | Alterados desde o último | Sim |\n| Diferencial | Alterados desde o último normal | Não |\n| Cópia | Tudo | Não |\n\n'Tudo' + 'desmarca' = normal.\n\n**Macete:** normal e incremental desmarcam; os outros não."
+    },
+    {
+      "id": "informatica-q035",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 2,
+      "enunciado": "O backup incremental copia",
+      "alternativas": {
+        "A": "todos os arquivos, a cada execução, sem desmarcar o atributo.",
+        "B": "apenas os arquivos alterados desde o último backup normal, sem desmarcar o atributo.",
+        "C": "somente os arquivos criados no dia, sem alterar o atributo.",
+        "D": "apenas os arquivos criados ou alterados desde o último backup (normal ou incremental), desmarcando o atributo.",
+        "E": "o conteúdo integral do disco, formatando-o em seguida."
+      },
+      "gabarito": "D",
+      "explicacao": "Incremental guarda apenas o que mudou desde o último backup normal ou incremental e desmarca o atributo. B descreve o diferencial; A, o de cópia.",
+      "resolucao_md": "**Passo a passo**\n1. Incremental = só o novo desde o último backup que desmarcou o atributo.\n2. Isso o torna pequeno e rápido.\n3. Custo: restaurar exige o normal e todos os incrementais.\n\n**Macete:** incremental = incrementa pouquinho a cada vez."
+    },
+    {
+      "id": "informatica-q036",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 2,
+      "enunciado": "O backup diferencial caracteriza-se por copiar",
+      "alternativas": {
+        "A": "todos os arquivos selecionados, desmarcando o atributo de arquivamento.",
+        "B": "somente os arquivos alterados desde o último backup incremental, desmarcando o atributo.",
+        "C": "apenas os arquivos modificados no dia atual, desmarcando o atributo.",
+        "D": "os arquivos alterados desde o último backup normal, sem desmarcar o atributo de arquivamento.",
+        "E": "apenas os arquivos de sistema."
+      },
+      "gabarito": "D",
+      "explicacao": "Diferencial acumula tudo que mudou desde o último backup normal e não desmarca o atributo; por isso cresce a cada dia.",
+      "resolucao_md": "**Passo a passo:** o diferencial não zera o atributo; assim, a cada dia copia novamente tudo que já mudou desde o normal, acumulando.\n\n**Vantagem:** restaurar usa só dois conjuntos (normal + último diferencial).\n\n**Macete:** diferencial = acumula a diferença desde o normal."
+    },
+    {
+      "id": "informatica-q037",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 3,
+      "enunciado": "Uma empresa faz backup normal aos domingos e backups incrementais de segunda a quarta-feira, sempre à noite. Na quinta-feira pela manhã o disco falha. Para restaurar os dados com o máximo de atualidade, deve-se restaurar",
+      "alternativas": {
+        "A": "somente o backup incremental de quarta-feira.",
+        "B": "o backup normal de domingo e o incremental de quarta-feira.",
+        "C": "o backup normal de domingo e os incrementais de segunda, terça e quarta, nessa ordem.",
+        "D": "somente o backup normal de domingo.",
+        "E": "os incrementais de segunda, terça e quarta, sem o normal."
+      },
+      "gabarito": "C",
+      "explicacao": "Cada incremental guarda só o que mudou desde o anterior; por isso restaura-se o normal e todos os incrementais, em sequência.",
+      "resolucao_md": "**O que pede:** quais conjuntos restaurar.\n\n**Passo a passo**\n1. Domingo (normal): base completa.\n2. Segunda (inc.): mudanças de dom. para seg.\n3. Terça (inc.): mudanças de seg. para ter.\n4. Quarta (inc.): mudanças de ter. para qua.\n5. Falta qualquer um e há buracos. Total: 4 conjuntos.\n\n```\nNormal -> Seg -> Ter -> Qua\n```\n\n**Pegadinha:** achar que o último incremental basta.\n\n**Macete:** incremental = corrente de elos; todos são necessários."
+    },
+    {
+      "id": "informatica-q038",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 3,
+      "enunciado": "Considere agora que a mesma empresa utilize backup normal aos domingos e backups diferenciais de segunda a quarta-feira. Se o disco falhar na quinta-feira pela manhã, o conjunto mínimo necessário para restaurar os dados mais atuais é",
+      "alternativas": {
+        "A": "o backup normal de domingo e o diferencial de quarta-feira.",
+        "B": "apenas o diferencial de quarta-feira.",
+        "C": "o normal de domingo e os diferenciais de segunda, terça e quarta.",
+        "D": "somente o normal de domingo.",
+        "E": "os diferenciais de segunda e terça e o normal."
+      },
+      "gabarito": "A",
+      "explicacao": "O diferencial de quarta contém tudo que mudou desde o normal; basta o normal + o último diferencial.",
+      "resolucao_md": "**Passo a passo**\n1. Diferencial de quarta = mudanças de segunda + terça + quarta (acumulado desde o normal).\n2. Portanto os diferenciais anteriores são dispensáveis.\n3. Restaura-se: normal + diferencial de quarta (2 conjuntos).\n\n**Macete:** diferencial = normal + último."
+    },
+    {
+      "id": "informatica-q039",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 3,
+      "enunciado": "Um servidor teve backup normal no domingo (50 GB). Depois, foram modificados arquivos diferentes: 4 GB na segunda, 6 GB na terça e 5 GB na quarta. Se o backup do dia (noite) de quarta for diferencial ou incremental, quais serão, respectivamente, os tamanhos aproximados desses backups feitos na quarta-feira?",
+      "alternativas": {
+        "A": "5 GB e 15 GB.",
+        "B": "15 GB e 15 GB.",
+        "C": "5 GB e 5 GB.",
+        "D": "11 GB e 5 GB.",
+        "E": "15 GB e 5 GB."
+      },
+      "gabarito": "E",
+      "explicacao": "Diferencial na quarta = 4 + 6 + 5 = 15 GB (acumulado desde o normal). Incremental = só o que mudou desde o backup de terça = 5 GB.",
+      "resolucao_md": "**O que pede:** tamanho do diferencial e do incremental de quarta (nessa ordem).\n\n**Passo a passo**\n```\nDiferencial (desde o normal): 4 + 6 + 5 = 15 GB\nIncremental (desde ontem):          5 GB\n```\n**Conferência:** restauração com incrementais: 50 + 4 + 6 + 5 = 65 GB; com diferencial: 50 + 15 = 65 GB. Mesmo total de dados.\n\n**Macete:** diferencial acumula; incremental só o do dia."
+    },
+    {
+      "id": "informatica-q040",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 2,
+      "enunciado": "A chamada regra de backup 3-2-1 recomenda manter",
+      "alternativas": {
+        "A": "3 backups por dia, 2 por semana e 1 por mês.",
+        "B": "3 cópias dos dados, em 2 tipos diferentes de mídia, sendo 1 cópia armazenada fora do local.",
+        "C": "3 discos, 2 pendrives e 1 DVD no mesmo armário.",
+        "D": "3 senhas, 2 antivírus e 1 firewall.",
+        "E": "3 usuários, 2 administradores e 1 backup."
+      },
+      "gabarito": "B",
+      "explicacao": "3 cópias, 2 mídias distintas, 1 cópia off-site (fora do local, como a nuvem).",
+      "resolucao_md": "**Passo a passo:** o objetivo é resistir a falha de disco (várias mídias) e a desastre local (cópia fora). \n\n**Macete:** 3 cópias, 2 mídias, 1 fora."
+    },
+    {
+      "id": "informatica-q041",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 2,
+      "enunciado": "Em relação à configuração RAID, é correto afirmar que o RAID 1",
+      "alternativas": {
+        "A": "divide os dados entre discos para ganhar velocidade, sem redundância.",
+        "B": "dispensa a realização de backups.",
+        "C": "espelha os dados em dois discos, permitindo continuar funcionando se um deles falhar.",
+        "D": "exige no mínimo cinco discos.",
+        "E": "serve para criptografar o conteúdo dos discos."
+      },
+      "gabarito": "C",
+      "explicacao": "RAID 1 = espelhamento. A descreve o RAID 0. RAID não substitui backup (replica também exclusões e vírus).",
+      "resolucao_md": "**Regra:** RAID 0 = velocidade (sem proteção); RAID 1 = espelho; RAID 5 = paridade (mín. 3 discos).\n\n**Pegadinha:** RAID não é backup: se um arquivo for apagado, apaga nos dois discos.\n\n**Macete:** 1 = espelho (dois iguais)."
+    },
+    {
+      "id": "informatica-q042",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 1,
+      "enunciado": "Qual dos dispositivos de armazenamento a seguir grava e lê dados por meio de tecnologia óptica (laser)?",
+      "alternativas": {
+        "A": "DVD.",
+        "B": "SSD.",
+        "C": "Disco rígido (HD).",
+        "D": "Pendrive.",
+        "E": "Cartão SD."
+      },
+      "gabarito": "A",
+      "explicacao": "CD, DVD e Blu-ray são mídias ópticas. HD é magnético; SSD, pendrive e SD usam memória flash.",
+      "resolucao_md": "**Passo a passo:** óptico = laser (CD, DVD, Blu-ray); magnético = HD e fitas; flash = SSD, pendrive, SD.\n\n**Macete:** disco brilhante = laser."
+    },
+    {
+      "id": "informatica-q043",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 2,
+      "enunciado": "O backup do tipo 'cópia' caracteriza-se por",
+      "alternativas": {
+        "A": "copiar apenas os arquivos alterados e desmarcar o atributo.",
+        "B": "copiar tudo e desmarcar o atributo, iniciando nova rotina.",
+        "C": "ser sempre realizado em nuvem.",
+        "D": "copiar apenas arquivos ocultos.",
+        "E": "copiar os arquivos selecionados sem desmarcar o atributo de arquivamento, não interferindo nos demais tipos de backup."
+      },
+      "gabarito": "E",
+      "explicacao": "O backup de cópia não altera o atributo; serve para cópias extras sem afetar a rotina de backups normal/incremental/diferencial.",
+      "resolucao_md": "**Passo a passo:** copia, mas não 'marca' nada; por isso não atrapalha a sequência de incrementais.\n\n**Macete:** cópia = cópia extra, sem mexer na rotina."
+    },
+    {
+      "id": "informatica-q044",
+      "topico": "informatica-backup-armazenamento",
+      "dificuldade": 1,
+      "enunciado": "Considerando 1 TB = 1.024 GB, a capacidade de um HD de 2 TB, em GB, é de",
+      "alternativas": {
+        "A": "1.024 GB.",
+        "B": "2.048 GB.",
+        "C": "4.096 GB.",
+        "D": "512 GB.",
+        "E": "20.480 GB."
+      },
+      "gabarito": "B",
+      "explicacao": "2 x 1.024 = 2.048 GB.",
+      "resolucao_md": "**Passo a passo**\n```\n1 TB = 1.024 GB\n2 TB = 2 x 1.024 = 2.048 GB\n```\n**Conferência:** 2.048 / 2 = 1.024. Certo.\n\n**Macete:** cada degrau (KB, MB, GB, TB) multiplica por 1.024."
+    }
+  ]
+}

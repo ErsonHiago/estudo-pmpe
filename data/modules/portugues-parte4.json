@@ -1,0 +1,1079 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa (IBAM) — do zero ao avançado",
+ "disciplina": "portugues",
+ "descricao": "Continuação do módulo de Língua Portuguesa.",
+ "topicos": [
+  {
+   "id": "portugues-pontuacao",
+   "titulo": "13. Pontuação: regras e efeitos de sentido (vírgula: usos obrigatórios e proibidos)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## A regra mais importante\n**Não se separa por vírgula o que está sintaticamente \"colado\"**: sujeito do verbo, verbo do complemento, nome do complemento nominal, oração principal da subordinada substantiva.\n\n## VÍRGULA: usos OBRIGATÓRIOS\n| Uso | Exemplo |\n|---|---|\n| **Enumeração** (separa itens; antes do último \"e\", não) | Comprou pão, leite, café **e** açúcar. |\n| **Vocativo** | **Maria**, venha cá. |\n| **Aposto explicativo** | Caruaru, **capital do forró**, recebeu o evento. |\n| **Adjunto adverbial deslocado/intercalado** (longo, ou no meio) | **No dia seguinte à votação**, o prazo terminou. / O prazo, **infelizmente**, terminou. |\n| **Oração subordinada adverbial antes da principal** | **Quando o sol se pôs**, voltaram para casa. |\n| **Oração adjetiva explicativa** (entre vírgulas) | O prefeito, **que é engenheiro**, visitou a obra. |\n| **Conjunção adversativa/conclusiva/explicativa** | Estudou muito, **mas** não passou. / O prazo acabou; devemos, **pois**, encerrar. |\n| **Expressões explicativas/retificativas** (isto é, ou seja, por exemplo, aliás) | A obra, **ou seja**, será concluída em 2027. |\n| **Elipse de verbo** (zeugma) | Eu pedi café; ele, chá. |\n| **Datas e locais** | Caruaru, 29 de novembro de 2026. |\n| **Termos repetidos / ênfase** | Chorou, chorou, chorou. |\n| **Orações coordenadas assindéticas** | Cheguei, vi, venci. |\n\n## VÍRGULA: usos PROIBIDOS (as que a banca quer que você marque como erro)\n| Erro | Exemplo errado |\n|---|---|\n| Entre **sujeito e verbo** | Os candidatos aprovados no concurso**,** receberam a convocação. |\n| Entre **verbo e complemento** | O gerente informou**,** que o prazo terminou. |\n| Entre **nome e complemento nominal / adjunto** | A necessidade**,** de estudar é evidente. |\n| Entre **sujeito composto** ligado por e | Os alunos**,** e os professores chegaram. |\n| Entre **oração principal e subordinada substantiva** | É importante**,** que todos participem. |\n| **Oração adjetiva restritiva** isolada | Os alunos**,** que estudaram**,** passaram (muda sentido: ver abaixo). |\n| Antes de **\"que\" comparativo** ou de **\"e\"** com mesmo sujeito sem ênfase | Ele é mais alto**,** que eu. / Estudou**,** e passou. |\n\n## Vírgula antes de \"e\": quando pode?\nPode quando: (1) **sujeitos diferentes** (\"O prefeito falou, **e** o povo aplaudiu\"); (2) **polissíndeto/ênfase** (\"Chorou, **e** chorou, **e** chorou\"); (3) valor adversativo/consecutivo (\"Estudou muito, **e** não passou\").\n\n## Efeito de sentido (mudança de significado pela pontuação)\n- **Restritiva x explicativa**: \"Os servidores **que chegaram atrasados** foram advertidos\" (só os atrasados) x \"Os servidores**,** **que chegaram atrasados,** foram advertidos\" (todos chegaram atrasados e todos foram advertidos).\n- **Vocativo**: \"Vamos comer, crianças\" x \"Vamos comer crianças\".\n- \"Não, espere\" x \"Não espere\".\n\n## Outros sinais\n| Sinal | Usos |\n|---|---|\n| **Ponto e vírgula (;)** | separa **itens longos** de enumeração (incisos); orações coordenadas **longas**; antes de **conectivo** adversativo/conclusivo em frase longa |\n| **Dois-pontos (:)** | **enumeração**, **explicação**, **citação**, **vocativo em cartas** |\n| **Travessão (—)** | **fala** em diálogo; **intercalação** com ênfase; **aposto** enfático |\n| **Parênteses ( )** | **informação acessória** |\n| **Aspas** | citação, ironia, estrangeirismo, gíria |\n| **Reticências** | **interrupção**, **hesitação**, suspense, **omissão** em citação [...] |\n| **? !** | interrogação, emoção |\n\n## Passo a passo para questão de vírgula\n1. **Identifique sujeito e verbo**; se há vírgula entre eles sozinha → erro.\n2. Cheque **verbo + complemento**.\n3. Procure o **deslocado**: adjunto adverbial, oração adverbial ou aposto/vocativo → vírgula(s) **obrigatória(s)**, **sempre em par** se estiverem no meio.\n4. Teste o **\"em par\"**: aposto/ intercalação no meio exige **duas** vírgulas.\n5. Em **sentido**, pergunte se a vírgula transforma a oração adjetiva de restritiva em explicativa.",
+   "dicas": [
+    "Nunca separe sujeito do verbo; nunca separe verbo do complemento.",
+    "Termo intercalado (aposto, vocativo, adjunto, oração explicativa) pede DUAS vírgulas.",
+    "Oração adverbial antes da principal: vírgula; depois dela: em geral sem vírgula.",
+    "Adjetiva explicativa = vírgulas = vale para todos; restritiva = sem vírgula = restringe.",
+    "Datas: local, dia (Caruaru, 29 de novembro de 2026).",
+    "Ponto e vírgula: itens longos e coordenadas extensas."
+   ],
+   "pegadinhas": [
+    "Vírgula entre sujeito e verbo: \"O prefeito eleito, tomou posse.\"",
+    "Vírgula entre verbo e complemento: \"Disse, que viria.\"",
+    "Esquecer a segunda vírgula do aposto ou do termo intercalado.",
+    "Vírgula separando sujeito composto: \"Os alunos, e os professores chegaram.\"",
+    "Trocar restritiva por explicativa e alterar o sentido da frase.",
+    "Usar dois-pontos após preposição ou após \"são/é\": \"Os itens são: caneta e lápis\" (evitar)."
+   ],
+   "flashcards": [
+    {
+     "q": "Pode haver vírgula entre sujeito e verbo?",
+     "a": "Não (exceto se houver termo intercalado entre vírgulas)."
+    },
+    {
+     "q": "Pode haver vírgula entre verbo e complemento?",
+     "a": "Não."
+    },
+    {
+     "q": "Vírgula com vocativo?",
+     "a": "Obrigatória."
+    },
+    {
+     "q": "Vírgula com aposto explicativo?",
+     "a": "Obrigatória (em par se estiver no meio)."
+    },
+    {
+     "q": "Oração adverbial antecipada: vírgula?",
+     "a": "Obrigatória."
+    },
+    {
+     "q": "Diferença restritiva x explicativa?",
+     "a": "Restritiva sem vírgula restringe; explicativa entre vírgulas generaliza/explica."
+    },
+    {
+     "q": "Ponto e vírgula: quando?",
+     "a": "Itens longos de enumeração e orações coordenadas longas."
+    },
+    {
+     "q": "Dois-pontos: usos?",
+     "a": "Enumeração, explicação e citação."
+    },
+    {
+     "q": "Reticências: usos?",
+     "a": "Interrupção, hesitação, suspense, omissão."
+    },
+    {
+     "q": "Vírgula antes de \"e\": quando é aceita?",
+     "a": "Sujeitos diferentes, polissíndeto e ênfase."
+    }
+   ]
+  },
+  {
+   "id": "portugues-recursos-graficos",
+   "titulo": "14.1 Recursos gráficos (aspas, itálico, travessão, parênteses, imagens...)",
+   "prioridade": 2,
+   "horas": 2,
+   "resumo_md": "## O que são\nRecursos **visuais e tipográficos** que organizam o texto e **produzem efeitos de sentido**: sinais de pontuação, **tipografia** (negrito, itálico, sublinhado, caixa alta), **paragrafação**, **recuos**, **listas**, **tabelas, gráficos, imagens, legendas, hiperlinks**.\n\n## Principais recursos e seus efeitos\n| Recurso | Efeito/uso |\n|---|---|\n| **Aspas** | **Citação** textual; **ironia** (\"o 'especialista' nunca leu o edital\"); **estrangeirismo/gíria**; **título de poema/artigo**; destaque de termo |\n| **Itálico** | **Estrangeirismos**, títulos de obras, ênfase, termos técnicos |\n| **Negrito** | **Destaque** de ideia-chave, títulos |\n| **Sublinhado** | Destaque (ou hiperlink) |\n| **MAIÚSCULAS** | Ênfase (ou \"grito\" em ambientes digitais) |\n| **Travessão** | Fala em **diálogo**; **intercalação enfática**; explicação |\n| **Parênteses** | **Informação acessória**, esclarecimento, comentário à parte |\n| **Colchetes [ ]** | Interpolação do autor em citação, omissão [...] |\n| **Reticências** | Suspense, hesitação, ideia inacabada, supressão |\n| **Itens/numeração/marcadores** | Sequência e hierarquia de ideias |\n| **Tabelas e gráficos** | **Sintetizam dados**; complementam o texto verbal |\n| **Imagens e legendas** | Ilustram, reforçam ou ironizam o verbal (charge, propaganda) |\n| **Parágrafo** | **Unidade de desenvolvimento** de uma ideia |\n| **Hiperlink** | Remete a outro texto (hipertexto) |\n\n## Como a banca cobra\n1. **Efeito de sentido de aspas** (citação x ironia): o contexto decide.\n2. **Função de um recurso** em um texto (por que o autor usou parênteses?).\n3. **Leitura de texto multimodal**: charge, infográfico, anúncio — combinar o **verbal** e o **não verbal**.\n4. **Gráficos/tabelas**: ler títulos, legendas, unidades, **escala** e comparar valores. **Cuidado com extrapolação**.\n\n## Passo a passo para texto multimodal\n1. Leia **título, legenda, fonte**.\n2. Observe **o que a imagem/dados mostram** isoladamente.\n3. Relacione ao texto verbal: **confirma, amplia ou ironiza**?\n4. Marque somente o que **está nos dados**.\n\n## Pegadinhas\n- Aspas **nem sempre** significam citação: podem marcar **ironia**.\n- Itálico **não é exclusivo** de ironia.\n- Parênteses **não** introduzem ideia principal (é acessória).",
+   "dicas": [
+    "Aspas: citação, ironia, estrangeirismo, gíria — o contexto decide.",
+    "Parênteses = informação acessória.",
+    "Em gráfico, leia título, unidade e escala antes de responder.",
+    "Charge: o não verbal geralmente carrega a crítica."
+   ],
+   "pegadinhas": [
+    "Considerar que aspas só indicam citação.",
+    "Dizer que o itálico serve apenas para ironia.",
+    "Extrapolar dados de um gráfico para além do que ele mostra.",
+    "Ignorar a legenda e a fonte do gráfico/tabela."
+   ],
+   "flashcards": [
+    {
+     "q": "Valores das aspas?",
+     "a": "Citação, ironia, estrangeirismo, gíria, destaque."
+    },
+    {
+     "q": "Parênteses servem para?",
+     "a": "Informação acessória/esclarecimento."
+    },
+    {
+     "q": "Travessão em diálogo?",
+     "a": "Marca a fala das personagens."
+    },
+    {
+     "q": "Itálico serve para?",
+     "a": "Estrangeirismos, títulos de obras e ênfase."
+    },
+    {
+     "q": "Colchetes em citação?",
+     "a": "Interpolação ou omissão do autor [...]."
+    },
+    {
+     "q": "Reticências?",
+     "a": "Suspense, hesitação, interrupção ou supressão."
+    },
+    {
+     "q": "Função de tabelas/gráficos?",
+     "a": "Sintetizar dados e complementar o texto verbal."
+    },
+    {
+     "q": "O que é texto multimodal?",
+     "a": "Texto que combina linguagem verbal e não verbal."
+    }
+   ]
+  },
+  {
+   "id": "portugues-periodo-simples",
+   "titulo": "14.2 Sintaxe do período simples (termos essenciais, integrantes e acessórios)",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## Período simples = 1 verbo (1 oração)\n\n## 1) Termos ESSENCIAIS: sujeito e predicado\n### Sujeito\n| Tipo | Como é | Exemplo |\n|---|---|---|\n| **Simples** | 1 núcleo | **Os candidatos** chegaram. |\n| **Composto** | 2+ núcleos | **Pedro e Ana** chegaram. |\n| **Oculto/desinencial** | identificado pela desinência | (Nós) Chegamos cedo. |\n| **Indeterminado** | **não se quer/pode** identificar: verbo na **3ª pl.** sem referente, ou **VTI/VI/VL + se** | **Aprovaram** o projeto. / **Precisa-se** de motorista. |\n| **Oração sem sujeito (inexistente)** | verbos **impessoais**: **haver** (existir/tempo), **fazer** (tempo), **fenômenos da natureza**, **ser/estar** indicando tempo | **Há** dúvidas. / **Choveu** muito. / **Faz** 10 anos. |\n\n**Como achar o sujeito:** pergunte \"**quem** + verbo?\". Sujeito **não** vem com preposição.\n\n### Predicado\n- **Verbal**: núcleo = verbo (Os candidatos **chegaram**).\n- **Nominal**: verbo de ligação + **predicativo do sujeito** (Ele **está feliz**).\n- **Verbo-nominal**: verbo de ação + predicativo (Ele **chegou cansado**).\n\n## 2) Termos INTEGRANTES (completam o sentido)\n| Termo | Característica | Exemplo |\n|---|---|---|\n| **Objeto direto (OD)** | completa verbo **sem preposição** (substituível por o, a, os, as) | O fiscal multou **o comerciante**. |\n| **Objeto indireto (OI)** | completa verbo **com preposição** (lhe, lhes, a ele) | Entregou o auto **ao contribuinte**. |\n| **Complemento nominal (CN)** | completa **substantivo/adjetivo/advérbio**, termo é **paciente** | O **desejo de vitória**; **favorável à** reforma. |\n| **Agente da passiva** | quem pratica a ação na voz passiva (por/pelo) | O relatório foi feito **pela equipe**. |\n| **Predicativo (sujeito/objeto)** | característica | Considero-o **competente** (do objeto). |\n\n## 3) Termos ACESSÓRIOS (podem ser retirados)\n| Termo | Função | Exemplo |\n|---|---|---|\n| **Adjunto adnominal** | caracteriza **substantivo**: artigo, adjetivo, numeral, locução adjetiva, **de + nome (posse ou agente)** | **A casa de Maria**; o **bom** aluno |\n| **Adjunto adverbial** | indica circunstância (tempo, lugar, modo, causa...) | Estudou **ontem**, **com afinco**. |\n| **Aposto** | explica/especifica outro termo | Pedro, **o diretor**, assinou. |\n| **Vocativo** | chamamento (isolado, sem relação sintática) | **Pedro**, venha cá. |\n\n## Adjunto adnominal x complemento nominal\n- **A casa de Maria** → Maria **possui** a casa → **adjunto adnominal**.\n- **A leitura de textos** → textos **são lidos** (paciente) → **complemento nominal**.\n- **A resposta do aluno** → aluno **pratica** (agente) → **adjunto adnominal**.\n- **A resposta à pergunta** → pergunta **recebe** → **complemento nominal**.\nRegra: o **complemento nominal** exige nome **transitivo** e o termo é **paciente**; **adjunto** é possuidor/agente.\n\n## Passo a passo para análise sintática\n1. **Ache o verbo** (e conte: 1 verbo = período simples).\n2. Pergunte **\"quem?\"** → **sujeito**.\n3. Classifique o verbo (VI, VTD, VTI, VTDI, VL) e **ache os complementos**.\n4. O que sobra e pode ser retirado → **acessórios**.\n5. Cuidado com **\"se\"**, **preposições** e **ordem inversa**.",
+   "dicas": [
+    "Sujeito: pergunte \"quem + verbo?\"; nunca leva preposição.",
+    "Verbos impessoais (haver, fazer tempo, fenômenos) = sem sujeito.",
+    "OD sem preposição; OI com preposição (a/de/em/para/com).",
+    "Complemento nominal = paciente; adjunto adnominal = posse/agente.",
+    "Predicativo liga o sujeito a uma característica; sem ele, o verbo de ligação não \"fecha\" o sentido.",
+    "Aposto e vocativo sempre isolados por vírgula."
+   ],
+   "pegadinhas": [
+    "Confundir sujeito indeterminado (não se quer identificar) com oração sem sujeito (verbo impessoal).",
+    "Achar que o termo com preposição \"de\" é sempre complemento nominal (pode ser adjunto adnominal).",
+    "Esquecer que o sujeito pode vir depois do verbo (\"Chegaram os convidados\").",
+    "Confundir predicativo do sujeito com adjunto adverbial de modo.",
+    "Dizer que objeto indireto é \"qualquer termo com preposição\" (adjunto adverbial também tem).",
+    "Classificar \"Precisa-se de funcionários\" com sujeito \"funcionários\" (é indeterminado)."
+   ],
+   "flashcards": [
+    {
+     "q": "Termos essenciais da oração?",
+     "a": "Sujeito e predicado."
+    },
+    {
+     "q": "Termos integrantes?",
+     "a": "Objeto direto, objeto indireto, complemento nominal e agente da passiva."
+    },
+    {
+     "q": "Termos acessórios?",
+     "a": "Adjunto adnominal, adjunto adverbial, aposto e vocativo."
+    },
+    {
+     "q": "Sujeito indeterminado: duas formas?",
+     "a": "Verbo na 3ª pl. sem referente; VTI/VI/VL + se."
+    },
+    {
+     "q": "Oração sem sujeito: exemplos?",
+     "a": "Verbos haver (existir), fazer (tempo), fenômenos da natureza."
+    },
+    {
+     "q": "Predicado verbo-nominal?",
+     "a": "Verbo de ação + predicativo (chegou cansado)."
+    },
+    {
+     "q": "Objeto direto: teste?",
+     "a": "Substituível por o, a, os, as; sem preposição."
+    },
+    {
+     "q": "Objeto indireto: teste?",
+     "a": "Substituível por lhe/lhes; exige preposição."
+    },
+    {
+     "q": "Complemento nominal x adjunto adnominal?",
+     "a": "O complemento nominal é paciente; o adjunto adnominal indica posse/agente/qualidade."
+    },
+    {
+     "q": "Agente da passiva?",
+     "a": "Quem pratica a ação na voz passiva (por/pelo/pela)."
+    }
+   ]
+  },
+  {
+   "id": "portugues-periodo-composto",
+   "titulo": "15. Coordenação e subordinação (período composto)",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## Período composto = 2 ou mais verbos (orações)\n- **Coordenação**: orações **independentes** sintaticamente.\n- **Subordinação**: oração **dependente** (exerce função de termo de outra).\n\n## COORDENAÇÃO\n- **Assindética**: sem conjunção (Cheguei, vi, venci).\n- **Sindética**: com conjunção — aditiva (e, nem), adversativa (mas, porém), alternativa (ou, ora...ora), conclusiva (logo, portanto), explicativa (pois, que, porque).\n> Ver tabela completa no tópico de Conectivos.\n\n## SUBORDINAÇÃO\n### 1) Substantivas (equivalem a **substantivo**; trocáveis por \"isso\"/\"isto\")\n| Tipo | Função | Exemplo |\n|---|---|---|\n| **Subjetiva** | sujeito | **É importante que todos participem.** (= Isso é importante.) |\n| **Objetiva direta** | OD | Espero **que você venha**. |\n| **Objetiva indireta** | OI | Duvido **de que ele venha**. |\n| **Completiva nominal** | complemento nominal | Tenho certeza **de que você será aprovado**. |\n| **Predicativa** | predicativo do sujeito | O problema é **que não há verba**. |\n| **Apositiva** | aposto | Só quero isto: **que me escutem**. |\n> Introduzidas por **que** ou **se** (integrantes) ou por pronome/advérbio interrogativo.\n\n### 2) Adjetivas (equivalem a **adjetivo**; introduzidas por **pronome relativo**: que, quem, o qual, cujo, onde)\n| Tipo | Característica | Exemplo |\n|---|---|---|\n| **Restritiva** | restringe, **sem vírgula** | Os alunos **que estudaram** foram aprovados. (só esses) |\n| **Explicativa** | explica, **entre vírgulas** | Os alunos, **que estudaram**, foram aprovados. (todos) |\n\n### 3) Adverbiais (equivalem a **advérbio**; circunstância)\n| Tipo | Conjunções | Exemplo |\n|---|---|---|\n| **Causal** | porque, como, já que, visto que | Como estava cansado, dormiu. |\n| **Consecutiva** | tão... que, de modo que | Estava tão cansado que dormiu. |\n| **Concessiva** | embora, ainda que, posto que | Embora estivesse cansado, concluiu. |\n| **Condicional** | se, caso, desde que | Se chover, cancelaremos. |\n| **Comparativa** | como, que, do que | Fala como se fosse chefe. |\n| **Conformativa** | conforme, segundo | Fez conforme o edital manda. |\n| **Final** | para que, a fim de que | Fale alto para que todos ouçam. |\n| **Proporcional** | à medida que | À medida que estudava, aprendia. |\n| **Temporal** | quando, assim que, enquanto | Quando chegou, ligou. |\n\n### 4) Orações REDUZIDAS (sem conjunção/pronome relativo; verbo em **infinitivo, gerúndio ou particípio**)\n- **Ao chegar** ao escritório, ligou. (reduzida de infinitivo, **temporal**)\n- **Estudando**, passará. (gerúndio, **condicional**)\n- **Concluído** o trabalho, saiu. (particípio, **temporal**)\n\n## Macetes de classificação\n1. **Substitua** a oração por **\"isso\"**: se der certo → **substantiva** (subjetiva, objetiva etc.).\n2. **Substitua por adjetivo** → **adjetiva**.\n3. **Substitua por advérbio** (ou \"nessa circunstância\") → **adverbial**.\n4. Pelo **conectivo**: que/se integrantes → substantiva; relativo → adjetiva; demais → adverbial.\n\n## Passo a passo\n1. **Conte os verbos** e separe as orações.\n2. **Identifique o conectivo** e a **relação** (coordenada ou subordinada?).\n3. Em subordinada, aplique o macete (isso / adjetivo / advérbio).\n4. Para substantivas, descubra **qual termo** a oração substitui (sujeito? objeto?).\n\n## Pegadinhas\n- **Que** pode ser integrante, relativo, conjunção coordenativa explicativa... Use o macete.\n- **Pois** explicativo x conclusivo (posição).\n- **Restritiva x explicativa**: vírgula.\n- **Objetiva indireta** é \"de que\", \"a que\", \"em que\" (preposição).",
+   "dicas": [
+    "Substantiva = \"isso\"; adjetiva = relativo; adverbial = circunstância.",
+    "Subjetiva: verbo de ligação/expressão impessoal (É importante que...).",
+    "Completiva nominal: depois de substantivo/adjetivo (certeza de que).",
+    "Restritiva sem vírgula; explicativa com vírgulas.",
+    "Reduzida: infinitivo, gerúndio ou particípio sem conectivo."
+   ],
+   "pegadinhas": [
+    "Confundir objetiva indireta (verbo) com completiva nominal (nome).",
+    "Confundir adjetiva restritiva com explicativa (vírgulas).",
+    "Chamar de substantiva uma oração iniciada por relativo.",
+    "Classificar como causal uma oração concessiva iniciada por \"posto que\".",
+    "Confundir coordenada explicativa (\"pois\", após vírgula) com adverbial causal.",
+    "Achar que toda oração com \"que\" é subordinada substantiva."
+   ],
+   "flashcards": [
+    {
+     "q": "Período composto por coordenação?",
+     "a": "Orações independentes sintaticamente."
+    },
+    {
+     "q": "Período composto por subordinação?",
+     "a": "Oração dependente de outra que exerce função sintática."
+    },
+    {
+     "q": "Orações subordinadas substantivas?",
+     "a": "Subjetiva, objetiva direta, objetiva indireta, completiva nominal, predicativa e apositiva."
+    },
+    {
+     "q": "Subordinadas adjetivas?",
+     "a": "Restritiva (sem vírgula) e explicativa (entre vírgulas)."
+    },
+    {
+     "q": "Subordinadas adverbiais?",
+     "a": "Causal, consecutiva, concessiva, condicional, comparativa, conformativa, final, proporcional, temporal."
+    },
+    {
+     "q": "Macete da substantiva?",
+     "a": "Substituir a oração por \"isso\"."
+    },
+    {
+     "q": "O que é oração reduzida?",
+     "a": "Oração subordinada com verbo em infinitivo, gerúndio ou particípio, sem conectivo."
+    },
+    {
+     "q": "Completiva nominal: exemplo?",
+     "a": "Tenho certeza de que você será aprovado."
+    },
+    {
+     "q": "Conjunção integrante?",
+     "a": "Que e se (introduzem substantivas)."
+    }
+   ]
+  },
+  {
+   "id": "portugues-crase",
+   "titulo": "16. Crase (regras, casos proibidos, casos facultativos, macete do \"volto da\")",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## O que é crase\n**Fusão da preposição \"a\" com o artigo \"a(s)\"** (ou com o \"a\" inicial de aquele, aquela, aquilo, a qual). Marca-se com o **acento grave** (à).\n> Crase = **a (preposição) + a (artigo/pronome)**. Só ocorre diante de **palavra feminina** que aceita artigo **e** verbo/nome que exige a preposição \"a\".\n\n## Macete do \"volto da\" (com cidades e lugares)\n- Troque o verbo por **voltar**: **volto DA** → há crase; **volto DE** → **sem crase**.\n  - \"Vou **à** escola\" (volto **da** escola) → crase.\n  - \"Vou **a** Roma\" (volto **de** Roma) → sem crase.\n  - \"Vou **à** Roma dos Césares\" (volto **da** Roma dos Césares) → crase (há adjunto determinante).\n- Outro macete: **troque a palavra feminina por uma masculina**: se aparecer **ao** → crase. \"Fui **ao** mercado\" → \"Fui **à** feira.\"\n\n## Crase OBRIGATÓRIA\n| Caso | Exemplo |\n|---|---|\n| **a + a(s)** (feminino determinado) com termo que pede \"a\" | Refiro-me **à** proposta. Entreguei o ofício **à** Secretaria. |\n| **a + aquele(s), aquela(s), aquilo, a qual, as quais** | Refiro-me **àquele** processo. A empresa **à qual** enviei... |\n| **Horas** | A reunião começou **às** 14 horas. / **à** uma hora |\n| **Locuções adverbiais femininas** | **à** noite, **às** vezes, **à** tarde, **à** direita, **às** pressas, **à** vontade, **à** toa |\n| **Locuções prepositivas femininas** | **à** frente de, **à** custa de, **à** procura de, **à** espera de |\n| **Locuções conjuntivas femininas** | **à** medida que, **à** proporção que |\n| **\"à moda de/à maneira de\" (subentendidas)** | Bife **à** milanesa, **à** Luís XV |\n| **Nomes de lugares com artigo** | Fui **à** Bahia, **à** Itália. |\n\n## Crase PROIBIDA\n| Caso | Exemplo |\n|---|---|\n| Antes de **palavra masculina** | Andou **a** pé, **a** cavalo, **a** prazo (não \"à\"). |\n| Antes de **verbos** | Começou **a** chover. |\n| Antes de **pronomes pessoais, de tratamento (exceto senhora/senhorita/dona), demonstrativos (esta, essa), indefinidos (cada, toda, qualquer, alguma) e relativos** (quem, cuja) | Falou **a** ela. / Refiro-me **a** esta situação. / **a** quem |\n| **Palavras repetidas** | cara **a** cara, gota **a** gota, frente **a** frente |\n| **Antes de palavra feminina indeterminada/plural sem artigo** | Dirigiu-se **a** pessoas desconhecidas. |\n| **Nomes de cidades sem artigo** | Fui **a** Caruaru. / **a** Roma. |\n| **\"casa\" e \"terra\" (firme) sem determinante** | Cheguei **a** casa cedo. (Mas: Cheguei **à** casa de Maria.) |\n| **Depois de preposição** (exceto \"até\"): para, com, sem, sob, perante | Fiquei perante **a** juíza. |\n\n## Casos FACULTATIVOS\n- Antes de **pronome possessivo feminino singular**: Entreguei o livro **à** (ou **a**) minha irmã.\n- Antes de **nome próprio feminino de pessoa**: Falei **à** (ou **a**) Maria.\n- Depois da preposição **até**: Fui **até à** (ou **até a**) escola.\n\n## Casos especiais\n- **Distância**: \"a 100 metros\" (sem crase) x \"à distância de 100 metros\" (crase: determinada).\n- **\"Dar à luz\"**: crase.\n- **\"À\"** diante de \"uma\": **à uma hora**; **a uma** colega (sem crase).\n- Locuções: \"a fim de\", \"a partir de\", \"a respeito de\" (sem crase: **a** com \"a\" apenas preposição).\n\n## Passo a passo para decidir\n1. O verbo/nome exige **preposição \"a\"**? (Teste com **voltar**.)\n2. A palavra seguinte é **feminina** e aceita **artigo \"a\"**?\n3. Se ambos: **crase**. Se faltar um: **sem crase**.\n4. Casos fixos (horas, locuções) → crase.\n5. Dúvida com cidade: **volto da / volto de**.",
+   "dicas": [
+    "Volto DA → crase; volto DE → sem crase.",
+    "Troque por palavra masculina: se der \"ao\", há crase.",
+    "Crase nunca antes de verbo, masculino, pronome pessoal, esta/essa, cidade sem artigo.",
+    "Horas: sempre às (às 8 horas); \"a partir de\": sem crase.",
+    "Facultativa: possessivo feminino singular, nome próprio feminino, depois de \"até\".",
+    "Cada, todo(a), qualquer, algum(a): sem crase."
+   ],
+   "pegadinhas": [
+    "Crase antes de masculino: \"à pé\", \"à prazo\", \"à cavalo\".",
+    "Crase antes de verbo: \"começou à chover\".",
+    "Crase diante de pronome pessoal: \"entregou à ela\" (correto: a ela).",
+    "Crase com cidade sem artigo: \"fui à Caruaru\".",
+    "Esquecer a crase em locução feminina: \"às vezes\", \"à noite\", \"à medida que\".",
+    "Crase em \"cara à cara\", \"frente à frente\" (expressões repetidas: sem crase).",
+    "Crase com \"a\" no singular antes de palavra no plural: \"refiro-me à pessoas\" (sem crase)."
+   ],
+   "flashcards": [
+    {
+     "q": "Crase é...?",
+     "a": "Fusão da preposição a com o artigo a(s) ou o a inicial de aquele, aquela, aquilo."
+    },
+    {
+     "q": "Macete das cidades?",
+     "a": "Volto da → crase; volto de → sem crase."
+    },
+    {
+     "q": "Crase antes de verbo?",
+     "a": "Nunca."
+    },
+    {
+     "q": "Crase antes de palavra masculina?",
+     "a": "Nunca (salvo \"à moda de\" subentendida)."
+    },
+    {
+     "q": "Crase com horas?",
+     "a": "Obrigatória (às 8 horas)."
+    },
+    {
+     "q": "Crase diante de pronome pessoal?",
+     "a": "Nunca (a ela)."
+    },
+    {
+     "q": "Crase em à medida que?",
+     "a": "Obrigatória (locução conjuntiva feminina)."
+    },
+    {
+     "q": "Crase facultativa: três casos?",
+     "a": "Possessivo feminino singular, nome próprio feminino de pessoa, depois de até."
+    },
+    {
+     "q": "Crase em \"a pé\", \"a cavalo\"?",
+     "a": "Sem crase (palavras masculinas)."
+    },
+    {
+     "q": "Crase com \"casa\" sem determinante?",
+     "a": "Sem crase (cheguei a casa)."
+    },
+    {
+     "q": "Crase antes de aquele/aquela?",
+     "a": "Obrigatória quando o termo pede \"a\" (refiro-me àquele)."
+    }
+   ]
+  },
+  {
+   "id": "portugues-ortografia",
+   "titulo": "17. Ortografia (porque/por que, mal/mau, a/há, afim/a fim, onde/aonde...; letras e hífen)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Pares mais cobrados\n### PORQUE x POR QUE x PORQUÊ x POR QUÊ\n| Forma | Quando | Exemplo |\n|---|---|---|\n| **porque** | **conjunção** (causa/explicação): equivale a \"pois\" | Saiu cedo **porque** estava atrasado. |\n| **por que** | **pergunta** (direta ou indireta); = \"por qual motivo\" / \"pelo qual\" (por + que) | **Por que** você saiu? / Não sei **por que** saiu. / O motivo **por que** saiu... |\n| **porquê** | **substantivo** (vem com artigo/pronome): \"o motivo\" | Ignoro **o porquê** da decisão. |\n| **por quê** | **pergunta no fim da frase** (antes de ponto) | Você saiu **por quê**? |\n\n### MAL x MAU\n- **Mal** (oposto de **bem**): advérbio (\"Ele dormiu **mal**\"), substantivo (\"o **mal**\"), conjunção temporal (\"**Mal** chegou, saiu\").\n- **Mau** (oposto de **bom**): adjetivo (\"**mau** funcionário\").\n- **Macete**: troque por bem/bom. **Bem** → **mal**; **bom** → **mau**.\n\n### A x HÁ\n- **Há** = verbo **haver** (passado/existência): \"**Há** dois anos\", \"**Há** pessoas\".\n- **A** = preposição/artigo (futuro, distância): \"Daqui **a** dois anos\", \"**A** três metros\".\n- Macete: **se dá para trocar por \"faz\"**, é **há** (\"Faz dois anos\" = Há dois anos).\n\n### AFIM x A FIM\n- **Afim** = adjetivo (**semelhante**, parente): \"áreas **afins**\".\n- **A fim de** = finalidade: \"Estudou **a fim de** passar.\"\n\n### ONDE x AONDE x DONDE\n- **Onde**: lugar **em que** se está (sem movimento): \"**Onde** você mora?\"\n- **Aonde** = a + onde: **movimento para um lugar**: \"**Aonde** você vai?\"\n- **Donde** = de onde.\n\n### Outros pares\n| Par | Regra |\n|---|---|\n| **acerca de / a cerca de / há cerca de** | **acerca de** = a respeito de; **a cerca de** = distância aproximada; **há cerca de** = tempo passado aproximado |\n| **demais / de mais** | **demais** (advérbio de intensidade/ \"muito\"); **de mais** (oposto de \"de menos\") |\n| **senão / se não** | **senão** = caso contrário / exceto (\"Fale, senão...\"); **se não** = condição (\"**Se não** chover\") |\n| **sobretudo / sobre tudo** | sobretudo = principalmente |\n| **traz / atrás** | traz (trazer) / atrás (lugar) |\n| **mas / mais** | mas = oposição; mais = quantidade |\n| **tampouco / tão pouco** | tampouco = também não; tão pouco = muito pouco |\n| **também / tão bem** | também = adição; tão bem = intensidade |\n| **a par / ao par** | a par = ciente; ao par = equivalente (câmbio) |\n| **ao encontro de / de encontro a** | favorável a / contrário a (choque) |\n| **em vez de / ao invés de** | em vez de = no lugar de; **ao invés de** = ao contrário de |\n| **a princípio / em princípio** | no início / em tese |\n\n## Grafia de letras (macetes)\n- **S x SS x Ç x C**: derive do verbo/radical: **pretensão** (pretender), **concessão** (conceder), **ascensão** (ascender), **obsessão**, **exceção/exceto** (c), **expectativa** (x); **analisar, paralisar** (s, não z).\n- **-izar** (verbos derivados de substantivo sem s no radical): **catequizar**; **-isar** se o radical tem **s**: **analisar, pesquisar**.\n- **ch/x**: xícara, enxada, **chuchu**, **enxurrada**; **g/j**: **viagem, tigela**, jeito, laranja; **ex-** (êxodo), **es-**.\n- **Estender** (alongar), **extensão**; **estrato/extrato**; **espectador** (quem assiste), **expectativa**.\n\n## HÍFEN (Novo Acordo)\n| Regra | Exemplo |\n|---|---|\n| **Prefixo terminado em vogal + palavra começada pela MESMA vogal** → **hífen** | **micro-ondas, anti-inflacionário, arqui-inimigo** |\n| **Prefixo terminado em vogal + vogal DIFERENTE** → **junto** | **autoestrada, extraescolar, aeroespacial** |\n| **Prefixo terminado em vogal + R ou S** → **dobra** a consoante, **junto** | **antirrábico, ultrassom, minissaia, contrarregra** |\n| **Prefixo + H** → **hífen** | **anti-higiênico, super-homem, pré-história** |\n| **Prefixos tônicos acentuados pré-, pró-, pós-** → hífen quando acentuados e tônicos | **pré-escolar, pós-graduação, pró-reitor** |\n| **ex-, sota-, soto-, vice-, vizo-** → **sempre hífen** | **ex-prefeito, vice-presidente** |\n| **circum- e pan- + vogal, m, n** → hífen | **pan-americano, circum-navegação** |\n| **sub-, ab-, ob-, sob-** + **b/r** → hífen | **sub-base, sub-regional** |\n| **inter-, super-, hiper-** + **h/r** → hífen | **inter-regional, super-homem, hiper-resistente** |\n| **bem-, mal-, além-, aquém-, recém-, sem-** | **bem-vindo, bem-estar, mal-estar, mal-humorado, além-mar, recém-nascido, sem-terra** |\n\n## Passo a passo\n1. Em par confuso, **teste a troca** (bem/bom; faz; \"a respeito de\").\n2. Em **hífen**, observe a **última letra do prefixo** e a **primeira da palavra**.\n3. Em grafia de letras, aplique **derivação** (pretender → pretensão).",
+   "dicas": [
+    "Mal ↔ bem; mau ↔ bom.",
+    "Dá para trocar por \"faz\"? Há. Se for futuro/distância, a.",
+    "Aonde = movimento (a + onde).",
+    "A fim de = finalidade; afim = semelhante.",
+    "Hífen: mesma vogal = hífen; vogal diferente = junto; R/S = dobra.",
+    "Ex-, vice-, sota-: sempre hífen."
+   ],
+   "pegadinhas": [
+    "\"Não sei porque ele saiu\": deveria ser \"por que\" (pergunta indireta).",
+    "\"O mal funcionamento\": o correto é \"mau funcionamento\" (oposto de bom).",
+    "\"Daqui há dois dias\": futuro pede \"a\".",
+    "\"Estudou afim de passar\": finalidade pede \"a fim de\".",
+    "\"Aonde você mora?\": sem movimento, deve ser \"onde\".",
+    "\"Microondas\", \"anti-rábico\", \"auto-estrada\": formas incorretas pós-Acordo.",
+    "\"Se não\" x \"senão\": condição x caso contrário."
+   ],
+   "flashcards": [
+    {
+     "q": "Porque, por que, porquê, por quê: quando usar cada um?",
+     "a": "Porque (conjunção); por que (pergunta); porquê (substantivo); por quê (final de frase)."
+    },
+    {
+     "q": "Mal x mau?",
+     "a": "Mal = oposto de bem; mau = oposto de bom."
+    },
+    {
+     "q": "A x há?",
+     "a": "Há = verbo haver (tempo passado); a = futuro/distância."
+    },
+    {
+     "q": "Afim x a fim?",
+     "a": "Afim = semelhante; a fim de = finalidade."
+    },
+    {
+     "q": "Onde x aonde?",
+     "a": "Onde = lugar sem movimento; aonde = movimento (a + onde)."
+    },
+    {
+     "q": "Senão x se não?",
+     "a": "Senão = caso contrário/exceto; se não = condição."
+    },
+    {
+     "q": "Ao invés de x em vez de?",
+     "a": "Ao invés = oposição; em vez de = substituição."
+    },
+    {
+     "q": "Hífen: mesma vogal?",
+     "a": "Com hífen (micro-ondas)."
+    },
+    {
+     "q": "Hífen: prefixo + r/s?",
+     "a": "Dobra a letra e sem hífen (antirrábico, ultrassom)."
+    },
+    {
+     "q": "Hífen com ex-, vice-?",
+     "a": "Sempre (ex-prefeito, vice-presidente)."
+    },
+    {
+     "q": "Ao encontro de x de encontro a?",
+     "a": "Favorável a; contrário a."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "portugues-pontuacao-q01",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que o emprego da vírgula está INCORRETO.",
+   "alternativas": {
+    "A": "\"Os candidatos aprovados no concurso, receberam a convocação.\"",
+    "B": "\"Caruaru, 29 de novembro de 2026.\"",
+    "C": "\"Maria, venha cá.\"",
+    "D": "\"Ele estudou muito, mas não passou.\""
+   },
+   "gabarito": "A",
+   "explicacao": "A vírgula separa o sujeito (\"Os candidatos aprovados no concurso\") do verbo (\"receberam\"): erro. As demais são datas/local, vocativo e conjunção adversativa."
+  },
+  {
+   "id": "portugues-pontuacao-q02",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 2,
+   "enunciado": "Compare: (I) \"Os servidores que chegaram atrasados foram advertidos.\" (II) \"Os servidores, que chegaram atrasados, foram advertidos.\" Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "Em (I) todos os servidores foram advertidos; em (II) só os atrasados.",
+    "B": "As duas frases têm exatamente o mesmo sentido.",
+    "C": "Em (I) só os servidores atrasados foram advertidos; em (II) todos os servidores chegaram atrasados e foram advertidos.",
+    "D": "Em (II) a oração é restritiva; em (I), explicativa."
+   },
+   "gabarito": "C",
+   "explicacao": "Sem vírgula, a oração adjetiva é restritiva (limita o grupo); entre vírgulas, é explicativa (vale para todo o grupo)."
+  },
+  {
+   "id": "portugues-pontuacao-q03",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que a vírgula foi usada para isolar um APOSTO.",
+   "alternativas": {
+    "A": "\"Chegou cedo, mas saiu tarde.\"",
+    "B": "\"Caruaru, cidade do agreste, recebeu o evento.\"",
+    "C": "\"Maria, venha cá.\"",
+    "D": "\"Se chover, cancelaremos o evento.\""
+   },
+   "gabarito": "B",
+   "explicacao": "\"Cidade do agreste\" explica \"Caruaru\": aposto. As demais vírgulas isolam conjunção adversativa, vocativo e oração adverbial antecipada."
+  },
+  {
+   "id": "portugues-pontuacao-q04",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que há ERRO de pontuação.",
+   "alternativas": {
+    "A": "\"O gerente informou que, depois do feriado, o prazo terminou.\"",
+    "B": "\"Choveu muito; por isso, o evento foi adiado.\"",
+    "C": "\"Ele comprou pão, leite, café e açúcar.\"",
+    "D": "\"O gerente informou, que o prazo terminou.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Não se separa verbo (\"informou\") de seu complemento (oração objetiva direta). As demais estão corretas."
+  },
+  {
+   "id": "portugues-pontuacao-q05",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o emprego dos dois-pontos está adequado.",
+   "alternativas": {
+    "A": "\"Trouxe três itens: caneta, lápis e borracha.\"",
+    "B": "\"Ele disse: que viria.\"",
+    "C": "\"Compramos três itens, caneta: lápis e borracha.\"",
+    "D": "\"Trouxe três itens caneta, lápis: e borracha.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Os dois-pontos anunciam enumeração depois de termo que a resume (\"três itens\"). Não se usam antes de \"que\" integrante nem no meio da enumeração."
+  },
+  {
+   "id": "portugues-pontuacao-q06",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que a vírgula antes de \"e\" está INADEQUADA.",
+   "alternativas": {
+    "A": "\"O prefeito falou, e o povo aplaudiu.\"",
+    "B": "\"Chorou, e chorou, e chorou.\"",
+    "C": "\"Os alunos, e os professores chegaram atrasados.\"",
+    "D": "\"Estudou muito e passou.\""
+   },
+   "gabarito": "C",
+   "explicacao": "A vírgula separa partes de um mesmo sujeito composto (alunos e professores): erro. Nas demais, sujeitos diferentes, polissíndeto e ausência de vírgula são aceitáveis."
+  },
+  {
+   "id": "portugues-pontuacao-q07",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 3,
+   "enunciado": "Em \"Eu queria dizer, mas...\", as reticências indicam",
+   "alternativas": {
+    "A": "interrupção ou hesitação do pensamento.",
+    "B": "citação literal de outro texto.",
+    "C": "enumeração de itens.",
+    "D": "ênfase irônica obrigatória."
+   },
+   "gabarito": "A",
+   "explicacao": "Reticências sinalizam ideia interrompida, suspense ou hesitação."
+  },
+  {
+   "id": "portugues-pontuacao-q08",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que a vírgula é obrigatória e está corretamente empregada.",
+   "alternativas": {
+    "A": "\"Os trabalhadores, voltaram para casa quando o sol se pôs.\"",
+    "B": "\"Quando o sol se pôs, os trabalhadores voltaram para casa.\"",
+    "C": "\"O prefeito afirmou, que a obra termina.\"",
+    "D": "\"A obra, de grande porte terminou.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Oração adverbial antecipada exige vírgula. As demais separam sujeito/verbo, verbo/complemento e deixam o termo intercalado com apenas uma vírgula."
+  },
+  {
+   "id": "portugues-recursos-graficos-q01",
+   "topico": "portugues-recursos-graficos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Aquele 'especialista' nunca leu o edital\", as aspas indicam",
+   "alternativas": {
+    "A": "citação literal.",
+    "B": "título de obra.",
+    "C": "estrangeirismo.",
+    "D": "ironia."
+   },
+   "gabarito": "D",
+   "explicacao": "O contexto (o \"especialista\" que nunca leu) revela ironia."
+  },
+  {
+   "id": "portugues-recursos-graficos-q02",
+   "topico": "portugues-recursos-graficos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto aos recursos gráficos.",
+   "alternativas": {
+    "A": "As aspas podem destacar citações, estrangeirismos e ironia.",
+    "B": "O travessão pode marcar a fala das personagens em diálogos.",
+    "C": "O itálico é utilizado exclusivamente para indicar ironia.",
+    "D": "Os parênteses isolam informações acessórias."
+   },
+   "gabarito": "C",
+   "explicacao": "O itálico também marca estrangeirismos, títulos e ênfase; não é exclusivo da ironia."
+  },
+  {
+   "id": "portugues-recursos-graficos-q03",
+   "topico": "portugues-recursos-graficos",
+   "dificuldade": 3,
+   "enunciado": "A inclusão de gráficos e tabelas em um texto expositivo tem por função principal",
+   "alternativas": {
+    "A": "substituir totalmente o texto verbal.",
+    "B": "apenas decorar a página.",
+    "C": "indicar a opinião do autor.",
+    "D": "sintetizar e complementar as informações apresentadas verbalmente."
+   },
+   "gabarito": "D",
+   "explicacao": "Gráficos e tabelas organizam dados e complementam o texto; não o substituem nem servem só de adorno."
+  },
+  {
+   "id": "portugues-periodo-simples-q01",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 2,
+   "enunciado": "Em \"Aprovaram o projeto na Câmara\", o sujeito é",
+   "alternativas": {
+    "A": "oculto.",
+    "B": "indeterminado.",
+    "C": "simples.",
+    "D": "inexistente."
+   },
+   "gabarito": "B",
+   "explicacao": "Verbo na 3ª pessoa do plural sem referente: sujeito indeterminado."
+  },
+  {
+   "id": "portugues-periodo-simples-q02",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 2,
+   "enunciado": "Em \"Choveu muito ontem\", a oração é",
+   "alternativas": {
+    "A": "de sujeito oculto.",
+    "B": "de sujeito indeterminado.",
+    "C": "sem sujeito (verbo impessoal, fenômeno da natureza).",
+    "D": "de sujeito simples (\"muito\")."
+   },
+   "gabarito": "C",
+   "explicacao": "Verbos de fenômenos da natureza são impessoais; \"ontem\" é adjunto adverbial."
+  },
+  {
+   "id": "portugues-periodo-simples-q03",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 2,
+   "enunciado": "Em \"Os candidatos chegaram cansados\", o termo \"cansados\" exerce a função de",
+   "alternativas": {
+    "A": "predicativo do sujeito.",
+    "B": "adjunto adverbial de modo.",
+    "C": "objeto direto.",
+    "D": "adjunto adnominal."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Cansados\" atribui característica ao sujeito (Os candidatos): predicativo do sujeito, com predicado verbo-nominal."
+  },
+  {
+   "id": "portugues-periodo-simples-q04",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 2,
+   "enunciado": "Em \"O fiscal entregou o auto ao contribuinte\", os termos \"o auto\" e \"ao contribuinte\" são, respectivamente,",
+   "alternativas": {
+    "A": "objeto indireto e objeto direto.",
+    "B": "adjunto adnominal e agente da passiva.",
+    "C": "objeto direto e objeto indireto.",
+    "D": "complemento nominal e adjunto adverbial."
+   },
+   "gabarito": "C",
+   "explicacao": "Entregou (o quê? \"o auto\" = OD, sem preposição; a quem? \"ao contribuinte\" = OI, com preposição)."
+  },
+  {
+   "id": "portugues-periodo-simples-q05",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que o termo destacado é COMPLEMENTO NOMINAL.",
+   "alternativas": {
+    "A": "\"O desejo DE VITÓRIA movia o time.\"",
+    "B": "\"A casa DE MADEIRA era grande.\"",
+    "C": "\"Chegou o carro DO PREFEITO.\"",
+    "D": "\"A voz DO POVO é forte.\""
+   },
+   "gabarito": "A",
+   "explicacao": "\"Vitória\" é paciente de \"desejo\" (nome transitivo): complemento nominal. As demais são adjuntos adnominais (matéria, posse, agente)."
+  },
+  {
+   "id": "portugues-periodo-simples-q06",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 2,
+   "enunciado": "Em \"O relatório foi elaborado pela equipe técnica\", a expressão \"pela equipe técnica\" é",
+   "alternativas": {
+    "A": "objeto indireto.",
+    "B": "adjunto adnominal.",
+    "C": "complemento nominal.",
+    "D": "agente da passiva."
+   },
+   "gabarito": "D",
+   "explicacao": "Na voz passiva, quem pratica a ação é o agente da passiva."
+  },
+  {
+   "id": "portugues-periodo-simples-q07",
+   "topico": "portugues-periodo-simples",
+   "dificuldade": 3,
+   "enunciado": "Em \"Dr. Paulo, secretário de Finanças, assinou o contrato\", a expressão \"secretário de Finanças\" é",
+   "alternativas": {
+    "A": "vocativo.",
+    "B": "aposto.",
+    "C": "predicativo do sujeito.",
+    "D": "adjunto adverbial."
+   },
+   "gabarito": "B",
+   "explicacao": "Explica e especifica o termo \"Dr. Paulo\": aposto, isolado por vírgulas."
+  },
+  {
+   "id": "portugues-periodo-composto-q01",
+   "topico": "portugues-periodo-composto",
+   "dificuldade": 2,
+   "enunciado": "Em \"Espero que você venha\", a oração destacada é subordinada",
+   "alternativas": {
+    "A": "substantiva subjetiva.",
+    "B": "adjetiva restritiva.",
+    "C": "adverbial final.",
+    "D": "substantiva objetiva direta."
+   },
+   "gabarito": "D",
+   "explicacao": "\"Espero isso\": a oração completa o verbo \"esperar\" sem preposição."
+  },
+  {
+   "id": "portugues-periodo-composto-q02",
+   "topico": "portugues-periodo-composto",
+   "dificuldade": 2,
+   "enunciado": "Em \"Os alunos que estudaram foram aprovados\", a oração \"que estudaram\" é subordinada",
+   "alternativas": {
+    "A": "adjetiva explicativa.",
+    "B": "adjetiva restritiva.",
+    "C": "substantiva objetiva direta.",
+    "D": "adverbial causal."
+   },
+   "gabarito": "B",
+   "explicacao": "Introduzida por pronome relativo e sem vírgula: restringe o grupo de alunos."
+  },
+  {
+   "id": "portugues-periodo-composto-q03",
+   "topico": "portugues-periodo-composto",
+   "dificuldade": 2,
+   "enunciado": "Em \"Ao chegar ao escritório, ligou para o chefe\", a oração em destaque é",
+   "alternativas": {
+    "A": "subordinada substantiva subjetiva.",
+    "B": "coordenada sindética conclusiva.",
+    "C": "subordinada adverbial temporal reduzida de infinitivo.",
+    "D": "subordinada adjetiva explicativa."
+   },
+   "gabarito": "C",
+   "explicacao": "\"Ao chegar\" = \"Quando chegou\": circunstância de tempo, com verbo no infinitivo e sem conectivo."
+  },
+  {
+   "id": "portugues-periodo-composto-q04",
+   "topico": "portugues-periodo-composto",
+   "dificuldade": 2,
+   "enunciado": "Em \"Saia agora, pois o prazo termina em instantes\", a oração introduzida por \"pois\" é",
+   "alternativas": {
+    "A": "coordenada sindética explicativa.",
+    "B": "coordenada sindética conclusiva.",
+    "C": "subordinada adverbial concessiva.",
+    "D": "subordinada substantiva objetiva direta."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Pois\" depois de vírgula, no início da oração, justifica a ordem anterior: explicativa."
+  },
+  {
+   "id": "portugues-periodo-composto-q05",
+   "topico": "portugues-periodo-composto",
+   "dificuldade": 2,
+   "enunciado": "Em \"É importante que todos participem\", a oração \"que todos participem\" é subordinada",
+   "alternativas": {
+    "A": "substantiva subjetiva.",
+    "B": "substantiva objetiva direta.",
+    "C": "adjetiva restritiva.",
+    "D": "adverbial consecutiva."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Isso é importante\": a oração é o sujeito de \"é\"."
+  },
+  {
+   "id": "portugues-periodo-composto-q06",
+   "topico": "portugues-periodo-composto",
+   "dificuldade": 3,
+   "enunciado": "Em \"Tenho a certeza de que você será aprovado\", a oração subordinada é",
+   "alternativas": {
+    "A": "substantiva objetiva indireta.",
+    "B": "adjetiva explicativa.",
+    "C": "substantiva completiva nominal.",
+    "D": "adverbial causal."
+   },
+   "gabarito": "C",
+   "explicacao": "Completa o sentido do substantivo \"certeza\" (complemento nominal): completiva nominal."
+  },
+  {
+   "id": "portugues-crase-q01",
+   "topico": "portugues-crase",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que o emprego da crase está CORRETO.",
+   "alternativas": {
+    "A": "\"Fui à pé até a Prefeitura.\"",
+    "B": "\"Fui à Prefeitura entregar o documento.\"",
+    "C": "\"Entreguei o documento à ele.\"",
+    "D": "\"Começou à chover durante a reunião.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Fui à Prefeitura (volto da Prefeitura): crase. \"A pé\" é masculino; \"a ele\" é pronome pessoal; antes de verbo não há crase."
+  },
+  {
+   "id": "portugues-crase-q02",
+   "topico": "portugues-crase",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o acento grave está empregado INCORRETAMENTE.",
+   "alternativas": {
+    "A": "\"Voltarei à Roma dos césares.\"",
+    "B": "\"Cheguei às oito horas.\"",
+    "C": "\"Refiro-me àquele processo.\"",
+    "D": "\"Vou à Roma no próximo mês.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Cidade sem determinante não admite artigo (volto de Roma): \"vou a Roma\". Com adjunto (\"dos césares\") há crase."
+  },
+  {
+   "id": "portugues-crase-q03",
+   "topico": "portugues-crase",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o emprego da crase está correto.",
+   "alternativas": {
+    "A": "\"Começou à partir das 14 horas.\"",
+    "B": "\"A reunião começou às 14 horas.\"",
+    "C": "\"Respondeu à todos os e-mails.\"",
+    "D": "\"Ficamos frente à frente com o chefe.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Horas pedem crase. \"A partir\", \"a todos\" (indefinido) e \"frente a frente\" (palavras repetidas) não levam."
+  },
+  {
+   "id": "portugues-crase-q04",
+   "topico": "portugues-crase",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o uso da crase é FACULTATIVO.",
+   "alternativas": {
+    "A": "\"Entreguei o livro à minha irmã.\"",
+    "B": "\"Fui à escola.\"",
+    "C": "\"Refiro-me àquela situação.\"",
+    "D": "\"Chegamos às pressas.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Diante de possessivo feminino singular a crase é facultativa. As outras são obrigatórias."
+  },
+  {
+   "id": "portugues-crase-q05",
+   "topico": "portugues-crase",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o acento grave está empregado INCORRETAMENTE.",
+   "alternativas": {
+    "A": "\"Pediu àquela moça que esperasse.\"",
+    "B": "\"Entregou o relatório à Secretaria.\"",
+    "C": "\"Chegou à noite.\"",
+    "D": "\"Pediu à ele que esperasse.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Não há crase antes de pronome pessoal (a ele). As demais estão corretas."
+  },
+  {
+   "id": "portugues-crase-q06",
+   "topico": "portugues-crase",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que a crase está empregada de forma obrigatória em locução conjuntiva.",
+   "alternativas": {
+    "A": "\"Compramos o carro à prazo.\"",
+    "B": "\"Distribuímos convites à todos.\"",
+    "C": "\"À medida que o prazo se aproximava, crescia a ansiedade.\"",
+    "D": "\"Saímos à pé.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"À medida que\" é locução conjuntiva feminina (crase obrigatória). As demais envolvem palavra masculina ou pronome indefinido."
+  },
+  {
+   "id": "portugues-crase-q07",
+   "topico": "portugues-crase",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que o emprego (ou não) da crase está CORRETO.",
+   "alternativas": {
+    "A": "\"Cheguei à casa antes das seis.\"",
+    "B": "\"Cheguei a casa antes das seis.\"",
+    "C": "\"Dirigiu-se à Brasília.\"",
+    "D": "\"Vou à Fortaleza amanhã.\""
+   },
+   "gabarito": "B",
+   "explicacao": "\"Casa\" sem determinante não admite artigo; nomes de cidades sem adjunto (Brasília, Fortaleza) também não."
+  },
+  {
+   "id": "portugues-crase-q08",
+   "topico": "portugues-crase",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que o emprego da crase está correto.",
+   "alternativas": {
+    "A": "\"A empresa à quem enviei o ofício respondeu.\"",
+    "B": "\"Entreguei o ofício à uma colega.\"",
+    "C": "\"A empresa à qual enviei o ofício respondeu.\"",
+    "D": "\"Refiro-me à esta situação.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"À qual\" = a + a qual (crase obrigatória). \"Quem\", \"uma\" e \"esta\" não admitem crase."
+  },
+  {
+   "id": "portugues-ortografia-q01",
+   "topico": "portugues-ortografia",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa correta quanto ao emprego de \"porque/por que/porquê/por quê\".",
+   "alternativas": {
+    "A": "\"Não sei por que o prazo foi prorrogado.\"",
+    "B": "\"Não sei porque o prazo foi prorrogado.\"",
+    "C": "\"O por que do atraso é desconhecido.\"",
+    "D": "\"Por quê o prazo foi prorrogado?\""
+   },
+   "gabarito": "A",
+   "explicacao": "Pergunta indireta: \"por que\". Substantivo: \"o porquê\". \"Por quê\" só no final da frase."
+  },
+  {
+   "id": "portugues-ortografia-q02",
+   "topico": "portugues-ortografia",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "\"O mal funcionamento do sistema causou o mau-estar.\"",
+    "B": "\"O mau funcionamento do sistema causou o mau estar.\"",
+    "C": "\"O mal funcionamento do sistema causou o mal-estar.\"",
+    "D": "\"O mau funcionamento do sistema causou o mal-estar.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Mau (oposto de bom) funcionamento; mal-estar (substantivo, com hífen)."
+  },
+  {
+   "id": "portugues-ortografia-q03",
+   "topico": "portugues-ortografia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto ao emprego de \"a\" e \"há\".",
+   "alternativas": {
+    "A": "\"O concurso será daqui a três meses; o último foi há dois anos.\"",
+    "B": "\"O concurso será daqui há três meses; o último foi há dois anos.\"",
+    "C": "\"O concurso será daqui a três meses; o último foi a dois anos.\"",
+    "D": "\"O concurso será daqui há três meses; o último foi a dois anos.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Futuro pede \"a\"; passado (\"faz dois anos\") pede \"há\"."
+  },
+  {
+   "id": "portugues-ortografia-q04",
+   "topico": "portugues-ortografia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "\"Estudou afim de passar no concurso.\"",
+    "B": "\"Estudou a fim de passar no concurso.\"",
+    "C": "\"Estudou à fim de passar no concurso.\"",
+    "D": "\"Estudou há fim de passar no concurso.\""
+   },
+   "gabarito": "B",
+   "explicacao": "A locução \"a fim de\" indica finalidade. \"Afim\" significa semelhante."
+  },
+  {
+   "id": "portugues-ortografia-q05",
+   "topico": "portugues-ortografia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto a \"onde/aonde\".",
+   "alternativas": {
+    "A": "\"Aonde você mora?\"",
+    "B": "\"Onde você vai depois da reunião?\"",
+    "C": "\"Aonde você nasceu?\"",
+    "D": "\"Aonde você vai depois da reunião?\""
+   },
+   "gabarito": "D",
+   "explicacao": "Aonde indica movimento (ir a algum lugar); morar e nascer indicam lugar estático (onde)."
+  },
+  {
+   "id": "portugues-ortografia-q06",
+   "topico": "portugues-ortografia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que TODAS as palavras estão de acordo com o Novo Acordo Ortográfico quanto ao hífen.",
+   "alternativas": {
+    "A": "microondas, antirrábico, autoestrada, ex-prefeito",
+    "B": "micro-ondas, anti-rábico, autoestrada, ex-prefeito",
+    "C": "micro-ondas, antirrábico, autoestrada, ex-prefeito",
+    "D": "micro-ondas, antirrábico, auto-estrada, ex prefeito"
+   },
+   "gabarito": "C",
+   "explicacao": "Mesma vogal: micro-ondas; r dobrado: antirrábico; vogais diferentes: autoestrada; ex- sempre com hífen: ex-prefeito."
+  },
+  {
+   "id": "portugues-ortografia-q07",
+   "topico": "portugues-ortografia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que TODAS as palavras estão corretamente grafadas.",
+   "alternativas": {
+    "A": "excessão, pretensão, analisar, obsessão",
+    "B": "exceção, pretensão, analisar, obsessão",
+    "C": "exceção, pretenção, analisar, obsessão",
+    "D": "exceção, pretensão, analizar, obsessão"
+   },
+   "gabarito": "B",
+   "explicacao": "Exceção (c), pretensão (de pretender), analisar (radical análise) e obsessão estão corretas."
+  },
+  {
+   "id": "portugues-ortografia-q08",
+   "topico": "portugues-ortografia",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa correta quanto a \"senão/se não\".",
+   "alternativas": {
+    "A": "\"Não fez nada se não reclamar.\"",
+    "B": "\"Senão chover, iremos ao evento.\"",
+    "C": "\"Não fez nada senão reclamar.\"",
+    "D": "\"Faça o trabalho, se não será demitido.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"Senão\" = exceto/caso contrário. Condição pede \"se não\" (Se não chover); \"caso contrário\" pede \"senão\"."
+  },
+  {
+   "id": "portugues-concordancia-q01",
+   "topico": "portugues-concordancia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto à concordância verbal.",
+   "alternativas": {
+    "A": "\"Existe muitas dúvidas sobre o edital.\"",
+    "B": "\"Fazem dois anos que não há concurso.\"",
+    "C": "\"Haviam muitas pessoas na fila.\"",
+    "D": "\"Existem muitas dúvidas sobre o edital.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Existir é pessoal (concorda com \"dúvidas\"); fazer (tempo) e haver (existir) são impessoais (singular)."
+  },
+  {
+   "id": "portugues-concordancia-q02",
+   "topico": "portugues-concordancia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "\"Eu e meus colegas fomos aprovados.\"",
+    "B": "\"Eu e meus colegas foram aprovados.\"",
+    "C": "\"Eu e meus colegas foi aprovado.\"",
+    "D": "\"Eu e meus colegas fui aprovado.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Sujeito composto que inclui a 1ª pessoa leva o verbo na 1ª pessoa do plural."
+  },
+  {
+   "id": "portugues-concordancia-q03",
+   "topico": "portugues-concordancia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto à concordância nominal.",
+   "alternativas": {
+    "A": "\"É proibida a entrada de pessoas estranhas.\"",
+    "B": "\"É proibido a entrada de pessoas estranhas.\"",
+    "C": "\"São proibido a entrada de pessoas estranhas.\"",
+    "D": "\"É proibidos a entrada de pessoas estranhas.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Com artigo determinado, \"proibido\" concorda com o substantivo (proibida a entrada). Sem artigo, \"É proibido entrada\" fica invariável."
+  },
+  {
+   "id": "portugues-concordancia-q04",
+   "topico": "portugues-concordancia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "\"Seguem anexo as planilhas solicitadas.\"",
+    "B": "\"Seguem anexas as planilhas solicitadas.\"",
+    "C": "\"Segue anexas as planilhas solicitadas.\"",
+    "D": "\"Seguem em anexas as planilhas solicitadas.\""
+   },
+   "gabarito": "B",
+   "explicacao": "\"Anexo\" é adjetivo e concorda com o substantivo: \"anexas\". \"Em anexo\" é locução invariável."
+  },
+  {
+   "id": "portugues-concordancia-q05",
+   "topico": "portugues-concordancia",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa INCORRETA quanto à concordância com o pronome \"se\".",
+   "alternativas": {
+    "A": "\"Vendem-se casas e apartamentos.\"",
+    "B": "\"Precisa-se de funcionários.\"",
+    "C": "\"Vende-se casas e apartamentos.\"",
+    "D": "\"Trata-se de assuntos urgentes.\""
+   },
+   "gabarito": "C",
+   "explicacao": "Com VTD + se (apassivadora), o verbo concorda com o sujeito: \"Vendem-se\". Com VTI + se (indeterminação), fica no singular."
+  },
+  {
+   "id": "portugues-relativos-q01",
+   "topico": "portugues-relativos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto ao emprego do pronome relativo.",
+   "alternativas": {
+    "A": "\"O livro que preciso está na mesa.\"",
+    "B": "\"O livro o qual preciso está na mesa.\"",
+    "C": "\"O livro cujo preciso está na mesa.\"",
+    "D": "\"O livro de que preciso está na mesa.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Precisar pede \"de\": o pronome relativo deve vir com a preposição (de que)."
+  },
+  {
+   "id": "portugues-relativos-q02",
+   "topico": "portugues-relativos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "\"O cargo que aspiro é o de analista.\"",
+    "B": "\"O cargo a que aspiro é o de analista.\"",
+    "C": "\"O cargo o qual aspiro é o de analista.\"",
+    "D": "\"O cargo cujo aspiro é o de analista.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Aspirar (desejar) pede \"a\": a que aspiro."
+  },
+  {
+   "id": "portugues-relativos-q03",
+   "topico": "portugues-relativos",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa correta quanto ao emprego de \"cujo\".",
+   "alternativas": {
+    "A": "\"O servidor cujo o carro foi roubado compareceu.\"",
+    "B": "\"O servidor que o carro foi roubado compareceu.\"",
+    "C": "\"O servidor cujo carro foi roubado compareceu.\"",
+    "D": "\"O servidor do qual o carro dele foi roubado compareceu.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"Cujo\" indica posse, concorda com o termo seguinte e não admite artigo depois. A forma com \"dele\" é pleonástica e inadequada."
+  },
+  {
+   "id": "portugues-relativos-q04",
+   "topico": "portugues-relativos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta.",
+   "alternativas": {
+    "A": "\"A cidade em que nasci é Caruaru.\"",
+    "B": "\"A cidade que nasci é Caruaru.\"",
+    "C": "\"A cidade a que nasci é Caruaru.\"",
+    "D": "\"A cidade de que nasci é Caruaru.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Nascer em lugar pede \"em\": em que (ou na qual / onde)."
+  }
+ ]
+}

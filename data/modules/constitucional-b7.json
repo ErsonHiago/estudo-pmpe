@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: estado de defesa, estado de sítio e Forças Armadas. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Defesa do Estado e das instituições democráticas: estado de defesa, estado de sítio e Forças Armadas (arts. 136 a 143)",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Sistema constitucional das crises\nO Título V da CF trata da **defesa do Estado e das instituições democráticas**: **estado de defesa**, **estado de sítio** (legalidade extraordinária), **Forças Armadas** e **segurança pública**. A intervenção federal (arts. 34 a 36) também é instrumento de defesa. As medidas excepcionais só podem ser tomadas pelo **Presidente da República**, que antes **ouve o Conselho da República e o Conselho de Defesa Nacional** (órgãos de consulta, cuja opinião **não vincula**).\n\n## Estado de defesa (art. 136) x estado de sítio (arts. 137 a 139)\n| | **Estado de defesa** | **Estado de sítio** |\n|---|---|---|\n| Finalidade | preservar ou **prontamente restabelecer**, em **locais restritos e determinados**, a **ordem pública ou a paz social** ameaçadas por **grave e iminente instabilidade institucional** ou atingidas por **calamidades de grandes proporções na natureza** | casos mais graves: **comoção grave de repercussão nacional** ou fatos que comprovem a **ineficácia** de medida tomada no estado de defesa; **declaração de estado de guerra ou resposta a agressão armada estrangeira** |\n| Quem decreta | **Presidente**, ouvidos os Conselhos | **Presidente**, ouvidos os Conselhos, **mas só após autorização do Congresso** |\n| Controle do Congresso | **posterior**: decreto vai ao CN em **24 horas**; CN decide por **maioria absoluta** em **10 dias**; se rejeitado, **cessa imediatamente** | **prévio**: Presidente solicita autorização; CN decide por **maioria absoluta** |\n| Duração | **até 30 dias**, prorrogável **uma vez** por igual período | **30 dias** (comoção/ineficácia), prorrogável de cada vez por prazo não superior; na **guerra ou agressão**, **todo o tempo** que perdurar |\n| Recesso | CN convocado extraordinariamente em **5 dias** | CN convocado pelo Presidente do Senado em **5 dias** |\nO Congresso **funciona** enquanto durar a medida; a **Mesa** designa uma **Comissão de 5 membros** para acompanhar e fiscalizar (art. 140).\n\n### Medidas permitidas\n**Estado de defesa:** restrições aos direitos de **reunião** (mesmo no seio das associações), **sigilo de correspondência** e **sigilo de comunicação telegráfica e telefônica**; **ocupação e uso temporário de bens e serviços públicos** em calamidade (a União responde pelos danos).\n**Estado de sítio (art. 139, na hipótese do art. 137, I):** obrigação de **permanência em localidade determinada**; **detenção em edifício não destinado a acusados ou condenados por crimes comuns**; restrições à **inviolabilidade da correspondência, sigilo das comunicações, prestação de informações e liberdade de imprensa, radiodifusão e televisão**; suspensão da **liberdade de reunião**; **busca e apreensão em domicílio**; **intervenção em empresas de serviços públicos**; **requisição de bens**. Não se inclui a difusão de pronunciamentos de parlamentares nas Casas legislativas (liberada pela Mesa).\n\n### Prisão no estado de defesa (art. 136, §3º)\n- A prisão por crime contra o Estado é comunicada **imediatamente ao juiz**, que a **relaxa** se ilegal.\n- A comunicação traz declaração do **estado físico e mental** do detido; o preso pode requerer **exame de corpo de delito**.\n- Prisão ou detenção **não superior a 10 dias**, salvo autorização judicial.\n- **Vedada a incomunicabilidade** do preso.\n\n### Cessação e responsabilidade (art. 141)\nCessado o estado, cessam seus efeitos, **sem prejuízo da responsabilidade** pelos ilícitos dos executores. O Presidente relata ao Congresso, em mensagem, as medidas aplicadas, com **relação nominal dos atingidos**. A Constituição **não pode ser emendada** durante intervenção, estado de defesa ou estado de sítio (art. 60, §1º). Imunidades parlamentares só podem ser suspensas durante o sítio por **2/3** da Casa, para atos praticados **fora do recinto** incompatíveis com a medida (art. 53, §8º).\n\n## Forças Armadas (arts. 142 e 143)\n- **Marinha, Exército e Aeronáutica**: **instituições nacionais permanentes e regulares**, organizadas com base na **hierarquia e disciplina**, sob a **autoridade suprema do Presidente da República**.\n- **Destinação:** **defesa da Pátria**, **garantia dos poderes constitucionais** e, por iniciativa de qualquer destes, da **lei e da ordem** (GLO).\n- **Lei complementar** fixa normas gerais de organização, preparo e emprego (**LC 97/1999**). **Não cabe habeas corpus** contra punições disciplinares militares (§2º).\n- Os membros são **militares**; regras do art. 142, §3º (patentes, vedação de greve, sindicalização e filiação partidária etc.).\n- **Serviço militar obrigatório** (art. 143), com **serviço alternativo** para quem alegar **imperativo de consciência**; **mulheres e eclesiásticos** são **isentos em tempo de paz**.",
+   "dicas": [
+    "Defesa: 30 dias + 30, controle posterior (24 h para submeter, 10 dias para o Congresso decidir). Sítio: autorização PRÉVIA.",
+    "Defesa = locais restritos; Sítio = amplitude maior (comoção nacional, guerra).",
+    "Conselho da República e de Defesa são ouvidos, mas não vinculam.",
+    "Prisão no estado de defesa: máximo 10 dias sem ordem judicial, sem incomunicabilidade.",
+    "Forças Armadas: defesa da Pátria, poderes constitucionais, lei e ordem (por iniciativa de qualquer dos Poderes)."
+   ],
+   "pegadinhas": [
+    "Dizer que o estado de defesa precisa de autorização prévia do Congresso: o controle é posterior (24h para submeter).",
+    "Dizer que o estado de defesa é decretado para guerra ou comoção nacional: guerra e comoção nacional são hipóteses do sítio.",
+    "Afirmar que o Presidente fica vinculado ao parecer dos Conselhos: são consultivos.",
+    "Permitir a incomunicabilidade do preso no estado de defesa: é vedada.",
+    "Dizer que as Forças Armadas atuam na lei e na ordem por iniciativa exclusiva do Presidente: é por iniciativa de qualquer dos Poderes.",
+    "Atribuir ao estado de defesa a busca domiciliar e a liberdade de imprensa: essas restrições são do sítio."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual a duração máxima inicial do estado de defesa?",
+     "a": "30 dias, prorrogável uma vez por igual período."
+    },
+    {
+     "q": "O Congresso aprova o estado de defesa antes ou depois do decreto?",
+     "a": "Depois: o decreto é submetido em 24 horas; decide por maioria absoluta em 10 dias."
+    },
+    {
+     "q": "E o estado de sítio?",
+     "a": "Precisa de autorização prévia do Congresso, por maioria absoluta."
+    },
+    {
+     "q": "Hipóteses do estado de sítio?",
+     "a": "Comoção grave de repercussão nacional ou ineficácia do estado de defesa; guerra ou agressão armada estrangeira."
+    },
+    {
+     "q": "Quais direitos podem ser restringidos no estado de defesa?",
+     "a": "Reunião, sigilo de correspondência e sigilo de comunicação telegráfica e telefônica."
+    },
+    {
+     "q": "Quais Conselhos o Presidente ouve antes de decretar?",
+     "a": "O da República e o de Defesa Nacional (opinião não vinculante)."
+    },
+    {
+     "q": "Quanto tempo pode durar a prisão no estado de defesa sem ordem judicial?",
+     "a": "Até 10 dias; é vedada a incomunicabilidade."
+    },
+    {
+     "q": "Quais as Forças Armadas?",
+     "a": "Marinha, Exército e Aeronáutica."
+    },
+    {
+     "q": "Destinação constitucional das Forças Armadas?",
+     "a": "Defesa da Pátria, garantia dos poderes constitucionais e, por iniciativa destes, da lei e da ordem."
+    },
+    {
+     "q": "Quem exerce a autoridade suprema sobre as Forças Armadas?",
+     "a": "O Presidente da República."
+    },
+    {
+     "q": "Cabe habeas corpus contra punição disciplinar militar?",
+     "a": "Não (art. 142, §2º)."
+    }
+   ],
+   "id": "const-b-t7"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t7-q01",
+   "topico": "const-b-t7",
+   "dificuldade": 1,
+   "enunciado": "O estado de defesa, decretado pelo Presidente da República, terá duração de",
+   "alternativas": {
+    "A": "até sessenta dias, prorrogáveis por tempo indeterminado.",
+    "B": "até quinze dias, improrrogáveis.",
+    "C": "no máximo trinta dias, podendo ser prorrogado uma vez por igual período, se persistirem as razões que justificaram a sua decretação.",
+    "D": "até noventa dias, prorrogáveis por mais sessenta.",
+    "E": "trinta dias, prorrogáveis sucessivamente enquanto durar a ameaça."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 136, §2º.",
+   "resolucao_md": "**O que a questão pede:** o prazo do estado de defesa.\n\n**Regra rápida:** 30 dias + uma prorrogação por igual período.\n\n**Passo a passo:**\n1. Descarte prazos de 15, 60 e 90 dias.\n2. Descarte prorrogação sucessiva.\n\n**Macete:** Defesa: 30 + 30."
+  },
+  {
+   "id": "const-b-t7-q02",
+   "topico": "const-b-t7",
+   "dificuldade": 2,
+   "enunciado": "Na vigência do estado de defesa, o decreto poderá determinar medidas coercitivas, entre as quais",
+   "alternativas": {
+    "A": "restrições à liberdade de imprensa, radiodifusão e televisão.",
+    "B": "busca e apreensão em domicílio, independentemente de ordem judicial.",
+    "C": "intervenção nas empresas de serviços públicos.",
+    "D": "restrições aos direitos de reunião, de sigilo de correspondência e de sigilo de comunicação telegráfica e telefônica.",
+    "E": "a incomunicabilidade do preso, quando necessária à investigação."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 136, §1º. Imprensa, busca domiciliar e intervenção em empresas são medidas do sítio (art. 139); a incomunicabilidade é vedada (art. 136, §3º, IV).",
+   "resolucao_md": "**O que a questão pede:** as medidas do estado de defesa.\n\n**Regra rápida:** Defesa: reunião, sigilo de correspondência e telefônico/telegráfico, e ocupação de bens públicos em calamidade.\n\n**Passo a passo:**\n1. Compare com o art. 139 (sítio).\n2. A, B e C só se aplicam ao sítio.\n3. E é vedada.\n\n**Pegadinha:** Misturar defesa e sítio.\n\n**Macete:** Defesa: reunião e sigilos."
+  },
+  {
+   "id": "const-b-t7-q03",
+   "topico": "const-b-t7",
+   "dificuldade": 2,
+   "enunciado": "Para decretar o estado de sítio, o Presidente da República, ouvidos o Conselho da República e o Conselho de Defesa Nacional, deve",
+   "alternativas": {
+    "A": "decretá-lo livremente, submetendo o ato ao Congresso em 24 horas.",
+    "B": "obter a aprovação de dois terços do Senado Federal.",
+    "C": "obter decisão do Supremo Tribunal Federal.",
+    "D": "seguir o parecer vinculante dos Conselhos.",
+    "E": "solicitar autorização ao Congresso Nacional, que decidirá por maioria absoluta."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 137, caput e parágrafo único.",
+   "resolucao_md": "**O que a questão pede:** o procedimento do estado de sítio.\n\n**Regra rápida:** Sítio: autorização PRÉVIA do Congresso (maioria absoluta); defesa: controle posterior.\n\n**Passo a passo:**\n1. A descreve o procedimento do estado de defesa.\n2. B, C: órgãos e quórum inventados.\n3. D: parecer dos Conselhos não vincula.\n\n**Pegadinha:** Confundir defesa e sítio.\n\n**Macete:** Sítio: autoriza antes."
+  },
+  {
+   "id": "const-b-t7-q04",
+   "topico": "const-b-t7",
+   "dificuldade": 2,
+   "enunciado": "Constitui hipótese de decretação do estado de sítio",
+   "alternativas": {
+    "A": "comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa.",
+    "B": "calamidades de grandes proporções na natureza em locais restritos e determinados.",
+    "C": "grave e iminente instabilidade institucional em locais restritos e determinados.",
+    "D": "greve geral de servidores públicos de um Estado.",
+    "E": "descumprimento de decisão judicial por um Município."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 137, I e II. Calamidade e instabilidade em locais restritos são hipóteses do estado de defesa; as demais não são hipóteses de sítio.",
+   "resolucao_md": "**O que a questão pede:** as hipóteses do sítio.\n\n**Regra rápida:** Sítio: (I) comoção nacional ou ineficácia da defesa; (II) estado de guerra ou agressão armada estrangeira.\n\n**Passo a passo:**\n1. B e C = estado de defesa.\n2. D e E: não constam.\n\n**Pegadinha:** Hipóteses do estado de defesa parecem as do sítio.\n\n**Macete:** Sítio = nacional ou guerra."
+  },
+  {
+   "id": "const-b-t7-q05",
+   "topico": "const-b-t7",
+   "dificuldade": 2,
+   "enunciado": "Sobre as Forças Armadas na Constituição Federal, é correto afirmar que são",
+   "alternativas": {
+    "A": "constituídas pela Marinha, pelo Exército, pela Aeronáutica e pela Polícia Federal.",
+    "B": "instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, destinadas à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.",
+    "C": "instituições temporárias, convocadas apenas em caso de guerra.",
+    "D": "destinadas exclusivamente à defesa externa, vedado seu emprego na garantia da lei e da ordem.",
+    "E": "subordinadas ao Governador do Estado onde estiverem sediadas."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 142, caput.",
+   "resolucao_md": "**O que a questão pede:** o conceito constitucional de Forças Armadas.\n\n**Regra rápida:** Marinha, Exército, Aeronáutica; permanentes e regulares; hierarquia e disciplina; autoridade suprema do Presidente.\n\n**Passo a passo:**\n1. A: a PF é órgão de segurança pública.\n2. C: são permanentes.\n3. D: a GLO é uma destinação.\n4. E: subordinadas ao Presidente.\n\n**Macete:** Três forças, Presidente comanda."
+  },
+  {
+   "id": "const-b-t7-q06",
+   "topico": "const-b-t7",
+   "dificuldade": 3,
+   "enunciado": "Quanto ao controle do Congresso Nacional sobre o estado de defesa, é correto afirmar que",
+   "alternativas": {
+    "A": "o decreto só produz efeitos após aprovação prévia do Congresso, por dois terços.",
+    "B": "o Congresso tem vinte e quatro horas para apreciar o decreto.",
+    "C": "o decreto será apreciado em até dez dias contados de seu recebimento, devendo o Congresso continuar funcionando enquanto vigorar o estado de defesa; rejeitado o decreto, cessa imediatamente o estado de defesa.",
+    "D": "estando o Congresso em recesso, será convocado extraordinariamente em quinze dias.",
+    "E": "o Presidente decreta sem necessidade de submeter o ato ao Congresso."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 136, §§4º a 7º.",
+   "resolucao_md": "**O que a questão pede:** o controle legislativo do estado de defesa.\n\n**Regra rápida:** 24 horas para o Presidente submeter; 10 dias para o Congresso decidir (maioria absoluta); convocação em 5 dias no recesso; rejeição = cessa.\n\n**Passo a passo:**\n1. A: o controle é posterior, e o quórum é maioria absoluta.\n2. B: 24 horas é o prazo do Presidente.\n3. D: o prazo é 5 dias.\n4. E: o decreto é submetido.\n\n**Pegadinha:** Trocar o prazo de submissão (24 h) pelo de apreciação (10 dias).\n\n**Macete:** 24 h submete, 10 dias decide."
+  },
+  {
+   "id": "const-b-t7-q07",
+   "topico": "const-b-t7",
+   "dificuldade": 2,
+   "enunciado": "Na vigência do estado de defesa, em relação à prisão por crime contra o Estado, é correto afirmar que",
+   "alternativas": {
+    "A": "a prisão poderá durar trinta dias, sem controle judicial.",
+    "B": "é permitida a incomunicabilidade do preso, a critério do executor da medida.",
+    "C": "a prisão é comunicada ao juiz competente apenas após cinco dias.",
+    "D": "a prisão ou detenção de qualquer pessoa não poderá ser superior a dez dias, salvo quando autorizada pelo Poder Judiciário, sendo vedada a incomunicabilidade do preso.",
+    "E": "não há necessidade de comunicação ao juiz nem de exame de corpo de delito."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 136, §3º.",
+   "resolucao_md": "**O que a questão pede:** as garantias do preso no estado de defesa.\n\n**Regra rápida:** Comunicação imediata ao juiz; declaração do estado físico e mental; máximo de 10 dias sem ordem judicial; sem incomunicabilidade.\n\n**Passo a passo:**\n1. A: o prazo é de 10 dias.\n2. B: a incomunicabilidade é vedada.\n3. C: a comunicação é imediata.\n4. E: há comunicação e direito ao exame.\n\n**Macete:** 10 dias e sem incomunicabilidade."
+  }
+ ]
+}

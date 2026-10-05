@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q021",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 2,
+   "enunciado": "Antes de atacar Pernambuco, a Companhia das Índias Ocidentais (WIC), criada em 1621, tentou ocupar",
+   "alternativas": {
+    "A": "Salvador, em 1624-1625.",
+    "B": "São Vicente, em 1534.",
+    "C": "Rio de Janeiro, em 1530.",
+    "D": "Belém, em 1616.",
+    "E": "Olinda, em 1500."
+   },
+   "gabarito": "A",
+   "explicacao": "Salvador.",
+   "resolucao_md": "**O que a questão pede**\nLembrar a tentativa anterior.\n\n**Conceito/Regra rápida**\nWIC (1621) → **Salvador (1624-25)** → **Pernambuco (1630)**.\n\n**Passo a passo**\n1. Pergunta de sequência: onde foi o primeiro ataque?\n2. As demais cidades/datas não correspondem.\n\n**Pegadinha**\nAchar que Pernambuco foi o primeiro alvo.\n\n**Macete**\nSalvador antes de Recife.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q022",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta os fatos na ORDEM CRONOLÓGICA correta.",
+   "alternativas": {
+    "A": "Chegada de Nassau; invasão de 1630; execução de Calabar; saída de Nassau.",
+    "B": "Invasão de 1630; execução de Calabar; chegada de Nassau; saída de Nassau.",
+    "C": "Execução de Calabar; invasão de 1630; saída de Nassau; chegada de Nassau.",
+    "D": "Invasão de 1630; chegada de Nassau; execução de Calabar; saída de Nassau.",
+    "E": "Saída de Nassau; chegada de Nassau; invasão de 1630; execução de Calabar."
+   },
+   "gabarito": "B",
+   "explicacao": "A ordem é 1630, 1635, 1637, 1644.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar eventos do período holandês.\n\n**Conceito/Regra rápida**\n**1630** invasão → **1635** Calabar executado → **1637** Nassau chega → **1644** Nassau sai.\n\n**Passo a passo**\n1. Marque as datas.\n2. Calabar (1635) é antes de Nassau (1637).\n3. Só a primeira sequência da lista de combinações respeita isso.\n\n**Pegadinha**\nColocar Nassau antes de Calabar.\n\n**Macete**\n30 → 35 → 37 → 44.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q023",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 2,
+   "enunciado": "Domingos Fernandes Calabar é lembrado porque",
+   "alternativas": {
+    "A": "comandou o Arraial do Bom Jesus contra os holandeses.",
+    "B": "foi governador da Nova Holanda de 1637 a 1644.",
+    "C": "passou para o lado holandês em 1632, ajudou nas vitórias dos invasores e foi executado em 1635.",
+    "D": "liderou o Terço dos Henriques na Insurreição.",
+    "E": "foi o chefe potiguara aliado dos portugueses."
+   },
+   "gabarito": "C",
+   "explicacao": "Calabar ajudou os holandeses.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem e fato.\n\n**Conceito/Regra rápida**\nCalabar: mestiço, conhecia o terreno, trocou de lado e foi **executado em 1635**. **Matias de Albuquerque** organizou o Arraial.\n\n**Passo a passo**\n1. Calabar = traidor (para os portugueses).\n2. Elimine A (Nassau), B (Henrique Dias), D (Felipe Camarão) e C (Matias de Albuquerque).\n\n**Pegadinha**\nConfundir Calabar com Matias de Albuquerque.\n\n**Macete**\nCalabar mudou de lado.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q024",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre o governo de Maurício de Nassau (1637-1644).",
+   "alternativas": {
+    "A": "Fundou a Cidade Maurícia, com pontes, canais e palácios.",
+    "B": "Trouxe artistas como Frans Post e Albert Eckhout.",
+    "C": "Trouxe cientistas como Willem Piso e Georg Marcgrave.",
+    "D": "Proibiu qualquer culto que não fosse o calvinista e perseguiu católicos e judeus.",
+    "E": "Governou a Nova Holanda a partir de 1637."
+   },
+   "gabarito": "D",
+   "explicacao": "A incorreta é D.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nNassau promoveu **tolerância religiosa** (católicos e judeus); a sinagoga do Recife é do período holandês.\n\n**Passo a passo**\n1. Perceba o tom: «proibiu», «perseguiu» destoa da imagem do governo.\n2. A, B, C, E estão corretas.\n\n**Pegadinha**\nAssociar o domínio holandês a perseguição religiosa durante Nassau.\n\n**Macete**\nNassau = tolerância, ciência e arte.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q025",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 2,
+   "enunciado": "Frans Post e Albert Eckhout, que acompanharam Maurício de Nassau, ficaram conhecidos, respectivamente, como",
+   "alternativas": {
+    "A": "médico e astrônomo.",
+    "B": "arquiteto e engenheiro naval.",
+    "C": "governador e almirante.",
+    "D": "cronista e bispo.",
+    "E": "paisagista e retratista/pintor de naturezas-mortas."
+   },
+   "gabarito": "E",
+   "explicacao": "Paisagista e retratista.",
+   "resolucao_md": "**O que a questão pede**\nAssociar artistas ao ofício.\n\n**Conceito/Regra rápida**\n**Post** = paisagens; **Eckhout** = retratos e naturezas-mortas; **Piso** = médico; **Marcgrave** = astrônomo/naturalista.\n\n**Passo a passo**\n1. Gravar dois pares de profissão: pintores (Post, Eckhout) e cientistas (Piso, Marcgrave).\n2. A, B e D não correspondem a nenhum.\n\n**Pegadinha**\nTrocar pintores por cientistas.\n\n**Macete**\nPost = paisagem; Piso = pílula.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q026",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 2,
+   "enunciado": "A resistência luso-brasileira nos primeiros anos da ocupação holandesa foi organizada por Matias de Albuquerque, que",
+   "alternativas": {
+    "A": "montou o Arraial do Bom Jesus e usou a guerra volante (guerrilha).",
+    "B": "assinou o tratado de capitulação em 1654.",
+    "C": "venceu os holandeses nos Guararapes em 1648.",
+    "D": "fundou a Cidade Maurícia.",
+    "E": "liderou a Praieira em 1848."
+   },
+   "gabarito": "A",
+   "explicacao": "Arraial do Bom Jesus.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem a ação.\n\n**Conceito/Regra rápida**\nFase inicial: **Arraial do Bom Jesus**, **guerra volante**. A vitória final é da **Insurreição (1645-54)**.\n\n**Passo a passo**\n1. Primeira fase vs. segunda fase.\n2. Elimine as ações que são de outras fases ou outras épocas.\n\n**Pegadinha**\nMisturar a resistência de 1630 com a Insurreição de 1645.\n\n**Macete**\nArraial = início; Guararapes = fim.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q027",
+   "topico": "historia-pe-holandes",
+   "dificuldade": 3,
+   "enunciado": "Sobre a ocupação holandesa em Pernambuco, analise as afirmativas.\n\nI. Olinda foi incendiada em 1631, e o Recife tornou-se o centro holandês.\nII. Maurício de Nassau chegou em 1637 como governador da Nova Holanda.\nIII. A invasão de 1630 começou por Salvador e só depois chegou a Pernambuco.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas III.",
+    "B": "Apenas I e II.",
+    "C": "Apenas I e III.",
+    "D": "Apenas II e III.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar fatos e sequência.\n\n**Conceito/Regra rápida**\nSalvador foi tentada **antes** (1624-25); em 1630 o ataque foi **direto a Olinda e Recife**.\n\n**Passo a passo**\n1. I: correto. II: correto.\n2. III: errado, a sequência Salvador→Pernambuco é de 1624-25 a 1630, não dentro de 1630.\n3. Resposta: I e II.\n\n**Pegadinha**\nConfundir a tentativa de 1624 com a invasão de 1630.\n\n**Macete**\nSalvador (1624) ≠ Pernambuco (1630).\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q028",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 1,
+   "enunciado": "O Quilombo dos Palmares localizava-se",
+   "alternativas": {
+    "A": "no Recife, junto ao porto.",
+    "B": "no Sertão do São Francisco, em Petrolina.",
+    "C": "na Serra da Barriga, hoje em União dos Palmares (AL), mas à época território da capitania de Pernambuco.",
+    "D": "em Olinda, na região do Carmo.",
+    "E": "na Ilha de Itamaracá."
+   },
+   "gabarito": "C",
+   "explicacao": "Serra da Barriga.",
+   "resolucao_md": "**O que a questão pede**\nLocalizar Palmares.\n\n**Conceito/Regra rápida**\nPalmares: Serra da Barriga, hoje Alagoas, antes Pernambuco.\n\n**Passo a passo**\n1. Lembre: Alagoas hoje, Pernambuco antigamente.\n2. As demais localidades são urbanas ou distantes.\n\n**Pegadinha**\nAchar que foi no Recife.\n\n**Macete**\nPalmares = Serra da Barriga.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q029",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 2,
+   "enunciado": "O acordo de 1678, firmado no Recife com o governador Pedro de Almeida, foi aceito por",
+   "alternativas": {
+    "A": "Zumbi, e rejeitado por Ganga Zumba.",
+    "B": "Dandara, e rejeitado por Domingos Jorge Velho.",
+    "C": "Henrique Dias, e rejeitado por Felipe Camarão.",
+    "D": "Ganga Zumba, e rejeitado por Zumbi.",
+    "E": "Domingos Jorge Velho, e rejeitado por Pedro de Almeida."
+   },
+   "gabarito": "D",
+   "explicacao": "Ganga aceitou.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar quem aceitou o acordo.\n\n**Conceito/Regra rápida**\n**Ganga Zumba** aceitou (liberdade aos nascidos em Palmares em troca de submissão); **Zumbi**, sobrinho, rejeitou e resistiu.\n\n**Passo a passo**\n1. Quem fez a paz? O primeiro chefe.\n2. Quem resistiu? O sobrinho.\n\n**Pegadinha**\nTrocar Ganga Zumba e Zumbi.\n\n**Macete**\nGanga = paz; Zumbi = guerra.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q030",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre Palmares.",
+   "alternativas": {
+    "A": "Era uma confederação de mocambos fortificados com paliçadas e fossos.",
+    "B": "O mocambo do Macaco era a capital.",
+    "C": "A economia incluía agricultura, caça e artesanato.",
+    "D": "O bandeirante Domingos Jorge Velho foi contratado para combatê-lo.",
+    "E": "Zumbi aceitou o acordo de 1678 e governou Palmares em paz até 1695."
+   },
+   "gabarito": "E",
+   "explicacao": "A incorreta é E.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nZumbi **rejeitou** o acordo e liderou a resistência até 1695.\n\n**Passo a passo**\n1. Item E contradiz o fato central.\n2. A, B, C estão corretos.\n\n**Pegadinha**\nTrocar quem aceitou o acordo.\n\n**Macete**\nZumbi resistiu.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

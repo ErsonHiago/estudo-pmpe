@@ -1,0 +1,748 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa (IBAM) — do zero ao avançado",
+ "disciplina": "portugues",
+ "descricao": "Continuação do módulo de Língua Portuguesa.",
+ "topicos": [
+  {
+   "id": "portugues-verbos",
+   "titulo": "7.1 Verbos: pessoa, número, tempo e modo; flexão verbal; verbos irregulares e impessoais",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## O que é o verbo\nPalavra que expressa **ação, estado, fenômeno** e se **flexiona** em **pessoa, número, tempo, modo** (e voz).\n\n## Pessoa e número\n| Pessoa | Singular | Plural |\n|---|---|---|\n| 1ª (quem fala) | eu | nós |\n| 2ª (com quem se fala) | tu | vós |\n| 3ª (de quem se fala) | ele/ela/você | eles/elas/vocês |\n\n**Você(s)** e **formas de tratamento** (Vossa Excelência...) usam o verbo na **3ª pessoa**.\n\n## Modos\n- **Indicativo**: certeza, fato (real).\n- **Subjuntivo**: dúvida, hipótese, desejo (irreal/possível).\n- **Imperativo**: ordem, pedido, conselho.\n- **Formas nominais**: infinitivo (cantar), gerúndio (cantando), particípio (cantado).\n\n## Tempos\n**Indicativo**: presente (eu falo: fato habitual, verdade, \"presente histórico\"), pretérito **perfeito** (falei: ação concluída), **imperfeito** (falava: ação contínua/habitual no passado), **mais-que-perfeito** (falara/tinha falado: passado do passado), futuro do **presente** (falarei), futuro do **pretérito** (falaria: hipótese, polidez, futuro visto do passado).\n**Subjuntivo**: presente (que eu fale), pretérito **imperfeito** (se eu falasse), **futuro** (quando eu falar).\n\n## Correlações essenciais (muito cobradas)\n| Estrutura | Exemplo |\n|---|---|\n| **Se** + imperfeito do subjuntivo → futuro do pretérito | Se eu **fosse** rico, **viajaria**. |\n| **Se/quando** + futuro do subjuntivo → futuro do presente | Se eu **puder**, **irei**. Quando você **vir**, **avise**. |\n| Que + presente do subjuntivo | Espero que ele **venha**. |\n\n## Verbos irregulares mais cobrados (memorize!)\n| Verbo | Pontos críticos |\n|---|---|\n| **ver** | vi, viu; subj. futuro: se eu **vir**; imperf. subj.: **visse**; part.: **visto**. (Errado: \"se eu ver\") |\n| **vir** | eu venho, ele **vem**, eles **vêm**; pret.: vim, veio, vieram; subj. futuro: se ele **vier**; part.: vindo. |\n| **ter** | ele **tem**, eles **têm**; derivados: **mantém/mantêm, contém/contêm, detém/detêm, obtém/obtêm**; subj. fut.: tiver. |\n| **intervir** (derivado de vir) | ele **intervém**, eles **intervêm**; pret.: **interveio** (não \"interviu\"); fut. subj.: **intervier**. |\n| **pôr** | pus, pôs, pusemos; subj. fut.: **puser**; derivados: **compor, repor, propor (propuser), dispor (dispuser)**. |\n| **haver** | impessoal (\"**Há** muitas dúvidas\"); fut. subj. houver. |\n| **fazer** | fiz, fez; subj. fut.: **fizer**; refazer, desfazer, satisfazer (satisfizer). |\n| **dizer** | disse; subj. fut.: **disser**; prediz (3ª sing. do pres.: \"ele prediz\"). |\n| **trazer** | trouxe; subj. fut.: **trouxer**. |\n| **querer** | quis; subj. fut.: **quiser**; \"quer\" (3ª sing.). |\n| **caber** | coube; caiba. |\n| **saber** | soube; saiba. |\n| **ir** | vou, vais; vá; fui (=ser). |\n| **reaver** | defectivo: só tem formas com v (reouve, reaver, reavia). |\n\n## Verbos impessoais (3ª sing., sem sujeito)\n- **haver** no sentido de **existir/ocorrer**: \"**Houve** problemas\"; \"**Há** dois anos\"; \"Pode **haver** soluções\"/\"**Deve haver** soluções\" (auxiliar acompanha: **singular**).\n- **fazer** indicando **tempo** decorrido: \"**Faz** dez anos\".\n- **fenômenos da natureza**: \"Choveu\", \"Amanhece\".\n- **ser/estar** indicando tempo: \"**É** tarde\". \"**São** três horas\".\n\n## Verbos em -iar (MARIO) que mudam: **M**ediar, **A**nsiar, **R**emediar, **I**ncendiar, **O**diar\nEu **medeio**, ele **anseia**, eles **remedeiam**, ele **incendeia**, eu **odeio**. (Os demais -iar são regulares: copio, estudo.)\n\n## Passo a passo para questão de flexão\n1. Identifique **sujeito** (concorda em pessoa/número).\n2. Veja o **conectivo**: \"se\", \"quando\", \"caso\" pedem **futuro do subjuntivo**.\n3. Em verbo irregular derivado, **siga o primitivo** (intervir = vir; manter = ter; compor = pôr).\n4. Em \"há/havia/houve/faz/fazia\", lembre-se: **impessoal → singular**.",
+   "dicas": [
+    "Futuro do subjuntivo de ver/vir/pôr/ter: vir, vier, puser, tiver — nunca \"ver\", \"vir\", \"por\", \"ter\".",
+    "Derivados seguem o primitivo: intervir como vir (interveio, intervier); manter como ter (mantém/mantêm).",
+    "HAVER no sentido de existir e FAZER no sentido de tempo: sempre singular.",
+    "Em \"Se eu fosse..., faria\", usa-se imperfeito do subjuntivo + futuro do pretérito.",
+    "Macete MARIO: mediar, ansiar, remediar, incendiar, odiar mudam para -EI-.",
+    "Singular: tem/vem (sem acento); plural: têm/vêm. Derivados: mantém (singular) e mantêm (plural)."
+   ],
+   "pegadinhas": [
+    "\"Se eu ver\", \"se ele trazer\", \"se ele propor\": errados! O certo: vir, trouxer, propuser.",
+    "\"Houveram problemas\", \"Fazem dois anos\", \"Deviam haver soluções\": errados (impessoais ficam no singular).",
+    "\"Ele interviu\": errado; o certo é \"interveio\".",
+    "Confundir \"eles têm/vêm\" (plural) com \"ele tem/vem\" (singular).",
+    "\"Remediam\" (3ª pl.): errado; é \"remedeiam\".",
+    "Usar \"tu\" com verbo na 3ª pessoa (\"tu vai\") em prova formal: a norma pede \"tu vais\"."
+   ],
+   "flashcards": [
+    {
+     "q": "Futuro do subjuntivo de ver (eu)?",
+     "a": "Quando eu vir."
+    },
+    {
+     "q": "Futuro do subjuntivo de vir (ele)?",
+     "a": "Se ele vier."
+    },
+    {
+     "q": "Futuro do subjuntivo de pôr (ele)?",
+     "a": "Se ele puser (e propuser, dispuser)."
+    },
+    {
+     "q": "Pretérito perfeito de intervir (ele)?",
+     "a": "Interveio."
+    },
+    {
+     "q": "Eles mantêm ou mantém?",
+     "a": "Eles mantêm; ele mantém."
+    },
+    {
+     "q": "Haver = existir: singular ou plural?",
+     "a": "Sempre singular (houve problemas)."
+    },
+    {
+     "q": "Fazer indicando tempo: singular ou plural?",
+     "a": "Singular: Faz dez anos."
+    },
+    {
+     "q": "Macete dos verbos em -iar que viram -eiar?",
+     "a": "MARIO: mediar, ansiar, remediar, incendiar, odiar."
+    },
+    {
+     "q": "Correlação: Se eu fosse prefeito,...",
+     "a": "...faria (futuro do pretérito)."
+    },
+    {
+     "q": "Imperativo afirmativo vem de qual tempo?",
+     "a": "Do presente do subjuntivo, exceto tu e vós (que vêm do presente do indicativo sem o s)."
+    },
+    {
+     "q": "Qual modo expressa dúvida e hipótese?",
+     "a": "O subjuntivo."
+    }
+   ]
+  },
+  {
+   "id": "portugues-vozes-transitividade",
+   "titulo": "7.2 Vozes verbais e transitividade verbal e nominal (inclui o SE)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Transitividade verbal (o verbo precisa de complemento?)\n| Tipo | Complemento | Exemplo |\n|---|---|---|\n| **Intransitivo (VI)** | nenhum | O prazo **terminou**. |\n| **Transitivo direto (VTD)** | objeto direto (sem preposição) | O fiscal **multou** o comerciante. |\n| **Transitivo indireto (VTI)** | objeto indireto (com preposição) | O servidor **obedeceu** à norma. |\n| **Transitivo direto e indireto (VTDI)** | os dois | O gerente **entregou** o relatório ao diretor. |\n| **De ligação (VL)** | predicativo do sujeito | O prefeito **ficou** irritado. (ser, estar, ficar, parecer, permanecer, continuar, tornar-se) |\n\n**O mesmo verbo muda de transitividade conforme o sentido** (ficar: \"ficou em casa\" VI; \"ficou nervoso\" VL).\n\n### Predicados\n- **Verbal**: núcleo é verbo de ação (VI/VT).\n- **Nominal**: verbo de ligação + predicativo (\"Ele está feliz\").\n- **Verbo-nominal**: verbo de ação + predicativo (\"O aluno chegou **cansado**\").\n\n## Transitividade nominal\nCertos **substantivos, adjetivos e advérbios** exigem **complemento nominal** (com preposição): \"**Necessidade de** pesquisa\", \"**favorável a** mudanças\", \"**acesso a** dados\", \"**respeito a/por/com**\". O complemento nominal **recebe** a ação (paciente); o adjunto adnominal **possui/pratica**.\n\n## Vozes verbais\n| Voz | Sujeito | Exemplo |\n|---|---|---|\n| **Ativa** | pratica a ação (agente) | A Prefeitura **abriu** os envelopes. |\n| **Passiva analítica** | sofre a ação | Os envelopes **foram abertos** pela Prefeitura. (ser + particípio) |\n| **Passiva sintética** | sofre a ação; verbo + **se** | **Abriram-se** os envelopes. / **Vendem-se** casas. |\n| **Reflexiva** | pratica e sofre a ação (sobre si) | O servidor **feriu-se**. |\n\n### Conversão ativa → passiva\n1. O **objeto direto** vira **sujeito** da passiva.\n2. O verbo vira **ser + particípio** (no **mesmo tempo** do original).\n3. O **sujeito** vira **agente da passiva** (por/pelo...).\n\"O fiscal **multou** o comerciante\" → \"O comerciante **foi multado** pelo fiscal.\"\n**Só verbos transitivos diretos** têm passiva.\n\n## O \"SE\" (muito cobrado)\n| Função | Como reconhecer | Exemplo |\n|---|---|---|\n| **Partícula apassivadora** | **VTD + se**; verbo **concorda** com o sujeito paciente | **Vendem-se** casas (= casas são vendidas) |\n| **Índice de indeterminação do sujeito** | **VI, VTI, VL + se**; verbo **fica no singular** | **Precisa-se** de motoristas. / **Vive-se** bem. |\n| **Pronome reflexivo** | o sujeito pratica a ação sobre si | Ele **feriu-se**. |\n| **Conjunção** | integrante (\"Não sei **se** virá\") ou condicional (\"**Se** chover...\") | |\n| **Parte do verbo pronominal** | verbos que exigem \"se\" (queixar-se, arrepender-se) | Ele **arrependeu-se**. |\n| **Realce/expletivo** | pode ser suprimido | Foi-**se** embora. |\n\n## Passo a passo (SE)\n1. Há objeto direto? (VTD) → **apassivadora** → verbo concorda: \"Alugam-se salas\".\n2. Verbo com preposição ou sem complemento? → **indeterminação** → singular: \"Trata-se de erros\".\n3. Dá para substituir por \"a si mesmo\"? → **reflexivo**.\n\n## Passo a passo (transitividade)\nPergunte ao verbo \"**o quê?**\" (direto), \"**a quem/de quê?**\" (indireto). Se não há pergunta natural, é VI (ou VL se há atributo).",
+   "dicas": [
+    "VTD + se = apassivadora (concorda): Vendem-se casas. VTI/VI/VL + se = indeterminação (singular): Precisa-se de casas.",
+    "Só verbo transitivo direto tem voz passiva.",
+    "Na conversão, o tempo verbal do original se mantém: abriu → foi aberto.",
+    "Para saber se é objeto direto, tente trocar por o/a/os/as; indireto, por lhe/lhes.",
+    "Verbo de ligação liga sujeito a característica (predicativo)."
+   ],
+   "pegadinhas": [
+    "\"Precisam-se de funcionários\": errado (indeterminação → singular: Precisa-se de funcionários).",
+    "\"Vende-se casas\": errado se há plural (Vendem-se casas).",
+    "Dizer que \"ficou\" é sempre verbo de ligação.",
+    "Confundir complemento nominal (recebe a ação) com adjunto adnominal (indica posse/agente).",
+    "Transpor para passiva mudando o tempo verbal (fez → é feito).",
+    "Achar que \"Trata-se de\" tem sujeito plural: não tem, é indeterminado (singular)."
+   ],
+   "flashcards": [
+    {
+     "q": "VTD + se significa?",
+     "a": "Partícula apassivadora; verbo concorda com o sujeito paciente."
+    },
+    {
+     "q": "VTI/VI + se significa?",
+     "a": "Índice de indeterminação do sujeito; verbo no singular."
+    },
+    {
+     "q": "Como forma a passiva analítica?",
+     "a": "Verbo ser (no tempo do verbo ativo) + particípio + agente da passiva."
+    },
+    {
+     "q": "Quais verbos têm voz passiva?",
+     "a": "Os transitivos diretos (e diretos e indiretos)."
+    },
+    {
+     "q": "O que é predicativo do sujeito?",
+     "a": "Termo que atribui característica ao sujeito (ex.: Ele está feliz)."
+    },
+    {
+     "q": "Exemplos de verbo de ligação?",
+     "a": "Ser, estar, ficar, parecer, permanecer, continuar, tornar-se."
+    },
+    {
+     "q": "Voz reflexiva?",
+     "a": "O sujeito pratica e sofre a ação (ele feriu-se)."
+    },
+    {
+     "q": "Complemento nominal: o que é?",
+     "a": "Termo preposicionado que completa substantivo, adjetivo ou advérbio."
+    },
+    {
+     "q": "Predicado verbo-nominal: exemplo?",
+     "a": "O aluno chegou cansado."
+    }
+   ]
+  },
+  {
+   "id": "portugues-formacao-palavras",
+   "titulo": "7.3 Estrutura, classificação e formação de palavras",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## Estrutura das palavras (elementos mórficos)\n| Elemento | Função | Exemplo: \"infelizmente\" / \"cantávamos\" |\n|---|---|---|\n| **Radical** | núcleo, significado básico | **feliz**; **cant** |\n| **Afixos**: **prefixo** (antes) e **sufixo** (depois) | alteram sentido/classe | **in**-; **-mente** |\n| **Vogal temática** | liga radical à desinência (verbos: a, e, i; nomes: a, e, o) | cant-**a**-va-mos |\n| **Tema** | radical + vogal temática | canta |\n| **Desinências** | indicam flexão: nominal (gênero/número) e verbal (modo-tempo e número-pessoa) | -va (tempo), -mos (pessoa/número) |\n| **Vogal/consoante de ligação** | facilitam a pronúncia | cafe**z**al, gas**ô**metro (o), paul**ist**a |\n\n## Formação de palavras\n### 1) Derivação (cria palavra a partir de **uma** só)\n- **Prefixal**: prefixo + palavra: **in**feliz, **des**leal.\n- **Sufixal**: palavra + sufixo: feliz**mente**, pedr**eiro**.\n- **Prefixal e sufixal** (em etapas): **in**feliz (prefixal) → infeliz**mente** (sufixal); cada afixo pode ser retirado e a palavra ainda existe.\n- **Parassintética (parassíntese)**: **prefixo e sufixo simultâneos**, e a retirada de um deles não gera palavra existente: **en**tard**ecer** (não existe \"entarde\" nem \"tardecer\"), **a**manhec**er**, **em**pobr**ecer**.\n- **Regressiva (deverbal)**: **redução** de verbo para substantivo: ajudar → a **ajuda**; atacar → o **ataque**; pescar → a **pesca**. (Substantivos que indicam ação, terminam em -a, -e, -o.)\n- **Imprópria (conversão)**: muda a classe **sem alterar a forma**: o **jantar** (verbo→substantivo), um **não** (advérbio→substantivo).\n\n### 2) Composição (junta **duas** ou mais palavras)\n- **Justaposição**: sem perda de fonemas: **guarda-chuva, passatempo, pontapé, girassol**.\n- **Aglutinação**: **perde fonema**, forma-se um só vocábulo: **planalto** (plano + alto), **aguardente** (água + ardente), **embora** (em + boa + hora), **fidalgo** (filho + de + algo).\n\n### 3) Outros processos\n- **Hibridismo**: elementos de línguas diferentes: **auto**(grego)+**móvel**(latim) = automóvel; sociólogo (latim + grego); burocracia (francês + grego).\n- **Abreviação (redução)**: foto, pneu, moto, ônibus.\n- **Siglas**: IBAM, INSS.\n- **Onomatopeia**: tique-taque, miau, zum-zum.\n- **Neologismo, empréstimo (estrangeirismo), sigla, acrônimo**.\n\n## Passo a passo\n1. **Tente retirar** prefixo ou sufixo, um de cada vez: se a palavra continua existindo, é prefixal/sufixal; se **só existe com ambos**, é **parassíntese**.\n2. Para **regressiva**, descubra se a palavra é **substantivo derivado de verbo** e mais curta que o verbo.\n3. Em **composição**, observe se **houve perda** de som (aglutinação) ou não (justaposição).\n4. Em **hibridismo**, pense na **origem dos elementos** (grego x latim).\n\n## Pegadinhas\n- **Parassíntese** ≠ prefixal e sufixal: parassíntese = **simultaneamente** (entardecer).\n- **Regressiva** ≠ sufixal: na regressiva, a palavra **diminui**.\n- **Girassol**: justaposição (não há perda de fonemas na norma habitual), enquanto **planalto** é aglutinação.",
+   "dicas": [
+    "Parassíntese: retire o prefixo ou o sufixo — se a palavra \"morre\", é parassintética (en-tard-ecer).",
+    "Regressiva: substantivo que nasce de verbo e fica menor (ajudar -> ajuda).",
+    "Aglutinação perde som (plano + alto = planalto); justaposição preserva (passa + tempo = passatempo).",
+    "Hibridismo = mistura de línguas diferentes (auto + móvel)."
+   ],
+   "pegadinhas": [
+    "Confundir derivação parassintética com prefixal e sufixal.",
+    "Chamar de sufixal uma palavra formada por regressão (ajuda, ataque).",
+    "Achar que todo composto com hífen é justaposição e todo sem hífen é aglutinação (o critério é perda de fonema).",
+    "Dizer que \"televisão\" não é hibridismo (tele = grego; visão = latim: é hibridismo)."
+   ],
+   "flashcards": [
+    {
+     "q": "O que é radical?",
+     "a": "Elemento que contém o significado básico da palavra."
+    },
+    {
+     "q": "Parassíntese?",
+     "a": "Prefixo e sufixo acrescentados simultaneamente (entardecer)."
+    },
+    {
+     "q": "Derivação regressiva?",
+     "a": "Substantivo formado pela redução de verbo (pescar -> pesca)."
+    },
+    {
+     "q": "Derivação imprópria?",
+     "a": "Mudança de classe sem alterar a forma (o jantar)."
+    },
+    {
+     "q": "Justaposição?",
+     "a": "Composição sem perda de fonema (passatempo)."
+    },
+    {
+     "q": "Aglutinação?",
+     "a": "Composição com perda de fonema (planalto)."
+    },
+    {
+     "q": "Hibridismo?",
+     "a": "Formação com elementos de línguas diferentes (automóvel)."
+    },
+    {
+     "q": "Vogal temática?",
+     "a": "Vogal que liga o radical às desinências (cantAr)."
+    },
+    {
+     "q": "Exemplos de abreviação?",
+     "a": "Foto, pneu, moto."
+    }
+   ]
+  },
+  {
+   "id": "portugues-classes-palavras",
+   "titulo": "7.4 Funções e classes de palavras; flexão nominal",
+   "prioridade": 2,
+   "horas": 4,
+   "resumo_md": "## As 10 classes gramaticais\n| Classe | Função | Variável? | Exemplos |\n|---|---|---|---|\n| **Substantivo** | nomeia seres | gênero, número, grau | casa, fiscal, amor |\n| **Adjetivo** | caracteriza o substantivo | gênero, número, grau | belo, justo |\n| **Artigo** | determina o substantivo | gênero e número | o, a, um, uma |\n| **Numeral** | quantidade/ordem | sim (alguns) | dois, segundo |\n| **Pronome** | substitui/acompanha o nome | sim | ele, meu, este, que |\n| **Verbo** | ação/estado | pessoa, número, tempo, modo | cantar |\n| **Advérbio** | modifica verbo, adjetivo ou outro advérbio | **invariável** | muito, aqui, ontem |\n| **Preposição** | liga termos (relação de dependência) | invariável | a, de, em, para, com |\n| **Conjunção** | liga orações/termos | invariável | e, mas, porque |\n| **Interjeição** | emoção | invariável | Ah! Puxa! |\n\n**Palavras denotativas** (de inclusão, exclusão, realce): até, apenas, só, inclusive, aliás — não se enquadram nas classes tradicionais.\n\n## Flexão nominal\n### Gênero\n- **Biformes** (o aluno/a aluna); **uniformes**: **comuns de dois gêneros** (o/a colega, o/a jornalista), **sobrecomuns** (a criança, a testemunha, o cônjuge), **epicenos** (a onça macho).\n- Gêneros especiais: **a** alface, **a** cal, **a** omelete, **a** dinamite, **o** dó, **o** guaraná, **o** telefonema, **o** diabetes.\n### Número\n- Regra geral: + s; **-ão**: **cidadãos, órgãos, mãos, irmãos, cristãos** (plural -ãos); **pães, alemães, capitães, cães**; **botões, ladrões, leões** (-ões).\n- **-al, -el, -ol, -ul**: troca por **-ais, -eis, -óis, -uis** (jornal → jornais; papel → papéis; mal → males; mel → méis).\n- **-m → -ns**: homem → homens. **-r, -z → -es**: mulher, luz → luzes. **-s** (oxítona): português → portugueses; (paroxítona): o lápis → os lápis.\n- **Compostos**: variam os elementos nominais: **guarda-civis, couves-flores, segundas-feiras**; **guarda-chuvas** (guarda é verbo, fica invariável); **beija-flores**.\n### Grau\n- **Aumentativo/diminutivo**, **comparativo** e **superlativo**: **melhor** (não \"mais bom\"), **pior**, **maior**, **menor**; **paupérrimo, antiquíssimo, acérrimo, ótimo, péssimo, sapientíssimo**; **\"mais bem/mais mal\"** diante de particípio (mais bem-feito).\n\n## Emprego especial\n- **Meio** (= um pouco) é advérbio e **invariável**: \"ela está **meio** cansada\"; **meia** (numeral/adjetivo) concorda: \"meia hora\".\n- **Bastante**: advérbio (invariável) \"bastante cansados\" / adjetivo (variável) \"bastantes problemas\".\n- **Obrigado** concorda com **quem agradece**: homem \"obrigado\"; mulher \"obrigada\".\n- **Anexo, incluso** concordam com o substantivo: \"As planilhas seguem anexas\".\n\n## Passo a passo\n1. Identifique a **função** na frase, não a palavra isolada (\"que\" pode ser pronome, conjunção, advérbio...).\n2. Troque a palavra por outra da mesma classe para testar.\n3. Em flexão, veja a **terminação** e aplique a regra.",
+   "dicas": [
+    "A classe depende da função no contexto: \"que\" muda de classe.",
+    "Advérbio, preposição, conjunção e interjeição são invariáveis.",
+    "Meio (advérbio) não flexiona; meia (adjetivo) sim.",
+    "Obrigado concorda com quem agradece."
+   ],
+   "pegadinhas": [
+    "\"Ela está meia cansada\": erro (meio é advérbio).",
+    "\"Cidadões\", \"capitões\" (deveria ser capitães): plurais com -ão errados.",
+    "\"O cal\", \"a dó\", \"a guaraná\": gêneros errados.",
+    "Concordar \"anexo\" fora da regra: \"seguem anexo as planilhas\" (o certo: anexas).",
+    "Dizer que todo \"que\" é conjunção."
+   ],
+   "flashcards": [
+    {
+     "q": "Quais as classes invariáveis?",
+     "a": "Advérbio, preposição, conjunção e interjeição."
+    },
+    {
+     "q": "Plural de cidadão?",
+     "a": "Cidadãos."
+    },
+    {
+     "q": "Plural de capitão?",
+     "a": "Capitães."
+    },
+    {
+     "q": "Plural de guarda-chuva?",
+     "a": "Guarda-chuvas."
+    },
+    {
+     "q": "Plural de couve-flor?",
+     "a": "Couves-flores."
+    },
+    {
+     "q": "Gênero de alface, cal e omelete?",
+     "a": "Feminino."
+    },
+    {
+     "q": "Gênero de dó, guaraná e telefonema?",
+     "a": "Masculino."
+    },
+    {
+     "q": "Meio ou meia? \"Ela está ___ cansada\"",
+     "a": "Meio (advérbio, invariável)."
+    },
+    {
+     "q": "Comparativo de bom?",
+     "a": "Melhor (mais bem diante de particípio)."
+    }
+   ]
+  },
+  {
+   "id": "portugues-regencia",
+   "titulo": "7.5 Regência verbal e nominal (lista dos verbos mais cobrados)",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## Conceito\n**Regência** é a relação de **dependência** entre um termo regente (verbo ou nome) e seu complemento, **definindo se há preposição e qual**. Estude por **significado** do verbo: o mesmo verbo muda de regência conforme o sentido.\n\n## Regência verbal: os verbos mais cobrados\n| Verbo | Sentido | Regência | Exemplo |\n|---|---|---|---|\n| **Assistir** | ver, presenciar | **a** (VTI) | Assisti **ao** filme. |\n| | ajudar, prestar assistência | direto (VTD) | O médico **assistiu** o paciente. |\n| | caber (direito/razão) | **a** | **Assiste-lhe** o direito de recorrer. |\n| | morar | **em** | Assiste em Caruaru. |\n| **Aspirar** | respirar, inalar | direto | Aspirou o ar fresco. |\n| | desejar, almejar | **a** | Aspira **ao** cargo. (não admite \"lhe\") |\n| **Visar** | mirar; pôr visto | direto | Visou o alvo. Visou o cheque. |\n| | ter por objetivo | **a** | O projeto visa **à** redução de custos. / visa **a** reduzir. |\n| **Preferir** | gostar mais | **a** (**nunca** \"mais... do que\") | Prefiro café **a** chá. |\n| **Obedecer / desobedecer** | | **a** (VTI) | Obedeça **às** normas. |\n| **Informar / avisar / comunicar / notificar / cientificar** | | alguém **de/sobre** algo OU algo **a** alguém | Informei o aluno **do** prazo. / Informei **ao** aluno o prazo. |\n| **Esquecer / lembrar** | **sem pronome** | direto | Esqueci o prazo. |\n| | **com pronome (-se)** | **de** | Esqueci-**me** do prazo. / Lembrei-**me** do prazo. |\n| | lembrar algo **a** alguém | direto + indireto | Lembrei o prazo **ao** colega. |\n| **Implicar** | acarretar, resultar em | direto | A medida implica aumento de despesa. (**sem** \"em\") |\n| | ter implicância | **com** | Ele implica **com** o chefe. |\n| | envolver | direto + **em** | Implicaram-no **no** crime. |\n| **Chegar / ir / voltar** | | **a** (lugar) | Cheguei **ao** fórum. (não \"no\") |\n| **Morar / residir / situar-se** | | **em** | Mora **em** Caruaru. |\n| **Namorar** | | direto | Namora a vizinha. |\n| **Pagar / perdoar** | coisa: direto; pessoa: indireto | | Paguei a dívida **ao** credor. |\n| **Agradar** | satisfazer | **a** | O discurso agradou **aos** presentes. |\n| | acariciar | direto | Agradou o cão. |\n| **Custar** | ser difícil | **a** (sujeito: a coisa) | **Custou-me** aceitar. (não \"custei a aceitar\") |\n| **Simpatizar / antipatizar** | | **com** | Simpatizo **com** a proposta. |\n| **Responder** | | **a** | Respondeu **ao** ofício. |\n| **Proceder** | ter fundamento | VI | A denúncia **procede**. |\n| | dar início | **a** | Procedeu **à** votação. |\n| **Satisfazer, prejudicar, atender (pessoa direta), querer (desejar)** | | direto | Prejudicou a obra. |\n| **Aludir, referir-se** | | **a** | Aludiu **ao** tema. |\n\n## Regência nominal (nomes e preposições)\n| Nome | Preposição | Nome | Preposição |\n|---|---|---|---|\n| **acesso** | a | **apto** | a, para |\n| **ansioso** | por, para | **atento** | a, em |\n| **contrário** | a | **favorável** | a |\n| **curioso** | de, por | **essencial** | a, para |\n| **obediência** | a | **preferência** | por |\n| **respeito** | a, por, para com | **referente** | a |\n| **compatível** | com | **descontente** | com |\n| **capaz** | de, para | **útil** | a, para |\n| **dúvida** | sobre, acerca de | **residente** | em |\n\n## Passo a passo\n1. Identifique o **verbo** e **o sentido** na frase.\n2. Veja se o verbo **exige preposição**; qual?\n3. Se o complemento é **pronome**, use o certo: \"**lhe**\" para indireto (pessoa); com \"aspirar\", \"visar\", \"assistir (ver)\", use **a ele/ao** (não \"lhe\").\n4. **Crase** só vem depois: se o verbo pede \"a\" + complemento feminino com artigo → \"à\" (liga-se ao tópico de Crase).\n5. Em \"preferir\", **não use** \"mais\", \"do que\", \"que\".\n\n## Pegadinhas\n- \"Assisti o filme\" (errado; assisti **ao**).\n- \"Prefiro mais A do que B\" (errado; **Prefiro A a B**).\n- \"Esqueci-me o prazo\" / \"Lembrei do prazo\" (errados; **esqueci-me do** / **lembrei-me do**; ou sem pronome: **esqueci o**).\n- \"Implicar **em**\" (norma: sem preposição, no sentido de acarretar).",
+   "dicas": [
+    "Assistir (ver) = a; aspirar (desejar) = a; visar (objetivo) = a; obedecer = a; preferir = a; responder = a.",
+    "Esquecer/lembrar: sem pronome = direto; com pronome = DE.",
+    "Prefiro A a B; nunca \"mais\" e nunca \"do que\".",
+    "Implicar (acarretar) = direto, sem \"em\".",
+    "Ir/chegar/voltar: A (lugar). Morar/residir: EM.",
+    "Informar: alguém DE/SOBRE algo ou algo A alguém — nunca \"informar a alguém DE\"."
+   ],
+   "pegadinhas": [
+    "\"Assisti o filme\": o sentido de ver pede \"ao\".",
+    "\"Prefiro mais cinema do que teatro\": preferir não admite mais/do que.",
+    "\"Esqueci-me os documentos\": pronominal pede \"de\" (esqueci-me dos).",
+    "\"Implicará em aumento\": na norma culta, implicar = acarretar não leva \"em\".",
+    "\"Informei aos candidatos do prazo\": mistura de regências (informei os candidatos do prazo).",
+    "\"Fui no mercado\": ir pede \"a\" (fui ao mercado).",
+    "\"Aspirava o cargo\": aspirar = desejar pede \"a\" (aspirava ao cargo)."
+   ],
+   "flashcards": [
+    {
+     "q": "Assistir no sentido de ver?",
+     "a": "Assistir a (VTI): assisti ao jogo."
+    },
+    {
+     "q": "Assistir no sentido de ajudar?",
+     "a": "Direto: o médico assistiu o paciente."
+    },
+    {
+     "q": "Aspirar no sentido de desejar?",
+     "a": "Aspirar a: aspira ao cargo."
+    },
+    {
+     "q": "Preferir: estrutura correta?",
+     "a": "Prefiro A a B (sem mais, sem do que)."
+    },
+    {
+     "q": "Visar no sentido de ter por objetivo?",
+     "a": "Visar a: visa à redução."
+    },
+    {
+     "q": "Obedecer exige?",
+     "a": "Preposição a: obedecer às normas."
+    },
+    {
+     "q": "Esqueci-me ___ prazo?",
+     "a": "do (esquecer-se de)."
+    },
+    {
+     "q": "Implicar (acarretar)?",
+     "a": "Direto, sem \"em\": implica custos."
+    },
+    {
+     "q": "Ir, chegar, voltar?",
+     "a": "Preposição a (para lugar): cheguei ao fórum."
+    },
+    {
+     "q": "Regência nominal de \"acesso\"?",
+     "a": "Acesso a."
+    },
+    {
+     "q": "Regência de \"contrário\"?",
+     "a": "Contrário a."
+    },
+    {
+     "q": "Simpatizar?",
+     "a": "Simpatizar com (não é pronominal)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "portugues-verbos-q01",
+   "topico": "portugues-verbos",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que a forma verbal está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Quando você ver o relatório, avise a equipe.\"",
+    "B": "\"Quando você vir o relatório, avise a equipe.\"",
+    "C": "\"Quando você veja o relatório, avise a equipe.\"",
+    "D": "\"Quando você vê o relatório, avise a equipe.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Futuro do subjuntivo de ver: \"vir\". \"Ver\" é infinitivo; \"veja\" é presente do subjuntivo; \"vê\" é presente do indicativo (e não combina com \"quando\" + ordem no contexto formal)."
+  },
+  {
+   "id": "portugues-verbos-q02",
+   "topico": "portugues-verbos",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa INCORRETA quanto à flexão verbal.",
+   "alternativas": {
+    "A": "\"Se o servidor propor outra solução, o prazo será ampliado.\"",
+    "B": "\"Quando o secretário vir o relatório, decidirá.\"",
+    "C": "\"Se eles puserem os documentos na mesa, iniciaremos a conferência.\"",
+    "D": "\"Quando nós viermos ao evento, traremos os documentos.\""
+   },
+   "gabarito": "A",
+   "explicacao": "O futuro do subjuntivo de propor (derivado de pôr) é \"propuser\". Nas demais frases, vir, puserem e viermos estão corretos (\"traremos\" é futuro do presente de trazer)."
+  },
+  {
+   "id": "portugues-verbos-q03",
+   "topico": "portugues-verbos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Se eu fosse prefeito, reformaria a praça\", os tempos e modos verbais são, respectivamente,",
+   "alternativas": {
+    "A": "presente do subjuntivo e futuro do presente do indicativo.",
+    "B": "futuro do subjuntivo e futuro do pretérito do indicativo.",
+    "C": "pretérito imperfeito do subjuntivo e futuro do pretérito do indicativo.",
+    "D": "pretérito imperfeito do indicativo e futuro do presente do indicativo."
+   },
+   "gabarito": "C",
+   "explicacao": "\"Fosse\" é imperfeito do subjuntivo (hipótese) e \"reformaria\" é futuro do pretérito (consequência hipotética)."
+  },
+  {
+   "id": "portugues-verbos-q04",
+   "topico": "portugues-verbos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o emprego do verbo HAVER/FAZER está de acordo com a norma culta.",
+   "alternativas": {
+    "A": "\"Houveram falhas no sistema durante a votação.\"",
+    "B": "\"Fazem dois anos que me formei.\"",
+    "C": "\"Devem haver outras soluções para o problema.\"",
+    "D": "\"Houve falhas no sistema durante a votação.\""
+   },
+   "gabarito": "D",
+   "explicacao": "\"Haver\" (existir/ocorrer) e \"fazer\" (tempo) são impessoais: ficam no singular, inclusive o auxiliar (\"Deve haver\")."
+  },
+  {
+   "id": "portugues-verbos-q05",
+   "topico": "portugues-verbos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o verbo está INCORRETAMENTE flexionado.",
+   "alternativas": {
+    "A": "\"Eu anseio por justiça.\"",
+    "B": "\"Ela odeia filas.\"",
+    "C": "\"Ele incendia o galpão sempre que discute.\"",
+    "D": "\"Eles remedeiam o erro com urgência.\""
+   },
+   "gabarito": "C",
+   "explicacao": "Incendiar pertence ao grupo MARIO: ele incendeia. As demais flexões (anseio, odeia, remedeiam) estão corretas."
+  },
+  {
+   "id": "portugues-verbos-q06",
+   "topico": "portugues-verbos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Os técnicos mantêm o sistema em funcionamento\", a forma \"mantêm\" está no",
+   "alternativas": {
+    "A": "presente do indicativo, 3ª pessoa do singular, pois o acento circunflexo é opcional.",
+    "B": "presente do indicativo, 3ª pessoa do plural, pois \"manter\" segue \"ter\" (eles têm).",
+    "C": "pretérito perfeito do indicativo, 3ª pessoa do plural.",
+    "D": "presente do subjuntivo, 3ª pessoa do plural."
+   },
+   "gabarito": "B",
+   "explicacao": "Derivados de ter: ele mantém (singular, agudo); eles mantêm (plural, circunflexo). O tempo é o presente do indicativo."
+  },
+  {
+   "id": "portugues-verbos-q07",
+   "topico": "portugues-verbos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Você poderia me ajudar com o relatório?\", o futuro do pretérito expressa",
+   "alternativas": {
+    "A": "ação já concluída no passado.",
+    "B": "ordem direta e enérgica.",
+    "C": "certeza absoluta sobre um fato futuro.",
+    "D": "polidez/atenuação do pedido."
+   },
+   "gabarito": "D",
+   "explicacao": "O futuro do pretérito é usado também para suavizar pedidos (polidez)."
+  },
+  {
+   "id": "portugues-verbos-q08",
+   "topico": "portugues-verbos",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que a correlação verbal está adequada à norma-padrão.",
+   "alternativas": {
+    "A": "\"Se o candidato estudar com disciplina, será aprovado.\"",
+    "B": "\"Se o candidato estudasse com disciplina, será aprovado.\"",
+    "C": "\"Se o candidato estudaria com disciplina, será aprovado.\"",
+    "D": "\"Se o candidato estudara com disciplina, será aprovado.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Condição possível exige futuro do subjuntivo + futuro do presente. As demais misturam tempos sem correlação (imperfeito do subjuntivo pede futuro do pretérito; \"estudaria\" não ocorre após \"se\"; mais-que-perfeito não combina)."
+  },
+  {
+   "id": "portugues-vozes-transitividade-q01",
+   "topico": "portugues-vozes-transitividade",
+   "dificuldade": 1,
+   "enunciado": "Em \"Os técnicos concluíram o sistema\", o verbo é",
+   "alternativas": {
+    "A": "intransitivo.",
+    "B": "transitivo indireto.",
+    "C": "transitivo direto.",
+    "D": "de ligação."
+   },
+   "gabarito": "C",
+   "explicacao": "\"Concluir o quê?\" — \"o sistema\": objeto direto, sem preposição."
+  },
+  {
+   "id": "portugues-vozes-transitividade-q02",
+   "topico": "portugues-vozes-transitividade",
+   "dificuldade": 2,
+   "enunciado": "Em qual alternativa a palavra \"se\" é partícula apassivadora?",
+   "alternativas": {
+    "A": "\"Precisa-se de funcionários na secretaria.\"",
+    "B": "\"Vive-se bem naquele bairro.\"",
+    "C": "\"Trata-se de um erro grave.\"",
+    "D": "\"Vendem-se casas na região central.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Em \"Vendem-se casas\", vender é VTD e concorda com \"casas\" (sujeito paciente). As demais frases têm VTI/VI + se: índice de indeterminação, verbo no singular."
+  },
+  {
+   "id": "portugues-vozes-transitividade-q03",
+   "topico": "portugues-vozes-transitividade",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que traz a transposição correta para a voz passiva analítica de \"A Prefeitura abriu os envelopes\".",
+   "alternativas": {
+    "A": "\"Os envelopes foi aberto pela Prefeitura.\"",
+    "B": "\"Os envelopes foram abertos pela Prefeitura.\"",
+    "C": "\"Os envelopes eram abertos pela Prefeitura.\"",
+    "D": "\"Os envelopes abriram-se pela Prefeitura.\""
+   },
+   "gabarito": "B",
+   "explicacao": "O tempo (pretérito perfeito) se mantém: \"foram abertos\"; o verbo concorda com \"os envelopes\". \"Eram abertos\" muda o tempo, \"foi aberto\" erra a concordância, e a passiva sintética não admite agente da passiva."
+  },
+  {
+   "id": "portugues-vozes-transitividade-q04",
+   "topico": "portugues-vozes-transitividade",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o verbo é transitivo direto e indireto.",
+   "alternativas": {
+    "A": "\"O gerente entregou o relatório ao diretor.\"",
+    "B": "\"O servidor obedeceu à chefia.\"",
+    "C": "\"O relatório chegou ao destino.\"",
+    "D": "\"O gerente é competente.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Entregou (o quê? o relatório; a quem? ao diretor) pede dois complementos. Obedecer é VTI; chegar é VI com adjunto; ser é verbo de ligação."
+  },
+  {
+   "id": "portugues-vozes-transitividade-q05",
+   "topico": "portugues-vozes-transitividade",
+   "dificuldade": 3,
+   "enunciado": "Assinale a frase em que o verbo \"ficar\" é de ligação.",
+   "alternativas": {
+    "A": "\"O prefeito ficou em casa durante o feriado.\"",
+    "B": "\"Ficaram dois processos pendentes.\"",
+    "C": "\"O prefeito ficou irritado com a notícia.\"",
+    "D": "\"O fiscal ficou com a chave do arquivo.\""
+   },
+   "gabarito": "C",
+   "explicacao": "Em \"ficou irritado\", há predicativo do sujeito (estado): VL. Em \"ficou em casa\" = permaneceu (VI); \"ficaram processos\" = restaram (VI); \"ficou com\" = reteve (VTI)."
+  },
+  {
+   "id": "portugues-vozes-transitividade-q06",
+   "topico": "portugues-vozes-transitividade",
+   "dificuldade": 3,
+   "enunciado": "Em qual alternativa o verbo está na voz reflexiva?",
+   "alternativas": {
+    "A": "\"Vendem-se casas.\"",
+    "B": "\"O servidor feriu-se com o grampeador.\"",
+    "C": "\"Precisa-se de motorista.\"",
+    "D": "\"Os livros foram vendidos.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Na reflexiva, o sujeito pratica e sofre a ação (o servidor feriu a si mesmo). \"Vendem-se\" é passiva sintética; \"precisa-se\" indeterminação; \"foram vendidos\" passiva analítica."
+  },
+  {
+   "id": "portugues-formacao-palavras-q01",
+   "topico": "portugues-formacao-palavras",
+   "dificuldade": 2,
+   "enunciado": "Assinale a palavra formada por derivação parassintética.",
+   "alternativas": {
+    "A": "Desleal",
+    "B": "Pedreiro",
+    "C": "Pontapé",
+    "D": "Entardecer"
+   },
+   "gabarito": "D",
+   "explicacao": "Em-tard-ecer: prefixo e sufixo simultâneos, sem existir \"entarde\" nem \"tardecer\". Desleal = prefixal; pedreiro = sufixal; pontapé = composição."
+  },
+  {
+   "id": "portugues-formacao-palavras-q02",
+   "topico": "portugues-formacao-palavras",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta palavra formada por aglutinação.",
+   "alternativas": {
+    "A": "Planalto",
+    "B": "Guarda-roupa",
+    "C": "Passatempo",
+    "D": "Pontapé"
+   },
+   "gabarito": "A",
+   "explicacao": "Plano + alto perde o fonema \"o\" de plano: aglutinação. As demais são justaposição, sem perda de fonemas."
+  },
+  {
+   "id": "portugues-formacao-palavras-q03",
+   "topico": "portugues-formacao-palavras",
+   "dificuldade": 3,
+   "enunciado": "Em qual alternativa há substantivo formado por derivação regressiva?",
+   "alternativas": {
+    "A": "\"Ajudante\" (de ajudar).",
+    "B": "\"Desleal\" (de leal).",
+    "C": "\"Pontapé\" (de ponta + pé).",
+    "D": "\"Ajuda\" (de ajudar)."
+   },
+   "gabarito": "D",
+   "explicacao": "Regressiva = substantivo deverbal reduzido (ajudar → ajuda). Ajudante é sufixal; desleal é prefixal; pontapé é composição."
+  },
+  {
+   "id": "portugues-formacao-palavras-q04",
+   "topico": "portugues-formacao-palavras",
+   "dificuldade": 3,
+   "enunciado": "Assinale a palavra formada por hibridismo.",
+   "alternativas": {
+    "A": "Automóvel",
+    "B": "Geografia",
+    "C": "Pernilongo",
+    "D": "Democracia"
+   },
+   "gabarito": "A",
+   "explicacao": "Auto (grego) + móvel (latim) = hibridismo. Geografia e democracia são formadas só com radicais gregos; pernilongo, só com latinos."
+  },
+  {
+   "id": "portugues-classes-palavras-q01",
+   "topico": "portugues-classes-palavras",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto ao emprego de \"meio/meia\".",
+   "alternativas": {
+    "A": "\"Comprei meia dúzia de ovos.\"",
+    "B": "\"Ela chegou meia cansada ao trabalho.\"",
+    "C": "\"Ela está meio cansada.\"",
+    "D": "\"São meio-dia e meia.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Antes de adjetivo (cansada), \"meio\" é advérbio (= um pouco) e fica invariável. \"Meia\" é numeral/adjetivo e concorda (\"meia dúzia\", \"meia hora\")."
+  },
+  {
+   "id": "portugues-classes-palavras-q02",
+   "topico": "portugues-classes-palavras",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o plural está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Os cidadões votaram em seus representantes.\"",
+    "B": "\"Os capitões da guarda apresentaram o relatório.\"",
+    "C": "\"Os cidadãos votaram em seus representantes.\"",
+    "D": "\"Os pãos foram distribuídos.\""
+   },
+   "gabarito": "C",
+   "explicacao": "O plural de cidadão é cidadãos; o de capitão é capitães; o de pão é pães."
+  },
+  {
+   "id": "portugues-classes-palavras-q03",
+   "topico": "portugues-classes-palavras",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o gênero do substantivo está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"O cal foi misturado à água.\"",
+    "B": "\"A omelete estava deliciosa.\"",
+    "C": "\"A dó que senti foi grande.\"",
+    "D": "\"A guaraná estava gelado.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Omelete, cal e alface são femininos (\"a cal\"); dó e guaraná são masculinos."
+  },
+  {
+   "id": "portugues-classes-palavras-q04",
+   "topico": "portugues-classes-palavras",
+   "dificuldade": 3,
+   "enunciado": "Em qual frase a palavra \"que\" é pronome relativo?",
+   "alternativas": {
+    "A": "\"Disse que viria mais tarde.\"",
+    "B": "\"Espero que você venha.\"",
+    "C": "\"Ele é mais alto que eu.\"",
+    "D": "\"O processo que analisei está arquivado.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Em \"que analisei\" o \"que\" retoma \"processo\" e exerce função (objeto direto): relativo. Nos demais casos, é conjunção (integrante ou comparativa)."
+  },
+  {
+   "id": "portugues-regencia-q01",
+   "topico": "portugues-regencia",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que a regência está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Os fiscais assistiram ao julgamento.\"",
+    "B": "\"O servidor aspirava o cargo de chefia.\"",
+    "C": "\"Prefiro cinema do que teatro.\"",
+    "D": "\"Os alunos obedecem as regras da instituição.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Assistir (presenciar) pede \"a\"; aspirar (desejar) pede \"a\" (ao cargo); preferir não aceita \"do que\"; obedecer pede \"às\" regras."
+  },
+  {
+   "id": "portugues-regencia-q02",
+   "topico": "portugues-regencia",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa INCORRETA quanto à regência de esquecer/lembrar.",
+   "alternativas": {
+    "A": "\"Esqueci os documentos em casa.\"",
+    "B": "\"Lembrei-me do prazo.\"",
+    "C": "\"Esqueci-me os documentos em casa.\"",
+    "D": "\"Lembrei o prazo ao colega.\""
+   },
+   "gabarito": "C",
+   "explicacao": "Com pronome (esquecer-se), exige-se \"de\": esqueci-me dos documentos. Sem pronome, o verbo é direto. Em \"lembrar algo a alguém\", objeto direto + indireto."
+  },
+  {
+   "id": "portugues-regencia-q03",
+   "topico": "portugues-regencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta regência adequada do verbo \"visar\" no sentido de \"ter por objetivo\".",
+   "alternativas": {
+    "A": "\"O projeto visa de reduzir custos.\"",
+    "B": "\"O projeto visa à redução de custos.\"",
+    "C": "\"O projeto visa em reduzir custos.\"",
+    "D": "\"O projeto visa com a redução de custos.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Visar (objetivo) é VTI e pede \"a\": visa à redução (a + a). As outras preposições não correspondem à regência do verbo."
+  },
+  {
+   "id": "portugues-regencia-q04",
+   "topico": "portugues-regencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto à regência do verbo \"informar\".",
+   "alternativas": {
+    "A": "\"A Prefeitura informou os contribuintes sobre o prazo final.\"",
+    "B": "\"A Prefeitura informou o prazo final aos contribuintes.\"",
+    "C": "\"A Prefeitura informou os contribuintes de que o prazo acabou.\"",
+    "D": "\"A Prefeitura informou aos contribuintes do prazo final.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Informar tem duas construções: informar alguém de/sobre algo, ou informar algo a alguém. \"Informou aos contribuintes do prazo\" mistura as duas."
+  },
+  {
+   "id": "portugues-regencia-q05",
+   "topico": "portugues-regencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto ao verbo \"implicar\".",
+   "alternativas": {
+    "A": "\"A mudança implicará em aumento de despesas.\"",
+    "B": "\"A mudança implicará aumento de despesas.\"",
+    "C": "\"O servidor implica com os colegas.\"",
+    "D": "\"A fraude implicou o servidor no esquema.\""
+   },
+   "gabarito": "A",
+   "explicacao": "No sentido de acarretar, implicar é transitivo direto: não admite \"em\". As demais estão adequadas (implicar com = ter implicância; implicar alguém em = envolver)."
+  },
+  {
+   "id": "portugues-regencia-q06",
+   "topico": "portugues-regencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que a regência nominal está adequada.",
+   "alternativas": {
+    "A": "\"O servidor se mostrou contrário com a proposta.\"",
+    "B": "\"O servidor se mostrou contrário da proposta.\"",
+    "C": "\"O servidor se mostrou contrário à proposta.\"",
+    "D": "\"O servidor se mostrou contrário para a proposta.\""
+   },
+   "gabarito": "C",
+   "explicacao": "Contrário rege a preposição \"a\": contrário à proposta."
+  },
+  {
+   "id": "portugues-regencia-q07",
+   "topico": "portugues-regencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que está de acordo com a norma-padrão quanto ao verbo \"preferir\".",
+   "alternativas": {
+    "A": "\"Prefiro estudar do que dormir.\"",
+    "B": "\"Prefiro estudar a dormir.\"",
+    "C": "\"Prefiro mais estudar que dormir.\"",
+    "D": "\"Prefiro muito mais estudar do que dormir.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Preferir pede \"a\" e dispensa \"mais\", \"muito mais\", \"do que\" e \"que\"."
+  },
+  {
+   "id": "portugues-regencia-q08",
+   "topico": "portugues-regencia",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa correta quanto à regência do verbo \"simpatizar\".",
+   "alternativas": {
+    "A": "\"Simpatizei com a proposta do secretário.\"",
+    "B": "\"Simpatizei a proposta do secretário.\"",
+    "C": "\"Simpatizei da proposta do secretário.\"",
+    "D": "\"Simpatizei-me com a proposta do secretário.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Simpatizar pede \"com\" e não é pronominal."
+  }
+ ]
+}

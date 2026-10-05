@@ -1,0 +1,168 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-dudh-sanjose",
+   "titulo": "DUDH (1948) e Convenção Americana de Direitos Humanos — Pacto de San José (Decreto 678/1992)",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Declaração Universal dos Direitos Humanos (DUDH)\nAdotada pela **Assembleia Geral da ONU em 10 de dezembro de 1948**, em Paris (Resolução 217 A-III), logo após a Segunda Guerra. Tem **preâmbulo e 30 artigos**. É uma **declaração**, e não um tratado: nasceu sem força vinculante formal, mas hoje é considerada **costume internacional** e fonte de interpretação. Os Pactos de 1966 (PIDCP e PIDESC) deram-lhe força jurídica; juntos formam a **Carta Internacional de Direitos Humanos**.\n\n| Artigo | Conteúdo |\n|---|---|\n| 1º | todos nascem **livres e iguais em dignidade e direitos**, dotados de razão e consciência, e devem agir em espírito de **fraternidade** |\n| 2º | proibição de discriminação (raça, cor, sexo, língua, religião, opinião...) |\n| 3º | direito à **vida, à liberdade e à segurança pessoal** |\n| 4º | ninguém será mantido em **escravidão ou servidão** |\n| 5º | ninguém será submetido a **tortura** nem a tratamento ou castigo cruel, desumano ou degradante |\n| 7º | igualdade perante a lei |\n| 9º | ninguém será arbitrariamente **preso, detido ou exilado** |\n| 11 | **presunção de inocência**; anterioridade penal |\n| 12 | proteção da vida privada, família, domicílio e correspondência |\n| 13 | liberdade de locomoção |\n| 18 e 19 | pensamento, consciência, religião; opinião e expressão |\n| 23 a 25 | trabalho; descanso; padrão de vida adequado |\n| 26 | **instrução** (gratuita no ensino elementar e fundamental) |\n| 29 e 30 | **deveres** para com a comunidade; vedação do abuso dos direitos |\n\n## Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica)\nAdotada em **22 de novembro de 1969**, em vigor internacional em **1978**. O Brasil aderiu em 1992 e a promulgou pelo **Decreto 678, de 6 de novembro de 1992**. Faz parte do **Sistema Interamericano** (OEA).\n\n### Órgãos de proteção\n| Órgão | Sede | Composição | Função |\n|---|---|---|---|\n| **Comissão Interamericana (CIDH)** | Washington | 7 membros | recebe petições de **indivíduos**, grupos e ONGs; faz recomendações |\n| **Corte Interamericana (Corte IDH)** | San José, Costa Rica | 7 juízes | julga casos e emite opiniões consultivas |\n\nO Brasil reconheceu a competência contenciosa da Corte em **1998**. **Só Estados e a Comissão** podem submeter casos à Corte; a **pessoa não** tem acesso direto. Casos célebres contra o Brasil: **Maria da Penha** (Comissão, 2001) e **Damião Ximenes Lopes** (Corte, 2006).\n\n### Principais direitos\n| Artigo | Direito |\n|---|---|\n| 1º | obrigação de **respeitar** os direitos sem discriminação |\n| 2º | dever de adotar disposições de **direito interno** |\n| 4º | **vida**: protegida, em geral, desde a concepção; pena de morte não se aplica a menores de 18 e maiores de 70 anos nem a gestantes |\n| 5º | **integridade pessoal**; proibição de tortura; presos tratados com dignidade; separação de processados e condenados |\n| 7º | **liberdade pessoal**; toda pessoa detida deve ser **conduzida sem demora à presença de um juiz** (7.5) (base da audiência de custódia); proíbe prisão por dívidas, salvo **alimentos** (7.7) |\n| 8º | **garantias judiciais**: juiz competente, presunção de inocência, defesa, duplo grau |\n| 11 | honra e dignidade |\n| 13 | liberdade de pensamento e expressão (vedada a censura prévia) |\n| 25 | **proteção judicial** (recurso simples e rápido) |\n| 26 | desenvolvimento **progressivo** dos direitos econômicos, sociais e culturais |\n\nProtocolos: **San Salvador** (direitos econômicos, sociais e culturais) e o relativo à **abolição da pena de morte**.\n\n## Ligação com a prova\nO art. 7.5 e 7.7 fundamentam a **audiência de custódia** e o fim da prisão do **depositário infiel** (SV 25). O Pacto tem status **supralegal** no Brasil.",
+   "dicas": [
+    "DUDH = 10/12/1948, 30 artigos, declaração (não é tratado). Pacto de San José = 22/11/1969, Decreto 678/1992.",
+    "Comissão em Washington (recebe petição do indivíduo); Corte em San José (só Estados e Comissão a acionam).",
+    "Art. 7.5 do Pacto = condução sem demora ao juiz = audiência de custódia.",
+    "DUDH art. 5º = tortura; art. 9º = prisão arbitrária; art. 11 = presunção de inocência."
+   ],
+   "pegadinhas": [
+    "Dizer que a DUDH é um tratado com força vinculante formal: nasceu como declaração (hoje costume).",
+    "Dizer que o indivíduo pode ajuizar ação diretamente na Corte IDH: só Estados-partes e a Comissão.",
+    "Trocar as sedes: Comissão em Washington; Corte em San José (Costa Rica).",
+    "Afirmar que o Pacto proíbe toda prisão civil: admite a por dívida de alimentos (art. 7.7).",
+    "Esquecer que o Pacto de San José NÃO é equivalente a emenda no Brasil: é supralegal."
+   ],
+   "flashcards": [
+    {
+     "q": "Quando e onde a DUDH foi adotada?",
+     "a": "10/12/1948, pela Assembleia Geral da ONU, em Paris."
+    },
+    {
+     "q": "Quantos artigos tem a DUDH?",
+     "a": "30 artigos, mais o preâmbulo."
+    },
+    {
+     "q": "Qual o decreto que promulgou o Pacto de San José no Brasil?",
+     "a": "Decreto 678, de 6 de novembro de 1992."
+    },
+    {
+     "q": "Onde ficam a Comissão e a Corte Interamericanas?",
+     "a": "Comissão em Washington; Corte em San José (Costa Rica)."
+    },
+    {
+     "q": "Quantos membros/juízes têm Comissão e Corte?",
+     "a": "7 membros na Comissão e 7 juízes na Corte."
+    },
+    {
+     "q": "Que artigo do Pacto fundamenta a audiência de custódia?",
+     "a": "Art. 7.5: condução sem demora à presença de um juiz."
+    },
+    {
+     "q": "Quem pode submeter caso à Corte IDH?",
+     "a": "Estados-partes e a Comissão; o indivíduo não."
+    },
+    {
+     "q": "Qual prisão civil o Pacto admite?",
+     "a": "A do devedor de alimentos (art. 7.7)."
+    },
+    {
+     "q": "O que prevê o art. 5º da DUDH?",
+     "a": "Ninguém será submetido a tortura nem a tratamento cruel, desumano ou degradante."
+    },
+    {
+     "q": "Qual o caso do Brasil na Corte IDH relativo a pessoa com deficiência mental?",
+     "a": "Damião Ximenes Lopes (2006)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-dudh-q01",
+   "topico": "dh-c-dudh-sanjose",
+   "dificuldade": 1,
+   "enunciado": "A Declaração Universal dos Direitos Humanos foi adotada em",
+   "alternativas": {
+    "A": "22 de novembro de 1969, pela Organização dos Estados Americanos, e contém cinquenta artigos.",
+    "B": "10 de dezembro de 1948, pela Assembleia Geral das Nações Unidas, e contém trinta artigos.",
+    "C": "10 de dezembro de 1948, pelo Conselho de Segurança da ONU, na forma de tratado vinculante.",
+    "D": "5 de outubro de 1988, pela Assembleia Constituinte brasileira, e contém trinta artigos.",
+    "E": "16 de dezembro de 1966, pela Assembleia Geral da ONU, juntamente com os Pactos."
+   },
+   "gabarito": "B",
+   "explicacao": "DUDH: 10/12/1948, Assembleia Geral, 30 artigos, declaração. A é a Convenção Americana; C é a CF; E confunde com os Pactos de 1966.",
+   "resolucao_md": "**O que a questão pede:** data, órgão e extensão da DUDH.\n\n**Regra rápida:** 1948, AG da ONU, 30 artigos.\n\n**Passo a passo:**\n1. A cita 1969 e OEA: é o Pacto de San José.\n2. C atribui ao Conselho de Segurança e a um tratado vinculante: a DUDH é declaração da Assembleia Geral.\n3. D cita 1988: é a Constituição.\n4. E cita 1966: são os Pactos internacionais.\n\n**Pegadinha:** Chamar a DUDH de tratado.\n\n**Macete:** DUDH = 48 / 30 artigos."
+  },
+  {
+   "id": "dh-c-dudh-q02",
+   "topico": "dh-c-dudh-sanjose",
+   "dificuldade": 1,
+   "enunciado": "O artigo 5º da Declaração Universal dos Direitos Humanos dispõe que",
+   "alternativas": {
+    "A": "ninguém será arbitrariamente preso, detido ou exilado.",
+    "B": "toda pessoa acusada de ato delituoso presume-se inocente até que sua culpabilidade seja provada.",
+    "C": "ninguém será submetido à tortura nem a tratamento ou castigo cruel, desumano ou degradante.",
+    "D": "toda pessoa tem direito à instrução, que será gratuita nos graus elementares.",
+    "E": "todos os seres humanos nascem livres e iguais em dignidade e direitos."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 5º = tortura. A = art. 9º; B = art. 11; D = art. 26; E = art. 1º.",
+   "resolucao_md": "**O que a questão pede:** relacionar o conteúdo ao art. 5º.\n\n**Regra rápida:** cada alternativa copia um artigo diferente da DUDH.\n\n**Passo a passo:**\n1. Prisão arbitrária = art. 9º (A).\n2. Presunção de inocência = art. 11 (B).\n3. Instrução = art. 26 (D).\n4. Livres e iguais = art. 1º (E).\n5. Sobra tortura = art. 5º.\n\n**Pegadinha:** Embaralhar os números.\n\n**Macete:** Art. 1 livres, 5 tortura, 9 prisão arbitrária, 11 inocência."
+  },
+  {
+   "id": "dh-c-dudh-q03",
+   "topico": "dh-c-dudh-sanjose",
+   "dificuldade": 2,
+   "enunciado": "A Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica) foi promulgada no Brasil pelo",
+   "alternativas": {
+    "A": "Decreto-Lei nº 678, de 1969.",
+    "B": "Lei nº 678, de 6 de novembro de 1990.",
+    "C": "Decreto nº 40, de 15 de fevereiro de 1991.",
+    "D": "Decreto nº 678, de 6 de novembro de 1992.",
+    "E": "Emenda Constitucional nº 45, de 2004."
+   },
+   "gabarito": "D",
+   "explicacao": "A convenção foi promulgada pelo Decreto 678/1992. O Decreto 40/1991 promulga a Convenção da ONU contra a Tortura; a EC 45 criou o §3º do art. 5º.",
+   "resolucao_md": "**O que a questão pede:** o ato de promulgação.\n\n**Regra rápida:** tratados entram por decreto presidencial.\n\n**Passo a passo:**\n1. A e B falam em decreto-lei e lei: tratado não é promulgado assim.\n2. C é a Convenção contra a Tortura da ONU.\n3. E é a emenda do §3º, não promulga nenhum tratado.\n\n**Pegadinha:** Confundir Pacto de San José com Convenção contra a Tortura.\n\n**Macete:** 678 = San José (92)."
+  },
+  {
+   "id": "dh-c-dudh-q04",
+   "topico": "dh-c-dudh-sanjose",
+   "dificuldade": 2,
+   "enunciado": "Segundo o Pacto de San José da Costa Rica, é correto afirmar que",
+   "alternativas": {
+    "A": "toda pessoa detida deve ser conduzida, sem demora, à presença de um juiz ou outra autoridade autorizada a exercer funções judiciais.",
+    "B": "somente a Corte Interamericana pode receber petições individuais.",
+    "C": "a Comissão Interamericana tem sede em San José, Costa Rica.",
+    "D": "o Pacto proíbe qualquer forma de prisão civil, inclusive por dívida de alimentos.",
+    "E": "o indivíduo pode ajuizar diretamente ação perante a Corte Interamericana."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 7.5. A Comissão (em Washington) recebe petições individuais; só Estados e a Comissão acionam a Corte; art. 7.7 admite a prisão por alimentos.",
+   "resolucao_md": "**O que a questão pede:** a alternativa correta sobre o Pacto.\n\n**Regra rápida:** art. 7.5 = condução sem demora ao juiz (audiência de custódia).\n\n**Passo a passo:**\n1. B diz que só a Corte recebe petições: quem as recebe é a Comissão.\n2. C inverte a sede da Comissão (é Washington).\n3. D ignora a ressalva dos alimentos (art. 7.7).\n4. E dá acesso direto ao indivíduo na Corte: errado, o indivíduo vai à Comissão.\n\n**Pegadinha:** Achar que o indivíduo vai direto à Corte.\n\n**Macete:** Indivíduo -> Comissão -> (se for o caso) Corte."
+  },
+  {
+   "id": "dh-c-dudh-q05",
+   "topico": "dh-c-dudh-sanjose",
+   "dificuldade": 2,
+   "enunciado": "Em relação ao Sistema Interamericano de Proteção dos Direitos Humanos, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "A Corte Interamericana tem sede em Washington e é composta por cinco juízes.",
+    "B": "A Comissão Interamericana tem sede em San José e julga os casos de forma definitiva.",
+    "C": "A Comissão é composta por nove membros e tem sede em Genebra.",
+    "D": "O Brasil nunca reconheceu a competência contenciosa da Corte Interamericana.",
+    "E": "A Corte Interamericana tem sede em San José, na Costa Rica, e é composta por sete juízes."
+   },
+   "gabarito": "E",
+   "explicacao": "Corte: San José, 7 juízes. Comissão: Washington, 7 membros. O Brasil reconheceu a competência da Corte em 1998.",
+   "resolucao_md": "**O que a questão pede:** identificar sede e composição.\n\n**Regra rápida:** Corte = San José, 7 juízes; Comissão = Washington, 7 membros.\n\n**Passo a passo:**\n1. A: sede errada e número errado.\n2. B: sede errada e a Comissão não julga em definitivo.\n3. C: Genebra é sede de órgãos da ONU.\n4. D: o Brasil reconheceu em 1998.\n\n**Pegadinha:** Trocar Washington e San José.\n\n**Macete:** Corte = Costa Rica."
+  },
+  {
+   "id": "dh-c-dudh-q06",
+   "topico": "dh-c-dudh-sanjose",
+   "dificuldade": 2,
+   "enunciado": "Sobre a natureza jurídica da DUDH, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "É um tratado ratificado pelo Brasil com status de emenda constitucional.",
+    "B": "É uma lei interna brasileira de 1948.",
+    "C": "Foi adotada como declaração, sem força vinculante formal originária, sendo hoje reconhecida como costume internacional e parâmetro de interpretação.",
+    "D": "É uma convenção que cria a Corte Interamericana.",
+    "E": "É um protocolo facultativo ao Pacto de San José."
+   },
+   "gabarito": "C",
+   "explicacao": "A DUDH é resolução da Assembleia Geral; os Pactos de 1966 deram-lhe forma de tratado. Não foi ratificada como tratado nem tem status de emenda.",
+   "resolucao_md": "**O que a questão pede:** a natureza da DUDH.\n\n**Regra rápida:** resolução/declaração da AG da ONU, hoje costume.\n\n**Passo a passo:**\n1. A: não foi ratificada com rito do §3º.\n2. B: não é lei brasileira.\n3. D: a Corte nasce do Pacto de San José.\n4. E: o Pacto é do sistema regional (OEA), e a DUDH é da ONU.\n\n**Pegadinha:** Tratar a DUDH como tratado vinculante.\n\n**Macete:** Declaração, não tratado."
+  }
+ ]
+}

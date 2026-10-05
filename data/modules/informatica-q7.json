@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q161",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Em uma célula foi digitada a fórmula `=SOM(A1:A3)», com a intenção de somar o intervalo. O erro exibido será",
+      "alternativas": {
+        "A": "#VALOR!",
+        "B": "#NOME?",
+        "C": "#REF!",
+        "D": "#DIV/0!",
+        "E": "#NÚM!"
+      },
+      "gabarito": "B",
+      "explicacao": "SOM não existe (a função correta é SOMA). Nome de função não reconhecido gera #NOME?.",
+      "resolucao_md": "**O que a questão pede**\nO erro de função digitada errada.\n\n**Conceito/Regra rápida**\n#NOME? aparece quando o Excel não reconhece o nome (função ou intervalo nomeado).\n\n**Passo a passo**\n```\\n=SOM(A1:A3)   -> a função SOM não existe -> #NOME?\\n=SOMA(A1:A3)  -> correta\\n```\n\n**Pegadinha**\nNão é #VALOR!: o problema é o nome, não o tipo.\n\n**Macete**\nNome estranho = #NOME?"
+    },
+    {
+      "id": "informatica-q162",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "Na planilha, a célula C1 contém a fórmula `=B1*2». Se a coluna B for EXCLUÍDA da planilha, a célula C1 (que passa a ocupar a coluna B) exibirá",
+      "alternativas": {
+        "A": "#NOME?",
+        "B": "#VALOR!",
+        "C": "0",
+        "D": "#REF!",
+        "E": "#DIV/0!"
+      },
+      "gabarito": "D",
+      "explicacao": "A fórmula apontava para uma célula que deixou de existir. O Excel exibe #REF! (referência inválida).",
+      "resolucao_md": "**O que a questão pede**\nO erro após excluir uma célula/coluna referenciada.\n\n**Conceito/Regra rápida**\n#REF! = referência a célula que não existe mais.\n\n**Passo a passo**\n```\\nAntes:   C1 = B1*2        (B1 existe)\\nExcluir a coluna B\\nDepois:  fórmula = #REF!*2  -> #REF!\\n```\n\n**Pegadinha**\nSe apenas apagasse o conteúdo de B1 (sem excluir a coluna), C1 = 0.\n\n**Macete**\nExcluiu o alvo? #REF!"
+    },
+    {
+      "id": "informatica-q163",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere as células A1 = 4, A2 = 6 e A3 = 10. O valor da fórmula `=SOMA(A1:A3)-SOMA(A1;A3)» é",
+      "alternativas": {
+        "A": "20",
+        "B": "14",
+        "C": "0",
+        "D": "10",
+        "E": "6"
+      },
+      "gabarito": "E",
+      "explicacao": "SOMA(A1:A3) usa dois-pontos (intervalo A1 a A3): 4+6+10 = 20. SOMA(A1;A3) usa ponto e vírgula (apenas A1 e A3): 4+10 = 14. 20 - 14 = 6.",
+      "resolucao_md": "**O que a questão pede**\nDiferença entre intervalo (:) e lista (;).\n\n**Conceito/Regra rápida**\n**:** = intervalo contínuo (de A1 até A3). **;** = separa argumentos (A1 e A3 apenas).\n\n**Passo a passo**\n```\\nA1 = 4   A2 = 6   A3 = 10\\nSOMA(A1:A3) = 4+6+10 = 20\\nSOMA(A1;A3) = 4+10   = 14\\n20 - 14 = 6\\n```\\nResultado: **6** (o valor de A2).\n\n**Pegadinha**\nO ponto e vírgula não inclui A2.\n\n**Macete**\nDois-pontos = \"até\"; ponto e vírgula = \"e\"."
+    },
+    {
+      "id": "informatica-q164",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 1,
+      "enunciado": "Uma planilha mostra a quantidade de ocorrências policiais por tipo (roubo, furto, acidente, outros) em um mês, e deseja-se exibir a participação percentual de cada tipo no TOTAL de ocorrências. O tipo de gráfico mais adequado é",
+      "alternativas": {
+        "A": "pizza (setores).",
+        "B": "linhas.",
+        "C": "dispersão.",
+        "D": "área empilhada com várias séries ao longo do ano.",
+        "E": "radar com dez séries."
+      },
+      "gabarito": "A",
+      "explicacao": "O gráfico de pizza mostra partes de um todo (uma única série), ideal para participação percentual por categoria.",
+      "resolucao_md": "**O que a questão pede**\nEscolher o gráfico para partes de um todo.\n\n**Conceito/Regra rápida**\n**Pizza** = partes de um todo (uma série). **Linhas** = evolução no tempo. **Colunas/barras** = comparar categorias. **Dispersão** = relação entre duas variáveis.\n\n**Passo a passo**\n1. O que se quer? Participação (%) de cada tipo no total.\\n2. Isso é \"partes de um todo\".\\n3. Gráfico indicado: **pizza**.\n\n**Pegadinha**\nPizza só aceita uma série de dados.\n\n**Macete**\nPizza = fatias de um todo."
+    },
+    {
+      "id": "informatica-q165",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 1,
+      "enunciado": "Uma planilha registra o número de ocorrências de cada um dos 12 meses do ano e deseja-se mostrar a EVOLUÇÃO desse número ao longo do tempo. O gráfico mais indicado é o de",
+      "alternativas": {
+        "A": "pizza.",
+        "B": "rosca.",
+        "C": "linhas.",
+        "D": "dispersão sem eixo de tempo.",
+        "E": "mapa de árvore."
+      },
+      "gabarito": "C",
+      "explicacao": "Gráfico de linhas mostra tendência e evolução no tempo (meses). Pizza é para partes de um todo.",
+      "resolucao_md": "**O que a questão pede**\nGráfico adequado para evolução no tempo.\n\n**Conceito/Regra rápida**\nEvolução no tempo = linhas (ou colunas por período).\n\n**Passo a passo**\n1. A variável é o tempo (12 meses).\\n2. Quer-se ver a tendência.\\n3. Gráfico: **linhas**.\n\n**Pegadinha**\nPizza não mostra tendência.\n\n**Macete**\nTempo = linhas."
+    },
+    {
+      "id": "informatica-q166",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 3,
+      "enunciado": "No Excel, o valor exibido pela fórmula `=\"PM\"&\" \"&ESQUERDA(\"Pernambuco\";2)&\"-\"&DIREITA(\"2026\";2)» é",
+      "alternativas": {
+        "A": "PM Per-26",
+        "B": "PM Pe-20",
+        "C": "PM Pe-26",
+        "D": "PMPe-26",
+        "E": "PM Pe 26"
+      },
+      "gabarito": "C",
+      "explicacao": "O operador & concatena. ESQUERDA(\"Pernambuco\";2) = \"Pe\". DIREITA(\"2026\";2) = \"26\". Junção: \"PM\" + \" \" + \"Pe\" + \"-\" + \"26\" = PM Pe-26.",
+      "resolucao_md": "**O que a questão pede**\nO texto resultante da concatenação.\n\n**Conceito/Regra rápida**\n`&» junta textos. `ESQUERDA(texto; n)» pega n caracteres do início. `DIREITA(texto; n)» pega n do fim.\n\n**Passo a passo**\n```\\n\"PM\"                      -> PM\\n\" \"                       -> (espaço)\\nESQUERDA(\"Pernambuco\";2)  -> Pe\\n\"-\"                       -> -\\nDIREITA(\"2026\";2)         -> 26\\nJunção: PM Pe-26\\n```\n\n**Pegadinha**\nESQUERDA pega do início, DIREITA do fim.\n\n**Macete**\nE comercial (&) = cola."
+    },
+    {
+      "id": "informatica-q167",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "No Excel, com o cursor dentro da célula em edição digitando a fórmula e a referência `A1» selecionada, ao pressionar a tecla F4 DUAS vezes seguidas, a referência ficará",
+      "alternativas": {
+        "A": "A$1",
+        "B": "$A$1",
+        "C": "$A1",
+        "D": "A1",
+        "E": "A1$"
+      },
+      "gabarito": "A",
+      "explicacao": "A tecla F4 alterna a referência em ciclo: A1 -> $A$1 (1ª vez) -> A$1 (2ª vez) -> $A1 (3ª vez) -> A1 (4ª vez).",
+      "resolucao_md": "**O que a questão pede**\nA referência após dois F4.\n\n**Conceito/Regra rápida**\nF4 percorre: relativa -> absoluta -> mista (linha fixa) -> mista (coluna fixa) -> relativa.\n\n**Passo a passo**\n```\\nA1     (início)\\nF4 -> $A$1\\nF4 -> A$1   <- 2ª vez\\nF4 -> $A1\\nF4 -> A1\\n```\\nResposta: **A$1**.\n\n**Pegadinha**\nA ordem das mistas costuma ser invertida pelos candidatos.\n\n**Macete**\nF4 = F-quatro-cifrões: tudo, linha, coluna, nada."
+    },
+    {
+      "id": "informatica-q168",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA sobre datas e horas no Excel.",
+      "alternativas": {
+        "A": "A fórmula `=HOJE()» atualiza a data automaticamente sempre que a planilha é recalculada ou aberta.",
+        "B": "O atalho Ctrl+; insere a data atual de forma fixa.",
+        "C": "A fórmula `=AGORA()» exibe data e hora atuais.",
+        "D": "O atalho Ctrl+Shift+; insere a hora atual.",
+        "E": "A fórmula `=HOJE()» insere a data do dia da digitação de forma fixa, que não muda nos dias seguintes."
+      },
+      "gabarito": "E",
+      "explicacao": "=HOJE() é volátil: muda a cada dia. A data fixa é obtida com Ctrl+;. Portanto a afirmação de que HOJE() é fixa é a incorreta.",
+      "resolucao_md": "**O que a questão pede**\nA frase falsa sobre HOJE().\n\n**Conceito/Regra rápida**\n**=HOJE()** e **=AGORA()** são dinâmicas. **Ctrl+;** e **Ctrl+Shift+;** inserem valores fixos.\n\n**Passo a passo**\n1. HOJE() atualiza sempre: verdadeira.\\n2. Ctrl+; data fixa: verdadeira.\\n3. AGORA() data e hora: verdadeira.\\n4. Ctrl+Shift+; hora fixa: verdadeira.\\n5. HOJE() \"fixa\": **falsa**.\n\n**Pegadinha**\nFixa x dinâmica é o ponto da pegadinha.\n\n**Macete**\nFórmula muda; atalho fixa."
+    },
+    {
+      "id": "informatica-q169",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Para referenciar, em uma fórmula do Microsoft Excel, a célula A1 de outra planilha (aba) chamada Plan2 da mesma pasta de trabalho, utiliza-se",
+      "alternativas": {
+        "A": "=Plan2.A1",
+        "B": "=Plan2!A1",
+        "C": "=Plan2:A1",
+        "D": "=Plan2#A1",
+        "E": "=Plan2;A1"
+      },
+      "gabarito": "B",
+      "explicacao": "No Excel, a referência a outra aba usa o ponto de exclamação: Plan2!A1. (No Calc, o separador é o ponto: $Plan2.A1.)",
+      "resolucao_md": "**O que a questão pede**\nA sintaxe de referência a outra planilha no Excel.\n\n**Conceito/Regra rápida**\nExcel: `Plan2!A1». LibreOffice Calc: `$Plan2.A1».\n\n**Passo a passo**\n```\\nExcel : =Plan2!A1   (nome da aba + ! + célula)\\nCalc  : =$Plan2.A1  (nome da aba + . + célula)\\n```\n\n**Pegadinha**\nDois-pontos é intervalo, não separa aba.\n\n**Macete**\nExcel: exclamação. Calc: ponto."
+    },
+    {
+      "id": "informatica-q170",
+      "topico": "informatica-excel-calc",
+      "dificuldade": 2,
+      "enunciado": "Considere as células A1 a A5 com os valores 14, 9, 31, 22 e 27. O valor de `=MAIOR(A1:A5;2)-MENOR(A1:A5;2)» é",
+      "alternativas": {
+        "A": "17",
+        "B": "22",
+        "C": "4",
+        "D": "13",
+        "E": "8"
+      },
+      "gabarito": "D",
+      "explicacao": "MAIOR(...;2) é o 2º maior: ordenados em ordem decrescente 31, 27, ... = 27. MENOR(...;2) é o 2º menor: em ordem crescente 9, 14, ... = 14. 27 - 14 = 13.",
+      "resolucao_md": "**O que a questão pede**\nA diferença entre o 2º maior e o 2º menor.\n\n**Conceito/Regra rápida**\n`MAIOR(intervalo;k)» = k-ésimo maior. `MENOR(intervalo;k)» = k-ésimo menor.\n\n**Passo a passo**\n```\\nValores: 14, 9, 31, 22, 27\\nDecrescente: 31, 27, 22, 14, 9  -> 2º maior = 27\\nCrescente  : 9, 14, 22, 27, 31  -> 2º menor = 14\\n27 - 14 = 13\\n```\n\n**Pegadinha**\nMÁXIMO/MÍNIMO devolvem o 1º; MAIOR/MENOR permitem escolher k.\n\n**Macete**\nOrdene a lista: o k conta a partir de cada ponta."
+    }
+  ]
+}

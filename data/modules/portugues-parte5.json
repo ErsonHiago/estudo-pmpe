@@ -1,0 +1,378 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa (IBAM) — do zero ao avançado",
+ "disciplina": "portugues",
+ "descricao": "Continuação do módulo de Língua Portuguesa.",
+ "topicos": [
+  {
+   "id": "portugues-concordancia",
+   "titulo": "Extra A. Concordância verbal e nominal",
+   "prioridade": 2,
+   "horas": 5,
+   "resumo_md": "## Regra geral\n**Concordância** = acordo entre termos. **Verbal**: o **verbo** concorda com o **sujeito** em **número e pessoa**. **Nominal**: **adjetivo, artigo, pronome, numeral e particípio** concordam com o **substantivo** em **gênero e número**.\n\n## CONCORDÂNCIA VERBAL\n### Sujeito simples e composto\n| Situação | Regra | Exemplo |\n|---|---|---|\n| Sujeito **simples** | verbo concorda com o núcleo | **Os candidatos** chegaram. |\n| Composto **anteposto** | plural | **Pedro e Ana** chegaram. |\n| Composto **posposto** | plural ou concorda com o mais próximo | Chegaram **Pedro e Ana** / Chegou **Pedro e Ana**. |\n| Composto com **1ª pessoa** | 1ª pessoa do plural | **Eu e meus colegas** fomos aprovados. |\n| Composto com **2ª e 3ª** | 2ª ou 3ª plural | **Tu e ele** chegastes/chegaram. |\n| Ligado por **ou** | singular (exclusão) ou plural (inclusão) | **O Prefeito ou o Secretário** assinará o decreto. |\n| Ligado por **nem... nem** | plural (preferencial) | **Nem o prazo nem o valor** foram alterados. |\n| **Um ou outro** | singular | **Um ou outro** candidato faltou. |\n| **Mais de um** | singular (plural se recíproco/repetido) | **Mais de um** candidato recorreu. |\n| **Cerca de, perto de** + numeral | concorda com o numeral | **Cerca de dez** pessoas chegaram. |\n| **A maioria de, grande parte de** + plural | singular ou plural | A maioria dos candidatos **foi/foram** aprovada(os). |\n| **Porcentagem** | concorda com o numeral (ou o substantivo seguinte) | **1%** dos servidores faltou; **20%** faltaram. |\n| **Um dos que** | plural (preferencial) | Foi **um dos que** mais trabalharam. |\n| **Quem** | 3ª singular (ou concorda com antecedente) | Fui eu **quem** resolveu. |\n| **Que** (relativo) | concorda com o antecedente | Fui eu **que** resolvi. |\n| **Sujeito oracional** (oração) | singular | **Que todos participem** é importante. |\n\n### Verbos impessoais\n**Haver (existir), fazer (tempo), fenômenos da natureza → singular.**\n\"**Há** muitas pessoas.\" \"**Houve** problemas.\" \"**Faz** dois anos.\" \"**Deve haver** soluções.\"\n\n### Verbo ser\n- Concorda com o **predicativo** quando o sujeito é **tudo, isto, isso, aquilo, o que**: \"Tudo **são** flores.\"\n- **Horas e datas**: \"**São** três horas.\" \"**Hoje é** dia 10.\"\n- \"**Um** real **é** pouco/muito\" (quantidade → singular).\n\n### Voz passiva sintética\n**VTD + se**: concorda com o sujeito paciente: \"**Vendem-se** casas.\" **VTI + se**: singular: \"**Precisa-se** de funcionários.\"\n\n## CONCORDÂNCIA NOMINAL\n| Caso | Regra | Exemplo |\n|---|---|---|\n| **Adjetivo posposto** a vários substantivos | plural ou concorda com o mais próximo | Livros e revistas **novos** / **novas**. |\n| **Adjetivo anteposto** | concorda com o mais próximo | **Nova** casa e jardim. |\n| **Anexo, incluso, obrigado, mesmo, próprio** | concordam | Seguem **anexas** as planilhas. |\n| **Em anexo** | invariável | Seguem **em anexo** as planilhas. |\n| **Meio** (= um pouco) | invariável | Ela está **meio** cansada. |\n| **Bastante** advérbio / adjetivo | invariável / variável | **bastante** cansados / **bastantes** problemas |\n| **É proibido / é necessário / é bom** (sujeito sem determinante) | invariável | **É proibido** entrada. / **É proibida** a entrada. |\n| **Menos** | **sempre** invariável | **Menos** pessoas, **menos** casas. |\n| **Possível** | com \"o mais, o menos\": invariável; com \"os mais\": plural | **As** menores taxas **possíveis**. |\n| **Só** (=sozinho) / **só** (=apenas) | varia / invariável | Elas estão **sós**. / Ela só trabalha. |\n\n## Passo a passo\n1. **Ache o sujeito** (\"quem + verbo?\") e seu **núcleo**.\n2. Identifique **impessoais** (haver, fazer tempo) → singular.\n3. Se há **\"se\"**, decida: apassivadora (VTD, concorda) x indeterminação (singular).\n4. Em **concordância nominal**, ligue o adjetivo ao **substantivo**; cuidado com **palavras invariáveis** (meio, menos, bastante advérbio).",
+   "dicas": [
+    "Haver (existir) e fazer (tempo) = singular: \"Houve falhas\", \"Faz anos\".",
+    "Verbo concorda com o sujeito, nunca com o complemento mais próximo.",
+    "VTD + se concorda; VTI + se fica no singular.",
+    "Meio, menos, bastante (advérbio): invariáveis.",
+    "Anexo, incluso, obrigado: variam; \"em anexo\": invariável.",
+    "Sujeito composto com \"eu\": verbo na 1ª pessoa do plural."
+   ],
+   "pegadinhas": [
+    "\"Houveram problemas\", \"Fazem dois anos\": impessoais não vão ao plural.",
+    "\"Vende-se casas\": VTD + se com sujeito plural exige \"Vendem-se casas\".",
+    "\"Precisam-se de funcionários\": VTI + se, singular.",
+    "\"Seguem anexo as planilhas\": anexo varia (anexas).",
+    "\"Ela está meia cansada\": meio como advérbio é invariável.",
+    "\"Menas pessoas\": menos nunca varia.",
+    "\"Eu e ele foram\": com eu, o verbo vai à 1ª pessoa do plural (fomos)."
+   ],
+   "flashcards": [
+    {
+     "q": "Haver (existir) concorda?",
+     "a": "Não; fica no singular (há/houve/havia)."
+    },
+    {
+     "q": "Fazer indicando tempo?",
+     "a": "Singular: faz dois anos."
+    },
+    {
+     "q": "Eu e você ___ aprovados?",
+     "a": "Fomos (1ª pessoa do plural)."
+    },
+    {
+     "q": "VTD + se?",
+     "a": "Concorda com o sujeito paciente (vendem-se casas)."
+    },
+    {
+     "q": "VTI + se?",
+     "a": "Singular (precisa-se de funcionários)."
+    },
+    {
+     "q": "Plural de menos?",
+     "a": "Não varia: menos pessoas."
+    },
+    {
+     "q": "Meio cansada ou meia cansada?",
+     "a": "Meio cansada (advérbio, invariável)."
+    },
+    {
+     "q": "Anexo concorda?",
+     "a": "Sim (anexas); \"em anexo\" é invariável."
+    },
+    {
+     "q": "Mais de um + singular ou plural?",
+     "a": "Singular (salvo reciprocidade ou repetição)."
+    },
+    {
+     "q": "Ou: singular ou plural?",
+     "a": "Singular se exclui; plural se soma."
+    }
+   ]
+  },
+  {
+   "id": "portugues-relativos",
+   "titulo": "Extra B. Emprego dos pronomes relativos (e regência)",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## O que são\n**Pronomes relativos** retomam um termo anterior (**antecedente**) e **introduzem oração subordinada adjetiva**: **que, quem, o qual (a qual, os quais, as quais), cujo (cuja, cujos, cujas), onde, quanto, como, quando**.\n\n## Os pronomes\n| Relativo | Uso | Exemplo |\n|---|---|---|\n| **que** | retoma pessoa ou coisa; **o mais comum** | O processo **que** analisei... |\n| **quem** | retoma **pessoa**; **sempre com preposição** | O amigo **com quem** falei... |\n| **o qual / a qual / os quais** | = que; usado com preposição ou para evitar ambiguidade | A empresa **à qual** enviei... |\n| **cujo, cuja, cujos, cujas** | **posse**; concorda com o **possuído** (o que vem depois); **não leva artigo** | O servidor **cujo carro** foi roubado... |\n| **onde** | **lugar** (= em que) | A cidade **onde** nasci... |\n| **quanto** | após tudo, tanto, todos | Tudo **quanto** pediu foi entregue. |\n\n## O segredo: a REGÊNCIA do verbo (ou nome) manda na preposição\nO relativo **herda** a preposição exigida pelo verbo da oração adjetiva, e ela vem **antes** do relativo.\n| Verbo da oração adjetiva | Preposição | Frase correta |\n|---|---|---|\n| precisar **de** | de | O livro **de que** preciso. |\n| aspirar **a** | a | O cargo **a que** aspiro. |\n| assistir **a** (ver) | a | O filme **a que** assisti. |\n| gostar **de** | de | A pessoa **de quem** gosto. |\n| nascer/morar **em** | em | A cidade **em que** (ou **onde**) nasci. |\n| falar **com** | com | O colega **com quem** falei. |\n| referir-se **a** | a | O tema **a que** me refiro. |\n| obedecer **a** | a | A norma **a que** obedeço. |\n| lembrar-se **de** | de | O prazo **de que** me lembro. |\n| visar **a** | a | O objetivo **a que** visamos. |\n\n### Erros clássicos\n- Errado: \"O livro **que** preciso\" → Certo: \"O livro **de que** preciso\" (falta a preposição).\n- Errado: \"O cargo **que** aspiro\" → Certo: \"O cargo **a que** aspiro\".\n- Errado: \"O funcionário **cujo o** carro...\" → Certo: \"**cujo** carro\" (sem artigo).\n- Errado: \"O homem **que** o carro foi roubado\" → Certo: \"O homem **cujo** carro foi roubado\".\n- Errado: \"O servidor **do qual o carro dele**\" (pleonasmo).\n- \"**Quem** sem antecedente\": \"**Quem** estuda aprende\" (relativo sem antecedente, 3ª singular).\n\n## Passo a passo\n1. Isole a **oração adjetiva** e ache o **verbo**.\n2. Pergunte: **esse verbo pede preposição**? Qual?\n3. Coloque a preposição **antes do relativo** (de que, a que, em que...).\n4. Se houver **posse**, use **cujo** (concordando com o possuído e **sem artigo**).\n5. Se o antecedente for **pessoa** e há preposição, **quem** ou **o qual** (com preposição): \"o amigo **com quem/com o qual**\".\n\n## Pegadinhas\n- Relativo sem preposição quando o verbo exige uma.\n- **Cujo** + artigo.\n- **Onde** com ideia de movimento (\"aonde\") e com antecedente não locativo (\"a lei onde...\": evitar).",
+   "dicas": [
+    "A regência do verbo da oração adjetiva decide a preposição: de que, a que, em que, com que.",
+    "Cujo = posse, sem artigo, concorda com o possuído.",
+    "Quem sempre vem com preposição (com quem, de quem, a quem).",
+    "Onde = lugar; se há movimento, aonde.",
+    "Trocar \"que\" por \"o qual\" ajuda a ver a preposição."
+   ],
+   "pegadinhas": [
+    "\"O livro que preciso\": falta \"de\" (de que preciso).",
+    "\"O cargo que aspiro\": falta \"a\" (a que aspiro).",
+    "\"Cujo o\": cujo dispensa artigo.",
+    "\"A cidade a que nasci\": nascer pede \"em\" (em que/onde).",
+    "\"O homem que o carro foi roubado\": o relativo de posse é \"cujo\".",
+    "\"Quem\" sem preposição quando o verbo a exige."
+   ],
+   "flashcards": [
+    {
+     "q": "Pronomes relativos?",
+     "a": "Que, quem, o qual, cujo, onde, quanto (e como/quando)."
+    },
+    {
+     "q": "Cujo leva artigo depois?",
+     "a": "Nunca."
+    },
+    {
+     "q": "O livro ___ preciso.",
+     "a": "De que."
+    },
+    {
+     "q": "O cargo ___ aspiro.",
+     "a": "A que."
+    },
+    {
+     "q": "A cidade ___ nasci.",
+     "a": "Em que (ou onde)."
+    },
+    {
+     "q": "O amigo ___ falei.",
+     "a": "Com quem (com o qual)."
+    },
+    {
+     "q": "O filme ___ assisti.",
+     "a": "A que (ao qual)."
+    },
+    {
+     "q": "Concordância de cujo?",
+     "a": "Com o possuído (cujo carro, cujas casas)."
+    },
+    {
+     "q": "Quem pode vir sem preposição?",
+     "a": "Como sujeito: Quem estuda aprende."
+    },
+    {
+     "q": "Oração iniciada por relativo é...?",
+     "a": "Subordinada adjetiva."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "portugues-interpretacao-q11",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n\"O concurso público é, para muitos brasileiros, a principal porta de entrada para a estabilidade profissional. Isso explica por que as inscrições costumam atrair candidatos de diferentes formações, muitos deles dispostos a estudar por anos até conseguir a vaga. Críticos observam, porém, que a busca pela estabilidade pode desviar talentos de áreas mais inovadoras.\"\n\nSegundo o texto, a crítica feita ao fenômeno descrito é que",
+   "alternativas": {
+    "A": "o concurso público é injusto com candidatos de outras formações.",
+    "B": "estudar por anos para o concurso é um esforço inútil.",
+    "C": "a estabilidade profissional é indesejável para qualquer trabalhador.",
+    "D": "a procura por estabilidade pode afastar talentos de áreas mais inovadoras."
+   },
+   "gabarito": "D",
+   "explicacao": "A crítica está no trecho iniciado por \"porém\". As demais alternativas atribuem ao texto afirmações que ele não faz."
+  },
+  {
+   "id": "portugues-interpretacao-q12",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Com base no texto anterior (concurso público como porta de entrada para a estabilidade), o termo \"Isso\", em \"Isso explica por que as inscrições costumam atrair candidatos...\", retoma",
+   "alternativas": {
+    "A": "as inscrições de candidatos.",
+    "B": "o fato de o concurso ser, para muitos, a principal porta de entrada para a estabilidade.",
+    "C": "os críticos do concurso.",
+    "D": "as diferentes formações dos candidatos."
+   },
+   "gabarito": "B",
+   "explicacao": "\"Isso\" retoma a informação do período anterior, que funciona como causa do que se explica a seguir."
+  },
+  {
+   "id": "portugues-interpretacao-q13",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Ainda com base no texto sobre concurso público, assinale a alternativa que NÃO pode ser inferida dele.",
+   "alternativas": {
+    "A": "Candidatos de áreas distintas se inscrevem em concursos.",
+    "B": "Há quem critique o foco na estabilidade profissional.",
+    "C": "Todos os candidatos estudam por anos antes de serem aprovados.",
+    "D": "Para muitos, o concurso representa segurança profissional."
+   },
+   "gabarito": "C",
+   "explicacao": "O texto diz que \"muitos\" estão dispostos a estudar por anos; \"todos\" e \"antes de serem aprovados\" são generalizações indevidas."
+  },
+  {
+   "id": "portugues-interpretacao-q14",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n\"Não basta ampliar o número de vagas em creches. É preciso, antes, garantir que elas funcionem com professores qualificados e merenda de qualidade; do contrário, a expansão apenas multiplica instalações precárias. Portanto, o desafio da educação infantil é tanto de quantidade quanto de qualidade.\"\n\nA tese defendida pelo autor é que",
+   "alternativas": {
+    "A": "ampliar as vagas é insuficiente se o serviço oferecido não tiver qualidade.",
+    "B": "ampliar o número de creches é prejudicial à educação infantil.",
+    "C": "a qualidade do serviço dispensa a ampliação das vagas.",
+    "D": "o desafio da educação infantil é apenas de quantidade."
+   },
+   "gabarito": "A",
+   "explicacao": "O texto liga quantidade e qualidade (\"tanto... quanto\"), mostrando que só ampliar não basta."
+  },
+  {
+   "id": "portugues-interpretacao-q15",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "No texto sobre as creches, a expressão \"do contrário\" equivale, quanto ao sentido, a",
+   "alternativas": {
+    "A": "por isso.",
+    "B": "além disso.",
+    "C": "ainda que.",
+    "D": "caso contrário."
+   },
+   "gabarito": "D",
+   "explicacao": "\"Do contrário\" = \"caso contrário\" (se não houver professores qualificados e merenda de qualidade...)."
+  },
+  {
+   "id": "portugues-interpretacao-q16",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia: \"O vereador, tido como figura 'esquiva' nas votações, evitou comentar o projeto, retirando-se do plenário antes que a pauta fosse lida.\"\n\nNo contexto, o adjetivo \"esquiva\" significa",
+   "alternativas": {
+    "A": "agressiva nos debates.",
+    "B": "generosa com os colegas.",
+    "C": "popular entre os eleitores.",
+    "D": "que foge ao confronto ou à exposição."
+   },
+   "gabarito": "D",
+   "explicacao": "O comportamento descrito (evita comentar, sai do plenário) revela quem se esquiva, foge."
+  },
+  {
+   "id": "portugues-conectivos-q09",
+   "topico": "portugues-conectivos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que reescreve \"Apesar de o prazo ter sido ampliado, poucos se inscreveram\" sem alterar o sentido.",
+   "alternativas": {
+    "A": "\"Como o prazo foi ampliado, poucos se inscreveram.\"",
+    "B": "\"Se o prazo for ampliado, poucos se inscreverão.\"",
+    "C": "\"Embora o prazo tenha sido ampliado, poucos se inscreveram.\"",
+    "D": "\"Porque o prazo foi ampliado, poucos se inscreveram.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"Apesar de\" e \"embora\" são concessivos (contraste sem impedir). As demais criam causa ou condição."
+  },
+  {
+   "id": "portugues-conectivos-q10",
+   "topico": "portugues-conectivos",
+   "dificuldade": 3,
+   "enunciado": "Em \"O evento ocorrerá, a menos que chova\", a locução \"a menos que\" expressa",
+   "alternativas": {
+    "A": "causa.",
+    "B": "condição (exceção).",
+    "C": "finalidade.",
+    "D": "proporção."
+   },
+   "gabarito": "B",
+   "explicacao": "\"A menos que\" = \"salvo se\": conjunção condicional (negativa)."
+  },
+  {
+   "id": "portugues-regencia-q09",
+   "topico": "portugues-regencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto à regência do verbo \"comparecer\".",
+   "alternativas": {
+    "A": "\"Os contribuintes devem comparecer à Secretaria.\"",
+    "B": "\"Os contribuintes devem comparecer na Secretaria.\"",
+    "C": "\"Os contribuintes devem comparecer da Secretaria.\"",
+    "D": "\"Os contribuintes devem comparecer com a Secretaria.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Comparecer pede a preposição \"a\" (comparecer a algum lugar); com \"a Secretaria\" resulta em \"à\"."
+  },
+  {
+   "id": "portugues-regencia-q10",
+   "topico": "portugues-regencia",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que a regência nominal está INCORRETA.",
+   "alternativas": {
+    "A": "\"Ela é apta para o cargo.\"",
+    "B": "\"Tenho aversão com a burocracia.\"",
+    "C": "\"Mostrou-se favorável à proposta.\"",
+    "D": "\"Tem curiosidade por novidades.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Aversão rege \"a\", \"por\" ou \"para\"; \"com\" é inadequado. As demais estão corretas."
+  },
+  {
+   "id": "portugues-verbos-q09",
+   "topico": "portugues-verbos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta a correlação verbal correta.",
+   "alternativas": {
+    "A": "\"Se ele quisesse, resolveria o problema.\"",
+    "B": "\"Se ele quiser, resolveria o problema.\"",
+    "C": "\"Se ele quisesse, resolverá o problema.\"",
+    "D": "\"Se ele querer, resolveria o problema.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Imperfeito do subjuntivo (\"quisesse\") combina com futuro do pretérito (\"resolveria\")."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q07",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 3,
+   "enunciado": "Considere os períodos: (1) Por isso, a Prefeitura decidiu ampliar o horário. (2) O posto de saúde registrava filas enormes pela manhã. (3) Essa medida reduziu o tempo de espera. A ordem que forma um texto coeso e coerente é",
+   "alternativas": {
+    "A": "1 – 2 – 3",
+    "B": "3 – 1 – 2",
+    "C": "2 – 1 – 3",
+    "D": "1 – 3 – 2"
+   },
+   "gabarito": "C",
+   "explicacao": "(2) apresenta o problema; (1) \"Por isso\" traz a consequência (decisão); (3) \"Essa medida\" retoma a decisão e apresenta o resultado."
+  },
+  {
+   "id": "portugues-pontuacao-q09",
+   "topico": "portugues-pontuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa cuja pontuação está correta.",
+   "alternativas": {
+    "A": "\"Os convidados porém, não compareceram.\"",
+    "B": "\"Os convidados, porém não compareceram.\"",
+    "C": "\"Os, convidados porém não compareceram.\"",
+    "D": "\"Os convidados, porém, não compareceram.\""
+   },
+   "gabarito": "D",
+   "explicacao": "A conjunção \"porém\" deslocada, no meio da oração, é isolada por duas vírgulas."
+  },
+  {
+   "id": "portugues-acentuacao-q08",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas.",
+   "alternativas": {
+    "A": "fácil, álbum, órfão, útil",
+    "B": "facil, álbum, órfão, útil",
+    "C": "fácil, álbum, orfão, útil",
+    "D": "fácil, álbum, órfão, util"
+   },
+   "gabarito": "A",
+   "explicacao": "Paroxítonas terminadas em l, um e ão (e -il) levam acento: fácil, álbum, órfão, útil."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q07",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 2,
+   "enunciado": "Em \"O orador foi prolixo\", a palavra \"prolixo\" pode ser substituída, sem prejuízo de sentido, por",
+   "alternativas": {
+    "A": "conciso.",
+    "B": "objetivo.",
+    "C": "silencioso.",
+    "D": "verboso."
+   },
+   "gabarito": "D",
+   "explicacao": "Prolixo = que fala demais, longo e repetitivo (verboso). Conciso e objetivo são opostos."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q08",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 2,
+   "enunciado": "\"Ela é tão forte que carregaria o mundo nas costas.\" Essa frase exemplifica",
+   "alternativas": {
+    "A": "eufemismo.",
+    "B": "ironia.",
+    "C": "hipérbole.",
+    "D": "antítese."
+   },
+   "gabarito": "C",
+   "explicacao": "O exagero deliberado para enfatizar a força caracteriza a hipérbole."
+  },
+  {
+   "id": "portugues-ortografia-q09",
+   "topico": "portugues-ortografia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto ao emprego de \"demais/de mais\" e \"mal/mau\".",
+   "alternativas": {
+    "A": "\"Comeu de mais e passou mal.\"",
+    "B": "\"Comeu demais e passou mal.\"",
+    "C": "\"Comeu demais e passou mau.\"",
+    "D": "\"Comeu de mais e passou mau.\""
+   },
+   "gabarito": "B",
+   "explicacao": "\"Demais\" = muito (advérbio de intensidade); \"passou mal\" (oposto de bem)."
+  }
+ ]
+}

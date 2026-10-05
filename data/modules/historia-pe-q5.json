@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q041",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que diferencia corretamente os movimentos pernambucanos.",
+   "alternativas": {
+    "A": "A Insurreição de 1645-54 combateu os holandeses; a Revolução de 1817 foi republicana e separatista contra D. João VI.",
+    "B": "A Insurreição de 1645-54 foi republicana contra D. João VI.",
+    "C": "A Revolução de 1817 expulsou os holandeses.",
+    "D": "A Confederação do Equador (1824) ocorreu contra a WIC.",
+    "E": "A Praieira (1848) foi movimento contra os holandeses."
+   },
+   "gabarito": "A",
+   "explicacao": "A distinção está na letra A.",
+   "resolucao_md": "**O que a questão pede**\nDistinguir movimentos pelo inimigo e pelo século.\n\n**Conceito/Regra rápida**\n**1654** holandeses; **1710** mascates; **1817** Coroa; **1824** Pedro I; **1848** conservadores.\n\n**Passo a passo**\n1. Pergunte: contra quem? Quando?\n2. Elimine as alternativas que misturam movimentos e inimigos.\n\n**Pegadinha**\nConfundir 1654 com 1817 (sempre pergunta clássica).\n\n**Macete**\nSéculo XVII = holandeses.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q042",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 2,
+   "enunciado": "A capitulação holandesa ocorreu em 1654 e foi sucedida pelo Tratado de Haia (1661), que",
+   "alternativas": {
+    "A": "reconheceu a independência do Brasil.",
+    "B": "formalizou a paz entre Portugal e a Holanda e encerrou o conflito pelo Brasil.",
+    "C": "devolveu Pernambuco à Espanha.",
+    "D": "entregou o Recife definitivamente aos holandeses.",
+    "E": "criou a Capitania de Itamaracá."
+   },
+   "gabarito": "B",
+   "explicacao": "Haia selou a paz.",
+   "resolucao_md": "**O que a questão pede**\nCompreender o desfecho diplomático.\n\n**Conceito/Regra rápida**\n1654 = fim militar; **1661 = Haia**, acordo diplomático.\n\n**Passo a passo**\n1. Militar primeiro, diplomacia depois.\n2. Elimine alternativas fora de contexto.\n\n**Pegadinha**\nAchar que o fim da guerra e o tratado são a mesma data.\n\n**Macete**\n54 luta, 61 papel.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q043",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 1,
+   "enunciado": "Na Guerra dos Mascates (1710-1711), os grupos em conflito eram",
+   "alternativas": {
+    "A": "os holandeses e os portugueses.",
+    "B": "os cabanos e o governo regencial.",
+    "C": "a nobreza açucareira de Olinda e os comerciantes portugueses do Recife.",
+    "D": "praieiros e guabirus.",
+    "E": "os quilombolas e os bandeirantes."
+   },
+   "gabarito": "C",
+   "explicacao": "Olinda x Recife.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer os lados do conflito.\n\n**Conceito/Regra rápida**\n**Olinda** = pés-rombudos (senhores de engenho); **Recife** = mascates (comerciantes).\n\n**Passo a passo**\n1. Pense: devedores x credores.\n2. As demais opções são de outros movimentos.\n\n**Pegadinha**\nTrocar as alcunhas dos lados.\n\n**Macete**\nOlinda = engenho; Recife = comércio.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q044",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 2,
+   "enunciado": "O estopim da Guerra dos Mascates foi",
+   "alternativas": {
+    "A": "a elevação do Recife a capital, em 1827.",
+    "B": "a dissolução da Constituinte em 1823.",
+    "C": "a demissão do gabinete liberal em 1848.",
+    "D": "a elevação do Recife a vila, em 1709, com Câmara e pelourinho próprios.",
+    "E": "a abdicação de D. Pedro I em 1831."
+   },
+   "gabarito": "D",
+   "explicacao": "Recife vila.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a causa imediata.\n\n**Conceito/Regra rápida**\nRecife vila (**1709**) → pelourinho (**1710**) → derrubada → guerra.\n\n**Passo a passo**\n1. Pelourinho = símbolo de autonomia.\n2. As outras são causas de outros movimentos.\n\n**Pegadinha**\nMisturar as causas com as de 1824 e 1848.\n\n**Macete**\nVila em 1709.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q045",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 2,
+   "enunciado": "Bernardo Vieira de Melo foi",
+   "alternativas": {
+    "A": "governador ferido em emboscada, que fugiu para a Bahia.",
+    "B": "bispo mediador do conflito.",
+    "C": "governador que chegou em 1711 e prendeu líderes olindenses.",
+    "D": "principal chefe dos mascates.",
+    "E": "líder do lado de Olinda, que chegou a cogitar um governo próprio à moda de Veneza."
+   },
+   "gabarito": "E",
+   "explicacao": "Líder olindense.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem e papel.\n\n**Conceito/Regra rápida**\n**Sebastião de Castro e Caldas** = governador ferido; **C. Manuel Álvares da Costa** = bispo mediador; **Félix José Machado** = novo governador em 1711.\n\n**Passo a passo**\n1. Liste os três nomes mais cobrados.\n2. Elimine as outras opções pelas funções.\n\n**Pegadinha**\nConfundir Bernardo Vieira com o governador.\n\n**Macete**\nBernardo = Olinda.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q046",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 2,
+   "enunciado": "O governador Sebastião de Castro e Caldas, durante o conflito,",
+   "alternativas": {
+    "A": "foi ferido numa emboscada e fugiu para a Bahia, após o pelourinho ser erguido no Recife.",
+    "B": "foi aclamado rei de Olinda.",
+    "C": "derrubou o pelourinho com apoio do Recife.",
+    "D": "mediou o conflito como bispo.",
+    "E": "prendeu os líderes olindenses em 1711."
+   },
+   "gabarito": "A",
+   "explicacao": "Fugiu para a Bahia.",
+   "resolucao_md": "**O que a questão pede**\nAssociar governador e sequência de fatos.\n\n**Conceito/Regra rápida**\n1710: pelourinho erguido por ordem do governador → derrubado por partidários de Olinda → governador ferido e foge.\n\n**Passo a passo**\n1. Reconstitua a sequência.\n2. Elimine as demais.\n\n**Pegadinha**\nAtribuir a prisão de 1711 a Castro e Caldas.\n\n**Macete**\nCastro e Caldas foge; Félix prende.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q047",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 3,
+   "enunciado": "Sobre a Guerra dos Mascates, analise as afirmativas.\n\nI. A elite de Olinda estava endividada com os mercadores do Recife.\nII. Em 1709, o Recife foi elevado a vila e ganhou Câmara própria.\nIII. Os mascates eram os senhores de engenho de Olinda.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas II.",
+    "B": "Apenas I e II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e III.",
+    "E": "Apenas II e III."
+   },
+   "gabarito": "B",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar causas e vocabulário.\n\n**Conceito/Regra rápida**\n**Mascates** = comerciantes portugueses do Recife; **pés-rombudos** = senhores de engenho de Olinda.\n\n**Passo a passo**\n1. I: correto. II: correto.\n2. III: inverte os lados.\n3. Resposta: I e II.\n\n**Pegadinha**\nInverter os apelidos.\n\n**Macete**\nMascate = comerciante.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q048",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre as consequências da Guerra dos Mascates.",
+   "alternativas": {
+    "A": "O Recife manteve a autonomia.",
+    "B": "Foi vitória política do Recife e dos comerciantes.",
+    "C": "Olinda saiu fortalecida e recuperou o controle político sobre o Recife.",
+    "D": "Houve declínio da supremacia de Olinda.",
+    "E": "A Coroa reforçou o controle sobre a capitania."
+   },
+   "gabarito": "C",
+   "explicacao": "A incorreta é C.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nResultado: **vitória do Recife**; Olinda perdeu poder.\n\n**Passo a passo**\n1. Conferir quem venceu.\n2. A, B, D e E estão alinhadas.\n\n**Pegadinha**\nInverter vencedor e derrotado.\n\n**Macete**\nQuem venceu? Recife.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q049",
+   "topico": "historia-pe-mascates",
+   "dificuldade": 3,
+   "enunciado": "Leia: «Os senhores de terras, endividados, viam no pelourinho do Recife a perda de seu mando; os comerciantes, no mesmo símbolo, a conquista da autonomia.» O trecho revela que o conflito foi, sobretudo,",
+   "alternativas": {
+    "A": "religioso, entre católicos e protestantes.",
+    "B": "racial, entre brancos e negros.",
+    "C": "separatista contra Portugal, de caráter republicano.",
+    "D": "econômico e político, opondo devedores rurais a credores urbanos.",
+    "E": "étnico, entre indígenas e portugueses."
+   },
+   "gabarito": "D",
+   "explicacao": "Econômico-político.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar a natureza do conflito.\n\n**Conceito/Regra rápida**\nPalavras-chave: **endividados**, **pelourinho**, **autonomia** → econômico e político.\n\n**Passo a passo**\n1. Cada alternativa traz um tipo de conflito.\n2. Só o econômico-político se apoia no trecho.\n\n**Pegadinha**\nAssociar toda revolta pernambucana a república ou separatismo.\n\n**Macete**\nDívidas = economia.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q050",
+   "topico": "historia-pe-rev-1817",
+   "dificuldade": 1,
+   "enunciado": "A Revolução Pernambucana de 1817 foi",
+   "alternativas": {
+    "A": "monarquista, para restaurar o poder de D. Pedro I.",
+    "B": "federalista, contra a Constituição de 1824.",
+    "C": "liberal, para derrubar o Poder Moderador em 1848.",
+    "D": "restauradora, para expulsar os holandeses.",
+    "E": "republicana e separatista, deflagrada em 6 de março no Recife, contra a monarquia de D. João VI."
+   },
+   "gabarito": "E",
+   "explicacao": "Alternativa E.",
+   "resolucao_md": "**O que a questão pede**\nCaracterizar o movimento.\n\n**Conceito/Regra rápida**\n**6 de março de 1817**, republicana, contra **C. João VI**. Federalista/1824 é outro; 1848 é Praieira.\n\n**Passo a passo**\n1. Pergunte: contra quem? Qual regime? Qual data?\n2. As demais opções pertencem a outros movimentos.\n\n**Pegadinha**\nMisturar 1817 com 1824 e 1848.\n\n**Macete**\n1817 = república contra João VI.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q081",
+   "topico": "historia-pe-republica-velha",
+   "dificuldade": 2,
+   "enunciado": "Francisco de Assis Rosa e Silva foi",
+   "alternativas": {
+    "A": "chefe de poderoso grupo político pernambucano e vice-presidente da República (1898-1902).",
+    "B": "governador de Pernambuco de 1911 a 1915 após derrotar as oligarquias.",
+    "C": "interventor de Pernambuco em 1930.",
+    "D": "líder das Ligas Camponesas.",
+    "E": "chefe do cangaço."
+   },
+   "gabarito": "A",
+   "explicacao": "Vice-presidente.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem.\n\n**Conceito/Regra rápida**\n**Rosa e Silva** = oligarquia; **Dantas Barreto** = Salvação (1911-15); **Lima Cavalcanti** = 1930.\n\n**Passo a passo**\n1. Rosa e Silva = vice.\n2. As outras funções são de outros nomes.\n\n**Pegadinha**\nTrocar com Dantas Barreto.\n\n**Macete**\nRosa = vice.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q082",
+   "topico": "historia-pe-republica-velha",
+   "dificuldade": 2,
+   "enunciado": "O general Dantas Barreto governou o Estado de 1911 a 1915 e",
+   "alternativas": {
+    "A": "foi interventor durante o Estado Novo.",
+    "B": "derrotou a oligarquia rosista no episódio conhecido como Salvação.",
+    "C": "foi fuzilado em 1825.",
+    "D": "liderou o levante de 1935.",
+    "E": "fundou a SUDENE."
+   },
+   "gabarito": "B",
+   "explicacao": "Derrotou Rosa e Silva.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem e episódio.\n\n**Conceito/Regra rápida**\n**Salvação (1911)**: queda do rosismo.\n\n**Passo a passo**\n1. Pense em 1911.\n2. As demais são de outras épocas.\n\n**Pegadinha**\nTrocar com Agamenon.\n\n**Macete**\nDantas = 1911.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q083",
+   "topico": "historia-pe-republica-velha",
+   "dificuldade": 2,
+   "enunciado": "A Política dos Governadores (1898-1902), de Campos Sales, ligava os governos estaduais ao presidente e dependia",
+   "alternativas": {
+    "A": "de sindicatos e partidos operários.",
+    "B": "do voto direto e secreto.",
+    "C": "das oligarquias locais e do coronelismo.",
+    "D": "de intervenções militares estrangeiras.",
+    "E": "de eleições diretas para governador com voto obrigatório."
+   },
+   "gabarito": "C",
+   "explicacao": "Oligarquias locais.",
+   "resolucao_md": "**O que a questão pede**\nEntender o mecanismo político.\n\n**Conceito/Regra rápida**\nOligarquia estadual dá votos ao presidente e recebe autonomia.\n\n**Passo a passo**\n1. Troca de apoios.\n2. As demais estão fora do contexto.\n\n**Pegadinha**\nAchar que era democrática.\n\n**Macete**\nGovernadores = oligarquias.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q084",
+   "topico": "historia-pe-republica-velha",
+   "dificuldade": 2,
+   "enunciado": "Virgulino Ferreira da Silva, o Lampião,",
+   "alternativas": {
+    "A": "nasceu em Recife, em 1830, e foi fuzilado em 1849.",
+    "B": "foi chefe das Ligas Camponesas, em 1955.",
+    "C": "foi governador de Pernambuco em 1935.",
+    "D": "nasceu em Serra Talhada (PE), em 1898, e foi morto em 1938, em Angicos (SE).",
+    "E": "foi cabano em 1832."
+   },
+   "gabarito": "D",
+   "explicacao": "Serra Talhada.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o cangaceiro.\n\n**Conceito/Regra rápida**\nLampião: nasceu em Serra Talhada, PE; morreu em 1938 em Angicos, SE.\n\n**Passo a passo**\n1. Pense: cangaço = Primeira República e Era Vargas.\n2. Elimine as demais.\n\n**Pegadinha**\nDatar o cangaço no Império.\n\n**Macete**\nLampião: 1898-1938.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q085",
+   "topico": "historia-pe-republica-velha",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre Pernambuco na Primeira República.",
+   "alternativas": {
+    "A": "A economia ainda girava em torno do açúcar e do algodão.",
+    "B": "As usinas passaram a substituir os engenhos.",
+    "C": "Havia forte desigualdade rural.",
+    "D": "O frevo se consolidava nos clubes carnavalescos.",
+    "E": "A economia abandonou o açúcar em favor do café."
+   },
+   "gabarito": "E",
+   "explicacao": "A incorreta é E.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nPernambuco manteve açúcar e algodão; café é de SP/MG.\n\n**Passo a passo**\n1. Associar café ao Sudeste.\n2. E contradiz A.\n\n**Pegadinha**\nGeneralizar o café ao País todo.\n\n**Macete**\nCafé = Sudeste.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q086",
+   "topico": "historia-pe-vargas",
+   "dificuldade": 2,
+   "enunciado": "Em 1930, em Pernambuco,",
+   "alternativas": {
+    "A": "o governador Estácio Coimbra foi deposto e Carlos de Lima Cavalcanti foi nomeado interventor.",
+    "B": "Agamenon Magalhães foi eleito governador.",
+    "C": "Miguel Arraes tomou posse como governador.",
+    "D": "Dantas Barreto derrotou Rosa e Silva.",
+    "E": "Frei Caneca foi fuzilado."
+   },
+   "gabarito": "A",
+   "explicacao": "Lima Cavalcanti.",
+   "resolucao_md": "**O que a questão pede**\nDatar eventos.\n\n**Conceito/Regra rápida**\n1930: queda de Coimbra; interventor Lima Cavalcanti. 1937-45: Agamenon.\n\n**Passo a passo**\n1. Ligue 1930 a Lima Cavalcanti.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar interventores.\n\n**Macete**\n1930 = Lima Cavalcanti.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q087",
+   "topico": "historia-pe-vargas",
+   "dificuldade": 2,
+   "enunciado": "Sobre a Intentona Comunista de 1935 no Recife, é correto afirmar que",
+   "alternativas": {
+    "A": "foi uma revolta de camponeses em 1964.",
+    "B": "foi um levante militar liderado pela ANL e pelo Partido Comunista, ocorrido em novembro, e serviu de pretexto para a repressão.",
+    "C": "foi um movimento restauracionista de 1832.",
+    "D": "levou à criação da SUDENE.",
+    "E": "tinha como objetivo restaurar a monarquia."
+   },
+   "gabarito": "B",
+   "explicacao": "Levante de 1935.",
+   "resolucao_md": "**O que a questão pede**\nCaracterizar o fato.\n\n**Conceito/Regra rápida**\n**ANL + PC** em novembro de 1935 (Natal, Recife e Rio).\n\n**Passo a passo**\n1. 1935 = ANL.\n2. Elimine as demais.\n\n**Pegadinha**\nDatar em 1964.\n\n**Macete**\n35 = ANL.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q088",
+   "topico": "historia-pe-vargas",
+   "dificuldade": 2,
+   "enunciado": "Agamenon Magalhães, interventor em Pernambuco de 1937 a 1945, foi responsável por",
+   "alternativas": {
+    "A": "promulgar o Acordo do Campo.",
+    "B": "dirigir o MCP.",
+    "C": "criar a Liga Social Contra o Mocambo e controlar o Estado com autoritarismo e modernização urbana.",
+    "D": "liderar as Ligas Camponesas.",
+    "E": "ser prefeito do Recife em 1959."
+   },
+   "gabarito": "C",
+   "explicacao": "Liga Social Contra o Mocambo.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o interventor.\n\n**Conceito/Regra rápida**\nEstado Novo: **Agamenon**, **Liga Social Contra o Mocambo**.\n\n**Passo a passo**\n1. Mocambo → Agamenon.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar com Arraes.\n\n**Macete**\nAgamenon = mocambo.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q089",
+   "topico": "historia-pe-vargas",
+   "dificuldade": 2,
+   "enunciado": "O Estado Novo foi instaurado por Vargas em",
+   "alternativas": {
+    "A": "1º de abril de 1964.",
+    "B": "6 de março de 1817.",
+    "C": "2 de julho de 1824.",
+    "D": "10 de novembro de 1937, com a Constituição de 1937.",
+    "E": "15 de novembro de 1889."
+   },
+   "gabarito": "D",
+   "explicacao": "10 de novembro de 1937.",
+   "resolucao_md": "**O que a questão pede**\nDatar.\n\n**Conceito/Regra rápida**\n10/11/1937; fechamento do Congresso.\n\n**Passo a passo**\n1. Associe 37 a Estado Novo.\n2. As demais são outras datas.\n\n**Pegadinha**\nConfundir com 1964.\n\n**Macete**\n37 = Estado Novo.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q090",
+   "topico": "historia-pe-vargas",
+   "dificuldade": 3,
+   "enunciado": "Sobre o Estado Novo em Pernambuco, analise as afirmativas.\n\nI. Houve censura e fechamento de jornais.\nII. Houve perseguição a comunistas e aos terreiros de Xangô.\nIII. Agamenon Magalhães foi governador eleito pelo voto direto.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas III.",
+    "B": "Apenas I e III.",
+    "C": "Apenas II e III.",
+    "D": "I, II e III.",
+    "E": "Apenas I e II."
+   },
+   "gabarito": "E",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar fatos.\n\n**Conceito/Regra rápida**\nAgamenon era **interventor** (nomeado), não eleito.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado.\n3. Resposta: I e II.\n\n**Pegadinha**\nConfundir interventor com governador eleito.\n\n**Macete**\nInterventor = nomeado.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

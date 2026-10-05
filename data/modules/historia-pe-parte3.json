@@ -1,0 +1,153 @@
+{
+  "id": "historia-pe",
+  "titulo": "História de Pernambuco",
+  "disciplina": "historia",
+  "descricao": "Cobre todo o Anexo II de História de Pernambuco (10 questões na prova): colonização, açúcar, Olinda e Recife, holandeses, movimentos de resistência, período republicano, cultura popular e aspectos afro-brasileiros. A AOCP cobra sobretudo datas, personagens e causas trocados entre os movimentos (1654 x 1710 x 1817 x 1824 x 1848).",
+  "topicos": [
+    {
+      "id": "historia-pe-ditadura-redemocratizacao",
+      "titulo": "6.3 Ditadura Militar, redemocratização e Miguel Arraes",
+      "prioridade": 2,
+      "horas": 3,
+      "resumo_md": "## Antes de 1964: Pernambuco na efervescência social\nNo início dos anos 1960, o Estado vivia intensa mobilização:\n- **Ligas Camponesas**, lideradas por **Francisco Julião**, nascidas no **Engenho Galileia** (Vitória de Santo Antão, 1955), lutavam por **reforma agrária**;\n- **SUDENE** (1959), de **Celso Furtado**, com sede no Recife, para o desenvolvimento do Nordeste;\n- **Movimento de Cultura Popular (MCP)** e a alfabetização de **Paulo Freire** (Recife);\n- **Frente do Recife** (aliança de esquerda): **Pelópidas Silveira** e **Miguel Arraes** como prefeitos do Recife.\n\n## Miguel Arraes\n**Miguel Arraes de Alencar** (nascido no Ceará, político em Pernambuco): prefeito do Recife (**1959-1962**), eleito **governador em 1962** (assumiu em 1963). Promoveu o **Acordo do Campo** (1963), que garantiu direitos e salário mínimo ao trabalhador rural da cana, enfrentando os usineiros. Foi **deposto pelo golpe de 1964** (**1º de abril**), **preso** (Fernando de Noronha) e **exilado na Argélia**, retornando em **1979** com a anistia. Governou novamente **1987-1990** e **1995-1998**.\n\n## Ditadura Militar (1964-1985) em Pernambuco\n- Intervenção, prisões e **repressão** a camponeses, estudantes e sindicalistas; **Gregório Bezerra** foi **arrastado pelas ruas** do Recife (1964).\n- **Dom Hélder Câmara**, arcebispo de Olinda e Recife (1964-1985), denunciou torturas e defendeu os direitos humanos («**Igreja dos pobres**»); seu auxiliar, o **padre Antônio Henrique Pereira Neto**, foi assassinado em **1969**.\n- Governadores nomeados/indiretos: ex.: **Nilo Coelho**, **Marco Maciel** (1979-1982) **[VERIFICAR]**.\n- **SUDENE** foi esvaziada.\n- Cultura: tropicalismo e **Armorial** (**Ariano Suassuna**, 1970).\n\n## Redemocratização\n- **Anistia (1979)**: retorno de exilados (Arraes, Julião...).\n- **Diretas Já (1984)**: manifestações no Recife.\n- **Eleições diretas para governador (1982)**: **Roberto Magalhães** (PDS) **[VERIFICAR]**.\n- **Constituição de 1988**; **Fernando Collor**, **Marco Maciel** (vice-presidente de FHC, 1995-2002), **Jarbas Vasconcelos** (governador 1999-2006), **Eduardo Campos** (neto de Arraes, governador 2007-2014), **Paulo Câmara** (2015-2022), **Raquel Lyra** (a partir de 2023, primeira mulher governadora) **[VERIFICAR]**.\n- **Lula** nasceu em **Caetés/Garanhuns (PE)**.\n\n## Linha-resumo\n| Ano | Fato |\n|---|---|\n| 1955 | Ligas Camponesas (Galileia) |\n| 1959 | SUDENE |\n| 1962-63 | Arraes governador |\n| 1964 | Golpe; Arraes deposto |\n| 1979 | Anistia; volta de Arraes |\n| 1985 | Fim da ditadura |\n| 1988 | Constituição |",
+      "dicas": [
+        "Arraes: Acordo do Campo (1963) – deposto em 1964 – exílio – volta em 1979.",
+        "Dom Hélder = defensor dos direitos humanos no Recife.",
+        "Ligas Camponesas = Julião = Galileia (1955); SUDENE = Celso Furtado (1959)."
+      ],
+      "pegadinhas": [
+        "Dizer que Arraes ficou no cargo após 1964.",
+        "Trocar Dom Hélder Câmara por Dom Paulo Evaristo Arns (São Paulo).",
+        "Atribuir as Ligas Camponesas a Arraes (foram de Julião).",
+        "Dizer que Celso Furtado criou o MCP (foi a SUDENE)."
+      ],
+      "flashcards": [
+        {"q": "Líder das Ligas Camponesas?", "a": "Francisco Julião."},
+        {"q": "O que foi o Acordo do Campo?", "a": "Acordo de 1963 que garantiu direitos aos trabalhadores da cana, no governo Arraes."},
+        {"q": "Para onde Arraes foi exilado?", "a": "Argélia."},
+        {"q": "Quando Arraes retornou?", "a": "1979 (anistia)."},
+        {"q": "Quem foi Dom Hélder Câmara?", "a": "Arcebispo de Olinda e Recife, defensor de direitos humanos."},
+        {"q": "Autor do Movimento Armorial?", "a": "Ariano Suassuna (1970)."},
+        {"q": "Órgão de desenvolvimento do Nordeste criado em 1959?", "a": "SUDENE (Celso Furtado)."},
+        {"q": "Pernambucano vice-presidente de FHC?", "a": "Marco Maciel."}
+      ]
+    },
+    {
+      "id": "historia-pe-cultura-popular",
+      "titulo": "7. Manifestações da cultura popular pernambucana",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Frevo\n- Nasceu no **Recife** (final do séc. XIX), a partir das **bandas militares** e de **capoeiristas** que abriam caminho para elas; o nome vem de «**ferver**» (frever → frevo); registrado como termo em **1907**.\n- Dança do **passo** com **sombrinha**; ritmo acelerado.\n- Tipos: **frevo de rua** (instrumental), **frevo de bloco** (orquestra de pau e corda), **frevo-canção**.\n- **Patrimônio Imaterial do Brasil (IPHAN, 2007)** e **Patrimônio Cultural Imaterial da Humanidade (UNESCO, 2012)**.\n- **Galo da Madrugada** (1978): maior bloco do mundo no Recife. Compositores: **Capiba, Nelson Ferreira**.\n\n## Maracatu\n- **Maracatu-nação (baque virado)**: no **Recife/Olinda**, cortejo real de matriz africana (rei, rainha, **calunga** — boneca sagrada —, estandartes); ligado a irmandades do **Rosário dos Pretos** e a terreiros; instrumentos: **alfaias** (tambores), gonguê, caixa e abê.\n- **Maracatu rural (baque solto)**: **Zona da Mata Norte**; **caboclos de lança** com cabelos de papel celofane e chapéu de fitas; ritmo mais veloz.\n\n## Outras manifestações\n| Manifestação | Característica |\n|---|---|\n| **Caboclinhos** | Dança de origem indígena; flechas (preacas) e cocares |\n| **Cavalo-marinho** | Folguedo da Zona da Mata Norte; Mateus, Bastião, boi e cavalo; mestre e bobo |\n| **Ciranda** | Dança de roda; **Itamaracá**; **Lia de Itamaracá** |\n| **Coco** | Dança de roda e de tamancos, ganzá e zabumba; versos de improviso |\n| **Pastoril** | Auto natalino; pastoras (cordões azul e encarnado), mestra e Diana |\n| **Bumba-meu-boi** | Folguedo com boi, Mateus e Catirina |\n| **Bonecos gigantes de Olinda** | Homem da Meia-Noite; carnaval de Olinda |\n| **Noite dos Tambores Silenciosos** | Terça de carnaval; Pátio do Terço (Recife) |\n\n## Festas populares\n- **Carnaval**: Recife e Olinda (frevo, maracatu, bonecos).\n- **São João** (junho): **Caruaru** (capital do forró, «maior São João do mundo») e **Campina Grande (PB)** rivalizam; quadrilhas, fogueiras, milho.\n- **Festival de Inverno de Garanhuns** (julho).\n- **Paixão de Cristo de Nova Jerusalém** (Brejo da Madre de Deus).\n- **Feira de Caruaru**: patrimônio imaterial (IPHAN, 2006); **Mestre Vitalino** (artesanato de barro, Alto do Moura).\n\n## Culinária\n**Bolo de rolo**, **bolo Souza Leão**, **cartola** (banana, queijo coalho, açúcar e canela), **carne de sol**, **buchada de bode**, **tapioca**, **cuscuz**, **pamonha**, **canjica**, **mungunzá**, **sarapatel**, **caldinho de feijão**.\n\n## Música\n**Luiz Gonzaga** (baião, Exu), **Dominguinhos**, **Alceu Valença**, **Chico Science & Nação Zumbi** (**Manguebeat**, anos 1990).\n\n## Resumo\nFrevo = Recife (passo e sombrinha); Maracatu = nação (Recife) e rural (Mata Norte); Cavalo-marinho = Mata Norte; Ciranda = Itamaracá; São João = Caruaru.",
+      "dicas": [
+        "Frevo: IPHAN 2007, UNESCO 2012. Sombrinha = símbolo.",
+        "Maracatu nação = baque virado (Recife); rural = baque solto (Mata Norte).",
+        "Ciranda = Lia de Itamaracá; Coco = ganzá; Pastoril = Natal.",
+        "São João de Caruaru = «capital do forró»; Feira de Caruaru = IPHAN."
+      ],
+      "pegadinhas": [
+        "Trocar baque virado (nação) por baque solto (rural).",
+        "Atribuir o frevo à Bahia ou ao Sertão (nasceu no Recife).",
+        "Dizer que o caboclinho é de origem africana (indígena).",
+        "Confundir Pastoril (Natal) com Reisado.",
+        "Dizer que a Noite dos Tambores Silenciosos é no sábado de Carnaval (é na terça)."
+      ],
+      "flashcards": [
+        {"q": "Origem do frevo?", "a": "Recife, bandas militares e capoeira; nome de 'ferver'."},
+        {"q": "Frevo é patrimônio da UNESCO desde?", "a": "2012."},
+        {"q": "Maior bloco do mundo?", "a": "Galo da Madrugada (Recife)."},
+        {"q": "Maracatu de baque virado é de onde?", "a": "Maracatu-nação, Recife/Olinda."},
+        {"q": "Maracatu de baque solto?", "a": "Rural, Zona da Mata Norte; caboclos de lança."},
+        {"q": "Quem é Lia de Itamaracá?", "a": "Cirandeira, ícone da ciranda."},
+        {"q": "Mestre Vitalino?", "a": "Artesão de barro de Caruaru (Alto do Moura)."},
+        {"q": "Instrumento do maracatu-nação?", "a": "Alfaia."},
+        {"q": "Prato com banana, queijo coalho, açúcar e canela?", "a": "Cartola."},
+        {"q": "Rei do Baião?", "a": "Luiz Gonzaga (Exu-PE)."}
+      ]
+    },
+    {
+      "id": "historia-pe-afro",
+      "titulo": "8. Aspectos afro-brasileiros em Pernambuco",
+      "prioridade": 2,
+      "horas": 3,
+      "resumo_md": "## Presença africana\nO Recife foi um dos maiores portos de desembarque de africanos escravizados. Povos **bantos** e **iorubás/nagôs** moldaram a cultura local: música, religião, culinária, língua e identidade.\n\n## Resistência: quilombos\n- **Palmares** (séc. XVII): maior quilombo, Zumbi e Ganga Zumba (ver tópico próprio).\n- **Catucá** (Mata do Catucá, norte do Recife, séc. XIX), ligado ao **Malunguinho**; nome do cargo de chefe quilombola.\n- **Quilombos remanescentes** (ex.: **Conceição das Crioulas**, em Salgueiro, no Sertão).\n\n## Religiões de matriz africana\n- **Xangô do Recife/Nação Nagô**: nome local para o candomblé nagô; **Sítio de Pai Adão** (Recife) é um terreiro histórico.\n- **Jurema sagrada** e **Catimbó**: culto de origem indígena misturado com elementos africanos e católicos.\n- Perseguição policial aos terreiros (inclusive no Estado Novo).\n\n## Cultura\n- **Maracatu-nação**: cortejo de reis do Congo; **calunga**; **Nossa Senhora do Rosário dos Pretos** (irmandades).\n- **Afoxé**, **coco**, **ciranda**, **capoeira**; **Noite dos Tambores Silenciosos** (homenagem aos escravizados mortos).\n- **Culinária**: dendê, cuscuz, mungunzá e acarajé (vindo da Bahia, mas presente no Recife).\n\n## Pensamento e política\n- **Joaquim Nabuco** (recifense): **«O Abolicionismo»** (1883); foi figura central na campanha abolicionista.\n- **Clube do Cupim** (Recife, 1880s): organização abolicionista que auxiliava fugas de escravizados **[VERIFICAR]**.\n- **Gilberto Freyre**: Casa-Grande & Senzala (1933) (tese da «democracia racial» criticada depois).\n- Legislação: **Lei Eusébio de Queirós (1850)**, **Lei do Ventre Livre (1871)**, **Lei dos Sexagenários (1885)**, **Lei Áurea (1888)**.\n- **Lei 10.639/2003** (ensino de história e cultura afro-brasileira); **Lei 12.288/2010** (Estatuto da Igualdade Racial); **20 de novembro** (Lei 12.519/2011).\n\n## Resumo\nAfro-pernambucano = Palmares, Catucá, Xangô, maracatu, Joaquim Nabuco, Dia da Consciência Negra.",
+      "dicas": [
+        "Xangô é o nome do candomblé em Pernambuco (e Alagoas).",
+        "Maracatu-nação = herança africana (rei do Congo).",
+        "Nabuco = abolicionismo; Freyre = Casa-Grande."
+      ],
+      "pegadinhas": [
+        "Dizer que o Xangô pernambucano é o mesmo que a Umbanda.",
+        "Atribuir o livro O Abolicionismo a José do Patrocínio.",
+        "Trocar Lei do Ventre Livre (1871) por Lei dos Sexagenários (1885).",
+        "Dizer que a Jurema é exclusivamente africana."
+      ],
+      "flashcards": [
+        {"q": "Nome pernambucano do candomblé nagô?", "a": "Xangô."},
+        {"q": "Autor de O Abolicionismo?", "a": "Joaquim Nabuco (1883)."},
+        {"q": "Quilombo do Catucá?", "a": "Quilombo próximo ao Recife, liderado por Malunguinho."},
+        {"q": "Irmandade do maracatu-nação?", "a": "Nossa Senhora do Rosário dos Pretos."},
+        {"q": "Lei do Dia da Consciência Negra?", "a": "Lei 12.519/2011."},
+        {"q": "Lei que tornou obrigatório ensino de história afro-brasileira?", "a": "Lei 10.639/2003."},
+        {"q": "Ano da Lei Áurea?", "a": "1888."},
+        {"q": "Quilombo remanescente em Salgueiro?", "a": "Conceição das Crioulas."}
+      ]
+    },
+    {
+      "id": "historia-pe-linha-tempo",
+      "titulo": "9. Linha do tempo geral de Pernambuco (apoio)",
+      "prioridade": 3,
+      "horas": 2,
+      "resumo_md": "## Colonial\n| Ano | Fato |\n|---|---|\n| 1500 | Chegada dos portugueses ao Brasil |\n| 1516 | Feitoria de Igaraçu |\n| 1534 | Capitanias Hereditárias; doação a Duarte Coelho |\n| 1535 | Fundação de Olinda |\n| 1548-49 | Governo-Geral |\n| 1630 | Invasão holandesa |\n| 1637-44 | Nassau |\n| 1645-54 | Insurreição Pernambucana |\n| 1648/1649 | Batalhas dos Guararapes |\n| 1654 | Capitulação holandesa |\n| 1661 | Tratado de Haia |\n| 1678 | Acordo de Ganga Zumba |\n| 1694/1695 | Destruição de Palmares/morte de Zumbi |\n| 1709-11 | Recife vila; Guerra dos Mascates |\n\n## Império\n| Ano | Fato |\n|---|---|\n| 1801 | Conspiração dos Suassunas |\n| 1817 | Revolução Pernambucana |\n| 1822 | Independência |\n| 1824 | Confederação do Equador |\n| 1825 | Fuzilamento de Frei Caneca |\n| 1827 | Faculdade de Direito (Olinda); Recife capital |\n| 1832-35 | Cabanos |\n| 1848-49 | Praieira |\n| 1888 | Abolição |\n\n## República\n| Ano | Fato |\n|---|---|\n| 1889 | República |\n| 1930 | Revolução; interventor Lima Cavalcanti |\n| 1935 | Intentona |\n| 1937-45 | Estado Novo (Agamenon) |\n| 1955 | Ligas Camponesas |\n| 1959 | SUDENE |\n| 1963 | Acordo do Campo |\n| 1964 | Golpe; Arraes deposto |\n| 1979 | Anistia |\n| 1985 | Fim da ditadura |\n| 2007 | Frevo, patrimônio (IPHAN) |\n| 2012 | Frevo, patrimônio (UNESCO) |\n\n## Como memorizar\nSequência de «inimigos»: indígenas e franceses (1500s) → holandeses (1630-54) → portugueses locais (1710) → Coroa portuguesa (1817) → Império (1824) → conservadores (1848).",
+      "dicas": [
+        "Sequência: 1654, 1710, 1817, 1824, 1848.",
+        "Frases: 'Pernambuco derrotou holandeses, mascates, Coroa, Pedro I e guabirus'.",
+        "Ordem dos 'líderes': Vidal, Bernardo, Domingos José Martins, Frei Caneca, Nunes Machado."
+      ],
+      "pegadinhas": [
+        "Inverter a ordem de 1817 e 1824.",
+        "Datar Mascates em 1817 ou Cabanos em 1848.",
+        "Trocar Guararapes (1648/49) por 1654.",
+        "Dizer que Nassau governou até 1654."
+      ],
+      "flashcards": [
+        {"q": "Ano da Insurreição (fim)?", "a": "1654."},
+        {"q": "Ano da Guerra dos Mascates?", "a": "1710-11."},
+        {"q": "Ano da Revolução Pernambucana?", "a": "1817."},
+        {"q": "Ano da Confederação do Equador?", "a": "1824."},
+        {"q": "Ano da Praieira?", "a": "1848-49."},
+        {"q": "Ano da Cabanada?", "a": "1832-35."},
+        {"q": "Ano da Intentona no Recife?", "a": "1935."},
+        {"q": "Ano em que Arraes foi deposto?", "a": "1964."}
+      ]
+    },
+    {
+      "id": "historia-pe-geografia-simbolos",
+      "titulo": "10. Geografia e símbolos de Pernambuco (apoio)",
+      "prioridade": 3,
+      "horas": 2,
+      "resumo_md": "## Geografia\n- **Capital**: Recife. Região **Nordeste**.\n- **Limites**: **Paraíba e Ceará** (norte), **Alagoas** (sul/sudeste), **Bahia** (sul/sudoeste), **Piauí** (oeste) e **Oceano Atlântico** (leste).\n- **Mesorregiões**: **Metropolitana do Recife**, **Zona da Mata**, **Agreste**, **Sertão** e **São Francisco Pernambucano**.\n- **Municípios**: **184**, mais o **Distrito Estadual de Fernando de Noronha** (arquipélago, Patrimônio Natural da Humanidade pela UNESCO em 2001).\n- **Rios**: **São Francisco** (limite com a Bahia), **Capibaribe**, **Beberibe**, **Ipojuca**, **Una**, **Pajeú**.\n- **Biomas**: **Mata Atlântica** (litoral/Zona da Mata) e **Caatinga** (Sertão).\n- **Cidades**: **Recife**, **Jaboatão dos Guararapes**, **Olinda**, **Caruaru**, **Petrolina** (fruticultura irrigada), **Paulista**, **Cabo de Santo Agostinho**, **Garanhuns**.\n- **Economia**: **Porto de Suape**, polo têxtil do Agreste (Caruaru, Toritama, Santa Cruz do Capibaribe), fruticultura em Petrolina, polo médico e de tecnologia (**Porto Digital**, Recife).\n\n## Símbolos\n- **Bandeira**: a mesma de **1817**. Azul-celeste (céu), faixa branca (paz), **arco-íris** (esperança/aliança), **sol** (liberdade), **estrela** (Pernambuco) e **cruz** (fé) **[VERIFICAR]** significados oficiais.\n- **Hino**: letra de **Oscar Brandão da Rocha**, música de **Nicolino Milano** **[VERIFICAR]**.\n- **Brasão**: **[VERIFICAR]** elementos e data.\n- **Data magna**: **6 de março** (Revolução de 1817).\n- **Epíteto**: **«Leão do Norte»**.\n\n## Resumo\nCapital Recife; 184 municípios + Noronha; bandeira de 1817; data magna 6/3; Mata Atlântica e Caatinga.",
+      "dicas": [
+        "Data magna: 6 de março; Bandeira: 1817.",
+        "Leão do Norte = Pernambuco.",
+        "Fernando de Noronha = distrito estadual."
+      ],
+      "pegadinhas": [
+        "Dizer que Pernambuco faz fronteira com o Rio Grande do Norte (não faz).",
+        "Dizer que Noronha é município (é distrito estadual).",
+        "Dizer que o rio São Francisco corta o Agreste.",
+        "Dizer que o bioma predominante no Sertão é Cerrado (é Caatinga)."
+      ],
+      "flashcards": [
+        {"q": "Capital de Pernambuco?", "a": "Recife."},
+        {"q": "Data magna?", "a": "6 de março."},
+        {"q": "Número de municípios?", "a": "184 (mais Fernando de Noronha, distrito estadual)."},
+        {"q": "Bioma do Sertão?", "a": "Caatinga."},
+        {"q": "Bioma da Zona da Mata?", "a": "Mata Atlântica."},
+        {"q": "Epíteto de Pernambuco?", "a": "Leão do Norte."},
+        {"q": "Estados que fazem divisa?", "a": "PB, CE, PI, BA e AL."},
+        {"q": "Cidade da fruticultura irrigada?", "a": "Petrolina."}
+      ]
+    }
+  ],
+  "questoes": []
+}

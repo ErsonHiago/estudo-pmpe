@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q091",
+   "topico": "historia-pe-vargas",
+   "dificuldade": 2,
+   "enunciado": "«Casa-Grande & Senzala», de Gilberto Freyre, foi publicada em",
+   "alternativas": {
+    "A": "1933.",
+    "B": "1883.",
+    "C": "1937.",
+    "D": "1964.",
+    "E": "1889."
+   },
+   "gabarito": "A",
+   "explicacao": "1933.",
+   "resolucao_md": "**O que a questão pede**\nDatar a obra.\n\n**Conceito/Regra rápida**\n1933; 1883 é «O Abolicionismo», de Nabuco.\n\n**Passo a passo**\n1. Cuidado com 33 e 83.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar 1933 com 1883.\n\n**Macete**\n33 = Freyre.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q092",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 1,
+   "enunciado": "As Ligas Camponesas, lideradas por Francisco Julião, nasceram",
+   "alternativas": {
+    "A": "no Recife, em 1959, por Celso Furtado.",
+    "B": "no Engenho Galileia (Vitória de Santo Antão), em 1955, e lutavam pela reforma agrária.",
+    "C": "no Sertão, em 1832.",
+    "D": "em Olinda, em 1827.",
+    "E": "em Itamaracá, em 1630."
+   },
+   "gabarito": "B",
+   "explicacao": "Francisco Julião.",
+   "resolucao_md": "**O que a questão pede**\nAssociar movimento.\n\n**Conceito/Regra rápida**\nLigas: Galileia, 1955, Julião.\n\n**Passo a passo**\n1. Associe reforma agrária a Ligas.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar com a SUDENE.\n\n**Macete**\nGalileia = Ligas.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q093",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 2,
+   "enunciado": "A SUDENE, criada em 1959 e idealizada por Celso Furtado, tem sede em",
+   "alternativas": {
+    "A": "Olinda, e visava à reforma agrária.",
+    "B": "Caruaru, e visava à indústria têxtil.",
+    "C": "Recife, e visava ao desenvolvimento do Nordeste.",
+    "D": "Petrolina, e visava à fruticultura.",
+    "E": "Salvador, e visava ao petróleo."
+   },
+   "gabarito": "C",
+   "explicacao": "Recife.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o órgão.\n\n**Conceito/Regra rápida**\n**SUDENE** = Recife.\n\n**Passo a passo**\n1. Furtado → SUDENE.\n2. Elimine as demais.\n\n**Pegadinha**\nAtribuir a Julião.\n\n**Macete**\nSUDENE = Furtado.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q094",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 2,
+   "enunciado": "O Acordo do Campo (1963), obtido no governo de Miguel Arraes,",
+   "alternativas": {
+    "A": "criou a Faculdade de Direito do Recife.",
+    "B": "extinguiu o Poder Moderador.",
+    "C": "instituiu as capitanias hereditárias.",
+    "D": "garantiu direitos e salário mínimo ao trabalhador rural da cana.",
+    "E": "fundou o Porto Digital."
+   },
+   "gabarito": "D",
+   "explicacao": "Direitos rurais.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o acordo.\n\n**Conceito/Regra rápida**\nArraes eleito em 1962, assumiu em 1963.\n\n**Passo a passo**\n1. Acordo do Campo = trabalhador rural.\n2. As demais são de outras épocas.\n\n**Pegadinha**\nTrocar com a Reforma Agrária.\n\n**Macete**\nArraes = Acordo do Campo.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q095",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 2,
+   "enunciado": "Após o golpe de 1964, Miguel Arraes foi",
+   "alternativas": {
+    "A": "fuzilado em 1825.",
+    "B": "nomeado interventor em 1937.",
+    "C": "eleito presidente da República.",
+    "D": "exilado em Cuba, em 1930.",
+    "E": "deposto, preso em Fernando de Noronha e exilado na Argélia, retornando em 1979."
+   },
+   "gabarito": "E",
+   "explicacao": "Argélia.",
+   "resolucao_md": "**O que a questão pede**\nReconstituir a trajetória.\n\n**Conceito/Regra rápida**\nArraes: deposto em 1964; exílio na Argélia; volta em 1979 (anistia).\n\n**Passo a passo**\n1. 64 → exílio → 79.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar o país do exílio.\n\n**Macete**\nArraes = Argélia.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q096",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 2,
+   "enunciado": "Dom Hélder Câmara, arcebispo de Olinda e Recife, foi lembrado por",
+   "alternativas": {
+    "A": "denunciar torturas e defender os direitos humanos durante a ditadura.",
+    "B": "apoiar o Estado Novo.",
+    "C": "liderar a Revolução Praieira.",
+    "D": "criar a Liga Social Contra o Mocambo.",
+    "E": "fuzilar Frei Caneca."
+   },
+   "gabarito": "A",
+   "explicacao": "Direitos humanos.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o personagem.\n\n**Conceito/Regra rápida**\nDom Hélder: «Igreja dos pobres».\n\n**Passo a passo**\n1. Ligue a direitos humanos.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar com Agamenon.\n\n**Macete**\nHélder = direitos humanos.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q097",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 3,
+   "enunciado": "Sobre o período anterior a 1964, analise as afirmativas.\n\nI. O Movimento de Cultura Popular (MCP) fez parte da efervescência cultural no Recife.\nII. Paulo Freire desenvolveu o método de alfabetização no Recife.\nIII. Miguel Arraes foi exilado em Cuba após o golpe.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I.",
+    "B": "Apenas I e II.",
+    "C": "Apenas II.",
+    "D": "Apenas III.",
+    "E": "Apenas I e III."
+   },
+   "gabarito": "B",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar fatos.\n\n**Conceito/Regra rápida**\nArraes foi exilado na **Argélia**.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado.\n3. Resposta: I e II.\n\n**Pegadinha**\nTrocar o país do exílio.\n\n**Macete**\nArgélia, não Cuba.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q098",
+   "topico": "historia-pe-ditadura-redemocratizacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta os fatos na ordem cronológica correta.",
+   "alternativas": {
+    "A": "SUDENE; Ligas Camponesas; golpe; Acordo.",
+    "B": "Acordo; Ligas; SUDENE; golpe.",
+    "C": "Ligas Camponesas; SUDENE; Acordo do Campo; golpe de 1964.",
+    "D": "Ligas; Acordo; SUDENE; golpe.",
+    "E": "Golpe; Ligas; SUDENE; Acordo."
+   },
+   "gabarito": "C",
+   "explicacao": "A ordem é Ligas, SUDENE, Acordo, golpe.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar.\n\n**Conceito/Regra rápida**\n**1955 → 1959 → 1963 → 1964**.\n\n**Passo a passo**\n1. Datas: 55, 59, 63, 64.\n2. Só uma respeita.\n\n**Pegadinha**\nTrocar Acordo e SUDENE.\n\n**Macete**\n55, 59, 63, 64.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q099",
+   "topico": "historia-pe-cultura-popular",
+   "dificuldade": 1,
+   "enunciado": "O frevo foi reconhecido como patrimônio imaterial pelo IPHAN e pela UNESCO, respectivamente, em",
+   "alternativas": {
+    "A": "2012 e 2007.",
+    "B": "1982 e 2001.",
+    "C": "1978 e 1987.",
+    "D": "2007 e 2012.",
+    "E": "1907 e 2007."
+   },
+   "gabarito": "D",
+   "explicacao": "2007 e 2012.",
+   "resolucao_md": "**O que a questão pede**\nDatar.\n\n**Conceito/Regra rápida**\nIPHAN **2007**; UNESCO **2012**.\n\n**Passo a passo**\n1. IPHAN antes, UNESCO depois.\n2. As demais datas são outras.\n\n**Pegadinha**\nTrocar a ordem.\n\n**Macete**\n07, 12.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q100",
+   "topico": "historia-pe-cultura-popular",
+   "dificuldade": 2,
+   "enunciado": "Sobre o maracatu, é correto afirmar que",
+   "alternativas": {
+    "A": "o rural é do Recife, e o nação, da Mata Norte.",
+    "B": "ambos são do Sertão.",
+    "C": "ambos são cortejos de cavalo-marinho.",
+    "D": "o rural usa calunga e o nação usa caboclo de lança.",
+    "E": "o maracatu-nação (baque virado) é do Recife/Olinda, e o rural (baque solto), da Zona da Mata Norte."
+   },
+   "gabarito": "E",
+   "explicacao": "Nação no Recife.",
+   "resolucao_md": "**O que a questão pede**\nDistinguir.\n\n**Conceito/Regra rápida**\n**Nação** = baque virado, calunga. **Rural** = baque solto, caboclo de lança.\n\n**Passo a passo**\n1. Associe nação ao Recife; rural à mata.\n2. Elimine as trocas.\n\n**Pegadinha**\nTrocar nação e rural.\n\n**Macete**\nRural = lança.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

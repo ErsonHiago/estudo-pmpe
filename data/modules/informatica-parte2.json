@@ -1,0 +1,360 @@
+{
+  "id": "informatica",
+  "titulo": "Informática (Windows 11, Office 2019, LibreOffice 7, Internet e Segurança)",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q001",
+      "topico": "informatica-internet-intranet",
+      "dificuldade": 1,
+      "enunciado": "Sobre o conceito de intranet, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Exige conexão permanente com a Internet para funcionar.",
+        "B": "É uma rede pública, aberta a qualquer usuário do mundo.",
+        "C": "É uma rede privada de uma organização que utiliza as mesmas tecnologias da Internet, com acesso restrito.",
+        "D": "Só pode ser acessada por meio de cabos de rede, nunca por Wi-Fi.",
+        "E": "É sinônimo de World Wide Web."
+      },
+      "gabarito": "C",
+      "explicacao": "Intranet é rede privada que adota as tecnologias da Internet (navegador, HTTP, e-mail) com acesso restrito. A: pode ser isolada da Internet. B: é privada. D: pode ser sem fio. E: WWW é serviço da Internet.",
+      "resolucao_md": "**O que a questão pede:** o conceito correto de intranet.\n\n**Conceito:** a intranet é como a 'Internet particular' de uma empresa: usa as mesmas ferramentas (navegador, páginas, e-mail), mas só entra quem tem autorização.\n\n**Passo a passo**\n1. A: errada. Intranet pode funcionar sem Internet.\n2. B: errada. Pública é a Internet.\n3. C: certa. Privada + mesmas tecnologias + acesso restrito.\n4. D: errada. O meio (cabo ou Wi-Fi) não define a intranet.\n5. E: errada. WWW é um serviço da Internet.\n\n**Macete:** Intranet = Internet privada."
+    },
+    {
+      "id": "informatica-q002",
+      "topico": "informatica-internet-intranet",
+      "dificuldade": 1,
+      "enunciado": "Qual dos protocolos a seguir é utilizado para o ENVIO de mensagens de correio eletrônico?",
+      "alternativas": {
+        "A": "SMTP",
+        "B": "POP3",
+        "C": "IMAP",
+        "D": "DNS",
+        "E": "DHCP"
+      },
+      "gabarito": "A",
+      "explicacao": "SMTP envia e-mails. POP3 e IMAP recebem. DNS traduz nomes em IPs. DHCP distribui IPs.",
+      "resolucao_md": "**O que a questão pede:** o protocolo de ENVIO.\n\n**Regra rápida:** SMTP = Saída (envia). POP3 e IMAP = recebem. DNS = nomes. DHCP = IP automático.\n\n**Passo a passo**\n1. Procure o protocolo que 'sai': SMTP.\n2. POP3 baixa para o computador; IMAP mantém no servidor; ambos recebem.\n\n**Macete:** S de SMTP, S de Saída."
+    },
+    {
+      "id": "informatica-q003",
+      "topico": "informatica-internet-intranet",
+      "dificuldade": 1,
+      "enunciado": "O serviço responsável por traduzir nomes de domínio (como www.exemplo.com.br) em endereços IP é o",
+      "alternativas": {
+        "A": "DHCP.",
+        "B": "FTP.",
+        "C": "SMTP.",
+        "D": "HTTPS.",
+        "E": "DNS."
+      },
+      "gabarito": "E",
+      "explicacao": "DNS (Domain Name System) resolve nomes em IPs. DHCP atribui IPs automaticamente; FTP transfere arquivos; SMTP envia e-mail; HTTPS é a web segura.",
+      "resolucao_md": "**O que pede:** o serviço que converte nome em número IP.\n\n**Passo a passo**\n1. Computadores se falam por IP (números); pessoas usam nomes.\n2. Quem faz a tradução é o **DNS**, como uma lista telefônica.\n3. DHCP apenas entrega IPs; não traduz nomes.\n\n**Pegadinha:** confundir DNS (nomes) com DHCP (IPs).\n\n**Macete:** DNS = Dicionário de Nomes."
+    },
+    {
+      "id": "informatica-q004",
+      "topico": "informatica-internet-intranet",
+      "dificuldade": 2,
+      "enunciado": "Considere as afirmativas sobre redes.\n\nI. A intranet utiliza as mesmas tecnologias da Internet.\nII. A extranet é acessível a qualquer usuário, sem necessidade de autenticação.\nIII. A VPN permite o acesso seguro a uma rede privada por meio da Internet.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "gabarito": "B",
+      "explicacao": "I é certa; II é errada (extranet exige autenticação); III é certa (VPN cria um túnel criptografado).",
+      "resolucao_md": "**O que pede:** julgar três itens.\n\n**Passo a passo**\n1. I: certo, intranet usa tecnologias da Internet.\n2. II: errado. Extranet é para parceiros **autorizados**, com login.\n3. III: certo. VPN = túnel seguro pela Internet.\n4. Itens certos: I e III, alternativa B.\n\n**Macete:** extranet = intranet com visitas convidadas."
+    },
+    {
+      "id": "informatica-q005",
+      "topico": "informatica-internet-intranet",
+      "dificuldade": 2,
+      "enunciado": "Maria enviou um e-mail preenchendo os campos Para: João; Cc: Pedro; Cco: Ana. Considerando o funcionamento desses campos, é correto afirmar que",
+      "alternativas": {
+        "A": "João não consegue ver que Pedro recebeu cópia.",
+        "B": "Pedro consegue ver que Ana recebeu cópia.",
+        "C": "Ana não recebe o conteúdo da mensagem.",
+        "D": "João e Pedro não conseguem ver que Ana recebeu a mensagem.",
+        "E": "Ana não consegue ver o endereço de João."
+      },
+      "gabarito": "D",
+      "explicacao": "Cco é cópia oculta: os demais destinatários não veem quem está em Cco. Ana, em Cco, vê os campos Para e Cc.",
+      "resolucao_md": "**O que pede:** efeito de Cc e Cco.\n\n**Regra rápida:** Cc é visível a todos. Cco fica oculto para os outros.\n\n**Passo a passo**\n1. João (Para) e Pedro (Cc) veem um ao outro.\n2. Ana (Cco) recebe a mensagem e vê Para e Cc, mas ninguém vê Ana.\n3. Alternativa D confere.\n\n**Macete:** Cco = Cópia Oculta."
+    },
+    {
+      "id": "informatica-q006",
+      "topico": "informatica-internet-intranet",
+      "dificuldade": 2,
+      "enunciado": "Um plano de Internet de 200 Mbps oferece, teoricamente, uma taxa máxima de download, em MB/s (megabytes por segundo), aproximadamente igual a",
+      "alternativas": {
+        "A": "25 MB/s.",
+        "B": "200 MB/s.",
+        "C": "1.600 MB/s.",
+        "D": "12,5 MB/s.",
+        "E": "2,5 MB/s."
+      },
+      "gabarito": "A",
+      "explicacao": "1 byte = 8 bits, então 200 Mbps / 8 = 25 MB/s.",
+      "resolucao_md": "**O que pede:** converter megabits por segundo em megabytes por segundo.\n\n**Regra:** Mbps (b minúsculo) = bits; MB/s (B maiúsculo) = bytes. Divida por 8.\n\n**Passo a passo**\n```\n200 Mbps / 8 = 25 MB/s\n```\n**Conferência:** 25 x 8 = 200. Certo.\n\n**Pegadinha:** a alternativa D (12,5) corresponde a 100 Mbps.\n\n**Macete:** bits para bytes, divide por 8."
+    },
+    {
+      "id": "informatica-q007",
+      "topico": "informatica-navegadores-nuvem",
+      "dificuldade": 2,
+      "enunciado": "Sobre o uso de janelas anônimas (InPrivate) em navegadores, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Impedem que o provedor de Internet identifique os sites acessados.",
+        "B": "Bloqueiam qualquer download de arquivos.",
+        "C": "Protegem o computador contra malwares baixados.",
+        "D": "Ao serem fechadas, não mantêm no dispositivo o histórico, os cookies e os dados de formulários da sessão, mas não ocultam a atividade do provedor ou dos sites.",
+        "E": "Criptografam toda a comunicação com os sites visitados."
+      },
+      "gabarito": "D",
+      "explicacao": "A navegação anônima apenas evita gravar dados localmente. Não oculta atividade do provedor/site (A), não impede download (B), não protege de malware (C), nem criptografa (E).",
+      "resolucao_md": "**O que pede:** o que a janela anônima faz de fato.\n\n**Conceito:** 'anônima' só significa que o **seu computador** não guarda rastros.\n\n**Passo a passo**\n1. A: falsa, o provedor ainda vê.\n2. B: falsa, downloads são permitidos.\n3. C: falsa, nada de antivírus.\n4. D: verdadeira.\n5. E: falsa, criptografia é HTTPS/VPN.\n\n**Macete:** anônima esconde de quem usa o PC depois, não da rede."
+    },
+    {
+      "id": "informatica-q008",
+      "topico": "informatica-navegadores-nuvem",
+      "dificuldade": 1,
+      "enunciado": "No Google Chrome e no Microsoft Edge, o atalho de teclado utilizado para reabrir a última aba fechada é",
+      "alternativas": {
+        "A": "Ctrl + T.",
+        "B": "Ctrl + Shift + T.",
+        "C": "Ctrl + W.",
+        "D": "Ctrl + Shift + N.",
+        "E": "Ctrl + N."
+      },
+      "gabarito": "B",
+      "explicacao": "Ctrl+Shift+T reabre a aba fechada. Ctrl+T abre nova aba; Ctrl+W fecha; Ctrl+Shift+N abre janela anônima; Ctrl+N abre nova janela.",
+      "resolucao_md": "**O que pede:** o atalho que reabre aba fechada.\n\n**Passo a passo**\n1. T de Tab (aba). Com Shift, volta a anterior.\n2. Ctrl+T = nova aba; Ctrl+Shift+T = reabrir.\n\n**Macete:** Shift desfaz o fechamento."
+    },
+    {
+      "id": "informatica-q009",
+      "topico": "informatica-navegadores-nuvem",
+      "dificuldade": 1,
+      "enunciado": "Um serviço de correio eletrônico acessado pelo navegador, no qual o usuário utiliza o software pronto sem se preocupar com servidores, é um exemplo de computação em nuvem do tipo",
+      "alternativas": {
+        "A": "IaaS.",
+        "B": "PaaS.",
+        "C": "intranet.",
+        "D": "nuvem privada.",
+        "E": "SaaS."
+      },
+      "gabarito": "E",
+      "explicacao": "Software pronto entregue pela Internet = SaaS (Software como Serviço).",
+      "resolucao_md": "**Regra:** SaaS = software pronto; PaaS = plataforma para programar; IaaS = infraestrutura virtual.\n\n**Passo a passo:** o usuário só usa o webmail, logo SaaS.\n\n**Macete:** S de Software pronto = SaaS."
+    },
+    {
+      "id": "informatica-q010",
+      "topico": "informatica-navegadores-nuvem",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa que define corretamente os cookies de navegador.",
+      "alternativas": {
+        "A": "São programas maliciosos que sempre infectam o computador.",
+        "B": "São janelas de propaganda que aparecem sem solicitação.",
+        "C": "São pequenos arquivos gravados pelos sites no computador do usuário, usados para guardar sessão, preferências e, às vezes, rastrear a navegação.",
+        "D": "São cópias de páginas guardadas apenas para acelerar o carregamento.",
+        "E": "São as senhas criptografadas do usuário."
+      },
+      "gabarito": "C",
+      "explicacao": "Cookies são arquivos de dados gravados pelo site. A cópia para acelerar o carregamento é o cache (D). Não são vírus (A), pop-ups (B) nem senhas (E).",
+      "resolucao_md": "**O que pede:** definição de cookie.\n\n**Passo a passo**\n1. Cookie guarda informações da sessão e preferências.\n2. Cache guarda cópias de arquivos de páginas (alternativa D).\n3. Logo C.\n\n**Pegadinha:** cookie x cache.\n\n**Macete:** Cookie = memória do site sobre você; Cache = cópia da página."
+    },
+    {
+      "id": "informatica-q011",
+      "topico": "informatica-navegadores-nuvem",
+      "dificuldade": 1,
+      "enunciado": "Assinale a alternativa que NÃO apresenta um navegador (browser) de Internet.",
+      "alternativas": {
+        "A": "Mozilla Firefox.",
+        "B": "Microsoft Edge.",
+        "C": "Google Chrome.",
+        "D": "Opera.",
+        "E": "Bing."
+      },
+      "gabarito": "E",
+      "explicacao": "Bing é um mecanismo de busca (site), não um navegador.",
+      "resolucao_md": "**Passo a passo**\n1. Navegadores: Firefox, Edge, Chrome, Opera.\n2. Bing e Google (pesquisa) são buscadores.\n\n**Macete:** buscador é site para procurar; navegador é o programa para entrar em sites."
+    },
+    {
+      "id": "informatica-q012",
+      "topico": "informatica-navegadores-nuvem",
+      "dificuldade": 2,
+      "enunciado": "Uma organização mantém uma nuvem própria, de uso exclusivo, e a integra a serviços de nuvem de um provedor público. Esse modelo de implantação é chamado de nuvem",
+      "alternativas": {
+        "A": "pública.",
+        "B": "híbrida.",
+        "C": "privada.",
+        "D": "intranet.",
+        "E": "extranet."
+      },
+      "gabarito": "B",
+      "explicacao": "Combinação de nuvem privada e pública = híbrida.",
+      "resolucao_md": "**Regra:** pública (de terceiros, compartilhada), privada (exclusiva), híbrida (mistura das duas).\n\n**Passo a passo:** a organização usa própria + pública, logo híbrida.\n\n**Macete:** híbrido = mistura."
+    },
+    {
+      "id": "informatica-q013",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "Um tipo de malware criptografa os arquivos da vítima, tornando-os inacessíveis, e exige o pagamento de um resgate para devolver o acesso. Trata-se de um",
+      "alternativas": {
+        "A": "keylogger.",
+        "B": "adware.",
+        "C": "ransomware.",
+        "D": "sniffer.",
+        "E": "rootkit."
+      },
+      "gabarito": "C",
+      "explicacao": "Ransomware sequestra dados por criptografia e cobra resgate (ransom).",
+      "resolucao_md": "**O que pede:** o malware do sequestro de dados.\n\n**Passo a passo**\n1. 'Resgate' em inglês = ransom.\n2. Ransomware.\n3. Defesa mais eficaz: backup offline.\n\n**Macete:** ransom = resgate."
+    },
+    {
+      "id": "informatica-q014",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Qual malware se propaga automaticamente pela rede, copiando-se de computador em computador, sem necessitar de programa hospedeiro nem da ação do usuário?",
+      "alternativas": {
+        "A": "Worm.",
+        "B": "Vírus.",
+        "C": "Cavalo de Troia.",
+        "D": "Spyware.",
+        "E": "Keylogger."
+      },
+      "gabarito": "A",
+      "explicacao": "Worm (verme) se autorreplica pela rede. O vírus precisa de hospedeiro e execução; o cavalo de Troia não se replica.",
+      "resolucao_md": "**Regra:** vírus = hospedeiro + ação do usuário; worm = sozinho pela rede; trojan = disfarce, sem replicação.\n\n**Passo a passo:** 'sem hospedeiro e sem ação do usuário' = worm.\n\n**Macete:** worm = verme rasteja sozinho."
+    },
+    {
+      "id": "informatica-q015",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "O programa malicioso capaz de registrar tudo o que o usuário digita no teclado, com o objetivo de capturar senhas, é denominado",
+      "alternativas": {
+        "A": "worm.",
+        "B": "ransomware.",
+        "C": "adware.",
+        "D": "keylogger.",
+        "E": "bot."
+      },
+      "gabarito": "D",
+      "explicacao": "Keylogger registra teclas digitadas. O screenlogger registra a tela/cliques.",
+      "resolucao_md": "**Passo a passo:** key = tecla, logger = registrador. Keylogger.\n\n**Pegadinha:** teclado virtual evita keylogger, mas não o screenlogger.\n\n**Macete:** key = tecla."
+    },
+    {
+      "id": "informatica-q016",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Ao digitar corretamente o endereço do site do seu banco, um usuário é direcionado para um site falso, idêntico ao original, porque o serviço de resolução de nomes foi adulterado. Esse ataque é conhecido como",
+      "alternativas": {
+        "A": "phishing.",
+        "B": "DDoS.",
+        "C": "spam.",
+        "D": "pharming.",
+        "E": "força bruta."
+      },
+      "gabarito": "D",
+      "explicacao": "Pharming adultera o DNS e redireciona para site falso. Phishing usa mensagens-isca.",
+      "resolucao_md": "**O que pede:** distinguir phishing e pharming.\n\n**Passo a passo**\n1. O usuário digitou o endereço certo; não houve isca recebida.\n2. A causa foi o DNS adulterado.\n3. Isso é pharming.\n\n**Macete:** pharming = DNS adulterado."
+    },
+    {
+      "id": "informatica-q017",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Um invasor instala um programa que cria uma 'porta dos fundos' para retornar ao computador invadido sempre que quiser. Esse programa é um",
+      "alternativas": {
+        "A": "adware.",
+        "B": "sniffer.",
+        "C": "backdoor.",
+        "D": "hijacker.",
+        "E": "screenlogger."
+      },
+      "gabarito": "C",
+      "explicacao": "Backdoor (porta dos fundos) garante acesso remoto futuro.",
+      "resolucao_md": "**Passo a passo:** back door = porta dos fundos = backdoor. Rootkit esconde; backdoor abre a entrada.\n\n**Macete:** backdoor = porta de volta."
+    },
+    {
+      "id": "informatica-q018",
+      "topico": "informatica-seguranca",
+      "dificuldade": 3,
+      "enunciado": "Em uma assinatura digital baseada em criptografia assimétrica, o remetente assina o documento utilizando",
+      "alternativas": {
+        "A": "a sua própria chave privada.",
+        "B": "a sua própria chave pública.",
+        "C": "a chave pública do destinatário.",
+        "D": "a chave privada do destinatário.",
+        "E": "uma chave simétrica compartilhada."
+      },
+      "gabarito": "A",
+      "explicacao": "O autor assina com a própria chave privada e qualquer pessoa verifica com a pública dele, garantindo autenticidade, integridade e não repúdio.",
+      "resolucao_md": "**O que pede:** a chave usada para assinar.\n\n**Regra:**\n| Objetivo | Quem usa qual chave |\n|---|---|\n| Confidencialidade | Cifra com a pública do destinatário; decifra com a privada dele |\n| Assinatura | Assina com a privada do remetente; confere com a pública dele |\n\n**Passo a passo:** só o dono possui a privada; por isso ela comprova a autoria.\n\n**Macete:** assina com a privada, confere com a pública."
+    },
+    {
+      "id": "informatica-q019",
+      "topico": "informatica-seguranca",
+      "dificuldade": 3,
+      "enunciado": "Ana deseja enviar a Carlos uma mensagem confidencial usando criptografia assimétrica, de modo que apenas Carlos consiga lê-la. Para isso, Ana deve cifrar a mensagem com",
+      "alternativas": {
+        "A": "a chave privada de Ana.",
+        "B": "a chave pública de Ana.",
+        "C": "a chave privada de Carlos.",
+        "D": "uma chave simétrica conhecida por todos.",
+        "E": "a chave pública de Carlos."
+      },
+      "gabarito": "E",
+      "explicacao": "Para que somente Carlos leia, cifra-se com a chave pública dele; só a privada dele decifra.",
+      "resolucao_md": "**O que pede:** garantir confidencialidade.\n\n**Passo a passo**\n1. Cifrar com a chave pública do destinatário (Carlos).\n2. Somente a chave privada de Carlos decifra.\n3. A privada de Carlos nunca é compartilhada, portanto C é inviável para Ana.\n\n**Macete:** confidencialidade = pública do destinatário."
+    },
+    {
+      "id": "informatica-q020",
+      "topico": "informatica-seguranca",
+      "dificuldade": 2,
+      "enunciado": "Considere as afirmativas sobre códigos maliciosos.\n\nI. O cavalo de Troia se replica automaticamente pela rede.\nII. O spyware coleta informações do usuário e as envia a terceiros.\nIII. O rootkit pode ocultar a presença de um invasor ou de outro malware no sistema.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I, apenas.",
+        "B": "II e III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "gabarito": "B",
+      "explicacao": "I é falsa: o cavalo de Troia não se replica (é o worm). II e III são verdadeiras.",
+      "resolucao_md": "**Passo a passo**\n1. I: falso, o trojan finge ser útil, mas não se replica.\n2. II: verdadeiro.\n3. III: verdadeiro.\n4. Resposta B.\n\n**Macete:** trojan não se replica; worm sim."
+    },
+    {
+      "id": "informatica-q021",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "A principal função de um firewall é",
+      "alternativas": {
+        "A": "remover vírus de arquivos já infectados.",
+        "B": "recuperar arquivos apagados.",
+        "C": "filtrar o tráfego de rede de entrada e saída de acordo com regras de segurança.",
+        "D": "criptografar o disco rígido.",
+        "E": "fazer backup automático dos dados."
+      },
+      "gabarito": "C",
+      "explicacao": "Firewall controla o tráfego de rede por regras. Remover vírus é do antivírus.",
+      "resolucao_md": "**Passo a passo**\n1. Firewall = parede de fogo na fronteira da rede/computador.\n2. Permite ou bloqueia conexões.\n3. Não substitui o antivírus.\n\n**Macete:** firewall = porteiro do tráfego."
+    },
+    {
+      "id": "informatica-q022",
+      "topico": "informatica-seguranca",
+      "dificuldade": 1,
+      "enunciado": "O princípio da segurança da informação que garante que os dados não sofreram alterações indevidas é a",
+      "alternativas": {
+        "A": "integridade.",
+        "B": "confidencialidade.",
+        "C": "disponibilidade.",
+        "D": "irretratabilidade.",
+        "E": "obsolescência."
+      },
+      "gabarito": "A",
+      "explicacao": "Integridade = informação íntegra, sem alteração indevida. Confidencialidade = sigilo; disponibilidade = acesso quando necessário; irretratabilidade = não repúdio.",
+      "resolucao_md": "**Regra:** CIDA: Confidencialidade (sigilo), Integridade (não alterada), Disponibilidade (acessível), Autenticidade (origem).\n\n**Passo a passo:** 'sem alterações indevidas' = integridade.\n\n**Macete:** integridade = inteiro, intacto."
+    }
+  ]
+}

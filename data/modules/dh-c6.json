@@ -1,0 +1,168 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-tortura",
+   "titulo": "Lei 9.455/1997 — Crime de Tortura",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Base constitucional e internacional\nA CF (art. 5º, III) diz que **ninguém será submetido a tortura nem a tratamento desumano ou degradante**; o art. 5º, XLIII manda tratar a tortura como crime **inafiançável e insuscetível de graça ou anistia**. O Brasil ratificou a **Convenção da ONU contra a Tortura** (Decreto 40/1991) e a **Convenção Interamericana** (Decreto 98.386/1989). A tortura é **equiparada a hediondo** (não está no rol do art. 1º da Lei 8.072, mas recebe o mesmo tratamento do art. 2º).\n\n## Tipos penais (art. 1º)\nO crime é **comum**: qualquer pessoa pode praticá-lo; ser agente público é causa de aumento.\n\n| Inciso | Modalidade | Elemento |\n|---|---|---|\n| **I, a** | **tortura-prova** | constranger com violência ou grave ameaça, causando sofrimento físico ou mental, para obter **informação, declaração ou confissão** |\n| **I, b** | **tortura-crime** | para provocar **ação ou omissão de natureza criminosa** |\n| **I, c** | **tortura-discriminação** | em razão de **discriminação racial ou religiosa** |\n| **II** | **tortura-castigo** | submeter alguém **sob sua guarda, poder ou autoridade**, com violência ou grave ameaça, a **intenso sofrimento** físico ou mental, como forma de aplicar **castigo pessoal ou medida de caráter preventivo** |\n\nPena dos incisos I e II: **reclusão de 2 a 8 anos**.\n\n- **§1º — tortura de preso:** na mesma pena incorre quem submete **pessoa presa ou sujeita a medida de segurança** a sofrimento físico ou mental por ato **não previsto em lei ou não resultante de medida legal**.\n- **§2º — omissão:** quem se omite diante dessas condutas, quando tinha o **dever de evitá-las ou apurá-las**: **detenção de 1 a 4 anos** (única hipótese com detenção).\n- **§3º — resultados:** lesão corporal de natureza **grave ou gravíssima**: reclusão de **4 a 10 anos**; **morte**: reclusão de **8 a 16 anos**.\n- **§4º — aumento de 1/6 até 1/3:** I **agente público**; II contra **criança, gestante, pessoa com deficiência, adolescente ou maior de 60 anos**; III mediante **sequestro**.\n- **§5º — efeito da condenação:** **perda do cargo, função ou emprego público** e **interdição para o exercício pelo dobro do prazo da pena aplicada**.\n- **§6º:** crime **inafiançável e insuscetível de graça ou anistia** (a Lei 8.072 acrescenta o indulto).\n- **§7º:** o condenado, salvo a hipótese do §2º, inicia o cumprimento em **regime fechado** **[VERIFICAR: STF afastou o regime inicial fechado obrigatório para hediondos; confirmar o entendimento aplicável à tortura]**.\n- **Art. 2º:** aplica-se ainda que o crime **não tenha sido cometido em território nacional**, sendo a vítima brasileira ou estando o agente sob jurisdição brasileira (**extraterritorialidade**).\n\n## Diferenças que a banca explora\n| Tema | Tortura (9.455) | Abuso de autoridade (13.869) |\n|---|---|---|\n| Sujeito | qualquer pessoa (aumento se agente público) | só agente público |\n| Resultado | intenso sofrimento por violência ou grave ameaça | conduta de abuso de poder com dolo específico |\n| Fiança | **inafiançável** | afiançável |\n| Pena base | reclusão 2 a 8 anos | detenção (maioria até 4 anos) |\n\n## Mecanismos de prevenção\nA **Lei 12.847/2013** criou o **Sistema Nacional de Prevenção e Combate à Tortura** e o **Mecanismo Nacional de Prevenção e Combate à Tortura**, com peritos que visitam locais de privação de liberdade. A **audiência de custódia** é ferramenta de detecção de tortura.\n\n## Para a prova\nNão confunda: a **tortura-prova exige o fim específico** de obter informação, declaração ou confissão; a **tortura-castigo exige relação de guarda, poder ou autoridade**. A **tortura-omissão** tem pena **menor** (detenção).",
+   "dicas": [
+    "Pena-base: 2 a 8 anos (reclusão). Grave/gravíssima: 4 a 10. Morte: 8 a 16. Omissão: detenção 1 a 4.",
+    "Aumento 1/6 a 1/3: agente público, criança/gestante/deficiente/adolescente/maior de 60, sequestro.",
+    "Perda do cargo + interdição pelo DOBRO da pena aplicada.",
+    "Tortura é crime comum; \"agente público\" é só causa de aumento."
+   ],
+   "pegadinhas": [
+    "Dizer que a tortura é crime próprio de agente público: é crime comum.",
+    "Dizer que a omissão (§2º) tem pena de reclusão de 2 a 8: é detenção de 1 a 4 anos.",
+    "Dizer que a interdição é pelo mesmo prazo da pena: é pelo DOBRO.",
+    "Dizer que a tortura é afiançável ou comporta graça: é inafiançável e insuscetível de graça ou anistia.",
+    "Dizer que o aumento é de metade: é de 1/6 até 1/3."
+   ],
+   "flashcards": [
+    {
+     "q": "Pena-base do crime de tortura?",
+     "a": "Reclusão de 2 a 8 anos."
+    },
+    {
+     "q": "Pena se resulta lesão grave ou gravíssima?",
+     "a": "Reclusão de 4 a 10 anos."
+    },
+    {
+     "q": "Pena se resulta morte?",
+     "a": "Reclusão de 8 a 16 anos."
+    },
+    {
+     "q": "Pena da omissão (§2º)?",
+     "a": "Detenção de 1 a 4 anos."
+    },
+    {
+     "q": "Fração de aumento do §4º?",
+     "a": "De 1/6 até 1/3."
+    },
+    {
+     "q": "Quais as causas de aumento do §4º?",
+     "a": "Agente público; vítima criança, gestante, deficiente, adolescente ou maior de 60; sequestro."
+    },
+    {
+     "q": "Efeito da condenação (§5º)?",
+     "a": "Perda do cargo, função ou emprego público e interdição pelo dobro do prazo da pena."
+    },
+    {
+     "q": "O que é tortura-prova?",
+     "a": "Violência ou grave ameaça para obter informação, declaração ou confissão."
+    },
+    {
+     "q": "O que é tortura-castigo?",
+     "a": "Intenso sofrimento a quem está sob guarda, poder ou autoridade, como castigo pessoal ou medida preventiva."
+    },
+    {
+     "q": "A tortura admite fiança, graça ou anistia?",
+     "a": "Não: é inafiançável e insuscetível de graça ou anistia."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-tortura-q01",
+   "topico": "dh-c-tortura",
+   "dificuldade": 1,
+   "enunciado": "Constitui crime de tortura, nos termos da Lei nº 9.455/1997, constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental, com o fim de",
+   "alternativas": {
+    "A": "cobrar dívida legítima por meio de ameaças verbais.",
+    "B": "obter informação, declaração ou confissão da vítima ou de terceira pessoa.",
+    "C": "apenas aplicar multa administrativa.",
+    "D": "impedir a prática de crime por terceiro, sem ofensa.",
+    "E": "evitar prejuízo patrimonial, ainda que sem sofrimento."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 1º, I, a (tortura-prova). Pena de reclusão de 2 a 8 anos.",
+   "resolucao_md": "**O que a questão pede:** a modalidade de tortura-prova.\n\n**Regra rápida:** violência ou grave ameaça + sofrimento + fim de obter informação, declaração ou confissão.\n\n**Passo a passo:**\n1. Dívida legítima e multa administrativa não integram o tipo.\n2. Evitar crime sem ofensa e evitar prejuízo sem sofrimento não preenchem o tipo.\n3. Resta a finalidade de obter confissão.\n\n**Pegadinha:** Esquecer a finalidade.\n\n**Macete:** Prova = confissão/informação."
+  },
+  {
+   "id": "dh-c-tortura-q02",
+   "topico": "dh-c-tortura",
+   "dificuldade": 2,
+   "enunciado": "A pena prevista para o crime de tortura que resulta em morte é de",
+   "alternativas": {
+    "A": "reclusão de dois a oito anos.",
+    "B": "reclusão de quatro a dez anos.",
+    "C": "reclusão de oito a dezesseis anos.",
+    "D": "detenção de um a quatro anos.",
+    "E": "reclusão de doze a trinta anos."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 1º, §3º. Lesão grave ou gravíssima: 4 a 10; morte: 8 a 16.",
+   "resolucao_md": "**O que a questão pede:** a pena do §3º.\n\n**Regra rápida:** escada: 2-8 (simples), 4-10 (lesão grave), 8-16 (morte).\n\n**Passo a passo:**\n1. 2 a 8: pena-base.\n2. 4 a 10: lesão grave ou gravíssima.\n3. Detenção de 1 a 4: omissão.\n4. 12 a 30 anos: pena do homicídio qualificado.\n\n**Pegadinha:** Confundir com a lesão grave.\n\n**Macete:** Duplo: 2-8, 4-10, 8-16."
+  },
+  {
+   "id": "dh-c-tortura-q03",
+   "topico": "dh-c-tortura",
+   "dificuldade": 2,
+   "enunciado": "Em relação ao crime de tortura previsto na Lei nº 9.455/1997, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "O crime só pode ser praticado por agente público.",
+    "B": "A condenação acarreta a interdição para o exercício da função pelo prazo da pena aplicada.",
+    "C": "O crime é afiançável e suscetível de graça.",
+    "D": "A pena é aumentada de um sexto até um terço se o crime é cometido por agente público ou contra criança, gestante, pessoa com deficiência, adolescente ou maior de sessenta anos.",
+    "E": "A pena é aumentada de metade se cometido contra criança."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 1º, §4º: aumento de 1/6 a 1/3. A interdição é pelo dobro (§5º); crime inafiançável (§6º).",
+   "resolucao_md": "**O que a questão pede:** o aumento de pena.\n\n**Regra rápida:** 1/6 até 1/3 (§4º).\n\n**Passo a passo:**\n1. Crime comum: qualquer pessoa pode cometer.\n2. Interdição é pelo dobro do prazo da pena, não pelo mesmo prazo.\n3. Inafiançável e insuscetível de graça.\n4. Metade: errado.\n\n**Pegadinha:** Trocar fração.\n\n**Macete:** 1/6 a 1/3."
+  },
+  {
+   "id": "dh-c-tortura-q04",
+   "topico": "dh-c-tortura",
+   "dificuldade": 2,
+   "enunciado": "Aquele que se omite em face de condutas de tortura, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de",
+   "alternativas": {
+    "A": "reclusão de dois a oito anos.",
+    "B": "reclusão de quatro a dez anos.",
+    "C": "multa, apenas.",
+    "D": "detenção de seis meses a dois anos.",
+    "E": "detenção de um a quatro anos."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 1º, §2º. É a única hipótese de pena de detenção na lei.",
+   "resolucao_md": "**O que a questão pede:** a pena da omissão.\n\n**Regra rápida:** omissão imprópria especial: 1 a 4 anos de detenção.\n\n**Passo a passo:**\n1. 2 a 8: tortura comissiva.\n2. 4 a 10: com lesão grave.\n3. Só multa: não.\n4. 6 meses a 2 anos: pena do ECA/abuso de autoridade.\n\n**Pegadinha:** Aplicar a pena da tortura comissiva.\n\n**Macete:** Omissão = detenção."
+  },
+  {
+   "id": "dh-c-tortura-q05",
+   "topico": "dh-c-tortura",
+   "dificuldade": 3,
+   "enunciado": "Submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo, corresponde à chamada tortura",
+   "alternativas": {
+    "A": "castigo, prevista no art. 1º, II, da Lei nº 9.455/1997.",
+    "B": "prova, prevista no art. 1º, I, a.",
+    "C": "discriminação, prevista no art. 1º, I, c.",
+    "D": "crime, prevista no art. 1º, I, b.",
+    "E": "imprópria, prevista no art. 1º, §2º."
+   },
+   "gabarito": "A",
+   "explicacao": "A tortura-castigo exige relação de guarda, poder ou autoridade (ex.: pai, carcereiro).",
+   "resolucao_md": "**O que a questão pede:** classificar a modalidade.\n\n**Regra rápida:** castigo = guarda/poder/autoridade + intenso sofrimento.\n\n**Passo a passo:**\n1. Prova pede fim de obter informação.\n2. Discriminação pede motivação racial ou religiosa.\n3. Crime pede finalidade de provocar ação ou omissão criminosa.\n4. A omissão do §2º é outra figura.\n\n**Pegadinha:** Esquecer o vínculo de guarda.\n\n**Macete:** Castigo = relação de poder."
+  },
+  {
+   "id": "dh-c-tortura-q06",
+   "topico": "dh-c-tortura",
+   "dificuldade": 2,
+   "enunciado": "A Lei nº 9.455/1997 aplica-se ainda quando o crime de tortura não tenha sido cometido em território nacional, desde que",
+   "alternativas": {
+    "A": "a vítima seja estrangeira e o agente resida no exterior.",
+    "B": "a vítima seja brasileira ou o agente se encontre em local sob jurisdição brasileira.",
+    "C": "o agente seja funcionário público estrangeiro, em qualquer caso.",
+    "D": "haja tratado bilateral específico para cada caso.",
+    "E": "o crime tenha sido cometido por brasileiro, em qualquer hipótese de dolo."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 2º: extraterritorialidade quando a vítima é brasileira ou o agente está sob jurisdição brasileira.",
+   "resolucao_md": "**O que a questão pede:** a condição do art. 2º.\n\n**Regra rápida:** extraterritorialidade: vítima brasileira ou agente em local sob jurisdição brasileira.\n\n**Passo a passo:**\n1. Vítima estrangeira e agente no exterior: fora do alcance.\n2. Funcionário estrangeiro: não é condição.\n3. Tratado específico: não exigido.\n4. Brasileiro \"em qualquer hipótese\": o artigo é mais específico.\n\n**Pegadinha:** Ampliar demais.\n\n**Macete:** Vítima brasileira ou agente aqui."
+  }
+ ]
+}

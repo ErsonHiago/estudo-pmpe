@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q131",
+      "topico": "informatica-word-writer",
+      "dificuldade": 1,
+      "enunciado": "No Microsoft Word 2019, em português (Brasil), o atalho de teclado que aplica NEGRITO ao texto selecionado é",
+      "alternativas": {
+        "A": "Ctrl+N.",
+        "B": "Ctrl+B.",
+        "C": "Ctrl+S.",
+        "D": "Ctrl+I.",
+        "E": "Ctrl+U."
+      },
+      "gabarito": "A",
+      "explicacao": "No Word em português, Negrito = Ctrl+N (de Negrito). Ctrl+B salva; Ctrl+S sublinha; Ctrl+I é itálico; Ctrl+S sublinha.",
+      "resolucao_md": "**O que a questão pede**\nAtalho de negrito no Word em português.\n\n**Conceito/Regra rápida**\nNo Word em PT-BR as letras vêm das palavras em português: **N**egrito, **I**tálico, **S**ublinhado, **B** de \"Salvar\" (guardar).\n\n**Passo a passo**\n1. Negrito -> N -> Ctrl+N.\\n2. Ctrl+B no Word PT-BR **salva** o documento.\\n3. Ctrl+I = itálico; Ctrl+S = sublinhado.\n\n**Pegadinha**\nQuem estudou Writer ou Google Docs responde Ctrl+B e erra.\n\n**Macete**\nWord em português: **N**egrito = Ctrl+**N**."
+    },
+    {
+      "id": "informatica-q132",
+      "topico": "informatica-word-writer",
+      "dificuldade": 1,
+      "enunciado": "No Microsoft Word 2019, em português (Brasil), o atalho de teclado Ctrl+S aplica ao texto selecionado a seguinte formatação:",
+      "alternativas": {
+        "A": "negrito.",
+        "B": "itálico.",
+        "C": "salvar o documento (sem formatação alguma).",
+        "D": "sublinhado.",
+        "E": "tachado."
+      },
+      "gabarito": "D",
+      "explicacao": "No Word PT-BR, Ctrl+S = Sublinhado e Ctrl+B = Salvar. É formatação do texto selecionado, então a resposta é sublinhado.",
+      "resolucao_md": "**O que a questão pede**\nO que faz Ctrl+S no Word em português.\n\n**Conceito/Regra rápida**\nWord PT-BR: Ctrl+N = Negrito; Ctrl+S = Sublinhado; Ctrl+B = Salvar; Ctrl+I = Itálico.\n\n**Passo a passo**\n```\\nTexto: policia militar\\nSelecione + Ctrl+S  ->  <u>policia militar</u> (sublinhado)\\n```\\nLogo, a formatação aplicada é o sublinhado.\n\n**Pegadinha**\nNos demais programas (Writer, Excel em inglês) Ctrl+S salva.\n\n**Macete**\nSublinhado começa com S: Ctrl+S."
+    },
+    {
+      "id": "informatica-q133",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Em relação ao atalho para SALVAR um documento, no Microsoft Word 2019 (português) e no LibreOffice Writer 7, respectivamente, são utilizados",
+      "alternativas": {
+        "A": "Ctrl+S e Ctrl+S.",
+        "B": "Ctrl+S e Ctrl+B.",
+        "C": "Ctrl+B e Ctrl+S.",
+        "D": "Ctrl+B e Ctrl+B.",
+        "E": "Ctrl+N e Ctrl+S."
+      },
+      "gabarito": "C",
+      "explicacao": "Word em português: Ctrl+B = salvar. Writer: Ctrl+S = salvar (Ctrl+B é negrito no Writer).",
+      "resolucao_md": "**O que a questão pede**\nAtalho de salvar em cada programa.\n\n**Conceito/Regra rápida**\nWord PT-BR: B salva, N negrito, S sublinhado. Writer: S salva, B negrito, U sublinhado.\n\n**Passo a passo**\n```\\nPrograma           Salvar     Negrito    Sublinhado\\nWord 2019 PT-BR   Ctrl+B     Ctrl+N     Ctrl+S\\nWriter 7          Ctrl+S     Ctrl+B     Ctrl+U\\n```\\nResposta: Ctrl+B (Word) e Ctrl+S (Writer).\n\n**Pegadinha**\nAs duas colunas são espelhadas: o que salva em um negrita no outro.\n\n**Macete**\nOs dois \"trocam\": Word salva com B, Writer salva com S."
+    },
+    {
+      "id": "informatica-q134",
+      "topico": "informatica-word-writer",
+      "dificuldade": 1,
+      "enunciado": "O formato de arquivo padrão (nativo) de documentos de texto do LibreOffice Writer 7 é",
+      "alternativas": {
+        "A": ".docx",
+        "B": ".ods",
+        "C": ".odp",
+        "D": ".txt",
+        "E": ".odt"
+      },
+      "gabarito": "E",
+      "explicacao": "O Writer salva por padrão em .odt (OpenDocument Text); também abre e salva .docx, .doc, .rtf e exporta .pdf. .ods é planilha e .odp é apresentação.",
+      "resolucao_md": "**O que a questão pede**\nExtensão padrão do Writer.\n\n**Conceito/Regra rápida**\nODF: **odt** (texto), **ods** (planilha), **odp** (apresentação).\n\n**Passo a passo**\n1. Writer = processador de texto -> t de texto -> .odt.\\n2. .docx é o padrão do Word.\\n3. .ods e .odp são do Calc e do Impress.\n\n**Pegadinha**\nO Writer abre .docx, mas o padrão dele é .odt.\n\n**Macete**\nodT = Texto."
+    },
+    {
+      "id": "informatica-q135",
+      "topico": "informatica-word-writer",
+      "dificuldade": 1,
+      "enunciado": "No Word e no Writer, o atalho Ctrl+Z e o atalho Ctrl+Y têm, respectivamente, as funções de",
+      "alternativas": {
+        "A": "refazer e desfazer.",
+        "B": "desfazer a última ação e refazer (repetir) a ação desfeita.",
+        "C": "copiar e colar.",
+        "D": "recortar e copiar.",
+        "E": "salvar e imprimir."
+      },
+      "gabarito": "B",
+      "explicacao": "Ctrl+Z desfaz; Ctrl+Y refaz. Copiar é Ctrl+C; colar, Ctrl+V; recortar, Ctrl+X.",
+      "resolucao_md": "**O que a questão pede**\nFunções de Ctrl+Z e Ctrl+Y.\n\n**Conceito/Regra rápida**\nZ = volta (desfazer). Y = vai de novo (refazer).\n\n**Passo a passo**\n1. Digite uma palavra.\\n2. Ctrl+Z: a palavra some (desfez).\\n3. Ctrl+Y: a palavra volta (refez).\n\n**Pegadinha**\nCtrl+Y não desfaz: refaz.\n\n**Macete**\nZ e Y estão lado a lado: Z desfaz, Y refaz."
+    },
+    {
+      "id": "informatica-q136",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Em um editor de texto, para que seja possível gerar automaticamente um SUMÁRIO (índice) do documento, é necessário que os títulos e subtítulos tenham sido formatados com",
+      "alternativas": {
+        "A": "a ferramenta Pincel de Formatação.",
+        "B": "a cor de fonte vermelha.",
+        "C": "espaçamento duplo entre linhas.",
+        "D": "Estilos de título (Título 1, Título 2 etc.).",
+        "E": "caixas de texto com bordas."
+      },
+      "gabarito": "D",
+      "explicacao": "O sumário automático lê os estilos de título (Título 1, 2, 3...) e monta o índice com os números de página. Pincel, cor, espaçamento ou caixa de texto não criam hierarquia.",
+      "resolucao_md": "**O que a questão pede**\nO que o sumário automático exige.\n\n**Conceito/Regra rápida**\nSumário automático = títulos formatados com **Estilos de título**. Word: guia Referências > Sumário. Writer: Inserir > Sumário e índice.\n\n**Passo a passo**\n1. Aplique Título 1 aos capítulos e Título 2 aos subtítulos.\\n2. Insira o sumário.\\n3. Ao mudar o documento, atualize o sumário.\n\n**Pegadinha**\nSó deixar o texto grande e negrito não cria sumário.\n\n**Macete**\nSem estilo de título, sem sumário automático."
+    },
+    {
+      "id": "informatica-q137",
+      "topico": "informatica-word-writer",
+      "dificuldade": 1,
+      "enunciado": "O atalho Ctrl+Enter, no Word e no Writer, serve para",
+      "alternativas": {
+        "A": "inserir uma quebra de página.",
+        "B": "criar uma nova linha dentro do mesmo parágrafo.",
+        "C": "salvar o documento.",
+        "D": "abrir o menu Arquivo.",
+        "E": "iniciar a verificação de ortografia."
+      },
+      "gabarito": "A",
+      "explicacao": "Ctrl+Enter insere quebra de página. Shift+Enter quebra a linha sem criar novo parágrafo. F7 inicia a ortografia.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Ctrl+Enter.\n\n**Conceito/Regra rápida**\nEnter = novo parágrafo. Shift+Enter = quebra de linha. Ctrl+Enter = quebra de página.\n\n**Passo a passo**\n1. Posicione o cursor onde a página deve terminar.\\n2. Ctrl+Enter.\\n3. O texto seguinte vai para a próxima página.\n\n**Pegadinha**\nNão confundir com Shift+Enter.\n\n**Macete**\nCtrl = \"corta\" a página."
+    },
+    {
+      "id": "informatica-q138",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "A ferramenta Pincel de Formatação, existente no Word e no Writer, permite",
+      "alternativas": {
+        "A": "copiar o texto e as imagens de um local para outro.",
+        "B": "corrigir automaticamente a ortografia.",
+        "C": "exportar o documento em PDF.",
+        "D": "criar tabelas a partir de texto.",
+        "E": "copiar a formatação de um trecho e aplicá-la a outro."
+      },
+      "gabarito": "E",
+      "explicacao": "Pincel copia somente a formatação (fonte, cor, tamanho, estilo), não o conteúdo.",
+      "resolucao_md": "**O que a questão pede**\nFunção do Pincel de Formatação.\n\n**Conceito/Regra rápida**\nPincel = copia o **visual**, não o conteúdo.\n\n**Passo a passo**\n1. Selecione um trecho já formatado.\\n2. Clique no Pincel.\\n3. Selecione o outro trecho: ele recebe a mesma formatação.\n\n**Pegadinha**\nCopiar conteúdo é Ctrl+C / Ctrl+V.\n\n**Macete**\nPincel = pinta com o estilo copiado."
+    },
+    {
+      "id": "informatica-q139",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "A funcionalidade Mala Direta, disponível no Word e no Writer, é utilizada principalmente para",
+      "alternativas": {
+        "A": "proteger o documento com senha.",
+        "B": "criar documentos personalizados (cartas, etiquetas, e-mails) a partir de um modelo e de uma lista de dados.",
+        "C": "converter o documento em planilha.",
+        "D": "criar apresentações de slides.",
+        "E": "comparar duas versões do mesmo documento."
+      },
+      "gabarito": "B",
+      "explicacao": "Mala direta mescla um documento-modelo com uma fonte de dados (lista de nomes, endereços), gerando cartas ou etiquetas personalizadas. Comparar versões e proteger com senha são outros recursos.",
+      "resolucao_md": "**O que a questão pede**\nPara que serve a Mala Direta.\n\n**Conceito/Regra rápida**\nMala direta = modelo + lista de dados -> várias cópias personalizadas.\n\n**Passo a passo**\n```\\nModelo:   Prezado(a) <<Nome>>, sua matrícula é <<Número>>.\\nLista:    Ana - 101 | Bruno - 102\\nResultado: 2 cartas, uma para cada pessoa\\n```\n\n**Pegadinha**\nNada a ver com e-mail apenas: gera cartas, etiquetas e envelopes.\n\n**Macete**\nMala = uma carta modelo para muitos destinatários."
+    },
+    {
+      "id": "informatica-q140",
+      "topico": "informatica-word-writer",
+      "dificuldade": 2,
+      "enunciado": "Para exportar um documento do LibreOffice Writer 7 no formato PDF, o caminho de menu correto é",
+      "alternativas": {
+        "A": "Editar > Exportar como > Exportar como PDF.",
+        "B": "Inserir > Exportar > PDF.",
+        "C": "Arquivo > Exportar como > Exportar como PDF.",
+        "D": "Formatar > PDF.",
+        "E": "Ferramentas > Opções > PDF."
+      },
+      "gabarito": "C",
+      "explicacao": "No Writer, a exportação em PDF fica em Arquivo > Exportar como > Exportar como PDF. No Word 2019: Arquivo > Exportar > Criar documento PDF/XPS (ou Salvar como > PDF).",
+      "resolucao_md": "**O que a questão pede**\nCaminho do menu para exportar PDF no Writer.\n\n**Conceito/Regra rápida**\nExportar/salvar sempre fica no menu **Arquivo**.\n\n**Passo a passo**\n1. Abra o menu Arquivo.\\n2. Escolha Exportar como.\\n3. Clique em Exportar como PDF.\n\n**Pegadinha**\nNão é Editar nem Inserir.\n\n**Macete**\nExportar = Arquivo."
+    }
+  ]
+}

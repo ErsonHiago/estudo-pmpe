@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q111",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "Associe corretamente a extensão de arquivo ao programa que a utiliza por padrão. Assinale a alternativa que apresenta a associação CORRETA.",
+      "alternativas": {
+        "A": ".odp - documento de texto do LibreOffice Writer.",
+        "B": ".ods - planilha do LibreOffice Calc.",
+        "C": ".pptx - planilha do Microsoft Excel.",
+        "D": ".docx - apresentação do LibreOffice Impress.",
+        "E": ".xlsx - documento de texto do Microsoft Word."
+      },
+      "gabarito": "B",
+      "explicacao": ".ods = Calc (planilha). .odp = Impress (apresentação); .pptx = PowerPoint; .docx = Word; .xlsx = Excel.",
+      "resolucao_md": "**O que a questão pede**\nA associação correta extensão -> programa.\n\n**Conceito/Regra rápida**\nTerceira letra: `t» = texto, `s» = planilha (spreadsheet), `p» = apresentação (presentation). ODF para LibreOffice; X (docx/xlsx/pptx) para Microsoft.\n\n**Passo a passo**\n```\\n.odt = Writer (texto)    .docx = Word\\n.ods = Calc (planilha)  .xlsx = Excel\\n.odp = Impress         .pptx = PowerPoint\\n```\\nA única associação certa é `.ods = Calc».\n\n**Pegadinha**\nCuidado: o enunciado troca as famílias propositalmente.\n\n**Macete**\nodt/ods/odp = Libre; docx/xlsx/pptx = Microsoft."
+    },
+    {
+      "id": "informatica-q112",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "Ao arrastar um arquivo de uma pasta para outra da MESMA unidade (C:), mantendo a tecla Alt pressionada, o Windows",
+      "alternativas": {
+        "A": "cria um atalho para o arquivo na pasta de destino.",
+        "B": "move o arquivo para a pasta de destino.",
+        "C": "copia o arquivo para a pasta de destino.",
+        "D": "exclui o arquivo definitivamente.",
+        "E": "compacta o arquivo em ZIP."
+      },
+      "gabarito": "A",
+      "explicacao": "Alt ao arrastar cria atalho. Ctrl copia e Shift move.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Alt ao arrastar.\n\n**Conceito/Regra rápida**\nMesma unidade: sem tecla move; Ctrl copia; Shift move; Alt cria atalho.\n\n**Passo a passo**\n1. A tecla Alt nesta combinação não é nem copiar nem mover.\\n2. O Windows cria um ponteiro para o item original: o **atalho**.\n\n**Pegadinha**\nAtalho não duplica o arquivo; só aponta para ele.\n\n**Macete**\nCtrl = Copia; Shift = Sai daqui (move); Alt = Atalho."
+    },
+    {
+      "id": "informatica-q113",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "Para transmitir imagem e som digitais, em um único cabo, de um computador para uma televisão, a conexão mais adequada é a",
+      "alternativas": {
+        "A": "VGA.",
+        "B": "P2.",
+        "C": "HDMI.",
+        "D": "RJ-45.",
+        "E": "PS/2."
+      },
+      "gabarito": "C",
+      "explicacao": "HDMI leva vídeo e áudio digitais. VGA é vídeo analógico (sem áudio); P2 é áudio; RJ-45 é cabo de rede; PS/2 é de teclado/mouse antigo.",
+      "resolucao_md": "**O que a questão pede**\nPorta que leva áudio e vídeo digitais juntos.\n\n**Conceito/Regra rápida**\nHDMI = áudio e vídeo digital. DisplayPort também. VGA = só vídeo analógico.\n\n**Passo a passo**\n1. Procure \"áudio + vídeo digital\": HDMI.\\n2. VGA: só vídeo analógico.\\n3. P2: só áudio.\\n4. RJ-45: rede.\n\n**Pegadinha**\nVGA não leva áudio.\n\n**Macete**\nHDMI = High-Definition (áudio e vídeo) Multimídia."
+    },
+    {
+      "id": "informatica-q114",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "Considere o caminho do arquivo C:\\Usuarios\\Ana\\Documentos\\relatorio.docx. É correto afirmar que",
+      "alternativas": {
+        "A": "Ana é o nome do arquivo e relatorio é uma pasta.",
+        "B": "Documentos é a unidade de disco onde o arquivo está.",
+        "C": "a pasta Usuarios está dentro da pasta Ana.",
+        "D": "relatorio é a extensão do arquivo.",
+        "E": "a extensão do arquivo é .docx, indicando que se trata de um documento do Word."
+      },
+      "gabarito": "E",
+      "explicacao": "O caminho vai da unidade (C:) às pastas (Usuarios > Ana > Documentos) e termina no arquivo (relatorio) com extensão (.docx). Usuarios contém Ana, não o contrário.",
+      "resolucao_md": "**O que a questão pede**\nInterpretar um caminho.\n\n**Conceito/Regra rápida**\nCaminho = unidade \\ pasta \\ subpasta \\ arquivo.extensão.\n\n**Passo a passo**\n```\\nC:                 -> unidade\\nUsuarios           -> pasta\\n  Ana              -> subpasta de Usuarios\\n    Documentos     -> subpasta de Ana\\n      relatorio    -> nome do arquivo\\n      .docx        -> extensão (Word)\\n```\n\n**Pegadinha**\nA pasta da esquerda contém a da direita.\n\n**Macete**\nLeia o caminho da esquerda para a direita: do maior (unidade) ao menor (arquivo)."
+    },
+    {
+      "id": "informatica-q115",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "A memória virtual (arquivo de paginação) de um sistema operacional consiste em",
+      "alternativas": {
+        "A": "uma memória cache dentro do processador.",
+        "B": "um tipo de memória ROM que guarda o firmware.",
+        "C": "a memória da placa de vídeo usada apenas para jogos.",
+        "D": "usar parte do disco (HD/SSD) como extensão da memória RAM quando esta se esgota.",
+        "E": "uma cópia de segurança dos arquivos do usuário na nuvem."
+      },
+      "gabarito": "D",
+      "explicacao": "Quando a RAM enche, o sistema \"empresta\" espaço do disco como se fosse RAM (mais lento). Não é cache nem ROM nem backup.",
+      "resolucao_md": "**O que a questão pede**\nO que é memória virtual.\n\n**Conceito/Regra rápida**\nMemória virtual = espaço do **disco** usado como \"extensão\" da RAM.\n\n**Passo a passo**\n1. Cache e registradores ficam no processador: descartar.\\n2. ROM guarda firmware: descartar.\\n3. Backup é cópia de segurança: outro assunto.\\n4. Sobra: disco usado como extensão da RAM.\n\n**Pegadinha**\nÉ mais lenta que a RAM real.\n\n**Macete**\nVirtual = \"RAM de mentirinha\" feita de disco."
+    },
+    {
+      "id": "informatica-q116",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "No Windows 11, o atalho de teclado Win+L tem como função",
+      "alternativas": {
+        "A": "desligar o computador imediatamente.",
+        "B": "abrir a Lista de programas instalados.",
+        "C": "bloquear o computador (a sessão do usuário), exigindo senha/PIN para voltar.",
+        "D": "fazer logoff e fechar todos os programas.",
+        "E": "abrir o Explorador de Arquivos."
+      },
+      "gabarito": "C",
+      "explicacao": "Win+L (Lock) bloqueia a sessão sem fechar os programas. Desligar é feito pelo Menu Iniciar; o Explorador de Arquivos abre com Win+E.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Win+L.\n\n**Conceito/Regra rápida**\n**L** de **L**ock (bloquear). Os programas continuam abertos.\n\n**Passo a passo**\n1. Win+L -> tela de bloqueio.\\n2. Para voltar, informa-se senha, PIN ou biometria (Windows Hello).\\n3. Nada é fechado nem desligado.\n\n**Pegadinha**\nNão confundir bloquear com desligar ou fazer logoff.\n\n**Macete**\nL de Lock = trancar a porta."
+    },
+    {
+      "id": "informatica-q117",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "O atalho de teclado que abre DIRETAMENTE o Gerenciador de Tarefas do Windows é",
+      "alternativas": {
+        "A": "Ctrl+Alt+Del.",
+        "B": "Win+T.",
+        "C": "Alt+F4.",
+        "D": "Ctrl+Shift+Del.",
+        "E": "Ctrl+Shift+Esc."
+      },
+      "gabarito": "E",
+      "explicacao": "Ctrl+Shift+Esc abre direto o Gerenciador de Tarefas. Ctrl+Alt+Del abre a tela de segurança, que tem uma opção para ele; Alt+F4 fecha o programa ativo.",
+      "resolucao_md": "**O que a questão pede**\nAtalho direto para o Gerenciador de Tarefas.\n\n**Conceito/Regra rápida**\nCtrl+Shift+Esc = Gerenciador (direto). Ctrl+Alt+Del = tela de opções (bloquear, trocar usuário, sair, Gerenciador).\n\n**Passo a passo**\n1. Ctrl+Alt+Del: abre a tela azul de opções, não o Gerenciador diretamente.\\n2. Alt+F4: fecha a janela ativa.\\n3. Ctrl+Shift+Esc: abre direto o Gerenciador.\n\n**Pegadinha**\nA AOCP gosta da confusão entre Ctrl+Alt+Del e Ctrl+Shift+Esc.\n\n**Macete**\nTrês teclas \"grandes\" do canto + Esc = Gerenciador."
+    },
+    {
+      "id": "informatica-q118",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "No Prompt de Comando do Windows, o comando utilizado para CRIAR uma nova pasta (diretório) é",
+      "alternativas": {
+        "A": "dir.",
+        "B": "md (ou mkdir).",
+        "C": "cd.",
+        "D": "rd.",
+        "E": "del."
+      },
+      "gabarito": "B",
+      "explicacao": "md/mkdir cria pasta. dir lista conteúdo; cd muda de pasta; rd remove pasta; del apaga arquivo.",
+      "resolucao_md": "**O que a questão pede**\nComando que cria pasta no cmd.\n\n**Conceito/Regra rápida**\nmd = Make Directory (cria). rd = Remove Directory. dir = lista. cd = Change Directory. del = apaga arquivos.\n\n**Passo a passo**\n```\\nC:\\> md Projetos\\nC:\\> dir\\n   <DIR>   Projetos\\n```\\nO comando md criou a pasta Projetos.\n\n**Pegadinha**\n`dir» não cria nada: só mostra o que existe.\n\n**Macete**\nmd = Make (cria); rd = Remove (remove)."
+    },
+    {
+      "id": "informatica-q119",
+      "topico": "informatica-windows11",
+      "dificuldade": 2,
+      "enunciado": "Um usuário digitou, em sequência, os comandos abaixo no Prompt de Comando, partindo da raiz do disco C:.\\n\\nmd Projetos\\ncd Projetos\\nmd 2026\\ncd 2026\\ncd ..\\n\\nAo final, o prompt de comando estará posicionado em",
+      "alternativas": {
+        "A": "C:\\Projetos>",
+        "B": "C:\\>",
+        "C": "C:\\Projetos\\2026>",
+        "D": "C:\\2026>",
+        "E": "C:\\Projetos\\2026\\..>"
+      },
+      "gabarito": "A",
+      "explicacao": "md cria, cd entra e cd .. sobe um nível. O último cd .. sai de 2026 e volta para Projetos.",
+      "resolucao_md": "**O que a questão pede**\nOnde o prompt fica após a sequência.\n\n**Conceito/Regra rápida**\n`cd pasta» entra na pasta. `cd ..» sobe um nível. `cd \\» vai à raiz.\n\n**Passo a passo**\n```\\nC:\\> md Projetos          (cria C:\\Projetos)\\nC:\\> cd Projetos          -> C:\\Projetos>\\nC:\\Projetos> md 2026      (cria C:\\Projetos\\2026)\\nC:\\Projetos> cd 2026      -> C:\\Projetos\\2026>\\nC:\\Projetos\\2026> cd ..   -> C:\\Projetos>\\n```\\nPosição final: **C:\\Projetos>**.\n\n**Pegadinha**\nQuem esquece que `cd ..» sobe um nível marca C:\\Projetos\\2026>.\n\n**Macete**\nDois pontinhos = subir um degrau."
+    },
+    {
+      "id": "informatica-q120",
+      "topico": "informatica-windows11",
+      "dificuldade": 1,
+      "enunciado": "Para exibir a configuração de rede (endereço IP, máscara, gateway) de um computador pelo Prompt de Comando, utiliza-se o comando",
+      "alternativas": {
+        "A": "ping.",
+        "B": "tasklist.",
+        "C": "chkdsk.",
+        "D": "ipconfig.",
+        "E": "hostname."
+      },
+      "gabarito": "D",
+      "explicacao": "ipconfig mostra a configuração de IP. ping testa a conectividade; tasklist lista processos; chkdsk verifica o disco; hostname mostra o nome do computador.",
+      "resolucao_md": "**O que a questão pede**\nComando que mostra a configuração de IP.\n\n**Conceito/Regra rápida**\nipconfig = configuração de IP. ping = testa se o destino responde. tracert = rota até o destino.\n\n**Passo a passo**\n```\\nC:\\> ipconfig\\n   Endereço IPv4 ........: 192.168.0.15\\n   Máscara de sub-rede ..: 255.255.255.0\\n   Gateway padrão .......: 192.168.0.1\\n```\n\n**Pegadinha**\nping não mostra IP da máquina; só testa o contato.\n\n**Macete**\nipconfig = IP configuration."
+    }
+  ]
+}

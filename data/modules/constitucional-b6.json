@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: Poder Judiciário e Funções Essenciais à Justiça. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Poder Judiciário e Funções Essenciais à Justiça (arts. 92 a 135)",
+   "prioridade": 2,
+   "horas": 6,
+   "resumo_md": "## Órgãos do Poder Judiciário (art. 92)\nSupremo Tribunal Federal (**STF**), Conselho Nacional de Justiça (**CNJ**), Superior Tribunal de Justiça (**STJ**), Tribunal Superior do Trabalho, **TRFs e Juízes Federais**, Tribunais e Juízes do **Trabalho**, **Eleitorais**, **Militares** e dos **Estados, DF e Territórios**. STF e Tribunais Superiores têm **sede na Capital Federal** e jurisdição em todo o território nacional. O CNJ e o STF têm competências distintas: o **CNJ não exerce jurisdição**, apenas controle administrativo, financeiro e dos deveres funcionais dos juízes.\n\n## STF e STJ\n| | STF (arts. 101 e 102) | STJ (arts. 104 e 105) |\n|---|---|---|\n| Composição | **11 Ministros** | mínimo de **33** |\n| Requisitos | **35 a 70 anos** (mais de 35 e menos de 70), notável saber jurídico e reputação ilibada | idem (35 a 70) |\n| Escolha | nomeados pelo **Presidente**, após aprovação por **maioria absoluta do Senado** | idem; **1/3** de juízes de TRF, **1/3** de desembargadores, **1/3** advogados e membros do MP |\n| Missão | guarda da **Constituição** | uniformização da lei **federal** |\n**STF (competências):** originária: **ADI, ADC, ADPF**, infrações penais comuns do **Presidente, Vice, parlamentares, Ministros, PGR**; recursal: **recurso extraordinário** (repercussão geral). **Legitimados da ADI (art. 103):** Presidente; Mesas do Senado, Câmara e Assembleias (e CLDF); Governadores; PGR; **Conselho Federal da OAB**; partido com representação no Congresso; confederação sindical ou entidade de classe de âmbito nacional. **Súmula vinculante (art. 103-A):** aprovada por **2/3** dos Ministros do STF, após reiteradas decisões; vincula os demais órgãos do **Judiciário** e a **administração pública** direta e indireta (não vincula o Legislativo em sua função típica nem o próprio STF).\n**STJ:** crimes comuns dos **Governadores**; recurso especial; homologação de sentenças estrangeiras.\n**Cláusula de reserva de plenário (art. 97):** inconstitucionalidade só pelo voto da **maioria absoluta** dos membros do tribunal ou do órgão especial.\n\n## Magistratura (arts. 93 a 96)\n| Garantia | Regra |\n|---|---|\n| **Vitaliciedade** | 1º grau: após **2 anos**; antes, perda por deliberação do tribunal; depois, só por **sentença transitada em julgado** |\n| **Inamovibilidade** | salvo interesse público, por **maioria absoluta** do tribunal ou do CNJ |\n| **Irredutibilidade de subsídio** | com ressalvas dos tetos e tributos |\nVedações: outro cargo (salvo **um de magistério**), custas ou participação em processo, atividade político-partidária, auxílios de pessoas, e a **quarentena de saída** (advogar no juízo de que se afastou por 3 anos). **Ingresso:** concurso público, com participação da OAB, **3 anos de atividade jurídica**. **Publicidade e motivação:** julgamentos públicos e decisões fundamentadas, sob pena de **nulidade** (art. 93, IX).\n\n## Justiças especializadas e dos Estados\n**Justiça Federal** (art. 109): causas em que a **União, autarquia ou empresa pública federal** forem interessadas (salvo falência, acidentes de trabalho, Eleitoral e do Trabalho). **Júri:** crimes **dolosos contra a vida**. **Juizados Especiais** (art. 98): causas cíveis de menor complexidade e infrações penais de **menor potencial ofensivo**. **Justiça Estadual** (art. 125): residual; **representação de inconstitucionalidade** de leis estaduais e municipais em face da Constituição Estadual, vedada a legitimação a um único órgão.\n\n## Funções essenciais à Justiça\n### Ministério Público (arts. 127 a 130-A)\n**Instituição permanente, essencial à função jurisdicional do Estado**; defende a **ordem jurídica, o regime democrático e os interesses sociais e individuais indisponíveis**. **Princípios:** **unidade, indivisibilidade e independência funcional**. Autonomia funcional e administrativa. **Art. 129 (funções):** **promover privativamente a ação penal pública**; zelar pelo respeito aos direitos constitucionais; **inquérito civil e ação civil pública**; ação de inconstitucionalidade/intervenção; **controle externo da atividade policial**; **requisitar diligências e a instauração de inquérito policial**; vedada a **representação judicial e a consultoria jurídica** de entidades públicas. **PGR:** nomeado pelo Presidente dentre integrantes da carreira **maiores de 35 anos**, após aprovação do Senado por maioria absoluta, mandato de **2 anos**, permitida recondução. O MP dos Estados tem Procurador-Geral nomeado pelo Governador (lista tríplice). **CNMP** (art. 130-A): controle administrativo e financeiro do MP.\n### Advocacia Pública, Advocacia e Defensoria\n- **Advocacia Pública** (arts. 131 e 132): **AGU** (União) e **Procuradorias dos Estados e DF**: representação judicial e consultoria jurídica.\n- **Advocacia** (art. 133): **indispensável à administração da justiça**, **inviolável** por seus atos e manifestações no exercício da profissão, nos limites da lei.\n- **Defensoria Pública** (art. 134): instituição permanente, essencial à função jurisdicional, **expressão e instrumento do regime democrático**; orientação jurídica, **promoção dos direitos humanos** e defesa, judicial e extrajudicial, dos direitos individuais e coletivos, **de forma integral e gratuita aos necessitados**. Princípios: **unidade, indivisibilidade e independência funcional**; autonomia funcional, administrativa e de iniciativa de proposta orçamentária.",
+   "dicas": [
+    "STF: 11 ministros, 35 a 70 anos, Senado por maioria absoluta. STJ: no mínimo 33.",
+    "Súmula vinculante: 2/3 do STF. Reserva de plenário: maioria absoluta.",
+    "MP: Unidade, Indivisibilidade e Independência funcional (UII). Defensoria: mesmos princípios.",
+    "MP promove ação penal pública (privativamente), controla externamente a polícia e REQUISITA inquérito, não o preside.",
+    "CNJ: não julga processos; controla o Judiciário administrativamente."
+   ],
+   "pegadinhas": [
+    "Dizer que o CNJ exerce função jurisdicional: é órgão administrativo de controle.",
+    "Afirmar que o MP exerce o controle interno da atividade policial: é externo.",
+    "Dizer que o MP pode exercer a consultoria jurídica de entidades públicas: é vedada (função da Advocacia Pública).",
+    "Trocar o quórum de reserva de plenário (maioria absoluta) por 2/3, ou da súmula vinculante (2/3) por maioria absoluta.",
+    "Dizer que o juiz de 1º grau é vitalício desde a posse: só após 2 anos de exercício.",
+    "Dizer que a súmula vinculante vincula o Poder Legislativo na função legislativa: vincula Judiciário e administração pública."
+   ],
+   "flashcards": [
+    {
+     "q": "Quantos Ministros tem o STF e quais os requisitos?",
+     "a": "11; entre 35 e 70 anos, notável saber jurídico e reputação ilibada."
+    },
+    {
+     "q": "Quem nomeia os Ministros do STF?",
+     "a": "O Presidente, após aprovação por maioria absoluta do Senado."
+    },
+    {
+     "q": "Qual o quórum para declarar inconstitucionalidade em tribunal?",
+     "a": "Maioria absoluta dos membros do tribunal ou do órgão especial (art. 97)."
+    },
+    {
+     "q": "Quórum de aprovação de súmula vinculante?",
+     "a": "2/3 dos Ministros do STF."
+    },
+    {
+     "q": "Quando o juiz de 1º grau adquire vitaliciedade?",
+     "a": "Após 2 anos de exercício."
+    },
+    {
+     "q": "Quais os princípios institucionais do MP?",
+     "a": "Unidade, indivisibilidade e independência funcional."
+    },
+    {
+     "q": "Quem promove a ação penal pública?",
+     "a": "O Ministério Público, privativamente."
+    },
+    {
+     "q": "O MP pode representar judicialmente entidades públicas?",
+     "a": "Não; é vedado (art. 129, IX)."
+    },
+    {
+     "q": "Qual a missão da Defensoria Pública?",
+     "a": "Orientação jurídica, promoção dos direitos humanos e defesa, em todos os graus, dos necessitados, de forma integral e gratuita."
+    },
+    {
+     "q": "Quem representa judicialmente a União?",
+     "a": "A Advocacia-Geral da União (AGU)."
+    },
+    {
+     "q": "Qual a natureza do CNJ?",
+     "a": "Órgão de controle administrativo, financeiro e dos deveres funcionais, sem jurisdição."
+    }
+   ],
+   "id": "const-b-t6"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t6-q01",
+   "topico": "const-b-t6",
+   "dificuldade": 1,
+   "enunciado": "O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos",
+   "alternativas": {
+    "A": "com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada, nomeados pelo Presidente da República após aprovação por maioria absoluta do Senado Federal.",
+    "B": "com mais de trinta anos e menos de setenta e cinco, nomeados pelo Presidente após aprovação por dois terços da Câmara.",
+    "C": "com mais de trinta e cinco anos, de livre escolha do Presidente, sem aprovação do Senado.",
+    "D": "com mais de quarenta anos e menos de sessenta, escolhidos pelo CNJ.",
+    "E": "bacharéis em Direito há mais de dez anos, eleitos pelo Congresso Nacional."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 101: 35 a 70 anos, notável saber jurídico e reputação ilibada; aprovação por maioria absoluta do Senado.",
+   "resolucao_md": "**O que a questão pede:** requisitos dos Ministros do STF.\n\n**Regra rápida:** 11 Ministros; mais de 35 e menos de 70 anos; Presidente nomeia; Senado aprova por maioria absoluta.\n\n**Passo a passo:**\n1. Verifique idade, órgão que nomeia e quórum.\n2. B: idade e órgão aprovador errados (a aprovação é do Senado, não da Câmara).\n3. C: ignora a aprovação do Senado.\n4. D: o CNJ não escolhe Ministros e as idades estão erradas.\n5. E: o Congresso não elege Ministros do STF.\n\n**Pegadinha:** Trocar Senado por Câmara.\n\n**Macete:** 35 a 70, Senado, maioria absoluta."
+  },
+  {
+   "id": "const-b-t6-q02",
+   "topico": "const-b-t6",
+   "dificuldade": 2,
+   "enunciado": "Nos termos do art. 97 da Constituição Federal, a declaração de inconstitucionalidade de lei ou de ato normativo do poder público pelos tribunais depende do voto",
+   "alternativas": {
+    "A": "de dois terços dos membros do tribunal.",
+    "B": "da maioria absoluta de seus membros ou dos membros do respectivo órgão especial.",
+    "C": "de qualquer desembargador, monocraticamente, em controle difuso.",
+    "D": "da maioria simples dos membros da turma.",
+    "E": "da unanimidade dos membros do tribunal."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 97: cláusula de reserva de plenário.",
+   "resolucao_md": "**O que a questão pede:** o quórum da reserva de plenário.\n\n**Regra rápida:** Maioria absoluta do tribunal ou do órgão especial.\n\n**Passo a passo:**\n1. A: 2/3 é o quórum da súmula vinculante.\n2. C: a decisão monocrática de membro isolado não declara inconstitucionalidade.\n3. D: turma não declara inconstitucionalidade (exige-se o plenário ou órgão especial).\n4. E: unanimidade não é exigida.\n\n**Pegadinha:** Confundir com o quórum da súmula vinculante.\n\n**Macete:** Reserva de plenário = maioria absoluta."
+  },
+  {
+   "id": "const-b-t6-q03",
+   "topico": "const-b-t6",
+   "dificuldade": 2,
+   "enunciado": "Quanto às garantias da magistratura, a vitaliciedade, no primeiro grau, será adquirida",
+   "alternativas": {
+    "A": "no ato da posse, por força de concurso público.",
+    "B": "após três anos de exercício, por decisão do CNJ.",
+    "C": "após dois anos de exercício, dependendo a perda do cargo, nesse período, de deliberação do tribunal a que o juiz estiver vinculado e, nos demais casos, de sentença judicial transitada em julgado.",
+    "D": "após cinco anos, dependendo a perda do cargo de decisão do Executivo.",
+    "E": "após dois anos, mas a perda do cargo é sempre decidida pelo Presidente do Tribunal."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 95, I.",
+   "resolucao_md": "**O que a questão pede:** a vitaliciedade do juiz.\n\n**Regra rápida:** Dois anos de exercício; depois só perde por sentença transitada em julgado.\n\n**Passo a passo:**\n1. A: não é imediata.\n2. B: o prazo não é de 3 anos.\n3. D: o Executivo não decide.\n4. E: a decisão é do tribunal.\n\n**Pegadinha:** Estágio de 3 anos do servidor (art. 41) é diferente.\n\n**Macete:** Juiz: 2 anos; servidor: 3."
+  },
+  {
+   "id": "const-b-t6-q04",
+   "topico": "const-b-t6",
+   "dificuldade": 2,
+   "enunciado": "A súmula com efeito vinculante, prevista no art. 103-A da Constituição Federal, será aprovada",
+   "alternativas": {
+    "A": "por maioria absoluta do STJ, tendo efeito vinculante para o Poder Legislativo na função legislativa.",
+    "B": "por maioria simples do STF, sem necessidade de reiteração de decisões.",
+    "C": "por dois terços do Senado Federal, com efeito apenas para a União.",
+    "D": "por decisão de dois terços dos membros do Supremo Tribunal Federal, após reiteradas decisões sobre matéria constitucional, e terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta.",
+    "E": "por maioria absoluta do STF, com vinculação do próprio STF."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 103-A.",
+   "resolucao_md": "**O que a questão pede:** as regras da súmula vinculante.\n\n**Regra rápida:** Quórum de 2/3 do STF; reiteradas decisões; vincula Judiciário e administração, não o Legislativo (função legislativa) nem o STF.\n\n**Passo a passo:**\n1. A: é do STF, não do STJ; não vincula o Legislativo.\n2. B: exige 2/3.\n3. C: Senado não edita súmula.\n4. E: quórum errado.\n\n**Pegadinha:** Estender o efeito ao Legislativo.\n\n**Macete:** Vincula Judiciário e administração."
+  },
+  {
+   "id": "const-b-t6-q05",
+   "topico": "const-b-t6",
+   "dificuldade": 1,
+   "enunciado": "São princípios institucionais do Ministério Público, nos termos do art. 127, §1º, da Constituição Federal,",
+   "alternativas": {
+    "A": "a hierarquia, a unidade e a subordinação ao Poder Executivo.",
+    "B": "a legalidade, a moralidade e a publicidade.",
+    "C": "a autonomia, a impessoalidade e a eficiência.",
+    "D": "a indivisibilidade, a representação judicial e a consultoria jurídica.",
+    "E": "a unidade, a indivisibilidade e a independência funcional."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 127, §1º.",
+   "resolucao_md": "**O que a questão pede:** os princípios institucionais do MP.\n\n**Regra rápida:** UII: unidade, indivisibilidade, independência funcional.\n\n**Passo a passo:**\n1. B e C citam princípios da Administração.\n2. A e D misturam com subordinação e funções vedadas.\n\n**Macete:** UII."
+  },
+  {
+   "id": "const-b-t6-q06",
+   "topico": "const-b-t6",
+   "dificuldade": 1,
+   "enunciado": "Entre as funções institucionais do Ministério Público, previstas no art. 129 da Constituição Federal, está",
+   "alternativas": {
+    "A": "promover, privativamente, a ação penal pública, na forma da lei.",
+    "B": "exercer o controle interno da atividade policial.",
+    "C": "exercer a representação judicial e a consultoria jurídica de entidades públicas.",
+    "D": "decretar a prisão preventiva de investigados.",
+    "E": "dirigir e presidir o inquérito policial."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 129, I; VII (controle externo); VIII (requisitar inquérito); IX (veda representação e consultoria).",
+   "resolucao_md": "**O que a questão pede:** as funções do MP.\n\n**Regra rápida:** MP: ação penal pública (privativa), controle EXTERNO da polícia, requisita diligências e inquérito; vedada representação judicial de entes públicos.\n\n**Passo a passo:**\n1. B: controle interno: errado.\n2. C: vedado.\n3. D: prisão cabe ao juiz.\n4. E: o inquérito é presidido pelo delegado.\n\n**Pegadinha:** Trocar externo por interno.\n\n**Macete:** MP: denuncia, controla de fora, requisita."
+  },
+  {
+   "id": "const-b-t6-q07",
+   "topico": "const-b-t6",
+   "dificuldade": 2,
+   "enunciado": "A Defensoria Pública, nos termos do art. 134 da Constituição Federal, é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe",
+   "alternativas": {
+    "A": "a representação judicial da União, dos Estados e dos Municípios.",
+    "B": "a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados.",
+    "C": "a defesa exclusivamente judicial, apenas em causas criminais.",
+    "D": "a promoção da ação penal pública e a defesa dos interesses sociais.",
+    "E": "a consultoria jurídica do Poder Executivo."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 134: atua na orientação jurídica, direitos humanos e defesa integral e gratuita dos necessitados.",
+   "resolucao_md": "**O que a questão pede:** a missão da Defensoria.\n\n**Regra rápida:** Defesa dos necessitados, judicial e extrajudicial, integral e gratuita.\n\n**Passo a passo:**\n1. A e E são funções da Advocacia Pública.\n2. C limita indevidamente a atuação (é judicial e extrajudicial, em todas as áreas).\n3. D é função do MP.\n\n**Macete:** Defensoria: necessitados."
+  }
+ ]
+}

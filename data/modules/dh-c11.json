@@ -1,0 +1,184 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-uso-forca",
+   "titulo": "Uso da força: Lei 13.060/2014 e noções de menor potencial ofensivo",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Lei 13.060/2014 — instrumentos de menor potencial ofensivo\nA lei **disciplina o uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública**, em todo o território nacional (art. 1º).\n\n### Prioridade e princípios (art. 2º)\nOs órgãos de segurança pública **deverão priorizar** os instrumentos de menor potencial ofensivo, **desde que o seu uso não coloque em risco a integridade física ou psíquica dos policiais**, obedecendo aos princípios da **legalidade, necessidade e razoabilidade e proporcionalidade**.\n\n### Quando NÃO é legítimo usar arma de fogo (art. 2º, parágrafo único)\n| Situação | Regra |\n|---|---|\n| **Contra pessoa em fuga** | não é legítimo contra quem esteja **desarmado** ou que, mesmo armado, **não represente risco imediato** de morte ou lesão aos agentes ou a terceiros |\n| **Contra veículo que desrespeite bloqueio policial** em via pública | não é legítimo, **exceto** quando o ato represente **risco de morte ou lesão** aos agentes ou a terceiros |\n\n### Outros pontos\n- **Art. 3º:** os cursos de formação e capacitação devem incluir **conteúdo programático** para o uso desses instrumentos.\n- **Art. 5º:** o Poder Público tem o **dever de fornecer** a todo agente de segurança pública instrumentos de menor potencial ofensivo para o exercício da **legítima defesa**, com equipamentos de proteção, **independentemente de portar arma de fogo**.\n- **Art. 6º:** sempre que do uso da força decorrerem **ferimentos**, deve ser assegurada a **imediata prestação de assistência e socorro médico** e a **comunicação do fato à família** ou pessoa indicada.\n- **Art. 7º:** regulamento do Executivo classificará e disciplinará os instrumentos **[VERIFICAR o decreto vigente]**.\n\n## Princípios do uso da força\nSegundo as diretrizes nacionais (Portaria Interministerial 4.226/2010) e os princípios da ONU (Havana, 1990; Código de Conduta de 1979): **legalidade, necessidade, proporcionalidade, moderação e conveniência**. A arma de fogo é de uso **excepcional**: só em **legítima defesa própria ou de terceiros** ou para evitar dano grave, **último recurso**. O uso da força é **gradual** (presença, verbalização, controle de contato, técnicas de menor potencial, força letal).\n\n## Excludentes de ilicitude\n- **Legítima defesa (CP, art. 25):** repele injusta agressão, **atual ou iminente**, a direito seu ou de outrem, usando **moderadamente** dos **meios necessários**. Parágrafo único: agente de segurança pública que repele agressão ou risco a **vítima mantida refém** durante a prática de crimes.\n- **Estrito cumprimento do dever legal.**\n- **CPP, art. 284:** não será permitido o emprego de força, salvo a **indispensável** no caso de resistência ou tentativa de fuga do preso. **Art. 292:** havendo resistência, o executor e seus auxiliares podem usar os **meios necessários** para se defender ou vencer a resistência, lavrando-se auto subscrito por duas testemunhas.\n- **Excesso:** punível (CP, art. 23, parágrafo único), doloso ou culposo.\n\n## Menor potencial ofensivo (Lei 9.099/1995)\n**Infrações penais de menor potencial ofensivo** são as **contravenções** e os **crimes com pena máxima não superior a 2 anos**, cumulada ou não com multa (art. 61). A autoridade policial que tomar conhecimento da ocorrência lavra o **termo circunstanciado de ocorrência (TCO)** e o encaminha ao juizado, **sem prisão em flagrante e sem fiança** ao autor que assumir o compromisso de comparecer (art. 69). Institutos: **composição civil**, **transação penal** (art. 76) e **suspensão condicional do processo** (art. 89, pena mínima até 1 ano). A **Lei Maria da Penha afasta a Lei 9.099** (Lei 11.340, art. 41; Súmula 536 STJ). Não confunda o **instrumento** de menor potencial ofensivo (spray, taser, bastão) com a **infração** de menor potencial ofensivo.",
+   "dicas": [
+    "Menor potencial: instrumento (Lei 13.060) x infração (Lei 9.099, pena máxima até 2 anos).",
+    "Arma de fogo contra fuga: só se houver risco imediato de morte ou lesão; contra veículo no bloqueio: só se houver risco.",
+    "Socorro médico imediato e comunicação à família: art. 6º.",
+    "Princípios: legalidade, necessidade, proporcionalidade, moderação, conveniência."
+   ],
+   "pegadinhas": [
+    "Dizer que é sempre legítimo atirar em quem foge desarmado: não é (art. 2º, parágrafo único, I).",
+    "Dizer que o policial só recebe instrumento de menor potencial ofensivo se portar arma de fogo: o dever é independente.",
+    "Dizer que a infração de menor potencial ofensivo tem pena máxima de 4 anos: é de 2 anos.",
+    "Dizer que o uso da força não exige socorro ao ferido: o art. 6º impõe socorro imediato.",
+    "Dizer que o uso de instrumentos de menor potencial é facultativo em qualquer hipótese: a lei manda priorizá-los, desde que não coloque o policial em risco."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual o objeto da Lei 13.060/2014?",
+     "a": "Disciplinar o uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública."
+    },
+    {
+     "q": "Quais os princípios do art. 2º?",
+     "a": "Legalidade, necessidade e razoabilidade/proporcionalidade."
+    },
+    {
+     "q": "Quando não é legítimo usar arma de fogo contra pessoa em fuga?",
+     "a": "Se estiver desarmada ou não representar risco imediato de morte ou lesão."
+    },
+    {
+     "q": "Quando é legítimo atirar contra veículo que desrespeita bloqueio?",
+     "a": "Quando houver risco de morte ou lesão aos agentes ou a terceiros."
+    },
+    {
+     "q": "O que o art. 6º exige após ferimentos?",
+     "a": "Imediata assistência e socorro médico e comunicação à família ou pessoa indicada."
+    },
+    {
+     "q": "O que são infrações de menor potencial ofensivo?",
+     "a": "Contravenções e crimes com pena máxima não superior a 2 anos (Lei 9.099, art. 61)."
+    },
+    {
+     "q": "Qual o procedimento policial nessas infrações?",
+     "a": "Termo circunstanciado de ocorrência, sem prisão em flagrante e sem fiança se o autor se comprometer a comparecer."
+    },
+    {
+     "q": "Quais os elementos da legítima defesa (art. 25 CP)?",
+     "a": "Injusta agressão atual ou iminente, direito próprio ou alheio, meios necessários, uso moderado."
+    },
+    {
+     "q": "O que diz o art. 284 do CPP?",
+     "a": "Não se permite o emprego de força, salvo a indispensável em caso de resistência ou fuga do preso."
+    },
+    {
+     "q": "A Lei 9.099 se aplica à violência doméstica?",
+     "a": "Não (Lei 11.340, art. 41; Súmula 536 STJ)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-forca-q01",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 1,
+   "enunciado": "Nos termos da Lei nº 13.060/2014, os órgãos de segurança pública deverão priorizar a utilização dos instrumentos de menor potencial ofensivo, desde que seu uso não coloque em risco a integridade física ou psíquica dos policiais, e obedecer aos princípios da",
+   "alternativas": {
+    "A": "legalidade, discricionariedade e oportunidade.",
+    "B": "legalidade, necessidade e razoabilidade e proporcionalidade.",
+    "C": "impessoalidade, moralidade e publicidade, apenas.",
+    "D": "hierarquia, disciplina e conveniência, apenas.",
+    "E": "celeridade, informalidade e oralidade."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 2º, I a III.",
+   "resolucao_md": "**O que a questão pede:** os princípios do art. 2º.\n\n**Regra rápida:** legalidade, necessidade, razoabilidade/proporcionalidade.\n\n**Passo a passo:**\n1. Discricionariedade e oportunidade: não constam.\n2. Os princípios do art. 37 da CF são outro tema.\n3. Hierarquia e disciplina: organização militar.\n4. Celeridade, oralidade: juizados especiais.\n\n**Pegadinha:** Confundir com princípios da administração.\n\n**Macete:** LNP: Legalidade, Necessidade, Proporcionalidade."
+  },
+  {
+   "id": "dh-c-forca-q02",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 2,
+   "enunciado": "De acordo com a Lei nº 13.060/2014, não é legítimo o uso de arma de fogo",
+   "alternativas": {
+    "A": "contra pessoa que, armada, dispara contra os policiais.",
+    "B": "contra veículo que atropele agentes durante bloqueio.",
+    "C": "contra pessoa em fuga que esteja desarmada ou que, mesmo na posse de arma de fogo, não represente risco imediato de morte ou de lesão aos agentes de segurança pública ou a terceiros.",
+    "D": "em legítima defesa de terceiros sob risco de morte.",
+    "E": "contra criminoso que mantém refém sob ameaça de morte."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 2º, parágrafo único, I. As demais são hipóteses de risco imediato de morte ou lesão.",
+   "resolucao_md": "**O que a questão pede:** a vedação do art. 2º, parágrafo único.\n\n**Regra rápida:** fuga + desarmado ou sem risco imediato = sem arma de fogo.\n\n**Passo a passo:**\n1. Disparos contra policiais: risco imediato, uso legítimo.\n2. Veículo que atropela: risco, uso legítimo.\n3. Terceiro sob risco: legítima defesa.\n4. Refém sob ameaça: legítima defesa de terceiro.\n\n**Pegadinha:** Achar que fuga autoriza o disparo.\n\n**Macete:** Fuga sem risco imediato: não atira."
+  },
+  {
+   "id": "dh-c-forca-q03",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 2,
+   "enunciado": "Sobre o uso de arma de fogo contra veículo que desrespeite bloqueio policial em via pública, a Lei nº 13.060/2014 dispõe que",
+   "alternativas": {
+    "A": "é sempre legítimo, para garantir a ordem.",
+    "B": "é sempre ilegítimo, em qualquer hipótese.",
+    "C": "é legítimo apenas se o veículo for roubado.",
+    "D": "não é legítimo, exceto quando o ato represente risco de morte ou lesão aos agentes de segurança pública ou a terceiros.",
+    "E": "é legítimo apenas à noite."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 2º, parágrafo único, II.",
+   "resolucao_md": "**O que a questão pede:** a regra para veículo em bloqueio.\n\n**Regra rápida:** regra: proibido; exceção: risco de morte ou lesão.\n\n**Passo a passo:**\n1. Sempre legítimo: errado.\n2. Sempre ilegítimo: ignora a exceção.\n3. Só se roubado: não é critério.\n4. Só à noite: não é critério.\n\n**Pegadinha:** Esquecer a exceção.\n\n**Macete:** Bloqueio: só atira se há risco de morte ou lesão."
+  },
+  {
+   "id": "dh-c-forca-q04",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 2,
+   "enunciado": "Sempre que do uso da força praticada pelos agentes de segurança pública decorrerem ferimentos em pessoas, a Lei nº 13.060/2014 determina que seja assegurada",
+   "alternativas": {
+    "A": "a imediata prestação de assistência e socorro médico aos feridos e a comunicação do fato aos seus familiares ou à pessoa por eles indicada.",
+    "B": "a prisão em flagrante de todos os feridos.",
+    "C": "a suspensão do agente por trinta dias, em qualquer hipótese.",
+    "D": "a apuração apenas pela corregedoria, sem comunicação à família.",
+    "E": "a remoção dos feridos somente após a conclusão do inquérito."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 6º.",
+   "resolucao_md": "**O que a questão pede:** o dever pós-uso da força.\n\n**Regra rápida:** socorro imediato e comunicação à família.\n\n**Passo a passo:**\n1. Prisão de todos os feridos: sem sentido.\n2. Suspensão automática: não consta.\n3. Sem comunicar a família: contrário à lei.\n4. Aguardar o inquérito para socorrer: contrário à lei.\n\n**Pegadinha:** Ignorar o socorro.\n\n**Macete:** Feriu? Socorre e avisa."
+  },
+  {
+   "id": "dh-c-forca-q05",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 2,
+   "enunciado": "Constituem infrações penais de menor potencial ofensivo, nos termos da Lei nº 9.099/1995,",
+   "alternativas": {
+    "A": "os crimes com pena máxima de até quatro anos.",
+    "B": "apenas as contravenções penais.",
+    "C": "os crimes com pena mínima de um ano.",
+    "D": "os crimes hediondos de pequena gravidade.",
+    "E": "as contravenções penais e os crimes a que a lei comine pena máxima não superior a dois anos, cumulada ou não com multa."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 61 (redação da Lei 11.313/2006).",
+   "resolucao_md": "**O que a questão pede:** o conceito do art. 61.\n\n**Regra rápida:** contravenções e crimes com pena máxima até 2 anos.\n\n**Passo a passo:**\n1. 4 anos: não.\n2. Só contravenção: ignora os crimes.\n3. Pena mínima: o critério é a máxima.\n4. Hediondo: nunca é menor potencial.\n\n**Pegadinha:** Confundir máxima com mínima.\n\n**Macete:** Menor potencial = máxima até 2 anos."
+  },
+  {
+   "id": "dh-c-forca-q06",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 2,
+   "enunciado": "Ao tomar conhecimento de ocorrência de infração penal de menor potencial ofensivo, a autoridade policial",
+   "alternativas": {
+    "A": "lavrará auto de prisão em flagrante e arbitrará fiança.",
+    "B": "lavrará termo circunstanciado e o encaminhará imediatamente ao juizado, não se impondo prisão em flagrante nem exigindo fiança do autor que for encaminhado ou assumir o compromisso de comparecer.",
+    "C": "instaurará inquérito policial obrigatório de noventa dias.",
+    "D": "aguardará a representação por prazo indeterminado.",
+    "E": "arquivará o caso de ofício."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 69 e parágrafo único da Lei 9.099.",
+   "resolucao_md": "**O que a questão pede:** o procedimento policial.\n\n**Regra rápida:** TCO imediatamente ao juizado, sem flagrante nem fiança.\n\n**Passo a passo:**\n1. Auto de prisão e fiança: contraria o art. 69.\n2. Inquérito de 90 dias: procedimento comum.\n3. Aguardar indefinidamente: sem base.\n4. Arquivar de ofício: o policial não arquiva.\n\n**Pegadinha:** Prender quem aceita comparecer.\n\n**Macete:** Menor potencial: TCO."
+  },
+  {
+   "id": "dh-c-forca-q07",
+   "topico": "dh-c-uso-forca",
+   "dificuldade": 3,
+   "enunciado": "Em relação ao uso da força pelos agentes de segurança pública, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "O uso de instrumentos de menor potencial é proibido ao policial armado.",
+    "B": "A lei só se aplica às polícias federais.",
+    "C": "O art. 5º da Lei nº 13.060/2014 prevê que o Poder Público deve fornecer ao agente instrumentos de menor potencial ofensivo para a legítima defesa, independentemente de ele portar ou não arma de fogo.",
+    "D": "A lei impede o uso de arma de fogo em qualquer circunstância.",
+    "E": "A lei dispensa a capacitação dos agentes para o uso desses instrumentos."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 5º; art. 3º exige capacitação; art. 1º aplica-se a todo o território nacional.",
+   "resolucao_md": "**O que a questão pede:** o dever de fornecimento.\n\n**Regra rápida:** o Estado fornece instrumentos de menor potencial a todos os agentes.\n\n**Passo a passo:**\n1. Proibido ao armado: errado.\n2. Só polícias federais: errado, é para todos os agentes.\n3. Impede a arma de fogo: a lei só limita hipóteses.\n4. Dispensa capacitação: o art. 3º exige.\n\n**Pegadinha:** Achar que arma de fogo substitui os demais instrumentos.\n\n**Macete:** Todo agente: instrumento menos letal."
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q181",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "No Excel ou no Calc, ao pressionar Ctrl+Home, o cursor é levado",
+      "alternativas": {
+        "A": "para a última célula utilizada da planilha.",
+        "B": "para o início da linha atual.",
+        "C": "para a célula A1.",
+        "D": "para a última linha da coluna atual.",
+        "E": "para a próxima planilha."
+      },
+      "gabarito": "C",
+      "explicacao": "Ctrl+Home vai a A1. Ctrl+End vai à última célula utilizada. Home vai ao início da linha.",
+      "resolucao_md": "**O que a questão pede**\nDestino de Ctrl+Home.\n\n**Conceito/Regra rápida**\nHome = início da linha. Ctrl+Home = início da planilha (A1). Ctrl+End = última célula usada.\n\n**Passo a passo**\n```\\nCursor em Z500\\nCtrl+Home -> A1\\nCtrl+End  -> última célula com dados\\n```\n\n**Pegadinha**\nHome sozinho vai só ao início da linha.\n\n**Macete**\nCtrl+Home = voltar para casa (A1)."
+    },
+    {
+      "id": "informatica-q182",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "No Windows, o atalho F2 aplicado a um arquivo selecionado no Explorador de Arquivos tem a função de",
+      "alternativas": {
+        "A": "renomear o arquivo.",
+        "B": "atualizar a lista de arquivos.",
+        "C": "abrir as propriedades.",
+        "D": "excluir o arquivo.",
+        "E": "abrir a Ajuda."
+      },
+      "gabarito": "A",
+      "explicacao": "F2 renomeia. F5 atualiza; Alt+Enter abre as propriedades; Delete exclui; F1 é ajuda. No Excel, F2 edita a célula.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de F2.\n\n**Conceito/Regra rápida**\nF2 = renomear (Explorador) / editar célula (Excel, Calc).\n\n**Passo a passo**\n1. Selecione `prova.docx».\\n2. F2.\\n3. O nome fica editável.\n\n**Pegadinha**\nPropriedades é Alt+Enter, não F2.\n\n**Macete**\nF2 = \"Faça outro nome\"."
+    },
+    {
+      "id": "informatica-q183",
+      "topico": "informatica-atalhos",
+      "dificuldade": 1,
+      "enunciado": "O atalho Alt+F4, quando uma janela de programa está ativa, tem como função",
+      "alternativas": {
+        "A": "alternar entre as janelas abertas.",
+        "B": "bloquear o computador.",
+        "C": "abrir o Gerenciador de Tarefas.",
+        "D": "fechar a janela/programa ativo.",
+        "E": "capturar a tela."
+      },
+      "gabarito": "D",
+      "explicacao": "Alt+F4 fecha a janela ativa (na Área de Trabalho, abre a caixa de desligar). Alternar janelas é Alt+Tab.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Alt+F4.\n\n**Conceito/Regra rápida**\nAlt+F4 = fechar o programa ativo. Alt+Tab = trocar de janela. Ctrl+W = fechar aba/documento.\n\n**Passo a passo**\n1. Com o Word aberto, Alt+F4 fecha o Word (pede para salvar se houver alterações).\\n2. Sem janelas, na Área de Trabalho, abre o menu Desligar.\n\n**Pegadinha**\nNão confundir com Ctrl+W (fecha só a aba/documento).\n\n**Macete**\nF4 = \"Fechar\" com Alt."
+    },
+    {
+      "id": "informatica-q184",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "Em Google Chrome e Microsoft Edge, o atalho Ctrl+L (ou F6) permite",
+      "alternativas": {
+        "A": "alinhar o texto à esquerda.",
+        "B": "abrir o histórico de navegação.",
+        "C": "adicionar a página aos favoritos.",
+        "D": "abrir a página de downloads.",
+        "E": "selecionar a barra de endereços (URL)."
+      },
+      "gabarito": "E",
+      "explicacao": "Ctrl+L seleciona a barra de endereços no navegador. Favoritos = Ctrl+D; histórico = Ctrl+H; downloads = Ctrl+J. (Em editores como o Writer, Ctrl+L alinha à esquerda.)",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Ctrl+L em navegador.\n\n**Conceito/Regra rápida**\nL de **L**ocation (endereço). Mesmo atalho, programas diferentes, funções diferentes.\n\n**Passo a passo**\n```\\nNavegador:  Ctrl+L = barra de endereços | Ctrl+D = favorito\\n              Ctrl+H = histórico        | Ctrl+J = downloads\\nWriter:      Ctrl+L = alinhar à esquerda\\n```\n\n**Pegadinha**\nO enunciado diz \"em navegadores\": o contexto define a resposta.\n\n**Macete**\nL = Location."
+    },
+    {
+      "id": "informatica-q185",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "Nos navegadores Chrome e Edge, o atalho Ctrl+J abre",
+      "alternativas": {
+        "A": "o histórico de navegação.",
+        "B": "a lista de downloads.",
+        "C": "a página de favoritos.",
+        "D": "as configurações do navegador.",
+        "E": "uma janela anônima."
+      },
+      "gabarito": "B",
+      "explicacao": "Ctrl+J = downloads (J de \"Janela de downloads\"). Histórico = Ctrl+H.",
+      "resolucao_md": "**O que a questão pede**\nO que Ctrl+J abre.\n\n**Conceito/Regra rápida**\nCtrl+H = Histórico. Ctrl+J = downloads (a letra seguinte). Ctrl+D = favorito (Dar marcador).\n\n**Passo a passo**\n1. H -> História (histórico).\\n2. J -> Jogados para o computador (downloads).\\n3. D -> favorito (bookmark).\n\n**Pegadinha**\nHistórico e downloads são vizinhos no teclado e confundidos.\n\n**Macete**\nH antes de J: Histórico, depois downloads."
+    },
+    {
+      "id": "informatica-q186",
+      "topico": "informatica-atalhos",
+      "dificuldade": 2,
+      "enunciado": "No Excel, com uma célula selecionada, o atalho Ctrl+Espaço seleciona",
+      "alternativas": {
+        "A": "a coluna inteira da célula ativa.",
+        "B": "a linha inteira da célula ativa.",
+        "C": "toda a planilha.",
+        "D": "apenas o intervalo de células preenchidas.",
+        "E": "somente a célula ativa."
+      },
+      "gabarito": "A",
+      "explicacao": "Ctrl+Espaço seleciona a coluna; Shift+Espaço seleciona a linha; Ctrl+A seleciona tudo.",
+      "resolucao_md": "**O que a questão pede**\nO que Ctrl+Espaço seleciona.\n\n**Conceito/Regra rápida**\n**Ctrl** = Coluna. **Shift+Espaço** = linha. Ctrl+A = toda a planilha.\n\n**Passo a passo**\n```\\nCélula ativa: C5\\nCtrl+Espaço  -> seleciona C1:C1048576 (coluna C)\\nShift+Espaço -> seleciona A5:XFD5 (linha 5)\\n```\n\n**Pegadinha**\nQuem inverte as duas erra: a coluna é com Ctrl.\n\n**Macete**\nCtrl = Coluna."
+    },
+    {
+      "id": "informatica-q187",
+      "topico": "informatica-atalhos",
+      "dificuldade": 3,
+      "enunciado": "Considere as ações abaixo realizadas em um documento do Word 2019 em português.\\n\\nI. Ctrl+N aplica negrito.\\nII. Ctrl+B salva o documento.\\nIII. Ctrl+Y refaz a última ação desfeita.\\nIV. F12 abre Salvar como.\\n\\nEstão corretas",
+      "alternativas": {
+        "A": "apenas I e II.",
+        "B": "apenas II e III.",
+        "C": "I, II, III e IV.",
+        "D": "apenas I, III e IV.",
+        "E": "apenas II e IV."
+      },
+      "gabarito": "C",
+      "explicacao": "No Word PT-BR: Ctrl+N = negrito (I), Ctrl+B = salvar (II), Ctrl+Y = refazer (III) e F12 = Salvar como (IV). Todas corretas.",
+      "resolucao_md": "**O que a questão pede**\nQuais afirmações sobre o Word em português são corretas.\n\n**Conceito/Regra rápida**\nWord PT-BR: N = negrito, B = salvar, S = sublinhado; Y refaz; F12 Salvar como.\n\n**Passo a passo**\n```\\nI   Ctrl+N negrito ..... CERTO\\nII  Ctrl+B salvar ...... CERTO (no Word em português)\\nIII Ctrl+Y refaz ....... CERTO\\nIV  F12 Salvar como .... CERTO\\n```\\nTodas corretas.\n\n**Pegadinha**\nQuestão em que \"tudo está certo\" assusta, mas existe.\n\n**Macete**\nNo Word português: N negrito, B salvar."
+    },
+    {
+      "id": "informatica-q188",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 1,
+      "enunciado": "Em editores de apresentações como o PowerPoint e o Impress, o efeito aplicado à PASSAGEM de um slide para o seguinte é chamado de",
+      "alternativas": {
+        "A": "animação.",
+        "B": "slide mestre.",
+        "C": "hiperlink.",
+        "D": "transição.",
+        "E": "layout."
+      },
+      "gabarito": "D",
+      "explicacao": "Transição é o efeito na troca entre slides. Animação é o efeito aplicado a objetos dentro de um slide. Slide mestre define o padrão; layout é a disposição dos itens; hiperlink é um vínculo.",
+      "resolucao_md": "**O que a questão pede**\nDiferença entre transição e animação.\n\n**Conceito/Regra rápida**\n**Transição** = entre slides. **Animação** = em objetos do slide (texto, imagem, forma).\n\n**Passo a passo**\n1. O enunciado fala de \"passagem de um slide para o seguinte\".\\n2. Isso é transição.\\n3. Animação atuaria em um objeto dentro do slide.\n\n**Pegadinha**\nA AOCP troca os dois termos.\n\n**Macete**\nTransição = Trânsito entre slides."
+    },
+    {
+      "id": "informatica-q189",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "O Slide Mestre, no PowerPoint e no Impress, é utilizado para",
+      "alternativas": {
+        "A": "escrever as anotações que ficam visíveis ao público.",
+        "B": "definir o padrão (fundo, fontes, logotipo, posição dos itens) que será aplicado a todos os slides da apresentação.",
+        "C": "definir apenas o efeito de passagem de um slide.",
+        "D": "exportar a apresentação como vídeo.",
+        "E": "corrigir a ortografia de todo o texto."
+      },
+      "gabarito": "B",
+      "explicacao": "O slide mestre controla a aparência padrão; mudar nele reflete em todos os slides que seguem o layout. Notas do orador não aparecem ao público.",
+      "resolucao_md": "**O que a questão pede**\nPara que serve o slide mestre.\n\n**Conceito/Regra rápida**\nMestre = padrão geral. Alteração no mestre -> reflete em todos os slides.\n\n**Passo a passo**\n```\\nDesejo: colocar o logotipo da PMPE em todos os slides\\nSolução: inserir o logotipo UMA vez no Slide Mestre\\nResultado: o logotipo aparece em todos os slides\\n```\n\n**Pegadinha**\nAlterar um slide isolado não mexe nos demais.\n\n**Macete**\nMestre manda em todos."
+    },
+    {
+      "id": "informatica-q190",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 1,
+      "enunciado": "No PowerPoint 2019, o formato de arquivo que abre diretamente em modo de apresentação (tela cheia), sem que o usuário veja a tela de edição, é o",
+      "alternativas": {
+        "A": ".pptx",
+        "B": ".potx",
+        "C": ".docx",
+        "D": ".odt",
+        "E": ".ppsx"
+      },
+      "gabarito": "E",
+      "explicacao": ".ppsx abre direto em apresentação. .pptx é a apresentação editável; .potx é modelo (template); .docx e .odt são de texto.",
+      "resolucao_md": "**O que a questão pede**\nA extensão que abre direto em apresentação.\n\n**Conceito/Regra rápida**\n.pptx = editável. .ppsx = apresentação direta. .potx = modelo.\n\n**Passo a passo**\n```\\n.pptx  -> abre para edição\\n.ppsx  -> abre já passando os slides\\n.potx  -> modelo (template)\\n.odp   -> Impress\\n```\n\n**Pegadinha**\nA letra \"s\" lembra Show (slide show).\n\n**Macete**\nppSx = Slide show."
+    }
+  ]
+}

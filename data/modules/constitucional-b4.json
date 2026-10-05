@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: Poder Legislativo e processo legislativo. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Poder Legislativo e processo legislativo (arts. 44 a 75)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Estrutura do Congresso Nacional (arts. 44 a 47)\nO **Congresso Nacional** é bicameral: **Câmara dos Deputados** (representantes do povo, sistema **proporcional**) e **Senado Federal** (representantes dos Estados e do DF, **majoritário**). Legislatura = **4 anos**.\n| | Câmara | Senado |\n|---|---|---|\n| Composição | mín. **8**, máx. **70** deputados por unidade; Territórios: 4 | **3 senadores** por Estado e DF, cada um com **2 suplentes** |\n| Mandato | 4 anos | **8 anos**, renovação de 4 em 4 anos por **1/3 e 2/3** |\n| Idade mínima | **21 anos** | **35 anos** |\n**Quórum geral (art. 47):** salvo disposição em contrário, deliberações por **maioria dos votos, presente a maioria absoluta** dos membros (maioria simples).\n\n## Competências\n- **Congresso (art. 48)**: com sanção do Presidente (leis). **Exclusiva do Congresso (art. 49)**, por **decreto legislativo**, sem sanção: resolver sobre tratados; autorizar guerra e paz; autorizar o Presidente a ausentar-se por mais de 15 dias; **aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio**; sustar atos normativos do Executivo que exorbitem; fiscalizar.\n- **Câmara (art. 51):** autorizar, por **2/3**, a instauração de processo contra Presidente, Vice e Ministros; tomar contas do Presidente.\n- **Senado (art. 52):** processar e julgar o Presidente, Vice e Ministros (conexos), Ministros do STF, membros do CNJ e CNMP, PGR e AGU nos **crimes de responsabilidade**; sabatinar autoridades. Condenação: **2/3**, presidido pelo Presidente do STF; pena = perda do cargo com inabilitação por **8 anos**.\n\n## Estatuto dos congressistas\n| Instituto | Regra |\n|---|---|\n| Imunidade material (art. 53, caput) | **invioláveis civil e penalmente** por opiniões, palavras e votos |\n| Foro | **STF** (infrações penais comuns) |\n| Prisão (§2º) | só em **flagrante de crime inafiançável**; autos à Casa em **24 horas**, que decide por **maioria dos membros** |\n| Sustação de ação (§3º ao §5º) | partido político + **maioria dos membros**; prazo **45 dias**; suspende a prescrição |\n| Perda do mandato (art. 55) | quebra de proibições; **decoro**; **faltas a 1/3 das sessões**; direitos políticos; Justiça Eleitoral; condenação criminal transitada |\nPerda por I, II e VI: **maioria absoluta** da Casa. Perda por III, IV e V: declarada pela **Mesa**. Ministro de Estado licenciado **não perde** o mandato (art. 56).\n\n**Sessão legislativa:** 2/2 a 17/7 e 1º/8 a 22/12. **CPI (art. 58, §3º):** poderes de investigação **próprios das autoridades judiciais**, criação por **1/3** dos membros, **fato determinado**, **prazo certo**; conclusões ao **Ministério Público**. **Não pode** decretar prisão (salvo flagrante), busca domiciliar nem interceptar telefone: reserva de jurisdição.\n\n## Processo legislativo (arts. 59 a 69)\nEspécies: **emendas à Constituição, leis complementares, ordinárias, delegadas, medidas provisórias, decretos legislativos e resoluções**.\n| Espécie | Quórum / observações |\n|---|---|\n| **Emenda** | proposta por **1/3** dos membros da Câmara ou Senado, **Presidente**, ou **mais da metade das Assembleias**; **dois turnos**, **3/5** em cada Casa; promulgada pelas Mesas; **não sancionada**; não pode ser emendada na vigência de **intervenção, estado de defesa ou de sítio** |\n| **Lei complementar** | **maioria absoluta** |\n| **Lei ordinária** | maioria simples |\n| **Lei delegada** | feita pelo Presidente após **resolução** do Congresso |\n| **Medida provisória** | relevância e urgência; **60 dias, prorrogáveis uma vez por igual período**; trancamento da pauta após **45 dias** |\n**Cláusulas pétreas (art. 60, §4º):** forma federativa; voto direto, secreto, universal e periódico; separação dos Poderes; direitos e garantias individuais.\n**Veto e sanção:** o Presidente tem **15 dias úteis**; o silêncio é **sanção tácita**; veto **parcial** só de artigo, parágrafo, inciso ou alínea; veto apreciado em **30 dias** em sessão conjunta, derrubado por **maioria absoluta** de Deputados e Senadores. **Iniciativa privativa do Presidente (art. 61, §1º):** cargos e remuneração na administração direta e autárquica, servidores da União, organização do MPU, **militares das Forças Armadas**.\n**Fiscalização (arts. 70 a 75):** controle externo pelo Congresso com auxílio do **TCU** (9 Ministros).",
+   "dicas": [
+    "Emenda: 1/3, Presidente ou +50% das Assembleias propõem; 3/5 em dois turnos aprovam; Mesas promulgam.",
+    "MP: 60 + 60 dias; trancamento da pauta no 45º dia.",
+    "Câmara autoriza (2/3), Senado julga (2/3 para condenar).",
+    "Imunidade material = invioláveis por opiniões, palavras e votos; prisão só em flagrante de crime inafiançável.",
+    "Veto: 15 dias úteis; derrubada por maioria absoluta; silêncio = sanção."
+   ],
+   "pegadinhas": [
+    "Dizer que emenda constitucional é sancionada pelo Presidente: é promulgada pelas Mesas.",
+    "Trocar 3/5 por 2/3 na emenda, ou dizer que basta um turno.",
+    "Afirmar que o Senado decide a admissibilidade da acusação contra o Presidente: quem autoriza é a Câmara, por 2/3.",
+    "Dizer que o silêncio do Presidente por 15 dias importa veto tácito: importa sanção tácita.",
+    "Dizer que a CPI pode decretar prisão preventiva ou busca domiciliar: são medidas sob reserva de jurisdição.",
+    "Medida provisória sobre direito penal, processual ou eleitoral: vedada (art. 62, §1º)."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual o mandato de Senador e como se renova o Senado?",
+     "a": "8 anos; renovação de 4 em 4 anos por 1/3 e 2/3."
+    },
+    {
+     "q": "Qual o quórum de aprovação de emenda constitucional?",
+     "a": "3/5 dos membros, em dois turnos, em cada Casa."
+    },
+    {
+     "q": "Quem promulga a emenda constitucional?",
+     "a": "As Mesas da Câmara e do Senado."
+    },
+    {
+     "q": "Quórum de aprovação da lei complementar?",
+     "a": "Maioria absoluta."
+    },
+    {
+     "q": "Qual a vigência da medida provisória?",
+     "a": "60 dias, prorrogável uma vez por igual período."
+    },
+    {
+     "q": "Prazo do Presidente para sancionar ou vetar?",
+     "a": "15 dias úteis; silêncio = sanção tácita."
+    },
+    {
+     "q": "Quem autoriza o processo contra o Presidente da República?",
+     "a": "A Câmara dos Deputados, por 2/3 de seus membros."
+    },
+    {
+     "q": "Quando o congressista pode ser preso?",
+     "a": "Somente em flagrante de crime inafiançável; autos à Casa em 24 horas."
+    },
+    {
+     "q": "Requisitos de criação de CPI?",
+     "a": "Requerimento de 1/3, fato determinado, prazo certo."
+    },
+    {
+     "q": "Quais as cláusulas pétreas?",
+     "a": "Forma federativa; voto direto, secreto, universal e periódico; separação dos Poderes; direitos e garantias individuais."
+    },
+    {
+     "q": "Quem fiscaliza com o Congresso as contas públicas?",
+     "a": "O Tribunal de Contas da União (controle externo)."
+    }
+   ],
+   "id": "const-b-t4"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t4-q01",
+   "topico": "const-b-t4",
+   "dificuldade": 1,
+   "enunciado": "Segundo o art. 60 da Constituição Federal, a proposta de emenda à Constituição será considerada aprovada quando obtiver",
+   "alternativas": {
+    "A": "maioria absoluta dos votos dos membros de cada Casa, em turno único.",
+    "B": "em cada Casa do Congresso Nacional, em dois turnos de discussão e votação, três quintos dos votos dos respectivos membros.",
+    "C": "dois terços dos votos dos membros do Congresso, em três turnos.",
+    "D": "maioria simples, presente a maioria absoluta, em dois turnos.",
+    "E": "três quintos dos votos, em turno único, com sanção do Presidente da República."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 60, §2º. Emenda: dois turnos, 3/5, em cada Casa; promulgação pelas Mesas.",
+   "resolucao_md": "**O que a questão pede:** o quórum e o rito das emendas.\n\n**Regra rápida:** 3/5 + dois turnos + cada Casa; sem sanção.\n\n**Passo a passo:**\n1. Descarte turno único e maioria simples.\n2. Descarte \"sanção do Presidente\" (emenda não é sancionada).\n3. Descarte 2/3 e três turnos (inventado).\n\n**Macete:** Emenda = 3/5 em dois turnos."
+  },
+  {
+   "id": "const-b-t4-q02",
+   "topico": "const-b-t4",
+   "dificuldade": 2,
+   "enunciado": "Compete privativamente à Câmara dos Deputados",
+   "alternativas": {
+    "A": "processar e julgar o Presidente da República nos crimes de responsabilidade.",
+    "B": "autorizar o estado de sítio, por maioria simples.",
+    "C": "autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente da República, o Vice-Presidente e os Ministros de Estado.",
+    "D": "aprovar a escolha dos Ministros do STF, por maioria absoluta.",
+    "E": "sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 51, I. Julgar o Presidente nos crimes de responsabilidade e aprovar Ministros do STF cabe ao Senado; sustar atos e autorizar sítio, ao Congresso (art. 49).",
+   "resolucao_md": "**O que a questão pede:** separar atribuições da Câmara, do Senado e do Congresso.\n\n**Regra rápida:** Câmara AUTORIZA o processo (2/3); Senado JULGA; Congresso decide por decreto legislativo (art. 49).\n\n**Passo a passo:**\n1. A: julgar é do Senado.\n2. B: sítio é autorizado pelo Congresso por maioria absoluta.\n3. D: sabatina é do Senado.\n4. E: sustar atos é do Congresso (art. 49, V).\n\n**Macete:** Câmara abre; Senado julga."
+  },
+  {
+   "id": "const-b-t4-q03",
+   "topico": "const-b-t4",
+   "dificuldade": 1,
+   "enunciado": "A medida provisória editada pelo Presidente da República, com força de lei, terá sua vigência de",
+   "alternativas": {
+    "A": "trinta dias, prorrogáveis por tempo indeterminado.",
+    "B": "cento e vinte dias, improrrogáveis.",
+    "C": "sessenta dias, prorrogáveis duas vezes.",
+    "D": "sessenta dias, prorrogável uma vez por igual período, suspendendo-se durante os períodos de recesso do Congresso Nacional.",
+    "E": "quarenta e cinco dias, improrrogáveis."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 62, §3º: 60 + 60 dias, suspensa no recesso. (Em 45 dias do prazo, trancamento da pauta.)",
+   "resolucao_md": "**O que a questão pede:** prazos da medida provisória.\n\n**Regra rápida:** Vigência de 60 dias, prorrogável uma vez por igual período.\n\n**Passo a passo:**\n1. Eliminar prazos de 30 e 120 dias.\n2. Eliminar \"duas vezes\".\n3. 45 dias é o prazo de trancamento da pauta, não de vigência.\n\n**Pegadinha:** 45 dias: entra em regime de urgência.\n\n**Macete:** 60 + 60."
+  },
+  {
+   "id": "const-b-t4-q04",
+   "topico": "const-b-t4",
+   "dificuldade": 2,
+   "enunciado": "Deputados e Senadores, desde a expedição do diploma, não poderão ser presos, salvo",
+   "alternativas": {
+    "A": "por ordem de qualquer juiz, em caso de prisão preventiva, sem necessidade de comunicar a Casa.",
+    "B": "em nenhuma hipótese, sendo absoluta a imunidade formal.",
+    "C": "em flagrante de qualquer crime, devendo os autos ser remetidos em quarenta e oito horas.",
+    "D": "após condenação em primeira instância, independentemente de trânsito em julgado.",
+    "E": "em flagrante de crime inafiançável, devendo os autos ser remetidos, em vinte e quatro horas, à Casa respectiva, para que, pelo voto da maioria de seus membros, resolva sobre a prisão."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 53, §2º.",
+   "resolucao_md": "**O que a questão pede:** as hipóteses de prisão de parlamentar.\n\n**Regra rápida:** Só flagrante de crime inafiançável; autos à Casa em 24h; maioria dos membros decide.\n\n**Passo a passo:**\n1. A: prisão preventiva não é hipótese autorizada.\n2. B: a imunidade não é absoluta.\n3. C: o prazo é de 24 horas e o crime deve ser inafiançável.\n4. D: não há prisão após condenação de 1ª instância.\n\n**Macete:** 24 horas e inafiançável."
+  },
+  {
+   "id": "const-b-t4-q05",
+   "topico": "const-b-t4",
+   "dificuldade": 2,
+   "enunciado": "Quanto ao processo legislativo ordinário, o Presidente da República, ao receber o projeto aprovado, terá o prazo de",
+   "alternativas": {
+    "A": "quinze dias úteis para sancionar ou vetar; decorrido o prazo sem manifestação, o silêncio importará sanção tácita.",
+    "B": "trinta dias corridos para sancionar ou vetar; o silêncio importará veto tácito.",
+    "C": "quinze dias úteis; o silêncio importará veto tácito.",
+    "D": "quinze dias úteis, podendo o veto parcial recair sobre palavras isoladas.",
+    "E": "quinze dias úteis, sendo o veto rejeitado por maioria simples em sessão conjunta."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 66: 15 dias úteis; silêncio = sanção tácita; veto parcial só de artigo, parágrafo, inciso ou alínea; veto derrubado por maioria absoluta.",
+   "resolucao_md": "**O que a questão pede:** prazos e efeitos do veto/sanção.\n\n**Regra rápida:** 15 dias úteis; silêncio = sanção; veto parcial por unidades; derrubada por maioria absoluta.\n\n**Passo a passo:**\n1. B: trinta dias corridos e veto tácito: errado nos dois pontos (o veto jamais é tácito).\n2. C: o silêncio gera sanção tácita, não veto tácito.\n3. D: o veto parcial não recai sobre palavras isoladas (só artigo, parágrafo, inciso ou alínea).\n4. E: a derrubada do veto exige maioria absoluta, não simples.\n\n**Pegadinha:** Prazo de 30 dias é do Congresso para apreciar o veto.\n\n**Macete:** Silêncio vale sanção."
+  },
+  {
+   "id": "const-b-t4-q06",
+   "topico": "const-b-t4",
+   "dificuldade": 3,
+   "enunciado": "É de iniciativa privativa do Presidente da República a lei que disponha sobre",
+   "alternativas": {
+    "A": "matéria tributária em geral.",
+    "B": "criação de cargos, funções ou empregos públicos na administração direta e autárquica da União ou aumento de sua remuneração.",
+    "C": "nacionalidade e cidadania.",
+    "D": "direito penal e processual penal.",
+    "E": "criação de Estados e Territórios."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 61, §1º, II, \"a\". Tributário e penal têm iniciativa comum; as demais não são de iniciativa privativa do Presidente.",
+   "resolucao_md": "**O que a questão pede:** a lista do art. 61, §1º.\n\n**Regra rápida:** Iniciativa privativa do Presidente: Forças Armadas, cargos e remuneração, servidores da União, organização do MPU/DPU, Ministérios, militares das FFAA.\n\n**Passo a passo:**\n1. A: tributário em geral tem iniciativa concorrente (qualquer legitimado).\n2. D: direito penal também tem iniciativa comum.\n3. C: nacionalidade e cidadania não constam do rol de iniciativa privativa.\n4. E: criação de Estados é por lei complementar, sem iniciativa privativa do Presidente.\n\n**Macete:** Iniciativa privativa: cargos, servidores e militares das FFAA."
+  },
+  {
+   "id": "const-b-t4-q07",
+   "topico": "const-b-t4",
+   "dificuldade": 3,
+   "enunciado": "Sobre as comissões parlamentares de inquérito (art. 58, §3º), é correto afirmar que",
+   "alternativas": {
+    "A": "são criadas por maioria absoluta, para apuração de fatos genéricos.",
+    "B": "podem decretar a prisão preventiva de investigados e determinar busca domiciliar.",
+    "C": "têm poderes de investigação próprios das autoridades judiciais, são criadas por requerimento de um terço dos membros da Casa, para apuração de fato determinado e por prazo certo.",
+    "D": "não têm prazo definido de funcionamento.",
+    "E": "encaminham suas conclusões ao Presidente da República para promover a ação penal."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 58, §3º. A prisão e a busca domiciliar estão sob reserva de jurisdição; conclusões vão ao MP.",
+   "resolucao_md": "**O que a questão pede:** o regime constitucional da CPI.\n\n**Regra rápida:** Requisitos: 1/3, fato determinado, prazo certo; poderes de investigação judiciais; conclusões ao MP.\n\n**Passo a passo:**\n1. A: requerimento é de 1/3.\n2. B: reserva de jurisdição.\n3. D: prazo certo.\n4. E: conclusões ao Ministério Público.\n\n**Macete:** 1/3, fato, prazo."
+  }
+ ]
+}

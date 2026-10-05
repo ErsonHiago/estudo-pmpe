@@ -1,0 +1,164 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-estatuto-pmpe",
+   "titulo": "Estatuto dos Policiais Militares de Pernambuco (Lei Estadual 6.783/1974)",
+   "prioridade": 2,
+   "horas": 5,
+   "resumo_md": "**Aviso de estudo:** o texto integral da Lei 6.783/1974 deve ser lido no site da ALEPE. Abaixo estão os **princípios e a estrutura** que a banca costuma cobrar; os números de artigos e prazos específicos estão marcados **[VERIFICAR]** onde não há certeza. Este tópico não substitui a leitura da lei seca.\n\n## Natureza e enquadramento\nA Lei 6.783/1974 é o **Estatuto dos Policiais Militares do Estado de Pernambuco**: regula a **situação, obrigações, deveres, direitos e prerrogativas** dos policiais militares. A base constitucional está no **art. 42 da CF**: os membros das **Polícias Militares e Corpos de Bombeiros** são **militares dos Estados**, em instituições **organizadas com base na hierarquia e disciplina**. O art. 144, §6º, da CF as define como **forças auxiliares e reserva do Exército**, **subordinadas aos Governadores**. O art. 42, §1º, estende aos militares estaduais disposições do art. 142 (por exemplo, a **vedação da sindicalização e da greve**, e a regra de que **não cabe habeas corpus em relação a punições disciplinares militares**).\n\n## Hierarquia e disciplina\n| Conceito | Ideia |\n|---|---|\n| **Hierarquia** | ordenação da autoridade em **graus** (postos e graduações); o respeito à hierarquia se manifesta pela **precedência** e pela **antiguidade** |\n| **Disciplina** | **rigorosa observância e acatamento integral** das leis, regulamentos, normas e ordens; é a **base institucional** |\n| **Posto** | grau hierárquico do **oficial**, conferido por ato do **Governador** (**[VERIFICAR]**) |\n| **Graduação** | grau hierárquico da **praça**, conferido pelo **Comandante-Geral** (**[VERIFICAR]**) |\n\nOrdem de **praças** (do menor ao maior): **Soldado**, **Cabo**, **3º Sargento**, **2º Sargento**, **1º Sargento**, **Subtenente**; praças especiais: **Aluno-Oficial/Cadete**. **Oficiais**: Aspirante, 2º Tenente, 1º Tenente, Capitão, Major, Tenente-Coronel, **Coronel** (**[VERIFICAR a nomenclatura vigente]**).\n\n## Valores e deveres policiais-militares\nOs **valores** (probidade, patriotismo, civismo, fé na missão, espírito de corpo, amor à profissão, aprimoramento técnico-profissional, coragem, honra) e os **deveres** (dedicação integral, respeito à hierarquia, cumprimento das ordens legais, lealdade, observância das normas) estão no Título II do Estatuto (**[VERIFICAR artigos]**). A **ética policial-militar** impõe: conduta ilibada, **pundonor** (sentimento de dignidade pessoal) e **decoro** da classe.\n\n## Direitos e prerrogativas\nRemuneração; **férias** anuais; **licenças**; promoção; **assistência** (saúde, jurídica); **estabilidade** da praça com mais de 10 anos de serviço (**[VERIFICAR]**); uso de títulos, uniformes e insígnias; **prisão somente por ordem escrita** de autoridade competente ou em flagrante (salvo transgressão disciplinar).\n\n## Situações do policial militar\n| Situação | Ideia |\n|---|---|\n| **Ativa** | em serviço na Corporação |\n| **Inatividade** | **reserva remunerada** (a pedido ou ex officio) e **reforma** (incapacidade definitiva, idade-limite) |\n| **Cessação** | **demissão**, **licenciamento**, **exclusão** (inclusive a bem da disciplina), **perda do posto e patente** |\n\n## Disciplina e punições\nAs **transgressões disciplinares** e as sanções (advertência, repreensão, detenção, prisão, licenciamento e exclusão a bem da disciplina) estão no **Código Disciplinar** da corporação, em lei própria **[VERIFICAR a norma e os prazos]**. Aplicam-se os princípios do **contraditório e da ampla defesa** no processo disciplinar (CF, art. 5º, LV).",
+   "dicas": [
+    "Base constitucional: arts. 42 e 144, §6º, da CF; vedados greve e sindicalização (art. 142, §3º, IV, via art. 42, §1º).",
+    "Hierarquia = graus; Disciplina = obediência. Ambas são a base da instituição.",
+    "Posto = oficial; graduação = praça. Soldado é o primeiro degrau das praças.",
+    "Leia a lei seca: a AOCP copia o texto do artigo."
+   ],
+   "pegadinhas": [
+    "Dizer que o PM tem direito a greve e a sindicalização: são vedados (art. 142, §3º, IV, CF).",
+    "Chamar de \"posto\" a hierarquia da praça: o posto é do oficial; a graduação é da praça.",
+    "Dizer que a PM é subordinada ao Presidente da República ou ao Exército: subordina-se ao Governador (é reserva do Exército).",
+    "Dizer que cabe habeas corpus contra mérito de punição disciplinar: não cabe quanto ao mérito (CF, art. 142, §2º), apenas quanto à legalidade.",
+    "Trocar hierarquia por disciplina: hierarquia = graus; disciplina = acatamento às ordens."
+   ],
+   "flashcards": [
+    {
+     "q": "Que lei é o Estatuto dos Policiais Militares de PE?",
+     "a": "Lei Estadual 6.783/1974."
+    },
+    {
+     "q": "Em que se organizam as PMs, segundo o art. 42 da CF?",
+     "a": "Com base na hierarquia e na disciplina."
+    },
+    {
+     "q": "A quem as PMs se subordinam?",
+     "a": "Aos Governadores dos Estados (art. 144, §6º, CF)."
+    },
+    {
+     "q": "A PM é força auxiliar e reserva de quê?",
+     "a": "Do Exército."
+    },
+    {
+     "q": "Grau hierárquico do oficial?",
+     "a": "Posto."
+    },
+    {
+     "q": "Grau hierárquico da praça?",
+     "a": "Graduação."
+    },
+    {
+     "q": "Qual a graduação inicial da praça PM?",
+     "a": "Soldado."
+    },
+    {
+     "q": "O militar estadual pode fazer greve ou se sindicalizar?",
+     "a": "Não (art. 142, §3º, IV, CF)."
+    },
+    {
+     "q": "O que é pundonor?",
+     "a": "Sentimento de dignidade pessoal e de brio do policial militar."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-estatuto-q01",
+   "topico": "dh-c-estatuto-pmpe",
+   "dificuldade": 1,
+   "enunciado": "De acordo com a Constituição Federal, os membros das Polícias Militares são",
+   "alternativas": {
+    "A": "servidores civis estaduais, sem organização hierárquica.",
+    "B": "militares da União, subordinados ao Ministério da Defesa.",
+    "C": "militares dos Estados, em instituições organizadas com base na hierarquia e disciplina.",
+    "D": "agentes públicos regidos por regime celetista.",
+    "E": "servidores federais requisitados pelos Estados."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 42, caput, CF. Art. 144, §6º: forças auxiliares e reserva do Exército, subordinadas ao Governador.",
+   "resolucao_md": "**O que a questão pede:** a natureza jurídica do policial militar.\n\n**Regra rápida:** militar estadual, hierarquia e disciplina.\n\n**Passo a passo:**\n1. Servidor civil: errado.\n2. Militar da União: errado, é do Estado.\n3. Celetista: errado, é estatutário.\n4. Servidor federal: errado.\n\n**Pegadinha:** Confundir PM com Forças Armadas.\n\n**Macete:** PM = militar do Estado."
+  },
+  {
+   "id": "dh-c-estatuto-q02",
+   "topico": "dh-c-estatuto-pmpe",
+   "dificuldade": 2,
+   "enunciado": "A Lei Estadual nº 6.783/1974 dispõe sobre",
+   "alternativas": {
+    "A": "o Estatuto dos Militares das Forças Armadas.",
+    "B": "o Código Penal Militar.",
+    "C": "o Estatuto da Polícia Civil de Pernambuco.",
+    "D": "o Estatuto dos Policiais Militares do Estado de Pernambuco.",
+    "E": "o Código de Processo Penal Militar."
+   },
+   "gabarito": "D",
+   "explicacao": "Lei 6.783/1974: Estatuto dos PM de PE. As demais são normas federais ou de outra corporação.",
+   "resolucao_md": "**O que a questão pede:** identificar a norma.\n\n**Regra rápida:** Estatuto dos PMs de PE = Lei 6.783/1974.\n\n**Passo a passo:**\n1. Forças Armadas: Lei 6.880/1980.\n2. Código Penal Militar: Decreto-Lei 1.001/1969.\n3. Polícia Civil: outra lei.\n4. CPPM: Decreto-Lei 1.002/1969.\n\n**Pegadinha:** Trocar de corporação.\n\n**Macete:** 6.783 = PM-PE."
+  },
+  {
+   "id": "dh-c-estatuto-q03",
+   "topico": "dh-c-estatuto-pmpe",
+   "dificuldade": 2,
+   "enunciado": "Em relação aos direitos dos militares estaduais, previstos na Constituição Federal, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "O militar pode filiar-se a sindicato e exercer o direito de greve.",
+    "B": "O militar pode acumular o exercício de qualquer cargo público, sem restrições.",
+    "C": "Cabe habeas corpus para rever o mérito de punição disciplinar militar.",
+    "D": "O militar pode ser candidato sem qualquer condição.",
+    "E": "Ao militar é proibida a sindicalização e a greve."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 142, §3º, IV, aplicável aos militares estaduais pelo art. 42, §1º. HC não cabe quanto ao mérito disciplinar (art. 142, §2º).",
+   "resolucao_md": "**O que a questão pede:** a vedação constitucional.\n\n**Regra rápida:** sindicato e greve são proibidos aos militares.\n\n**Passo a passo:**\n1. Greve e sindicato: errado.\n2. Acumulação sem restrições: errado.\n3. HC contra mérito: errado.\n4. Candidatura sem condições: há regras de afastamento (art. 14, §8º).\n\n**Pegadinha:** Achar que PM tem os mesmos direitos de um servidor civil.\n\n**Macete:** Militar: sem greve e sem sindicato."
+  },
+  {
+   "id": "dh-c-estatuto-q04",
+   "topico": "dh-c-estatuto-pmpe",
+   "dificuldade": 2,
+   "enunciado": "No âmbito da organização militar, o conceito de hierarquia refere-se",
+   "alternativas": {
+    "A": "à ordenação da autoridade em graus, por meio de postos e graduações.",
+    "B": "à rigorosa observância e acatamento integral das leis, regulamentos e ordens.",
+    "C": "ao respeito à vida privada do policial.",
+    "D": "à possibilidade de o subordinado descumprir ordem sem consequências.",
+    "E": "à igualdade absoluta entre os membros da corporação."
+   },
+   "gabarito": "A",
+   "explicacao": "Hierarquia = graus; disciplina = acatamento (segunda alternativa). **[VERIFICAR a redação do artigo do Estatuto]**.",
+   "resolucao_md": "**O que a questão pede:** o conceito de hierarquia.\n\n**Regra rápida:** hierarquia ordena em graus; disciplina é o acatamento às ordens.\n\n**Passo a passo:**\n1. A segunda alternativa descreve disciplina.\n2. Vida privada: não é conceito de hierarquia.\n3. Descumprir ordem: contrário à disciplina.\n4. Igualdade absoluta: oposto de hierarquia.\n\n**Pegadinha:** Trocar disciplina por hierarquia.\n\n**Macete:** Hierarquia = degraus."
+  },
+  {
+   "id": "dh-c-estatuto-q05",
+   "topico": "dh-c-estatuto-pmpe",
+   "dificuldade": 2,
+   "enunciado": "Quanto às graduações e aos postos da Polícia Militar, é correto afirmar que",
+   "alternativas": {
+    "A": "o posto é o grau hierárquico da praça e a graduação é o do oficial.",
+    "B": "o posto é o grau hierárquico do oficial e a graduação é o grau hierárquico da praça.",
+    "C": "Soldado é posto de oficial.",
+    "D": "Coronel é graduação da praça.",
+    "E": "não há diferença entre posto e graduação."
+   },
+   "gabarito": "B",
+   "explicacao": "Conceito básico do Estatuto, comum às corporações militares. **[VERIFICAR a redação específica do artigo da Lei 6.783/1974]**.",
+   "resolucao_md": "**O que a questão pede:** a distinção posto x graduação.\n\n**Regra rápida:** posto = oficial; graduação = praça.\n\n**Passo a passo:**\n1. Inversão: errada.\n2. Soldado é graduação de praça.\n3. Coronel é posto de oficial.\n4. Há diferença sim.\n\n**Pegadinha:** Inverter os conceitos.\n\n**Macete:** Posto = Patente (oficial)."
+  },
+  {
+   "id": "dh-c-estatuto-q06",
+   "topico": "dh-c-estatuto-pmpe",
+   "dificuldade": 2,
+   "enunciado": "A Constituição Federal estabelece que as Polícias Militares são forças auxiliares e reserva do Exército e que se subordinam",
+   "alternativas": {
+    "A": "ao Presidente da República, diretamente.",
+    "B": "ao Ministro da Defesa.",
+    "C": "ao Congresso Nacional.",
+    "D": "aos Governadores dos Estados, do Distrito Federal e dos Territórios.",
+    "E": "aos Prefeitos Municipais."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 144, §6º, CF.",
+   "resolucao_md": "**O que a questão pede:** a subordinação das PMs.\n\n**Regra rápida:** forças auxiliares e reserva do Exército, mas subordinadas ao Governador.\n\n**Passo a passo:**\n1. Presidente: não, só em mobilização.\n2. Ministro da Defesa: não.\n3. Congresso: não.\n4. Prefeitos: guardas municipais.\n\n**Pegadinha:** Pensar que reserva do Exército implica subordinação ao Exército.\n\n**Macete:** Governador comanda a PM."
+  }
+ ]
+}

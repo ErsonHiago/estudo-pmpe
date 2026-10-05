@@ -1,0 +1,274 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-politicos",
+      "titulo": "Direitos políticos (CF, arts. 14 a 16)",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Art. 14 – soberania popular e sufrágio\n\"A **soberania popular** será exercida pelo **sufrágio universal** e pelo **voto direto e secreto, com valor igual para todos**, e, nos termos da lei, mediante **plebiscito, referendo e iniciativa popular**.\"\n- **Plebiscito:** consulta **prévia** ao povo, antes da lei ou ato.\n- **Referendo:** consulta **posterior**, para ratificar ou rejeitar o que já foi aprovado.\n- **Iniciativa popular:** o povo apresenta projeto de lei.\n**Sufrágio** (direito) é o gênero; **voto** é o modo de exercê-lo; **escrutínio** é o procedimento.\n\n## Alistamento e voto (art. 14, §§ 1º e 2º)\n| Situação | Alistamento e voto |\n|---|---|\n| Maiores de **18 anos** | **obrigatórios** |\n| **Analfabetos** | **facultativos** |\n| **Maiores de 70 anos** | **facultativos** |\n| Maiores de **16 e menores de 18** | **facultativos** |\n| **Estrangeiros** | **não podem** alistar-se como eleitores |\n| **Conscritos** (serviço militar obrigatório) | **não podem** alistar-se durante o serviço |\nMnemônico: \"**A-70-16**\": Analfabeto, setenta, dezesseis = facultativo.\n\n## Condições de elegibilidade (art. 14, § 3º)\n**Nacionalidade brasileira; pleno exercício dos direitos políticos; alistamento eleitoral; domicílio eleitoral na circunscrição; filiação partidária; idade mínima.** (Mnemônico **N-P-A-D-F-I**.) As idades mínimas:\n| Idade | Cargos |\n|---|---|\n| **35 anos** | Presidente, Vice-Presidente, **Senador** |\n| **30 anos** | Governador e Vice-Governador (Estados e DF) |\n| **21 anos** | Deputado Federal, Estadual ou Distrital, **Prefeito, Vice-Prefeito**, juiz de paz |\n| **18 anos** | **Vereador** |\nA idade é aferida, em regra, na data da **posse** (Lei 9.504/97, art. 11, § 2º) [VERIFICAR].\n\n## Inelegibilidades (art. 14, §§ 4º a 9º)\n- **§ 4º:** são **inelegíveis os inalistáveis e os analfabetos**.\n- **§ 5º (reeleição):** Presidente, Governadores, Prefeitos **e quem os houver sucedido ou substituído no curso dos mandatos** poderão ser reeleitos para **um único período subsequente**.\n- **§ 6º (desincompatibilização):** para concorrer a **outros cargos**, o Presidente, os Governadores e os Prefeitos devem **renunciar** até **seis meses antes do pleito**.\n- **§ 7º (inelegibilidade reflexa):** são inelegíveis, **no território de jurisdição do titular**, o **cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção**, do Presidente, Governador, Prefeito ou de quem os haja substituído nos seis meses anteriores, **salvo se já titular de mandato eletivo e candidato à reeleição**.\n- **§ 8º (militar):** o militar alistável é elegível: **(I)** com **menos de dez anos** de serviço, deve **afastar-se da atividade**; **(II)** com **mais de dez anos**, será **agregado** pela autoridade superior e, se eleito, passará **automaticamente, no ato da diplomação, para a inatividade**.\n- **§ 9º:** **lei complementar** pode criar outros casos de inelegibilidade (LC 64/1990, alterada pela LC 135/2010, \"Ficha Limpa\").\n- **§§ 10 e 11:** o mandato eletivo pode ser impugnado ante a **Justiça Eleitoral** em **15 dias contados da diplomação**, com provas de **abuso de poder econômico, corrupção ou fraude**; a ação tramita em **segredo de justiça**, e o autor responde se agir de forma temerária ou com manifesta má-fé.\n\n## Art. 15 – perda e suspensão dos direitos políticos\n\"É **vedada a cassação** de direitos políticos, cuja **perda ou suspensão** só se dará nos casos de:\nI – **cancelamento da naturalização** por sentença transitada em julgado;\nII – **incapacidade civil absoluta**;\nIII – **condenação criminal transitada em julgado**, enquanto durarem seus efeitos;\nIV – **recusa de cumprir obrigação a todos imposta ou prestação alternativa** (art. 5º, VIII);\nV – **improbidade administrativa** (art. 37, § 4º).\"\nMnemônico das hipóteses: **C-I-C-O-I** (Cancelamento, Incapacidade, Condenação, Objeção de consciência, Improbidade). A CF **não separa** quais são perda e quais são suspensão; a doutrina majoritária indica **perda** nos incisos I e IV e **suspensão** nos II, III e V (divergências existem). Por isso, em prova, cobre-se mais \"só nos casos de\" do que a classificação.\n\n## Art. 16 – anterioridade eleitoral\n\"A lei que **alterar o processo eleitoral** entrará em vigor **na data de sua publicação**, **não se aplicando à eleição que ocorra até um ano da data de sua vigência**.\" (EC 4/1993.) Ou seja: vigência imediata, eficácia só para eleições a partir de um ano depois.",
+      "dicas": [
+        "Voto facultativo: A-70-16 (analfabetos, maiores de 70, 16 e 17 anos).",
+        "Idades: 35 (Presidente, Vice, Senador), 30 (Governador), 21 (Dep. Fed./Est., Prefeito), 18 (Vereador).",
+        "Reeleição: um único período subsequente, inclusive para quem sucedeu ou substituiu.",
+        "Militar: menos de 10 anos afasta-se; mais de 10 anos é agregado e, se eleito, vai para a inatividade na diplomação.",
+        "Art. 15: vedada a cassação; hipóteses C-I-C-O-I.",
+        "Art. 16: vigência imediata; eficácia só para eleição que ocorra a mais de um ano da vigência."
+      ],
+      "pegadinhas": [
+        "Dizer que o voto é facultativo para maiores de 65 anos: é para maiores de 70.",
+        "Dizer que o estrangeiro pode votar se residente há muitos anos, ou que o conscrito pode alistar-se: ambos não podem.",
+        "Trocar as idades mínimas (por exemplo, Prefeito 18 anos, Senador 30 anos).",
+        "Dizer que o analfabeto é inelegível e também inalistável: ele é alistável (facultativo), mas inelegível.",
+        "Dizer que a reeleição é ilimitada ou para dois períodos: é para um único período subsequente.",
+        "Dizer que o Presidente, Governador ou Prefeito deve renunciar até um ano antes para concorrer a outro cargo: são seis meses.",
+        "Misturar as regras do militar: menos de 10 anos afasta; mais de 10 anos agrega.",
+        "Dizer que a CF permite a cassação de direitos políticos: é vedada; só perda ou suspensão nos casos do art. 15.",
+        "Dizer que a lei eleitoral se aplica à eleição do mesmo ano: não se aplica à eleição que ocorra até um ano da vigência."
+      ],
+      "flashcards": [
+        {
+          "q": "Quais os instrumentos de democracia direta do art. 14?",
+          "a": "Plebiscito, referendo e iniciativa popular."
+        },
+        {
+          "q": "Diferença entre plebiscito e referendo?",
+          "a": "Plebiscito é consulta prévia; referendo é consulta posterior (ratifica ou rejeita)."
+        },
+        {
+          "q": "Quem tem voto obrigatório?",
+          "a": "Maiores de 18 anos."
+        },
+        {
+          "q": "Quem tem voto facultativo?",
+          "a": "Analfabetos, maiores de 70 anos e maiores de 16 e menores de 18 anos."
+        },
+        {
+          "q": "Quem não pode alistar-se como eleitor?",
+          "a": "Estrangeiros e, durante o serviço militar obrigatório, os conscritos."
+        },
+        {
+          "q": "Quais as condições de elegibilidade?",
+          "a": "Nacionalidade brasileira, pleno exercício dos direitos políticos, alistamento eleitoral, domicílio eleitoral na circunscrição, filiação partidária e idade mínima."
+        },
+        {
+          "q": "Idade mínima para Presidente, Vice e Senador?",
+          "a": "35 anos."
+        },
+        {
+          "q": "Idade mínima para Governador?",
+          "a": "30 anos."
+        },
+        {
+          "q": "Idade mínima para Deputado, Prefeito e Vice-Prefeito?",
+          "a": "21 anos."
+        },
+        {
+          "q": "Idade mínima para Vereador?",
+          "a": "18 anos."
+        },
+        {
+          "q": "Quem é inelegível pelo art. 14, § 4º?",
+          "a": "Os inalistáveis e os analfabetos."
+        },
+        {
+          "q": "Quantas reeleições são permitidas ao Presidente, Governador e Prefeito?",
+          "a": "Uma, para um único período subsequente."
+        },
+        {
+          "q": "Prazo de renúncia para concorrer a outro cargo?",
+          "a": "Seis meses antes do pleito (Presidente, Governadores e Prefeitos)."
+        },
+        {
+          "q": "Quem é atingido pela inelegibilidade reflexa (§ 7º)?",
+          "a": "Cônjuge e parentes consanguíneos ou afins até o 2º grau ou por adoção, no território de jurisdição do titular."
+        },
+        {
+          "q": "Regras do militar candidato (§ 8º)?",
+          "a": "Menos de 10 anos: afasta-se da atividade; mais de 10 anos: é agregado e, se eleito, passa para a inatividade na diplomação."
+        },
+        {
+          "q": "Prazo da ação de impugnação de mandato eletivo?",
+          "a": "15 dias contados da diplomação, por abuso de poder econômico, corrupção ou fraude."
+        },
+        {
+          "q": "Quais as hipóteses de perda ou suspensão dos direitos políticos?",
+          "a": "Cancelamento da naturalização, incapacidade civil absoluta, condenação criminal transitada em julgado, recusa de obrigação a todos imposta ou prestação alternativa, improbidade administrativa."
+        },
+        {
+          "q": "Pode haver cassação de direitos políticos?",
+          "a": "Não: é vedada (art. 15)."
+        },
+        {
+          "q": "O que diz o art. 16?",
+          "a": "Lei que altera o processo eleitoral vigora na publicação, mas não se aplica à eleição que ocorra até um ano da vigência."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-politicos-q01",
+      "topico": "const-a-politicos",
+      "dificuldade": 1,
+      "enunciado": "Sobre o alistamento eleitoral e o voto, segundo o art. 14 da CF/88, é correto afirmar que são facultativos para",
+      "alternativas": {
+        "A": "os maiores de dezesseis anos, que podem escolher entre votar ou não.",
+        "B": "os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+        "C": "os maiores de sessenta e cinco anos e os analfabetos.",
+        "D": "os estrangeiros residentes há mais de quinze anos.",
+        "E": "os conscritos, durante o período do serviço militar obrigatório."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o art. 14, § 1º, II. Demais: A) dos 18 em diante o voto é obrigatório; os de 16 e 17 são facultativos. C) o limite é setenta anos. D) estrangeiros não podem alistar-se como eleitores. E) os conscritos não podem alistar-se durante o serviço militar obrigatório.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar quem tem voto facultativo.\n\n**Conceito/Regra rápida**\n**Art. 14, § 1º**: obrigatório aos maiores de 18; facultativo para analfabetos, maiores de 70 e maiores de 16 e menores de 18. **§ 2º**: estrangeiros e conscritos não se alistam.\n\n**Passo a passo**\n1. Memorize A-70-16.\n2. Elimine \"65 anos\" (é 70).\n3. Elimine estrangeiros e conscritos (não podem alistar-se).\n4. Elimine \"maiores de 16\" sem o limite de 18 (aos 18 é obrigatório).\n5. Alternativa B.\n\n**Pegadinha**\nOs conscritos são excluídos do alistamento, e não apenas dispensados do voto.\n\n**Macete**\nA-70-16."
+    },
+    {
+      "id": "const-a-politicos-q02",
+      "topico": "const-a-politicos",
+      "dificuldade": 1,
+      "enunciado": "De acordo com a CF/88, a idade mínima de trinta e cinco anos é condição de elegibilidade para o cargo de",
+      "alternativas": {
+        "A": "Governador de Estado.",
+        "B": "Deputado Federal.",
+        "C": "Presidente da República, Vice-Presidente da República e Senador.",
+        "D": "Prefeito.",
+        "E": "Vereador."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é o art. 14, § 3º, VI, a. Demais: A) a idade mínima é 30 anos. B) a idade mínima é 21 anos. D) a idade mínima é 21 anos. E) a idade mínima é 18 anos.",
+      "resolucao_md": "**O que a questão pede**\nAssociar 35 anos aos cargos corretos.\n\n**Conceito/Regra rápida**\n**Art. 14, § 3º, VI**: 35 (Presidente, Vice, Senador); 30 (Governador e Vice); 21 (Dep. Federal/Estadual/Distrital, Prefeito, Vice-Prefeito, juiz de paz); 18 (Vereador).\n\n**Passo a passo**\n1. Monte a escada: 35-30-21-18.\n2. Os que estão no topo (35) são Presidente, Vice e Senador.\n3. Governador = 30; Deputado/Prefeito = 21; Vereador = 18.\n4. Alternativa C.\n\n**Pegadinha**\nO Senador, sendo membro do Legislativo, tem idade mais alta que o Deputado.\n\n**Macete**\n35: Presidente, Vice e Senador. 30: Governador."
+    },
+    {
+      "id": "const-a-politicos-q03",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa que apresenta a correspondência CORRETA entre o cargo eletivo e a idade mínima exigida pela CF/88.",
+      "alternativas": {
+        "A": "Senador: trinta anos.",
+        "B": "Prefeito: dezoito anos.",
+        "C": "Deputado Estadual: dezoito anos.",
+        "D": "Governador de Estado: trinta anos.",
+        "E": "Vereador: vinte e um anos."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o art. 14, § 3º, VI, b. Demais: A) o Senador exige 35 anos. B) o Prefeito exige 21 anos. C) o Deputado Estadual exige 21 anos. E) o Vereador exige 18 anos.",
+      "resolucao_md": "**O que a questão pede**\nMarcar o par correto.\n\n**Conceito/Regra rápida**\nEscada: **35** (Pres., Vice, Senador) · **30** (Governador, Vice) · **21** (Deputados, Prefeito, Vice) · **18** (Vereador).\n\n**Passo a passo**\n1. Senador tem 35, não 30.\n2. Prefeito tem 21, não 18.\n3. Dep. Estadual tem 21, não 18.\n4. Vereador tem 18, não 21.\n5. O único par certo é Governador: 30. Alternativa D.\n\n**Pegadinha**\nOs números aparecem todos, mas trocados entre os cargos.\n\n**Macete**\n35-30-21-18 = Pres/Sen, Gov, Dep/Pref, Ver."
+    },
+    {
+      "id": "const-a-politicos-q04",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Nos termos do art. 14, § 3º, da CF/88, constituem condições de elegibilidade:",
+      "alternativas": {
+        "A": "a nacionalidade brasileira nata, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral e a filiação partidária.",
+        "B": "a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio civil na circunscrição, a filiação partidária e a idade mínima.",
+        "C": "a nacionalidade brasileira, o alistamento eleitoral, a filiação partidária e o ensino médio completo.",
+        "D": "a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral e a candidatura avulsa, dispensada a filiação partidária.",
+        "E": "a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral na circunscrição, a filiação partidária e a idade mínima."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é a lista do § 3º. Demais: A) a nacionalidade exigida é \"brasileira\", não necessariamente nata; falta a idade mínima. B) o domicílio exigido é o eleitoral, não o civil. C) a escolaridade não é condição de elegibilidade (o analfabeto é inelegível, mas não se exige ensino médio). D) a filiação partidária é exigida; a candidatura avulsa não é admitida.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer as seis condições de elegibilidade.\n\n**Conceito/Regra rápida**\n**§ 3º**: nacionalidade, pleno exercício dos direitos políticos, alistamento, domicílio eleitoral, filiação partidária e idade mínima (N-P-A-D-F-I).\n\n**Passo a passo**\n1. Liste N-P-A-D-F-I.\n2. Elimine a que falta a idade mínima ou troca \"domicílio eleitoral\" por \"civil\".\n3. Elimine a que inclui escolaridade.\n4. Elimine a que dispensa filiação.\n5. Alternativa E.\n\n**Pegadinha**\nDomicílio \"eleitoral\" e filiação \"partidária\" são trocados por similares.\n\n**Macete**\nN-P-A-D-F-I."
+    },
+    {
+      "id": "const-a-politicos-q05",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Acerca da inelegibilidade, segundo o art. 14 da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "são inelegíveis os inalistáveis e os analfabetos.",
+        "B": "o analfabeto é elegível apenas para o cargo de Vereador.",
+        "C": "o conscrito pode candidatar-se, desde que obtenha a dispensa do serviço militar obrigatório.",
+        "D": "o maior de setenta anos é inelegível por ter voto facultativo.",
+        "E": "o estrangeiro naturalizado é inelegível, mesmo que tenha cumprido todos os requisitos."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é o § 4º. Demais: B) o analfabeto é inelegível para qualquer cargo. C) conscrito é inalistável durante o serviço; logo, inelegível. D) ter voto facultativo não gera inelegibilidade. E) o naturalizado é elegível, com exceção dos cargos privativos de nato.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a regra do § 4º.\n\n**Conceito/Regra rápida**\n**Art. 14, § 4º**: inelegíveis os **inalistáveis** (estrangeiros e conscritos) e os **analfabetos**.\n\n**Passo a passo**\n1. Quem não pode alistar-se não pode ser candidato.\n2. Analfabeto pode votar (facultativo), mas não pode ser eleito.\n3. Maiores de 70 e menores de 18 (a partir dos 16) são alistáveis, logo elegíveis se cumprirem a idade mínima.\n4. Alternativa A.\n\n**Pegadinha**\nVoto facultativo não significa inelegibilidade, exceto para o analfabeto (regra específica).\n\n**Macete**\nInalistável + analfabeto = inelegível."
+    },
+    {
+      "id": "const-a-politicos-q06",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Em relação à reeleição prevista no art. 14, § 5º, da CF/88, é correto afirmar que o Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido ou substituído no curso dos mandatos",
+      "alternativas": {
+        "A": "poderão ser reeleitos para dois períodos subsequentes.",
+        "B": "poderão ser reeleitos para um único período subsequente.",
+        "C": "poderão ser reeleitos indefinidamente.",
+        "D": "poderão ser reeleitos para um único período subsequente, exceto quem os houver sucedido, que fica vedado.",
+        "E": "só poderão ser reeleitos para um único período se renunciarem seis meses antes do pleito."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o texto do § 5º. Demais: A) a CF fala em único período subsequente. C) a reeleição é limitada. D) a regra inclui quem os sucedeu ou substituiu no curso dos mandatos. E) a desincompatibilização de seis meses vale para concorrer a outros cargos.",
+      "resolucao_md": "**O que a questão pede**\nLembrar a regra da reeleição.\n\n**Conceito/Regra rápida**\n**Art. 14, § 5º**: um único período subsequente, e a regra alcança quem sucedeu ou substituiu o titular durante o mandato.\n\n**Passo a passo**\n1. Fixe \"um único período subsequente\".\n2. Elimine \"dois\" e \"indefinidamente\".\n3. Elimine a que exclui o sucessor/substituto.\n4. Elimine a que mistura renúncia com reeleição.\n5. Alternativa B.\n\n**Pegadinha**\nQuem substituiu o titular já gasta \"uma reeleição\" ao ser eleito em seguida.\n\n**Macete**\nReeleição: uma vez só, seguida."
+    },
+    {
+      "id": "const-a-politicos-q07",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Um Governador de Estado deseja candidatar-se ao cargo de Senador. Conforme o art. 14, § 6º, da CF/88, ele deve",
+      "alternativas": {
+        "A": "renunciar ao mandato até um ano antes do pleito.",
+        "B": "apenas licenciar-se até noventa dias antes do pleito.",
+        "C": "renunciar ao mandato até seis meses antes do pleito.",
+        "D": "permanecer no cargo, pois a desincompatibilização só se exige para candidatos a Presidente.",
+        "E": "renunciar até três meses antes do pleito, em razão de ser candidato ao Legislativo."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é o § 6º: o Governador que concorre a outro cargo deve renunciar até seis meses antes do pleito. Demais: A) o prazo é de seis meses. B) a regra é renúncia, não licença. D) a exigência alcança qualquer outro cargo. E) o prazo constitucional é de seis meses para outros cargos.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a desincompatibilização do § 6º.\n\n**Conceito/Regra rápida**\n**Art. 14, § 6º**: Presidente, Governadores e Prefeitos que concorram a **outros cargos** devem **renunciar** até **seis meses antes do pleito**.\n\n**Passo a passo**\n1. O Governador quer outro cargo (Senador), não reeleição.\n2. A regra aplicável é a do § 6º.\n3. Prazo: seis meses; instrumento: renúncia.\n4. Alternativa C.\n\n**Pegadinha**\nReeleição ao mesmo cargo não exige renúncia; outro cargo exige.\n\n**Macete**\nOutro cargo = renuncia seis meses antes."
+    },
+    {
+      "id": "const-a-politicos-q08",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Um sargento da Polícia Militar, com doze anos de serviço, é candidato a vereador e se elege. De acordo com o art. 14, § 8º, da CF/88,",
+      "alternativas": {
+        "A": "ele deverá afastar-se definitivamente da atividade antes de iniciar a campanha, por contar mais de dez anos de serviço.",
+        "B": "ele continuará na ativa, acumulando as funções militares com o cargo de vereador.",
+        "C": "ele perderá o posto e a patente no momento da filiação partidária.",
+        "D": "ele será agregado pela autoridade superior durante a candidatura e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.",
+        "E": "ele só poderá candidatar-se se for exonerado, por ser vedada a candidatura de militar."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o § 8º, II (mais de dez anos de serviço). Demais: A) o afastamento definitivo é regra para quem tem menos de dez anos. B) não pode acumular: passa para a inatividade. C) a perda do posto não decorre da filiação. E) o militar alistável é elegível.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a regra de elegibilidade do militar.\n\n**Conceito/Regra rápida**\n**Art. 14, § 8º**: militar alistável é elegível. **I**: menos de 10 anos de serviço = afasta-se da atividade. **II**: mais de 10 anos = agregado e, se eleito, passa à inatividade na diplomação.\n\n**Passo a passo**\n1. Tempo de serviço: 12 anos (mais de 10).\n2. Regra aplicável: inciso II.\n3. Durante a candidatura: agregado.\n4. Se eleito: inatividade automática no ato da diplomação.\n5. Alternativa D.\n\n**Pegadinha**\nCom mais de 10 anos não se \"afasta definitivamente\": agrega-se primeiro.\n\n**Macete**\nMenos de 10 sai; mais de 10 agrega."
+    },
+    {
+      "id": "const-a-politicos-q09",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA quanto às hipóteses de perda ou suspensão de direitos políticos, nos termos do art. 15 da CF/88.",
+      "alternativas": {
+        "A": "Cancelamento da naturalização por sentença transitada em julgado.",
+        "B": "Incapacidade civil absoluta.",
+        "C": "Recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º, VIII.",
+        "D": "Improbidade administrativa, nos termos do art. 37, § 4º.",
+        "E": "Prisão preventiva decretada pelo juiz."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: a prisão preventiva é medida cautelar e não consta do art. 15 (exige-se condenação criminal transitada em julgado). Demais: A) é o art. 15, I. B) é o art. 15, II. C) é o art. 15, IV. D) é o art. 15, V.",
+      "resolucao_md": "**O que a questão pede**\nAchar o item que NÃO é hipótese do art. 15.\n\n**Conceito/Regra rápida**\n**Art. 15** (vedada a cassação): I naturalização cancelada; II incapacidade civil absoluta; III condenação criminal transitada em julgado, enquanto durarem seus efeitos; IV recusa de obrigação/prestação alternativa; V improbidade.\n\n**Passo a passo**\n1. Questão pede a INCORRETA.\n2. Os incisos I, II, IV e V aparecem nas alternativas e conferem.\n3. A prisão preventiva é medida cautelar, sem trânsito em julgado: não está no art. 15.\n4. Alternativa E.\n\n**Pegadinha**\nPrisão cautelar não suspende direitos políticos; condenação definitiva sim.\n\n**Macete**\nC-I-C-O-I: sem trânsito em julgado, nada."
+    },
+    {
+      "id": "const-a-politicos-q10",
+      "topico": "const-a-politicos",
+      "dificuldade": 2,
+      "enunciado": "Uma lei federal que altera o processo eleitoral é publicada em março do ano em que ocorrerão eleições gerais, no mês de outubro. Segundo o art. 16 da CF/88, essa lei",
+      "alternativas": {
+        "A": "entra em vigor na data de sua publicação, mas não se aplica à eleição que ocorra até um ano da data de sua vigência.",
+        "B": "entra em vigor e se aplica imediatamente à eleição de outubro do mesmo ano.",
+        "C": "só entra em vigor 45 dias após a publicação e se aplica à eleição do mesmo ano.",
+        "D": "entra em vigor após um ano da publicação e aplica-se a todas as eleições subsequentes.",
+        "E": "aplica-se à eleição do mesmo ano se for mais benéfica aos candidatos."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é o texto do art. 16. Demais: B) a eleição ocorre a menos de um ano da vigência. C) a vigência é imediata e não se aplica à eleição próxima. D) a vigência é imediata (data da publicação). E) não há exceção de benefício na CF.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a anterioridade da lei eleitoral.\n\n**Conceito/Regra rápida**\n**Art. 16 (EC 4/1993)**: vigência na publicação; não se aplica à eleição que ocorra até um ano da vigência.\n\n**Passo a passo**\n1. Data da publicação: março. Eleição: outubro do mesmo ano (cerca de 7 meses depois).\n2. Como o intervalo é inferior a um ano, a lei não se aplica a essa eleição.\n3. Ela vigora desde a publicação para as eleições seguintes.\n4. Alternativa A.\n\n**Pegadinha**\nA lei \"vale\" imediatamente, mas \"não se aplica\" à eleição que ocorra em menos de um ano.\n\n**Macete**\nUm ano de antecedência para valer na eleição."
+    }
+  ]
+}

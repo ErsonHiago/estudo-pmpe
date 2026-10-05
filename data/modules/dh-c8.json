@@ -1,0 +1,189 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-drogas",
+   "titulo": "Lei 11.343/2006 — Lei de Drogas (SISNAD)",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## Ideia central\nA Lei 11.343/2006 institui o **SISNAD** (Sistema Nacional de Políticas Públicas sobre Drogas), prescreve medidas de **prevenção ao uso indevido**, **atenção e reinserção social** de usuários e dependentes e estabelece normas para **reprimir a produção não autorizada e o tráfico**. **Drogas** são as substâncias ou produtos capazes de causar dependência, especificados em lei ou **listas atualizadas periodicamente pelo Poder Executivo da União** (norma penal em branco; Portaria SVS/MS 344/1998). O plantio e a exploração de vegetais de que se extraiam drogas são **vedados**, salvo autorização legal; a União pode autorizá-los **exclusivamente para fins medicinais ou científicos** (art. 2º).\n\n## Usuário (art. 28)\nQuem **adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal**, drogas sem autorização, está sujeito a:\n1. **advertência** sobre os efeitos das drogas;\n2. **prestação de serviços à comunidade**;\n3. **comparecimento a programa ou curso educativo**.\n\n**Não há pena privativa de liberdade** (despenalização, não abolitio criminis, segundo o STF no RE 430.105). As medidas de PSC e comparecimento duram até **5 meses** (reincidente: até **10 meses**). Quem semeia, cultiva ou colhe para consumo pessoal também responde pelo art. 28. O juiz considera natureza e quantidade da substância, local e condições, circunstâncias sociais e pessoais, conduta e antecedentes. A prescrição ocorre em **2 anos**. Em caso de art. 28 **não se impõe prisão em flagrante**: lavra-se **termo circunstanciado** e o autor assume o compromisso de comparecer (art. 48, §2º). Em jun/2024 o STF decidiu que o porte de **maconha** para uso pessoal é **infração sem natureza penal**, fixando critério objetivo de **40 g ou 6 plantas-fêmeas** **[VERIFICAR a tese final e a regulamentação]**.\n\n## Tráfico e crimes correlatos\n| Art. | Conduta | Pena |\n|---|---|---|\n| **33, caput** | importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar ou fornecer drogas, sem autorização (18 verbos) | reclusão **5 a 15 anos** e **500 a 1.500 dias-multa** |\n| 33, §1º | matéria-prima, insumo ou produto químico para preparar drogas; semear, cultivar ou colher plantas; ceder local para o tráfico | mesma pena do caput |\n| **33, §2º** | induzir, instigar ou auxiliar o uso indevido | detenção **1 a 3 anos** e 100 a 300 dias-multa |\n| **33, §3º** | oferecer droga **eventualmente, sem lucro**, a pessoa do seu relacionamento, para consumirem juntos | detenção **6 meses a 1 ano** e 700 a 1.500 dias-multa, sem prejuízo do art. 28 |\n| **33, §4º** | **tráfico privilegiado**: primário, bons antecedentes, não se dedica a atividades criminosas nem integra organização | redução de **1/6 a 2/3** (não é hediondo) |\n| **34** | maquinário, aparelho ou objeto destinado à fabricação de drogas | reclusão **3 a 10 anos** e 1.200 a 2.000 dias-multa |\n| **35** | **associação** de duas ou mais pessoas para praticar os arts. 33, caput e §1º, e 34 | reclusão **3 a 10 anos** e 700 a 1.200 dias-multa |\n| **36** | **financiar ou custear** o tráfico | reclusão **8 a 20 anos** e 1.500 a 4.000 dias-multa |\n| **37** | colaborar como **informante** | reclusão **2 a 6 anos** e 300 a 700 dias-multa |\n| **38** | prescrever ou ministrar droga **culposamente** | detenção 6 meses a 2 anos |\n| **39** | conduzir embarcação ou aeronave sob efeito de drogas | detenção 6 meses a 3 anos |\n\n## Causas de aumento (art. 40: de 1/6 a 2/3)\nTransnacionalidade; função pública ou missão de educação, poder familiar, guarda ou vigilância; infração **nas dependências ou imediações** de presídios, escolas, hospitais, entidades estudantis, sociais, culturais, recreativas, esportivas ou beneficentes, locais de trabalho coletivo, espetáculos, serviços de tratamento, unidades militares ou policiais e **transportes públicos**; violência, grave ameaça ou **arma de fogo**; tráfico **interestadual**; envolver **criança ou adolescente** ou pessoa com capacidade de entendimento diminuída; financiamento.\n\n## Atuação policial e processo\n- **Colaboração premiada (art. 41):** redução de **1/3 a 2/3**.\n- **Art. 42:** natureza e quantidade da droga, personalidade e conduta social têm **preponderância** na fixação da pena.\n- **Art. 44:** crimes dos arts. 33, caput e §1º, e 34 a 37 são **inafiançáveis**, vedados o sursis, a graça, o indulto e a anistia; **livramento condicional** só após **2/3**.\n- **Art. 50:** comunicação da prisão em flagrante ao juiz e ciência ao MP em **24 horas**; basta o **laudo de constatação preliminar** da natureza e quantidade da droga.\n- **Art. 51:** inquérito em **30 dias** (preso) ou **90 dias** (solto), duplicáveis a pedido justificado.\n- **Art. 53:** **infiltração de agentes de polícia** e **ação controlada**, mediante autorização judicial e ouvido o MP.",
+   "dicas": [
+    "Art. 28: advertência, PSC, curso educativo; sem prisão; PSC de 5 meses (10 se reincidente).",
+    "Art. 33: 5 a 15 anos. §4º: redução 1/6 a 2/3. Art. 36 (financiar): 8 a 20.",
+    "Art. 35 (associação): 3 a 10; art. 34: 3 a 10; art. 37: 2 a 6.",
+    "Inquérito: 30 (preso) e 90 (solto)."
+   ],
+   "pegadinhas": [
+    "Dizer que o art. 28 prevê pena de detenção: não há pena privativa de liberdade.",
+    "Trocar o prazo do inquérito: 30 dias para preso e 90 para solto.",
+    "Dizer que o tráfico privilegiado é hediondo: não é.",
+    "Dizer que o §3º do art. 33 (oferecer eventualmente sem lucro) é equiparado ao tráfico comum: pena de detenção de 6 meses a 1 ano.",
+    "Dizer que o usuário é preso em flagrante: lavra-se termo circunstanciado.",
+    "Confundir o financiador (art. 36, 8 a 20 anos) com o associado (art. 35)."
+   ],
+   "flashcards": [
+    {
+     "q": "Pena do tráfico do art. 33, caput?",
+     "a": "Reclusão de 5 a 15 anos e 500 a 1.500 dias-multa."
+    },
+    {
+     "q": "Medidas do art. 28?",
+     "a": "Advertência, prestação de serviços à comunidade e comparecimento a curso educativo."
+    },
+    {
+     "q": "Prazo máximo das medidas do art. 28 (reincidente)?",
+     "a": "5 meses; 10 meses se reincidente."
+    },
+    {
+     "q": "Redução do tráfico privilegiado?",
+     "a": "1/6 a 2/3."
+    },
+    {
+     "q": "Pena do financiamento (art. 36)?",
+     "a": "Reclusão de 8 a 20 anos."
+    },
+    {
+     "q": "Pena da associação para o tráfico (art. 35)?",
+     "a": "Reclusão de 3 a 10 anos."
+    },
+    {
+     "q": "Pena do informante (art. 37)?",
+     "a": "Reclusão de 2 a 6 anos."
+    },
+    {
+     "q": "Fração das causas de aumento do art. 40?",
+     "a": "1/6 a 2/3."
+    },
+    {
+     "q": "Prazo do inquérito nos crimes da lei?",
+     "a": "30 dias (preso) e 90 dias (solto), duplicáveis."
+    },
+    {
+     "q": "Prazo para comunicar a prisão em flagrante ao juiz (art. 50)?",
+     "a": "24 horas."
+    },
+    {
+     "q": "Redução pela colaboração (art. 41)?",
+     "a": "1/3 a 2/3."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-drogas-q01",
+   "topico": "dh-c-drogas",
+   "dificuldade": 1,
+   "enunciado": "Nos termos do art. 28 da Lei nº 11.343/2006, quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ficará sujeito a:",
+   "alternativas": {
+    "A": "detenção de seis meses a dois anos.",
+    "B": "reclusão de um a quatro anos.",
+    "C": "advertência sobre os efeitos das drogas, prestação de serviços à comunidade e medida educativa de comparecimento a programa ou curso educativo.",
+    "D": "prisão em flagrante e fiança.",
+    "E": "multa e perda dos direitos políticos."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 28, I a III. Não há pena privativa de liberdade (STF, RE 430.105).",
+   "resolucao_md": "**O que a questão pede:** as penas do usuário.\n\n**Regra rápida:** três medidas alternativas: advertência, PSC e curso educativo.\n\n**Passo a passo:**\n1. Detenção e reclusão não existem para o usuário.\n2. Prisão em flagrante e fiança: o art. 48, §2º veda a prisão; lavra-se termo circunstanciado.\n3. Perda de direitos políticos: não consta.\n\n**Pegadinha:** Dizer que o usuário vai preso.\n\n**Macete:** Art. 28 = sem cadeia."
+  },
+  {
+   "id": "dh-c-drogas-q02",
+   "topico": "dh-c-drogas",
+   "dificuldade": 2,
+   "enunciado": "A pena do crime de tráfico de drogas previsto no art. 33, caput, da Lei nº 11.343/2006 é de",
+   "alternativas": {
+    "A": "reclusão de três a dez anos e multa de setecentos a mil e duzentos dias-multa.",
+    "B": "reclusão de oito a vinte anos e multa de mil e quinhentos a quatro mil dias-multa.",
+    "C": "detenção de seis meses a um ano.",
+    "D": "reclusão de cinco a quinze anos e pagamento de quinhentos a mil e quinhentos dias-multa.",
+    "E": "reclusão de dois a seis anos."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 33. As outras são: art. 35 (3 a 10), art. 36 (8 a 20), art. 33, §3º (6 meses a 1 ano), art. 37 (2 a 6).",
+   "resolucao_md": "**O que a questão pede:** a pena-base do tráfico.\n\n**Regra rápida:** 5 a 15 anos, 500 a 1.500 dias-multa.\n\n**Passo a passo:**\n1. 3 a 10 com 700 a 1.200: associação (art. 35).\n2. 8 a 20: financiamento (art. 36).\n3. 6 meses a 1 ano: oferecer eventualmente (§3º).\n4. 2 a 6: informante (art. 37).\n\n**Pegadinha:** Confundir com os crimes próximos.\n\n**Macete:** 33 = 5 a 15."
+  },
+  {
+   "id": "dh-c-drogas-q03",
+   "topico": "dh-c-drogas",
+   "dificuldade": 2,
+   "enunciado": "Sobre o tráfico privilegiado, previsto no art. 33, §4º, da Lei nº 11.343/2006, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "As penas podem ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.",
+    "B": "As penas são aumentadas de um sexto a dois terços para o agente primário.",
+    "C": "Aplica-se a quem integra organização criminosa, desde que não seja reincidente.",
+    "D": "O benefício aplica-se somente ao usuário que porta droga para consumo.",
+    "E": "O tráfico privilegiado é crime hediondo e inafiançável."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 33, §4º. Não se considera hediondo (LEP, art. 112, §5º).",
+   "resolucao_md": "**O que a questão pede:** os requisitos do §4º.\n\n**Regra rápida:** primário + bons antecedentes + não dedicado ao crime + sem organização criminosa: redução de 1/6 a 2/3.\n\n**Passo a passo:**\n1. Aumentar a pena: errado, é redução.\n2. Integrar organização: afasta o benefício.\n3. Usuário: art. 28, outro regime.\n4. Hediondo: não é.\n\n**Pegadinha:** Pensar que é causa de aumento.\n\n**Macete:** Privilegiado = redução."
+  },
+  {
+   "id": "dh-c-drogas-q04",
+   "topico": "dh-c-drogas",
+   "dificuldade": 2,
+   "enunciado": "Constitui crime previsto na Lei nº 11.343/2006, com pena de reclusão de oito a vinte anos:",
+   "alternativas": {
+    "A": "colaborar como informante com grupo, organização ou associação destinados ao tráfico.",
+    "B": "financiar ou custear a prática dos crimes previstos nos arts. 33, caput e §1º, e 34 a 37.",
+    "C": "associarem-se duas ou mais pessoas para praticar o tráfico.",
+    "D": "oferecer droga eventualmente e sem objetivo de lucro a pessoa de seu relacionamento.",
+    "E": "prescrever ou ministrar drogas culposamente."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 36. Informante: 2 a 6 (art. 37); associação: 3 a 10 (art. 35); oferecer eventual: 6 meses a 1 ano (art. 33, §3º); culposo: detenção (art. 38).",
+   "resolucao_md": "**O que a questão pede:** o crime com 8 a 20 anos.\n\n**Regra rápida:** financiador = pena mais alta.\n\n**Passo a passo:**\n1. Informante: 2 a 6.\n2. Associação: 3 a 10.\n3. Oferecer sem lucro: 6 meses a 1 ano.\n4. Culposo: detenção.\n\n**Pegadinha:** Trocar financiador por associado.\n\n**Macete:** Dinheiro paga mais: 8 a 20."
+  },
+  {
+   "id": "dh-c-drogas-q05",
+   "topico": "dh-c-drogas",
+   "dificuldade": 2,
+   "enunciado": "De acordo com a Lei nº 11.343/2006, o inquérito policial será concluído no prazo de",
+   "alternativas": {
+    "A": "dez dias, se preso, e trinta dias, se solto, improrrogáveis.",
+    "B": "quinze dias, se preso, e trinta dias, se solto.",
+    "C": "noventa dias, se preso, e trinta dias, se solto.",
+    "D": "sessenta dias, tanto para preso quanto para solto.",
+    "E": "trinta dias, se o indiciado estiver preso, e noventa dias, quando solto, podendo tais prazos ser duplicados mediante pedido justificado da autoridade de polícia judiciária, ouvido o Ministério Público."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 51 e parágrafo único.",
+   "resolucao_md": "**O que a questão pede:** os prazos do art. 51.\n\n**Regra rápida:** 30 (preso) e 90 (solto), duplicáveis.\n\n**Passo a passo:**\n1. 10 e 30: prazos do CPP comum.\n2. 15 e 30: prazo do inquérito federal.\n3. A inversão 90/30 é o erro típico.\n4. 60 igual: não existe.\n\n**Pegadinha:** Inverter preso e solto.\n\n**Macete:** Preso = menos tempo: 30; solto = 90."
+  },
+  {
+   "id": "dh-c-drogas-q06",
+   "topico": "dh-c-drogas",
+   "dificuldade": 3,
+   "enunciado": "No flagrante de porte de droga para consumo pessoal (art. 28 da Lei nº 11.343/2006), a autoridade policial deve",
+   "alternativas": {
+    "A": "lavrar auto de prisão em flagrante e recolher o autor à delegacia.",
+    "B": "arbitrar fiança e liberar o autor.",
+    "C": "lavrar termo circunstanciado e encaminhá-lo ao juízo, não se impondo prisão em flagrante ao autor que assumir o compromisso de comparecer.",
+    "D": "liberar o autor sem registro de qualquer natureza.",
+    "E": "requerer prisão preventiva por se tratar de crime hediondo."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 48, §§2º e 3º. O art. 28 não é hediondo e não prevê pena de prisão.",
+   "resolucao_md": "**O que a questão pede:** o procedimento policial.\n\n**Regra rápida:** art. 28: termo circunstanciado, sem prisão em flagrante.\n\n**Passo a passo:**\n1. Auto de prisão: vedado.\n2. Fiança: sem sentido, não há prisão.\n3. Liberar sem registro: omissão.\n4. Preventiva por hediondo: o art. 28 não é hediondo.\n\n**Pegadinha:** Prender o usuário.\n\n**Macete:** Usuário = termo circunstanciado."
+  },
+  {
+   "id": "dh-c-drogas-q07",
+   "topico": "dh-c-drogas",
+   "dificuldade": 2,
+   "enunciado": "Na Lei nº 11.343/2006, a causa de aumento de pena de um sexto a dois terços aplica-se, entre outras hipóteses, quando",
+   "alternativas": {
+    "A": "o agente for primário e de bons antecedentes.",
+    "B": "o agente colaborar voluntariamente com a investigação.",
+    "C": "a droga apreendida for de pequena quantidade.",
+    "D": "a infração for cometida nas dependências ou imediações de estabelecimentos de ensino ou prisionais, ou envolver criança ou adolescente.",
+    "E": "o agente for usuário e dependente."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 40, III e VI. As demais hipóteses reduzem ou nem influem na pena (arts. 33, §4º, e 41).",
+   "resolucao_md": "**O que a questão pede:** a causa de aumento do art. 40.\n\n**Regra rápida:** local sensível, função pública, violência, arma, interestadualidade, menores, financiamento.\n\n**Passo a passo:**\n1. Primário e bons antecedentes: privilegiado (redução).\n2. Colaborar: art. 41 (redução).\n3. Pequena quantidade: não aumenta.\n4. Dependente: não aumenta.\n\n**Pegadinha:** Confundir aumento com redução.\n\n**Macete:** Escola, presídio e crianças: aumenta."
+  }
+ ]
+}

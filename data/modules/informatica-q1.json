@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q101",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "Em relação aos tipos de memória de um computador, assinale a alternativa que apresenta a memória considerada VOLÁTIL, ou seja, que perde o conteúdo quando o computador é desligado.",
+      "alternativas": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "SSD",
+        "D": "Pendrive",
+        "E": "HD (disco rígido)"
+      },
+      "gabarito": "A",
+      "explicacao": "A RAM guarda o que está em uso no momento e perde tudo ao desligar (volátil). ROM guarda o firmware e não é volátil; SSD, pendrive e HD são armazenamento secundário não volátil.",
+      "resolucao_md": "**O que a questão pede**\nQual memória perde os dados quando falta energia.\n\n**Conceito/Regra rápida**\n**Volátil** = precisa de energia para guardar. **Não volátil** = guarda mesmo desligada.\n\n**Passo a passo**\n1. Liste as opções: ROM (firmware, fica gravada), SSD/HD/pendrive (armazenamento, guardam arquivos).\\n2. Sobra a **RAM**, a \"mesa de trabalho\" do processador, que é esvaziada ao desligar.\n\n**Pegadinha**\nQuem acha que \"memória sempre guarda\" erra: só a RAM (e a cache) é volátil entre as alternativas.\n\n**Macete**\nRAM = Rasura ao Acabar a energia."
+    },
+    {
+      "id": "informatica-q102",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "A Unidade Lógica e Aritmética (ULA) é uma parte do processador. A função dela é",
+      "alternativas": {
+        "A": "coordenar e controlar o fluxo das instruções do processador.",
+        "B": "armazenar permanentemente o sistema operacional.",
+        "C": "realizar operações aritméticas (somas, subtrações) e lógicas (comparações).",
+        "D": "guardar os arquivos do usuário quando o computador é desligado.",
+        "E": "exibir as imagens no monitor."
+      },
+      "gabarito": "C",
+      "explicacao": "A ULA calcula e compara; quem coordena as instruções é a UC (Unidade de Controle). A ULA não armazena arquivos nem exibe imagem (isso é da GPU/placa de vídeo).",
+      "resolucao_md": "**O que a questão pede**\nPara que serve a ULA.\n\n**Conceito/Regra rápida**\nCPU = **UC** (controla) + **ULA** (calcula) + **registradores** (memórias minúsculas e velocíssimas).\n\n**Passo a passo**\n1. ULA = Lógica **e Aritmética**, ou seja, contas e comparações.\\n2. \"Coordenar o fluxo\" é papel da UC, portanto errada.\\n3. Armazenar arquivos é papel de HD/SSD; exibir imagem é da GPU.\n\n**Pegadinha**\nTrocar UC por ULA é a pegadinha clássica.\n\n**Macete**\nULA = Usa a Lógica e a Aritmética (calcula)."
+    },
+    {
+      "id": "informatica-q103",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "Considere os dispositivos a seguir.\\n\\nI. Scanner.\\nII. Impressora multifuncional.\\nIII. Projetor.\\nIV. Pendrive.\\nV. Webcam.\\n\\nSão dispositivos que funcionam tanto como entrada quanto como saída de dados (mistos) apenas os itens",
+      "alternativas": {
+        "A": "I e V.",
+        "B": "I e III.",
+        "C": "III e V.",
+        "D": "II e III.",
+        "E": "II e IV."
+      },
+      "gabarito": "E",
+      "explicacao": "Multifuncional (imprime e escaneia) e pendrive (grava e lê) são mistos. Scanner e webcam são só de entrada; projetor é só de saída.",
+      "resolucao_md": "**O que a questão pede**\nQuais itens são mistos (entrada e saída).\n\n**Conceito/Regra rápida**\nEntrada: leva dados ao computador. Saída: mostra o resultado. Misto: faz os dois.\n\n**Passo a passo**\n```\\nI   Scanner ............ entrada\\nII  Multifuncional ..... entrada (escaneia) + saída (imprime) = MISTO\\nIII Projetor ........... saída\\nIV  Pendrive ........... lê (entrada) + grava (saída) = MISTO\\nV   Webcam ............. entrada\\n```\\nMistos: **II e IV**.\n\n**Pegadinha**\nQuem lembra que o projetor \"mostra\" e o scanner \"captura\" não erra.\n\n**Macete**\nMisto = armazena ou faz dois serviços: pendrive, HD, multifuncional, touchscreen."
+    },
+    {
+      "id": "informatica-q104",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "Em um computador com Windows, qual dos nomes de arquivo a seguir é VÁLIDO?",
+      "alternativas": {
+        "A": "Escala/PM.xlsx",
+        "B": "Escala_PM-2026.xlsx",
+        "C": "Plano:final.docx",
+        "D": "Lista*alunos.txt",
+        "E": "Edital<2026>.pdf"
+      },
+      "gabarito": "B",
+      "explicacao": "Os caracteres \\ / : * ? \" < > | são proibidos em nomes de arquivos e pastas. O único nome sem nenhum deles é Escala_PM-2026.xlsx (sublinhado e hífen são permitidos).",
+      "resolucao_md": "**O que a questão pede**\nAchar o nome que não usa caractere proibido.\n\n**Conceito/Regra rápida**\nProibidos no Windows: `\\ / : * ? \" < > |».\n\n**Passo a passo**\n1. `Escala/PM.xlsx»: tem `/» (proibido).\\n2. `Plano:final.docx»: tem `:» (proibido).\\n3. `Lista*alunos.txt»: tem `*» (proibido).\\n4. `Edital<2026>.pdf»: tem `<» e `>» (proibidos).\\n5. `Escala_PM-2026.xlsx»: só `_» e `-» (permitidos). Correta.\n\n**Pegadinha**\nEspaço, hífen, sublinhado e acento são permitidos.\n\n**Macete**\nDecore a frase: barra, dois-pontos, asterisco, interrogação, aspas, menor, maior, pipe."
+    },
+    {
+      "id": "informatica-q105",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "Um usuário arrasta, com o mouse e sem pressionar nenhuma tecla, um arquivo da pasta C:\\Documentos para a pasta D:\\Backup, que está em OUTRA unidade de disco. O resultado desse procedimento é",
+      "alternativas": {
+        "A": "o deslocamento (movimento) do arquivo, que deixa de existir em C:\\Documentos.",
+        "B": "a criação de um atalho para o arquivo em D:\\Backup.",
+        "C": "a exclusão do arquivo, que vai para a Lixeira.",
+        "D": "a cópia do arquivo para D:\\Backup, permanecendo o original em C:\\Documentos.",
+        "E": "a compactação do arquivo em formato ZIP."
+      },
+      "gabarito": "D",
+      "explicacao": "Arrastar para OUTRA unidade copia; na MESMA unidade, move. Com Ctrl copia, com Shift move e com Alt cria atalho, independentemente da unidade.",
+      "resolucao_md": "**O que a questão pede**\nO que acontece ao arrastar entre unidades diferentes sem tecla.\n\n**Conceito/Regra rápida**\nMesma unidade, sem tecla = **move**. Unidade diferente, sem tecla = **copia**. Ctrl = copia; Shift = move; Alt = atalho.\n\n**Passo a passo**\n```\\nOrigem: C:\\Documentos\\prova.docx\\nDestino: D:\\Backup   (unidade D: é diferente de C:)\\nSem tecla -> COPIA\\nResultado: prova.docx existe em C: e em D:\\n```\n\n**Pegadinha**\nMuita gente decora só \"arrastar move\" e erra.\n\n**Macete**\nOutra unidade: copia. Mesma unidade: move."
+    },
+    {
+      "id": "informatica-q106",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "No Windows 11, ao selecionar um arquivo no Explorador de Arquivos e pressionar Shift+Delete e confirmar, o arquivo",
+      "alternativas": {
+        "A": "é enviado para a Lixeira, de onde pode ser restaurado.",
+        "B": "é copiado para a pasta Documentos.",
+        "C": "é movido para a Área de Trabalho.",
+        "D": "é renomeado com a extensão .old.",
+        "E": "é excluído definitivamente, sem passar pela Lixeira."
+      },
+      "gabarito": "E",
+      "explicacao": "Shift+Delete exclui direto, sem Lixeira. Só Delete envia o item à Lixeira.",
+      "resolucao_md": "**O que a questão pede**\nEfeito de Shift+Delete.\n\n**Conceito/Regra rápida**\nDelete = envia à Lixeira (recuperável). Shift+Delete = exclusão definitiva (sem Lixeira).\n\n**Passo a passo**\n1. Delete: arquivo vai à Lixeira.\\n2. Shift+Delete: pula a Lixeira e some do disco (pede confirmação).\\n3. Logo, a alternativa correta é a da exclusão definitiva.\n\n**Pegadinha**\nDizer que o Shift+Delete \"envia à Lixeira\" é a afirmação falsa que parece certa.\n\n**Macete**\nShift = \"sem rede de proteção\": apaga de vez."
+    },
+    {
+      "id": "informatica-q107",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA a respeito da exclusão de arquivos no Windows.",
+      "alternativas": {
+        "A": "Ao pressionar Delete sobre um arquivo do disco local, ele vai para a Lixeira.",
+        "B": "Arquivos excluídos de um pendrive USB são sempre enviados à Lixeira do computador.",
+        "C": "Arquivos na Lixeira podem ser restaurados enquanto ela não for esvaziada.",
+        "D": "Shift+Delete exclui o arquivo sem passar pela Lixeira.",
+        "E": "Arquivos de pastas de rede, em geral, não são enviados à Lixeira."
+      },
+      "gabarito": "B",
+      "explicacao": "Itens excluídos de pendrive e de pastas de rede normalmente não vão para a Lixeira; por isso a afirmação com \"sempre\" é a incorreta.",
+      "resolucao_md": "**O que a questão pede**\nA frase falsa sobre exclusão.\n\n**Conceito/Regra rápida**\nLixeira vale para o disco local. Pendrive e rede: em geral exclusão direta.\n\n**Passo a passo**\n1. Delete no disco local -> Lixeira (verdadeira).\\n2. Restaurar é possível até esvaziar a Lixeira (verdadeira).\\n3. Shift+Delete -> definitivo (verdadeira).\\n4. Rede -> em geral sem Lixeira (verdadeira).\\n5. Pendrive \"sempre\" na Lixeira -> **falsa**.\n\n**Pegadinha**\nA palavra \"sempre\" costuma denunciar a afirmação falsa.\n\n**Macete**\nPendrive e rede: apagou, sumiu."
+    },
+    {
+      "id": "informatica-q108",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "Organizando os tipos de memória do mais rápido para o mais lento, a sequência correta é",
+      "alternativas": {
+        "A": "registradores, memória cache, memória RAM, SSD.",
+        "B": "memória RAM, registradores, memória cache, SSD.",
+        "C": "SSD, memória RAM, memória cache, registradores.",
+        "D": "memória cache, registradores, SSD, memória RAM.",
+        "E": "registradores, memória RAM, memória cache, SSD."
+      },
+      "gabarito": "A",
+      "explicacao": "A hierarquia, da mais rápida (e menor, mais cara) para a mais lenta (e maior, mais barata) é: registradores, cache, RAM, armazenamento (SSD/HD).",
+      "resolucao_md": "**O que a questão pede**\nOrdenar por velocidade, do mais rápido ao mais lento.\n\n**Conceito/Regra rápida**\nQuanto mais perto do núcleo do processador, mais rápida e menor é a memória.\n\n**Passo a passo**\n```\\nregistradores (dentro da CPU)  -> mais rápida\\ncache L1/L2/L3 (CPU)\\nRAM (placa-mãe)\\nSSD/HD (armazenamento) -> mais lento\\n```\n\n**Pegadinha**\nA cache fica ENTRE os registradores e a RAM.\n\n**Macete**\nDo coração para fora: registrador, cache, RAM, disco."
+    },
+    {
+      "id": "informatica-q109",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 2,
+      "enunciado": "A BIOS/UEFI de um computador é um firmware que, ao ligar a máquina, é responsável por",
+      "alternativas": {
+        "A": "armazenar os arquivos do usuário de forma permanente.",
+        "B": "proteger a rede contra invasões, atuando como firewall.",
+        "C": "inicializar e testar o hardware (POST) antes de o sistema operacional ser carregado.",
+        "D": "compactar os arquivos do disco para economizar espaço.",
+        "E": "converter os sinais da internet para a placa de rede."
+      },
+      "gabarito": "C",
+      "explicacao": "BIOS/UEFI fica em memória ROM, executa o POST (teste de hardware) e entrega o controle ao sistema operacional. Não guarda arquivos, não é firewall e não compacta dados.",
+      "resolucao_md": "**O que a questão pede**\nFunção da BIOS/UEFI.\n\n**Conceito/Regra rápida**\nSequência do boot: liga -> BIOS/UEFI (POST) -> carrega o sistema operacional.\n\n**Passo a passo**\n1. Ao ligar, o firmware testa processador, RAM e dispositivos (POST).\\n2. Depois localiza o disco de boot e chama o Windows.\\n3. As demais alternativas descrevem HD/SSD, firewall, compactador e modem.\n\n**Pegadinha**\nFirmware está na ROM, que não perde dados ao desligar.\n\n**Macete**\nBIOS acorda o hardware, depois passa a bola ao Windows."
+    },
+    {
+      "id": "informatica-q110",
+      "topico": "informatica-hardware-arquivos",
+      "dificuldade": 1,
+      "enunciado": "O driver de um dispositivo (como uma impressora) é",
+      "alternativas": {
+        "A": "um componente físico que liga o dispositivo à placa-mãe.",
+        "B": "um cabo usado para conectar o periférico à tomada.",
+        "C": "um tipo de memória que guarda as configurações da impressora.",
+        "D": "um software que permite ao sistema operacional se comunicar e controlar o dispositivo.",
+        "E": "um vírus que se instala junto com periféricos."
+      },
+      "gabarito": "D",
+      "explicacao": "Driver é software (programa) que faz a ponte entre o sistema operacional e o hardware. Com Plug and Play, muitos drivers são instalados automaticamente.",
+      "resolucao_md": "**O que a questão pede**\nDefinir driver.\n\n**Conceito/Regra rápida**\nHardware = parte física. Software = programa. Driver é **software**.\n\n**Passo a passo**\n1. Elimine as alternativas que falam de peça física (placa, cabo, memória).\\n2. Elimine a que fala de vírus.\\n3. Sobra: software que permite ao SO usar o dispositivo.\n\n**Pegadinha**\nNão confundir driver (software) com porta/cabo (hardware).\n\n**Macete**\nDriver = \"intérprete\" entre o Windows e o periférico."
+    }
+  ]
+}

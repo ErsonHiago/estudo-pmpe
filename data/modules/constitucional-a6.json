@@ -1,0 +1,231 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-nacionalidade",
+      "titulo": "Nacionalidade (CF, arts. 12 e 13)",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## Conceitos iniciais\n**Nacionalidade** é o vínculo jurídico-político entre a pessoa e um Estado; **cidadania** (no sentido estrito) é a capacidade de exercer direitos políticos. No Brasil, a nacionalidade **primária** (originária) é o resultado de um fato natural (nascimento) e a **secundária** é adquirida por manifestação de vontade (naturalização). Os critérios clássicos são o **jus soli** (local do nascimento) e o **jus sanguinis** (filiação); a CF adota o jus soli como regra, com temperos de jus sanguinis.\n\n## Art. 12, I – brasileiros natos\n| Alínea | Quem é nato | Condição |\n|---|---|---|\n| a | nascidos **na República Federativa do Brasil**, ainda que de pais estrangeiros | desde que **os pais não estejam a serviço de seu país** |\n| b | nascidos **no estrangeiro** de pai brasileiro ou mãe brasileira | desde que **qualquer deles esteja a serviço da República Federativa do Brasil** |\n| c | nascidos **no estrangeiro** de pai brasileiro ou mãe brasileira | desde que **registrados em repartição brasileira competente** ou **venham a residir no Brasil e optem, em qualquer tempo, depois de atingida a maioridade**, pela nacionalidade brasileira |\nA alínea **c** foi reescrita pela **EC 54/2007** (antes exigia residência e opção). Note a diferença: na alínea a basta nascer aqui (se os pais não estão a serviço do seu país); na alínea b basta o serviço à República; na alínea c o registro garante a nacionalidade, ou então residência mais **opção após a maioridade** (a opção é uma \"condição\" posterior).\n\n## Art. 12, II – brasileiros naturalizados\n- **a)** os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas dos **originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral** (naturalização **ordinária**);\n- **b)** os estrangeiros de qualquer nacionalidade **residentes no Brasil há mais de quinze anos ininterruptos e sem condenação penal**, desde que **requeiram** a nacionalidade brasileira (naturalização **extraordinária**; é direito subjetivo do estrangeiro, preenchidos os requisitos).\nTema relacionado: a Lei de Migração (Lei 13.445/2017) regula as demais modalidades [VERIFICAR prazos atuais].\n\n## Art. 12, § 1º – quase-nacionalidade\nAos **portugueses com residência permanente** no País, **se houver reciprocidade** em favor de brasileiros, serão atribuídos os **direitos inerentes ao brasileiro**, **salvo** os casos previstos na Constituição (por exemplo, os cargos privativos de natos). O português equiparado **não** se torna brasileiro, e **não** é naturalizado: continua português com direitos de brasileiro.\n\n## Art. 12, § 2º – tratamento igualitário com exceções\n\"A lei **não poderá** estabelecer **distinção** entre brasileiros natos e naturalizados, **salvo nos casos previstos nesta Constituição**.\" As exceções estão na própria CF.\n\n## Art. 12, § 3º – cargos privativos de brasileiro nato\n**Presidente e Vice-Presidente da República; Presidente da Câmara dos Deputados; Presidente do Senado Federal; Ministro do STF; carreira diplomática; oficial das Forças Armadas; Ministro de Estado da Defesa.** Mnemônico: \"**P**residente e vice, **C**âmara, **S**enado, **S**TF, **D**iplomata, **O**ficial das FA, **D**efesa\" (PCS-SDOD). Outras reservas ao nato: seis membros do Conselho da República (art. 89, VII) e propriedade de empresa jornalística e de radiodifusão (art. 222: nato ou naturalizado há mais de **dez anos**). **Ministros de Estado em geral não** precisam ser natos (só o da Defesa).\n\n## Art. 12, § 4º – perda da nacionalidade\nSerá declarada a **perda** da nacionalidade do brasileiro que:\n1. tiver **cancelada a naturalização**, **por sentença judicial**, por **atividade nociva ao interesse nacional** (só o naturalizado);\n2. **adquirir outra nacionalidade**, salvo (a) **reconhecimento de nacionalidade originária** pela lei estrangeira, ou (b) **imposição de naturalização** pela norma estrangeira ao brasileiro residente em estado estrangeiro, como condição para permanência ou para o exercício de direitos civis.\nO **nato só perde** a nacionalidade pela hipótese 2. A extradição de brasileiro (art. 5º, LI) segue regras próprias: nato nunca; naturalizado só em crime comum anterior à naturalização ou tráfico de drogas.\n\n## Art. 13 – idioma e símbolos\nA **língua portuguesa** é o **idioma oficial** da República Federativa do Brasil (as comunidades indígenas mantêm suas línguas, art. 231). São **símbolos da República**: **bandeira, hino, armas e selo nacionais** (§ 1º). **Estados, DF e Municípios** poderão ter **símbolos próprios** (§ 2º).",
+      "dicas": [
+        "Nato: nasceu no Brasil (pais não a serviço do país deles), ou nasceu fora de pai/mãe brasileiro com serviço à República, registro ou opção.",
+        "Naturalizado: língua portuguesa (1 ano de residência + idoneidade) ou qualquer nacionalidade (mais de 15 anos, sem condenação penal, requerendo).",
+        "Cargos de nato: PCS-SDOD (Presidente/Vice, Câmara, Senado, STF, Diplomata, Oficial das FA, Defesa).",
+        "Perda: cancelamento da naturalização por sentença judicial, ou aquisição de outra nacionalidade (com 2 exceções).",
+        "Português equiparado tem direitos de brasileiro, não é naturalizado nem nato."
+      ],
+      "pegadinhas": [
+        "Dizer que o filho de estrangeiros nascido no Brasil é sempre brasileiro nato: não será, se os pais estiverem a serviço de seu país.",
+        "Dizer que o nascido no exterior de pai ou mãe brasileiro é nato \"automaticamente\": exige serviço à República, registro ou residência + opção após a maioridade.",
+        "Dizer que o estrangeiro residente há mais de 15 anos é nato ou se naturaliza automaticamente: ele é naturalizado e precisa requerer, sem condenação penal.",
+        "Incluir Ministro de Estado em geral (Fazenda, Justiça etc.) entre os cargos privativos de nato: só o Ministro de Estado da Defesa consta.",
+        "Dizer que o cancelamento da naturalização pode ser decretado por ato administrativo: exige sentença judicial.",
+        "Dizer que o português residente é naturalizado ou nato: é \"quase nacional\", com direitos de brasileiro, havendo reciprocidade.",
+        "Dizer que o brasileiro que adquire outra nacionalidade nunca perde a brasileira: perde, salvo as duas exceções."
+      ],
+      "flashcards": [
+        {
+          "q": "Quem é brasileiro nato pelo art. 12, I, a?",
+          "a": "Nascido na República Federativa do Brasil, ainda que de pais estrangeiros, desde que eles não estejam a serviço de seu país."
+        },
+        {
+          "q": "Quem é nato pela alínea b?",
+          "a": "Nascido no estrangeiro de pai ou mãe brasileiro, desde que qualquer deles esteja a serviço da República Federativa do Brasil."
+        },
+        {
+          "q": "Quem é nato pela alínea c?",
+          "a": "Nascido no estrangeiro de pai ou mãe brasileiro, registrado em repartição brasileira competente, ou que venha a residir no Brasil e opte, depois da maioridade, pela nacionalidade brasileira."
+        },
+        {
+          "q": "Qual emenda deu a redação atual da alínea c?",
+          "a": "EC 54/2007."
+        },
+        {
+          "q": "Requisitos do naturalizado de língua portuguesa?",
+          "a": "Residência por um ano ininterrupto e idoneidade moral."
+        },
+        {
+          "q": "Requisitos do estrangeiro de qualquer nacionalidade para naturalizar-se (art. 12, II, b)?",
+          "a": "Residência há mais de 15 anos ininterruptos, sem condenação penal, e requerimento."
+        },
+        {
+          "q": "Quais cargos são privativos de brasileiro nato?",
+          "a": "Presidente e Vice, Presidente da Câmara, Presidente do Senado, Ministro do STF, carreira diplomática, oficial das Forças Armadas, Ministro de Estado da Defesa."
+        },
+        {
+          "q": "A lei pode distinguir natos de naturalizados?",
+          "a": "Não, salvo nos casos previstos na própria Constituição (art. 12, § 2º)."
+        },
+        {
+          "q": "Como se perde a nacionalidade por cancelamento da naturalização?",
+          "a": "Por sentença judicial, em virtude de atividade nociva ao interesse nacional."
+        },
+        {
+          "q": "Quais as exceções à perda pela aquisição de outra nacionalidade?",
+          "a": "Reconhecimento de nacionalidade originária pela lei estrangeira; imposição de naturalização pela norma estrangeira como condição de permanência ou de exercício de direitos civis."
+        },
+        {
+          "q": "O que o art. 12, § 1º garante aos portugueses?",
+          "a": "Com residência permanente e reciprocidade, direitos inerentes ao brasileiro, salvo os previstos na CF como privativos."
+        },
+        {
+          "q": "Qual o idioma oficial e quais os símbolos nacionais?",
+          "a": "Língua portuguesa; bandeira, hino, armas e selo (art. 13)."
+        },
+        {
+          "q": "Estados e Municípios podem ter símbolos próprios?",
+          "a": "Sim (art. 13, § 2º)."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-nacionalidade-q01",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Um casal de estrangeiros, em viagem de turismo ao Brasil, tem uma filha em hospital brasileiro. Nenhum dos pais está a serviço de seu país de origem. Segundo o art. 12 da CF/88, a criança",
+      "alternativas": {
+        "A": "é brasileira naturalizada, pois os pais são estrangeiros.",
+        "B": "não é brasileira, pois ainda não atingiu a maioridade para optar.",
+        "C": "é brasileira nata, pois nasceu na República Federativa do Brasil e os pais não estão a serviço de seu país.",
+        "D": "é brasileira nata, apenas se os pais residirem no País há mais de quinze anos.",
+        "E": "é brasileira, mas somente após registro obrigatório em repartição consular."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: aplica-se o art. 12, I, a (jus soli). Demais: A) o nascimento em território nacional gera nacionalidade originária. B) a opção pós-maioridade é para a alínea c, outro caso. D) não há exigência de residência dos pais na alínea a. E) o registro consular se refere ao nascimento no estrangeiro (alínea c).",
+      "resolucao_md": "**O que a questão pede**\nAplicar o jus soli do art. 12, I, a.\n\n**Conceito/Regra rápida**\n**Art. 12, I, a**: nasceu no Brasil, ainda que de pais estrangeiros, desde que estes **não estejam a serviço de seu país**.\n\n**Passo a passo**\n1. Local do nascimento: Brasil (jus soli).\n2. Pais estrangeiros em turismo, não a serviço do país de origem: a exceção não se aplica.\n3. Resultado: brasileira nata.\n4. Elimine naturalizada, opção, 15 anos e registro consular (institutos de outras hipóteses).\n5. Alternativa C.\n\n**Pegadinha**\nSe o pai fosse embaixador de seu país, a criança não seria brasileira por essa alínea.\n\n**Macete**\nNasceu aqui + pais não a serviço do país deles = nata."
+    },
+    {
+      "id": "const-a-nacionalidade-q02",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Acerca da alínea c do inciso I do art. 12 da CF/88 (EC 54/2007), são brasileiros natos os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que",
+      "alternativas": {
+        "A": "optem pela nacionalidade brasileira antes de completarem a maioridade, perante a autoridade consular.",
+        "B": "optem pela nacionalidade brasileira no prazo de quatro anos após a maioridade.",
+        "C": "ambos os pais sejam brasileiros e estejam a serviço do Brasil.",
+        "D": "sejam registrados em repartição brasileira competente ou venham a residir no Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira.",
+        "E": "residam no Brasil por mais de quinze anos ininterruptos."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é a redação da alínea c. Demais: A) a opção é após a maioridade. B) a opção pode ser feita \"em qualquer tempo\". C) basta um dos pais, e o serviço refere-se à alínea b. E) os 15 anos referem-se à naturalização extraordinária.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer os requisitos da alínea c.\n\n**Conceito/Regra rápida**\n**Art. 12, I, c**: nascido no exterior de pai ou mãe brasileiro + (registro em repartição competente) OU (residência no Brasil + opção a qualquer tempo, depois da maioridade).\n\n**Passo a passo**\n1. Fixe: um dos pais brasileiro; nascido fora.\n2. Duas vias: registro, ou residência + opção pós-maioridade.\n3. Elimine \"opção antes da maioridade\", \"prazo de 4 anos\", \"ambos os pais a serviço\" e \"15 anos\".\n4. Alternativa D.\n\n**Pegadinha**\nA opção é \"em qualquer tempo, depois de atingida a maioridade\".\n\n**Macete**\nRegistrou? Nato. Não? Mora aqui e opta depois dos 18."
+    },
+    {
+      "id": "const-a-nacionalidade-q03",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 1,
+      "enunciado": "Nos termos do art. 12, II, da CF/88, é brasileiro naturalizado",
+      "alternativas": {
+        "A": "o nascido na República Federativa do Brasil, ainda que de pais estrangeiros que não estejam a serviço de seu país.",
+        "B": "o nascido no estrangeiro, de mãe brasileira que esteja a serviço da República.",
+        "C": "o português com residência permanente no País, havendo reciprocidade.",
+        "D": "o estrangeiro de qualquer nacionalidade, residente no País há mais de dez anos e com antecedentes criminais.",
+        "E": "o estrangeiro de qualquer nacionalidade, residente na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeira a nacionalidade brasileira."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é o art. 12, II, b. Demais: A) é brasileiro nato (I, a). B) é brasileiro nato (I, b). C) é quase-nacional do art. 12, § 1º, não naturalizado. D) o prazo da CF é \"mais de quinze anos\" e exige ausência de condenação penal.",
+      "resolucao_md": "**O que a questão pede**\nDistinguir naturalizado de nato e de português equiparado.\n\n**Conceito/Regra rápida**\n**Art. 12, II**: (a) ordinária, língua portuguesa: 1 ano + idoneidade; (b) extraordinária, qualquer nacionalidade: mais de 15 anos ininterruptos, sem condenação penal, mediante requerimento.\n\n**Passo a passo**\n1. Os nascidos no Brasil, ou no exterior de brasileiro a serviço da República, são natos (I), não naturalizados.\n2. O português equiparado (§ 1º) não é naturalizado.\n3. Dez anos e condenação não atendem ao II, b.\n4. Alternativa E.\n\n**Pegadinha**\nA naturalização extraordinária exige requerimento do interessado.\n\n**Macete**\n15 anos, sem condenação, e pede."
+    },
+    {
+      "id": "const-a-nacionalidade-q04",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa que NÃO apresenta cargo privativo de brasileiro nato, nos termos do art. 12, § 3º, da CF/88.",
+      "alternativas": {
+        "A": "Ministro de Estado da Fazenda.",
+        "B": "Presidente do Senado Federal.",
+        "C": "Ministro do Supremo Tribunal Federal.",
+        "D": "Carreira diplomática.",
+        "E": "Oficial das Forças Armadas."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: a CF reserva ao nato apenas o Ministro de Estado da Defesa, não os demais Ministros. Demais: B) é cargo privativo (art. 12, § 3º, III). C) é cargo privativo (IV). D) é privativa (V). E) é privativo (VI).",
+      "resolucao_md": "**O que a questão pede**\nAchar o cargo que não é privativo de nato.\n\n**Conceito/Regra rápida**\n**Art. 12, § 3º**: Presidente e Vice; Presidente da Câmara; Presidente do Senado; Ministro do STF; carreira diplomática; oficial das Forças Armadas; Ministro de Estado da Defesa.\n\n**Passo a passo**\n1. Liste mentalmente os 7 cargos (PCS-SDOD).\n2. Presidente do Senado, Ministro do STF, diplomata e oficial das FA estão na lista.\n3. Ministro da Fazenda não está (só o da Defesa).\n4. Alternativa A.\n\n**Pegadinha**\nA lista inclui um Ministro de Estado só: o da Defesa.\n\n**Macete**\nMinistro de nato? Só o da Defesa."
+    },
+    {
+      "id": "const-a-nacionalidade-q05",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Sobre a perda da nacionalidade (art. 12, § 4º, da CF/88), é correto afirmar que será declarada a perda da nacionalidade do brasileiro que",
+      "alternativas": {
+        "A": "tiver cancelada sua naturalização por decreto do Presidente da República, em processo administrativo.",
+        "B": "tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional.",
+        "C": "adquirir outra nacionalidade, em qualquer hipótese, inclusive quando a lei estrangeira reconhecer nacionalidade originária.",
+        "D": "recusar-se ao serviço militar obrigatório, por motivo de consciência.",
+        "E": "praticar atividade nociva ao interesse nacional, mesmo que seja brasileiro nato."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o inciso I do § 4º. Demais: A) a CF exige sentença judicial. C) há exceções expressas no inciso II. D) a escusa de consciência pode gerar perda dos direitos políticos (art. 15, IV), não da nacionalidade. E) o cancelamento por atividade nociva aplica-se ao naturalizado.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar as hipóteses de perda da nacionalidade.\n\n**Conceito/Regra rápida**\n**Art. 12, § 4º**: (I) cancelamento da naturalização por **sentença judicial** por atividade nociva ao interesse nacional; (II) aquisição de outra nacionalidade, salvo duas exceções.\n\n**Passo a passo**\n1. Hipótese I: só naturalizado, só por sentença judicial.\n2. Elimine \"decreto\" e \"processo administrativo\".\n3. Elimine \"em qualquer hipótese\" (há exceções).\n4. Elimine a recusa ao serviço militar (outra consequência, art. 15, IV).\n5. Elimine \"mesmo que nato\" (o cancelamento da naturalização não alcança o nato).\n6. Alternativa B.\n\n**Pegadinha**\nO nato só perde a nacionalidade pela aquisição voluntária de outra, nos termos do § 4º, II.\n\n**Macete**\nCancelar naturalização = juiz."
+    },
+    {
+      "id": "const-a-nacionalidade-q06",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "De acordo com o art. 12, § 1º, da Constituição Federal, aos portugueses com residência permanente no País",
+      "alternativas": {
+        "A": "são atribuídos automaticamente os direitos de brasileiro nato, inclusive os cargos privativos de nato.",
+        "B": "são atribuídos os direitos inerentes ao brasileiro, independentemente de reciprocidade.",
+        "C": "se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos na Constituição.",
+        "D": "é conferida a nacionalidade brasileira naturalizada, desde que residam há um ano no País.",
+        "E": "são atribuídos os direitos de brasileiro apenas se casados com brasileira."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é o texto do § 1º. Demais: A) os casos previstos na CF (cargos privativos de nato) ficam ressalvados. B) a reciprocidade é condição. D) a equiparação não é naturalização. E) o casamento não é requisito constitucional.",
+      "resolucao_md": "**O que a questão pede**\nEntender a equiparação do português.\n\n**Conceito/Regra rápida**\n**Art. 12, § 1º**: português com residência permanente + reciprocidade = direitos inerentes ao brasileiro, salvo exceções constitucionais.\n\n**Passo a passo**\n1. Requisitos: residência permanente e reciprocidade.\n2. Efeito: direitos de brasileiro, não a nacionalidade.\n3. Exceções: o que a CF reserva a natos continua vedado.\n4. Alternativa C.\n\n**Pegadinha**\nEquiparação não é naturalização, e muito menos nacionalidade nata.\n\n**Macete**\nPortuguês: direitos sim, nacionalidade não."
+    },
+    {
+      "id": "const-a-nacionalidade-q07",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Quanto à distinção entre brasileiros natos e naturalizados, o art. 12, § 2º, da CF/88 prevê que",
+      "alternativas": {
+        "A": "a lei poderá estabelecer distinção sempre que houver interesse público relevante.",
+        "B": "a Constituição proíbe toda e qualquer distinção entre natos e naturalizados, sem exceções.",
+        "C": "as distinções podem ser criadas por decreto do Poder Executivo, nos casos de segurança nacional.",
+        "D": "a lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos na Constituição.",
+        "E": "a distinção é livre para a lei complementar, mas vedada à lei ordinária."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o texto do § 2º. Demais: A) só a CF cria as distinções. B) há exceções na CF (por exemplo, o § 3º do art. 12). C) decreto não pode criar distinção. E) nem a lei complementar pode criar distinção sem previsão constitucional.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a regra do § 2º.\n\n**Conceito/Regra rápida**\n**Art. 12, § 2º**: sem distinção por lei, salvo casos previstos **na própria Constituição**.\n\n**Passo a passo**\n1. Fixe: regra = igualdade; exceção = só as que estão na CF.\n2. Elimine \"interesse público\", \"decreto\" e \"lei complementar\" (fontes infraconstitucionais).\n3. Elimine \"sem exceções\" (há exceções).\n4. Alternativa D.\n\n**Pegadinha**\nSó a Constituição abre exceções.\n\n**Macete**\nDistinção entre nato e naturalizado: só se a CF disser."
+    },
+    {
+      "id": "const-a-nacionalidade-q08",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Em relação ao art. 13 da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "são símbolos da República a bandeira, o hino, as armas, o selo e a moeda nacionais.",
+        "B": "os Estados e Municípios não podem ter símbolos próprios.",
+        "C": "a língua portuguesa é a única admitida, sendo vedado o uso de línguas indígenas.",
+        "D": "a língua portuguesa é idioma oficial apenas nos atos da União.",
+        "E": "a língua portuguesa é o idioma oficial da República Federativa do Brasil, e Estados, Distrito Federal e Municípios poderão ter símbolos próprios."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: reproduz os arts. 13, caput e § 2º. Demais: A) a moeda não consta do § 1º; são bandeira, hino, armas e selo. B) o § 2º permite. C) o art. 231 assegura às comunidades indígenas suas línguas. D) o art. 13 a define como idioma oficial da República Federativa do Brasil.",
+      "resolucao_md": "**O que a questão pede**\nReproduzir o art. 13.\n\n**Conceito/Regra rápida**\n**Art. 13**: idioma oficial = português; símbolos nacionais = bandeira, hino, armas e selo (§ 1º); entes federados podem ter símbolos próprios (§ 2º).\n\n**Passo a passo**\n1. Cheque a lista de símbolos: quatro itens.\n2. Descarte a que acrescenta \"moeda\".\n3. Descarte a que proíbe símbolos locais.\n4. Descarte a que veda línguas indígenas e a que restringe à União.\n5. Alternativa E.\n\n**Pegadinha**\nUma única palavra a mais (\"moeda\") torna a lista falsa.\n\n**Macete**\nSímbolos: bandeira, hino, armas, selo."
+    },
+    {
+      "id": "const-a-nacionalidade-q09",
+      "topico": "const-a-nacionalidade",
+      "dificuldade": 2,
+      "enunciado": "Analise as afirmativas sobre nacionalidade.\n\nI. É brasileiro nato o nascido no Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país.\nII. É brasileiro nato o nascido no estrangeiro de pai brasileiro ou de mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil.\nIII. O estrangeiro residente no Brasil há mais de quinze anos ininterruptos e sem condenação penal torna-se brasileiro nato ao requerer a nacionalidade.\nIV. O cargo de Ministro do Supremo Tribunal Federal é privativo de brasileiro nato.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I, II e IV, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II, III e IV, apenas.",
+        "D": "I, III e IV, apenas.",
+        "E": "I, II, III e IV."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: os itens I, II e IV reproduzem o art. 12, I, a; I, b; § 3º, IV. O item III descreve naturalizado, não nato. Demais: B) o item IV também é verdadeiro. C) o item III é falso e o item I é verdadeiro (foi excluído). D) o item III é falso e o item II é verdadeiro (foi excluído). E) o item III é falso: seria brasileiro naturalizado.",
+      "resolucao_md": "**O que a questão pede**\nCombinar os itens verdadeiros.\n\n**Conceito/Regra rápida**\n**Art. 12**: I, a e b = natos; II, b = naturalização extraordinária (naturalizado); § 3º, IV = Ministro do STF é cargo de nato.\n\n**Passo a passo**\n1. Item I: nato (I, a). Verdadeiro.\n2. Item II: nato (I, b). Verdadeiro.\n3. Item III: a nacionalidade adquirida por requerimento é naturalização. Falso.\n4. Item IV: § 3º, IV. Verdadeiro.\n5. Combinação: I, II e IV. Alternativa A.\n\n**Pegadinha**\nNato é originário; naturalizado é adquirido por vontade.\n\n**Macete**\nPediu e aguardou 15 anos = naturalizado."
+    }
+  ]
+}

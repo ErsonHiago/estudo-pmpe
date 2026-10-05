@@ -1,0 +1,106 @@
+{
+  "id": "taf",
+  "titulo": "TAF – Exames de Aptidão Física (Soldado PMPE)",
+  "disciplina": "fisico",
+  "descricao": "Preparação para os Exames de Aptidão Física (item 14 do edital): regras, índices, segurança, autoavaliação e técnica/progressão de cada teste. Fase eliminatória (apto/inapto). Orientação geral, não substitui médico ou educador físico.",
+  "topicos": [
+    {
+      "id": "taf-regras-gerais",
+      "titulo": "14 – Regras gerais do TAF (edital resumido)",
+      "prioridade": 1,
+      "horas": 2,
+      "resumo_md": "> **Aviso:** este conteúdo é orientação geral de estudo e preparo. Não substitui avaliação médica nem acompanhamento de educador físico. Em caso de divergência, vale o texto oficial do edital e dos comunicados de convocação.\n\n## Visão geral (item 14)\nO TAF é **eliminatório**, de **presença obrigatória**, com resultado **Apto ou Inapto**. Só é convocado quem foi considerado apto nas fases anteriores. **Não há segunda chamada**: faltou ou atrasou, está eliminado. No Soldado (cód. 201) os exames ocorrem em **2 dias consecutivos**. Janela prevista no cronograma: **23/07 a 01/08/2027** (data e local exatos saem em edital de convocação).\n\n## Ordem dos dias\n| Dia | Testes |\n|---|---|\n| 1º dia | Flexão de braços na barra fixa -> Salto em distância -> Natação 50 m |\n| 2º dia | Flexão abdominal remador -> Corrida de 2.400 m |\n\n## Índices mínimos (Tabelas 14.1 e 14.2)\n| Prova | Masculino | Feminino |\n|---|---|---|\n| Barra fixa | mínimo 5 flexões (dinâmica) | mínimo 25 s em isometria |\n| Salto em distância | mínimo 3,60 m | mínimo 2,80 m |\n| Natação 50 m | máximo 1min00s | máximo 1min10s |\n| Abdominal remador | mínimo 40 em 1 min | mínimo 36 em 1 min |\n| Corrida 2.400 m | máximo 11min30s | máximo 13min30s |\n\n## Documentos e exigências de chegada (14.4)\nChegar com **no mínimo 30 minutos de antecedência**, com: (a) documento oficial de identificação com foto original; (b) roupa apropriada; (c) **atestado de cardiologista com RQE**, emitido nos **últimos 30 dias** antes dos testes, dizendo expressamente que o candidato está apto a realizar os exames/exercícios físicos, com data, nome por extenso, carimbo com nome, CRM, RQE e assinatura (modelo do Anexo III); (d) para candidatas, **teste de gravidez (beta HCG)** feito em até 30 dias antes do início. Sem o atestado (ou sem a frase de aptidão), o candidato é **impedido de realizar os testes e eliminado** (14.6). O atestado vale só para este edital e cargo (14.6.2).\n\n## Regras que eliminam ou limitam\n- Todos os testes são obrigatórios e **cada um tem de atingir o mínimo** (14.22). Mas todos têm direito a fazer todos os testes, mesmo se falhar em algum (14.24).\n- **Barra, natação, abdominal e corrida: 1 tentativa.** **Salto: até 3 tentativas** (parou ao atingir o índice).\n- Repetição feita fora das regras **não conta**; só vale a contagem da banca (14.18).\n- Quem interrompe um teste **não pode retomá-lo** (14.18.2).\n- Lesão, mal súbito, cãibra, indisposição: **sem tratamento privilegiado**; se não puder continuar, é eliminado (14.7).\n- **Assinar a ficha** de desempenho imediatamente após cada teste; se recusar, duas testemunhas assinam (14.7.2-3).\n- Vestuário: camisa (com ou sem mangas), calção, meias e tênis (14.27). Natação: sunga/sungão ou maiô; sem biquíni, bermuda, roupa térmica.\n- Candidata gestante: pode ter remarcação (prazo de 120 a 365 dias após o término da gravidez), com comprovação médica.\n- Os esforços são filmados; cabe recurso fundamentado (item 19).",
+      "dicas": [
+        "Monte uma pasta física e digital: documento com foto, atestado do cardiologista com RQE e (candidatas) beta HCG. Agende o atestado para ficar dentro dos 30 dias.",
+        "Memorize a ordem: dia 1 = barra, salto, natação; dia 2 = abdominal e corrida.",
+        "Só o salto tem 3 tentativas; todo o resto é tentativa única.",
+        "Treine já assinando mentalmente: ao final de cada teste, assinar a ficha na hora.",
+        "Chegue 30 minutos antes e sem acompanhantes: terceiros não podem permanecer no local."
+      ],
+      "pegadinhas": [
+        "Afirmar que o candidato reprovado em um teste fica impedido de fazer os demais: FALSO. Todos têm direito a fazer todos (14.24), mas o resultado final é inapto.",
+        "Atestado de qualquer médico serve: FALSO. Tem de ser de cardiologista com RQE, dos últimos 30 dias, com a frase de aptidão.",
+        "Cãibra ou período menstrual dão direito a repetir o teste: FALSO. Alterações temporárias não são consideradas (14.7).",
+        "A contagem do próprio candidato ou do relógio pessoal é oficial: FALSO. Só vale a contagem da banca; relógio é permitido apenas na corrida, para monitorar.",
+        "Há segunda chamada em caso de atraso justificado: FALSO (14.1.3)."
+      ],
+      "flashcards": [
+        {"q": "Em quantos dias se faz o TAF do Soldado?", "a": "2 dias consecutivos."},
+        {"q": "Testes do 1º dia?", "a": "Barra fixa, salto em distância e natação 50 m."},
+        {"q": "Testes do 2º dia?", "a": "Abdominal remador e corrida de 2.400 m."},
+        {"q": "Validade do atestado do cardiologista?", "a": "Emitido nos últimos 30 dias antes dos testes, com RQE."},
+        {"q": "Antecedência mínima de chegada?", "a": "30 minutos."},
+        {"q": "Qual teste admite 3 tentativas?", "a": "Salto em distância."},
+        {"q": "Exame exigido das candidatas além do atestado?", "a": "Teste de gravidez (beta HCG) em até 30 dias antes."},
+        {"q": "Há segunda chamada no TAF?", "a": "Não; ausência ou atraso elimina."},
+        {"q": "O que fazer ao final de cada teste?", "a": "Assinar imediatamente a ficha de desempenho."},
+        {"q": "Quem pode interromper e retomar um teste?", "a": "Ninguém: interrompeu, não retoma."}
+      ]
+    },
+    {
+      "id": "taf-seguranca-saude",
+      "titulo": "Segurança e saúde na preparação física",
+      "prioridade": 1,
+      "horas": 2,
+      "resumo_md": "> **Aviso:** orientação geral. **Procure avaliação médica antes de começar** qualquer programa de treino, principalmente com sedentarismo, idade avançada, histórico familiar cardíaco ou uso de medicamentos. Este texto não substitui médico nem educador físico.\n\n## Antes de tudo: avaliação médica\nO edital já exige atestado de **cardiologista com RQE** nos 30 dias antes do TAF. Faça uma avaliação **antes de iniciar o treino** (ideal: agora) e outra para emitir o atestado final. Isso detecta problema cardíaco, de pressão ou ortopédico que o treino pesado poderia agravar.\n\n## Estrutura de uma sessão segura\n| Fase | Duração | O que fazer |\n|---|---|---|\n| Aquecimento | 8 a 12 min | Caminhada/trote leve, mobilidade de ombros, quadril e tornozelos, séries leves do exercício do dia |\n| Parte principal | 20 a 50 min | Treino do teste (barra, corrida, etc.) |\n| Volta à calma | 5 a 10 min | Caminhar até a frequência cardíaca cair; nunca parar bruscamente |\n| Alongamento | 5 a 10 min | Após o treino, sem dor, 20 a 30 s por grupo muscular |\n\n## Princípios de progressão\n- **Progrida aos poucos**: aumente carga total semanal em cerca de 10% por vez, no máximo.\n- Alterne dias fortes e leves; tenha **pelo menos 1 a 2 dias de descanso** por semana.\n- Separe barra e abdominal de dias consecutivos de volume muito alto para os mesmos grupos.\n- Dor muscular tardia leve é normal; **dor articular, aguda ou que piora é sinal para parar**.\n\n## Hidratação, alimentação e sono\n- Beba água ao longo do dia; em treino longo ou calor, repor líquidos antes, durante e depois. Urina clara é um bom indicador.\n- Alimentação básica: carboidratos (arroz, batata, aveia, frutas) como combustível; proteínas (ovos, carnes, leguminosas, laticínios) para recuperação; frutas, verduras e gorduras boas. Refeição leve 2 a 3 horas antes de treinar.\n- **Sono de 7 a 9 horas**: é onde o corpo se recupera e adapta. Treinar sem dormir piora desempenho e aumenta risco de lesão.\n- Evite suplementos e substâncias sem orientação profissional.\n\n## Prevenção de lesões\n- Calçado adequado e superfície segura; natação sempre com supervisão (salva-vidas ou instrutor).\n- Barra: não faça treino até a falha total sozinho sem segurança; cuide de ombros e cotovelos.\n- Corrida: aumente volume gradualmente (canelas, joelhos, tendão de Aquiles).\n- Calor: treine nos horários mais frescos e se adapte aos poucos.\n\n## Sinais de alerta: pare e procure atendimento\nDor ou pressão no peito; falta de ar fora do normal; tontura, visão escurecendo, desmaio; palpitações; náusea intensa; dor articular súbita; fraqueza em um lado do corpo. Em emergência, ligue **192 (SAMU)**.",
+      "dicas": [
+        "Primeira tarefa da preparação: marcar consulta médica (avaliação geral e cardiológica).",
+        "Aquecer sempre; alongar principalmente depois do treino.",
+        "Aumente volume em pequenos passos; o corpo adapta em semanas, não em dias.",
+        "Durma bem: sono é parte do treino.",
+        "Treino de natação nunca sozinho."
+      ],
+      "pegadinhas": [
+        "Dor durante o treino deve ser ignorada para evoluir: FALSO. Dor aguda ou articular é sinal para parar.",
+        "Alongamento pesado antes de provas de força/velocidade melhora o desempenho: não necessariamente; antes, prefira aquecimento dinâmico.",
+        "Parar bruscamente após a corrida é melhor: FALSO. O edital orienta continuar caminhando ou trotando após o apito (14.13.3).",
+        "Quem se sente bem não precisa de avaliação médica: FALSO. O atestado de cardiologista é exigência do edital.",
+        "Beber água só quando sentir sede em treino longo no calor: insuficiente; hidrate-se de forma planejada."
+      ],
+      "flashcards": [
+        {"q": "O que fazer antes de começar a treinar?", "a": "Procurar avaliação médica."},
+        {"q": "Ordem segura de uma sessão?", "a": "Aquecimento, parte principal, volta à calma, alongamento."},
+        {"q": "Quanto aumentar a carga semanal?", "a": "Cerca de 10% por vez, no máximo."},
+        {"q": "Horas de sono recomendadas (adultos)?", "a": "7 a 9 horas."},
+        {"q": "Telefone do SAMU?", "a": "192."},
+        {"q": "Sinais de alerta cardíacos?", "a": "Dor ou pressão no peito, falta de ar anormal, tontura, desmaio, palpitação."},
+        {"q": "Após a corrida, deve-se parar bruscamente?", "a": "Não; continuar caminhando ou trotando."},
+        {"q": "Quando alongar de forma mais profunda?", "a": "Depois do treino, sem dor."},
+        {"q": "Por que descansar 1 a 2 dias por semana?", "a": "Para recuperação e adaptação; reduz risco de lesão."}
+      ]
+    },
+    {
+      "id": "taf-teste-inicial",
+      "titulo": "Teste inicial: autoavaliação na semana 1",
+      "prioridade": 1,
+      "horas": 2,
+      "resumo_md": "> **Aviso:** orientação geral. Faça o teste apenas após **avaliação médica** e com segurança (natação com supervisão). Não substitui médico ou educador físico.\n\n## Por que testar logo\nSem saber o ponto de partida, é impossível planejar. A semana 1 serve para medir cada prova **nas regras do edital**, registrar e definir o tamanho da lacuna até o índice. Repita a cada 4 a 6 semanas para acompanhar a evolução. Registre tudo na aba **Treino físico** do app.\n\n## Como organizar (espelhando o edital)\nUse a mesma ordem do TAF para treinar também o cansaço acumulado:\n| Dia | Testes | Observações |\n|---|---|---|\n| Dia 1 | Barra, salto, natação 50 m | Aquecer bem; descansar entre testes |\n| Dia 2 | Abdominal remador, corrida 2.400 m | Corrida por último |\n\nSe estiver muito destreinado, faça os 5 testes em 3 a 5 dias separados e com esforço controlado.\n\n## Como medir cada teste\n| Teste | Como medir | O que anotar |\n|---|---|---|\n| Barra (masc.) | Pegada pronada, extensão total, queixo acima sem apoiar | Repetições válidas (peça para alguém contar com rigor ou filme) |\n| Barra (fem.) | Isometria com queixo acima, sem tocar | Segundos sustentados |\n| Salto | Corrida de aproximação, impulsão em uma perna, medir do ponto mais próximo ao início | Melhor de 3 tentativas |\n| Natação | 50 m nado livre, sem se apoiar | Tempo total |\n| Abdominal | 1 minuto, regras do remador | Repetições válidas |\n| Corrida | 2.400 m na pista, 8 voltas (300 m) ou 6 voltas (400 m) | Tempo e parciais por volta |\n\n## Interpretando o resultado\nCalcule a lacuna: **índice - resultado**. Exemplo: barra 2 de 5 = falta 3; corrida 13min00s para 11min30s = faltam 1min30s (cerca de 22 s por km). Classifique cada prova:\n- **Já atinge**: manter e simular.\n- **Perto (até ~20% do índice)**: prova de rotina, 2 sessões semanais.\n- **Longe**: prioridade; mais sessões e progressões.\n\n## Registro na aba Treino físico\nAnote data, teste, resultado, como se sentiu (0 a 10), local, observações (cansaço, sono). Compare com o índice e escreva a **meta da próxima avaliação**. Natação costuma ser o maior gargalo para quem não nada: se não consegue nadar 50 m sem parar, comece cedo com aulas.\n\n## Calendário de referência\nHoje é 03/10/2026 e o TAF está previsto para 23/07 a 01/08/2027: cerca de 42 semanas. Reavalie em 4, 8 e 12 semanas, e faça **simulados completos** (2 dias seguidos) nos últimos 2 meses.",
+      "dicas": [
+        "Filme os testes: dá para conferir a execução como a banca faria.",
+        "Teste na ordem do edital em pelo menos um simulado completo.",
+        "Registre parciais de corrida por volta: mostram se o ritmo está equilibrado.",
+        "Anote também o que deu errado (queixo não passou, pé tocou a tábua, apoio na borda).",
+        "Defina metas pequenas e mensais, não só o índice final."
+      ],
+      "pegadinhas": [
+        "Contar repetição incompleta no autoteste dá falsa sensação de aprovação; conte só as válidas.",
+        "Fazer todos os testes em um único dia pesado logo na semana 1 sem preparo aumenta risco de lesão.",
+        "Treinar só a prova mais fácil e adiar a mais fraca (geralmente natação ou barra) é o erro clássico.",
+        "Confiar no relógio do celular na prova: o edital proíbe celular e fones na corrida; use relógio comum.",
+        "Medir o salto pelo ponto onde o pé aterrissou, e não pela parte do corpo mais próxima da saída."
+      ],
+      "flashcards": [
+        {"q": "Quando fazer o teste inicial?", "a": "Na semana 1, após avaliação médica."},
+        {"q": "Onde registrar os resultados no app?", "a": "Na aba Treino físico."},
+        {"q": "Como calcular a lacuna?", "a": "Índice menos o resultado atual."},
+        {"q": "Frequência de reavaliação sugerida?", "a": "A cada 4 a 6 semanas."},
+        {"q": "Quantas voltas na pista de 300 m para 2.400 m?", "a": "8 voltas."},
+        {"q": "Quantas voltas na pista de 400 m?", "a": "6 voltas."},
+        {"q": "O que registrar em cada teste?", "a": "Data, resultado, sensação, local, observações e meta."},
+        {"q": "Por que filmar o teste?", "a": "Para conferir a execução como a banca avaliaria."},
+        {"q": "Quando fazer simulado completo de 2 dias?", "a": "Nos últimos 2 meses antes do TAF."}
+      ]
+    }
+  ],
+  "questoes": []
+}

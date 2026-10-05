@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: Poder Executivo. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Poder Executivo (arts. 76 a 91)",
+   "prioridade": 2,
+   "horas": 4,
+   "resumo_md": "## Chefia e eleição (arts. 76 a 83)\nO Poder Executivo é exercido pelo **Presidente da República**, auxiliado pelos **Ministros de Estado** (art. 76). Sistema de governo **presidencialista**: o Presidente é chefe de Estado e de Governo.\n| Tema | Regra |\n|---|---|\n| Eleição (art. 77) | simultânea com o Vice; **1º domingo de outubro** (1º turno); **último domingo de outubro** (2º turno) |\n| Vitória no 1º turno | **maioria absoluta** de votos, **não computados em branco e nulos** |\n| Mandato (art. 82) | **4 anos**; início em **5 de janeiro** do ano seguinte à eleição (EC 111/2021) |\n| Reeleição (art. 14, §5º) | **um único período subsequente** |\n| Posse | perante o **Congresso Nacional**, em sessão conjunta; se em **10 dias** da data fixada o eleito não assumir (salvo força maior), o cargo é declarado **vago** |\n| Idade mínima | **35 anos** para Presidente e Vice (art. 14, §3º, VI, \"a\") |\n| Cargo privativo de **brasileiro nato** | Presidente e Vice, Presidentes da Câmara e do Senado, Ministro do STF, carreira diplomática, oficial das Forças Armadas, **Ministro da Defesa** (art. 12, §3º) |\n\n## Substituição e vacância (arts. 79 a 81)\n- **Vice-Presidente** substitui no impedimento e sucede na vaga. Em seguida, sucessivamente: **Presidente da Câmara, do Senado e do STF**.\n- **Vacância** dos cargos de Presidente e Vice: **nos 2 primeiros anos** do período, eleição **direta em 90 dias**; **nos 2 últimos**, eleição **indireta pelo Congresso em 30 dias**; os eleitos completam o período dos antecessores.\n\n## Atribuições privativas (art. 84)\nNomear e exonerar **Ministros**; exercer a direção superior da administração; **iniciar o processo legislativo**; **sancionar, promulgar e fazer publicar leis; vetar projetos**; expedir **decretos e regulamentos** para a fiel execução das leis; dispor, por decreto, sobre organização e funcionamento da administração (sem aumento de despesa nem criação ou extinção de órgãos); manter relações com Estados estrangeiros; **celebrar tratados** (sujeitos a **referendo do Congresso**); decretar **estado de defesa e de sítio** e **intervenção federal**; exercer o **comando supremo das Forças Armadas**; **conceder indulto e comutar penas**; **declarar guerra**, no caso de agressão estrangeira, **autorizado pelo Congresso ou por ele referendado**. Algumas atribuições (parágrafo único) podem ser **delegadas** a Ministros de Estado, ao PGR ou ao AGU.\n**Ausência do País:** mais de **15 dias** exige **licença do Congresso**, sob pena de **perda do cargo** (art. 83).\n\n## Responsabilidade do Presidente (arts. 85 e 86)\n**Crimes de responsabilidade** são os atos que atentam contra a Constituição (existência da União, livre exercício dos Poderes, direitos políticos, individuais e sociais, segurança interna, probidade, lei orçamentária, cumprimento das leis e decisões judiciais), definidos em **lei especial** (Lei 1.079/1950).\n| Fase | Regra |\n|---|---|\n| Admissão da acusação | **Câmara**, por **2/3** |\n| Infrações penais comuns | julgamento no **STF**; afastamento se a **denúncia ou queixa for recebida** |\n| Crimes de responsabilidade | julgamento no **Senado**; afastamento após a **instauração do processo** |\n| Prazo de afastamento | **180 dias**; depois cessa o afastamento, sem prejuízo do processo |\nEnquanto não sobrevier **sentença condenatória**, o Presidente não está sujeito a **prisão**; na vigência do mandato **não pode ser responsabilizado por atos estranhos ao exercício de suas funções**.\n\n## Ministros de Estado (arts. 87 e 88)\nBrasileiros **natos ou naturalizados**, maiores de **21 anos**, no exercício dos direitos políticos (exceto o da Defesa, que é nato). Compete-lhes orientar, coordenar e supervisionar órgãos, expedir instruções para execução das leis, referendar atos do Presidente.\n\n## Conselhos (arts. 89 a 91)\n| Conselho | Composição | Opina sobre |\n|---|---|---|\n| **da República** | Vice-Presidente; Presidentes da Câmara e Senado; líderes da maioria e minoria na Câmara e Senado; Ministro da Justiça; **6 cidadãos natos**, maiores de **35 anos** (2 nomeados pelo Presidente, 2 eleitos pelo Senado, 2 pela Câmara), mandato de **3 anos**, sem recondução | intervenção federal, estado de defesa e de sítio; questões relevantes para a estabilidade das instituições |\n| **de Defesa Nacional** | Vice; Presidentes da Câmara e Senado; Ministros da Justiça, da Defesa, das Relações Exteriores e do Planejamento; **Comandantes da Marinha, do Exército e da Aeronáutica** | guerra e paz; estado de defesa, de sítio, intervenção; critérios de uso de áreas indispensáveis à segurança do território |\nOs Conselhos são **órgãos de consulta** do Presidente.\n\n## Governadores e Prefeitos\nGovernador e Vice: mandato de **4 anos**, posse em **6 de janeiro**; idade mínima **30 anos**. Prefeito: **21 anos**, posse em **1º de janeiro**.",
+   "dicas": [
+    "Mandato: 4 anos, posse em 5/1 (Presidente) e 6/1 (Governador), 1/1 (Prefeito).",
+    "Vacância: 2 primeiros anos = direta, 90 dias; 2 últimos = indireta, 30 dias.",
+    "Ausência do País por mais de 15 dias exige licença do CN.",
+    "Crime de responsabilidade: Senado julga; comum: STF julga; Câmara autoriza por 2/3.",
+    "Conselho da República opina sobre intervenção/defesa/sítio; Defesa Nacional também sobre guerra e paz."
+   ],
+   "pegadinhas": [
+    "Dizer que o Presidente toma posse em 1º de janeiro: desde a EC 111/2021 é em 5 de janeiro.",
+    "Confundir as regras de vacância: eleição direta nos 2 primeiros anos; indireta nos 2 últimos.",
+    "Afirmar que o Presidente pode ausentar-se por 30 dias sem licença: o limite é 15 dias.",
+    "Dizer que o Conselho de Defesa Nacional tem cidadãos natos nomeados: isso é do Conselho da República.",
+    "Dizer que o Senado autoriza a abertura do processo: é a Câmara, por 2/3; o Senado julga.",
+    "Dizer que o Presidente declara guerra livremente: precisa de autorização ou referendo do Congresso."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual a duração do mandato presidencial e quando ele começa?",
+     "a": "4 anos; início em 5 de janeiro do ano seguinte à eleição."
+    },
+    {
+     "q": "Quando há 2º turno na eleição presidencial?",
+     "a": "Se nenhum candidato obtiver maioria absoluta dos votos válidos (sem brancos e nulos)."
+    },
+    {
+     "q": "Ordem de substituição do Presidente?",
+     "a": "Vice, Presidente da Câmara, do Senado e do STF."
+    },
+    {
+     "q": "Vacância nos dois últimos anos do mandato:",
+     "a": "Eleição indireta pelo Congresso, em 30 dias."
+    },
+    {
+     "q": "Vacância nos dois primeiros anos:",
+     "a": "Eleição direta, em 90 dias."
+    },
+    {
+     "q": "Por quanto tempo o Presidente pode se ausentar sem licença do CN?",
+     "a": "Até 15 dias; acima disso, perde o cargo."
+    },
+    {
+     "q": "Quem admite a acusação contra o Presidente?",
+     "a": "A Câmara dos Deputados, por 2/3."
+    },
+    {
+     "q": "Quem julga o Presidente nos crimes de responsabilidade?",
+     "a": "O Senado Federal (presidido pelo Presidente do STF)."
+    },
+    {
+     "q": "Prazo máximo de afastamento por processo contra o Presidente?",
+     "a": "180 dias."
+    },
+    {
+     "q": "Quais Conselhos opinam sobre estado de defesa e de sítio?",
+     "a": "Conselho da República e Conselho de Defesa Nacional."
+    },
+    {
+     "q": "Quem integra o Conselho de Defesa Nacional (militares)?",
+     "a": "Os Comandantes da Marinha, do Exército e da Aeronáutica."
+    }
+   ],
+   "id": "const-b-t5"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t5-q01",
+   "topico": "const-b-t5",
+   "dificuldade": 1,
+   "enunciado": "Nos termos da Constituição Federal, o mandato do Presidente da República é de quatro anos e terá início",
+   "alternativas": {
+    "A": "em primeiro de janeiro do ano seguinte ao da sua eleição.",
+    "B": "em seis de janeiro do ano seguinte ao da sua eleição.",
+    "C": "em quinze de janeiro do mesmo ano da eleição.",
+    "D": "em cinco de janeiro do ano seguinte ao da sua eleição.",
+    "E": "em dois de fevereiro do ano seguinte ao da sua eleição."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 82, com a redação da EC 111/2021: 5 de janeiro.",
+   "resolucao_md": "**O que a questão pede:** data de início do mandato presidencial.\n\n**Regra rápida:** EC 111/2021: 5 de janeiro (Governadores: 6 de janeiro; Prefeitos: 1º de janeiro).\n\n**Passo a passo:**\n1. Elimine datas no mesmo ano da eleição e em fevereiro.\n2. Entre 1º e 6 de janeiro, lembre: Presidente 5, Governador 6, Prefeito 1.\n\n**Pegadinha:** A data antiga era 1º de janeiro.\n\n**Macete:** Presidente: 5/1."
+  },
+  {
+   "id": "const-b-t5-q02",
+   "topico": "const-b-t5",
+   "dificuldade": 1,
+   "enunciado": "Considera-se eleito Presidente da República, no primeiro turno, o candidato que",
+   "alternativas": {
+    "A": "obtiver a maioria simples dos votos, computados os em branco.",
+    "B": "obtiver mais de dois terços dos votos válidos.",
+    "C": "tiver o maior número de votos, ainda que inferior à metade dos votos válidos.",
+    "D": "obtiver a maioria absoluta dos votos, computados os nulos e os em branco.",
+    "E": "obtiver a maioria absoluta de votos, não computados os em branco e os nulos."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 77, §2º. Se nenhum alcançar, há 2º turno no último domingo de outubro.",
+   "resolucao_md": "**O que a questão pede:** o critério de vitória no 1º turno.\n\n**Regra rápida:** Maioria absoluta dos votos válidos (sem brancos e nulos).\n\n**Passo a passo:**\n1. A e C: maioria simples não basta.\n2. B: 2/3 não é o critério.\n3. D: nulos e brancos não são computados; apenas E o diz corretamente.\n\n**Pegadinha:** Computar brancos e nulos.\n\n**Macete:** Votos válidos: sem brancos e nulos."
+  },
+  {
+   "id": "const-b-t5-q03",
+   "topico": "const-b-t5",
+   "dificuldade": 2,
+   "enunciado": "Vagando os cargos de Presidente e Vice-Presidente da República nos dois últimos anos do período presidencial, a eleição para ambos será",
+   "alternativas": {
+    "A": "indireta, realizada pelo Congresso Nacional, trinta dias depois da última vaga, completando os eleitos o período de seus antecessores.",
+    "B": "direta, realizada noventa dias depois da última vaga.",
+    "C": "direta, realizada no prazo de trinta dias.",
+    "D": "indireta, realizada pelo Senado Federal, em noventa dias.",
+    "E": "dispensada, assumindo o Presidente do STF até o fim do mandato."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 81, §1º. Nos 2 primeiros anos, a eleição é direta, 90 dias após a última vaga.",
+   "resolucao_md": "**O que a questão pede:** as regras de vacância.\n\n**Regra rápida:** 2 primeiros anos: direta, 90 dias. 2 últimos: indireta (Congresso), 30 dias.\n\n**Passo a passo:**\n1. O enunciado fala nos dois ÚLTIMOS anos: indireta e 30 dias.\n2. Os eleitos completam o período dos antecessores.\n\n**Pegadinha:** Trocar as combinações (direta/30 dias).\n\n**Macete:** Últimos: indireta e 30; primeiros: direta e 90."
+  },
+  {
+   "id": "const-b-t5-q04",
+   "topico": "const-b-t5",
+   "dificuldade": 2,
+   "enunciado": "Admitida a acusação contra o Presidente da República por dois terços da Câmara dos Deputados, ele será submetido a julgamento",
+   "alternativas": {
+    "A": "perante o Superior Tribunal de Justiça, nas infrações penais comuns, ou perante a Câmara, nos crimes de responsabilidade.",
+    "B": "perante o Supremo Tribunal Federal, nas infrações penais comuns, ou perante o Senado Federal, nos crimes de responsabilidade.",
+    "C": "perante o Senado Federal em ambos os casos.",
+    "D": "perante o Supremo Tribunal Federal em ambos os casos.",
+    "E": "perante o Tribunal Superior Eleitoral, nos crimes eleitorais."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 86, caput.",
+   "resolucao_md": "**O que a questão pede:** quem julga o Presidente.\n\n**Regra rápida:** STF (comum) e Senado (responsabilidade), após 2/3 da Câmara.\n\n**Passo a passo:**\n1. A inverte tribunais; C e D \"ambos os casos\" ignoram a dualidade.\n2. E inventa o TSE.\n\n**Macete:** Comum: STF; responsabilidade: Senado."
+  },
+  {
+   "id": "const-b-t5-q05",
+   "topico": "const-b-t5",
+   "dificuldade": 2,
+   "enunciado": "De acordo com o art. 91 da Constituição Federal, integram o Conselho de Defesa Nacional, entre outros membros,",
+   "alternativas": {
+    "A": "seis cidadãos brasileiros natos, com mais de trinta e cinco anos.",
+    "B": "o Presidente do STF e o Procurador-Geral da República.",
+    "C": "o Vice-Presidente da República, os Presidentes da Câmara e do Senado, o Ministro da Justiça, o Ministro da Defesa e os Comandantes da Marinha, do Exército e da Aeronáutica.",
+    "D": "os líderes da maioria e da minoria na Câmara e no Senado.",
+    "E": "o Ministro da Fazenda e o Comandante-Geral da Polícia Militar."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 91. Os 6 cidadãos e os líderes pertencem ao Conselho da República (art. 89).",
+   "resolucao_md": "**O que a questão pede:** distinguir os dois Conselhos.\n\n**Regra rápida:** República: líderes + 6 cidadãos natos. Defesa Nacional: ministros e Comandantes das Forças.\n\n**Passo a passo:**\n1. Itens com \"seis cidadãos\" e \"líderes\" = Conselho da República.\n2. STF/PGR e PM não integram.\n\n**Pegadinha:** Misturar as composições.\n\n**Macete:** Defesa Nacional = Comandantes das Forças."
+  },
+  {
+   "id": "const-b-t5-q06",
+   "topico": "const-b-t5",
+   "dificuldade": 2,
+   "enunciado": "É competência privativa do Presidente da República, nos termos do art. 84 da CF,",
+   "alternativas": {
+    "A": "declarar guerra, a qualquer tempo, independentemente de autorização do Congresso.",
+    "B": "autorizar o estado de sítio, após consulta ao Conselho da República.",
+    "C": "julgar o Vice-Presidente nos crimes de responsabilidade.",
+    "D": "conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei.",
+    "E": "resolver definitivamente sobre tratados internacionais."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 84, XII. Declarar guerra exige autorização do CN (ou referendo); estado de sítio é autorizado pelo Congresso; julgar o Vice é do Senado; resolver sobre tratados é do Congresso (art. 49, I).",
+   "resolucao_md": "**O que a questão pede:** encontrar atribuição do Presidente.\n\n**Regra rápida:** Presidente decreta (sítio, defesa), celebra tratados (sujeitos a referendo), indulta, sanciona/veta.\n\n**Passo a passo:**\n1. A: precisa de autorização ou referendo.\n2. B: o Presidente decreta; autorização do sítio é do Congresso.\n3. C: Senado julga.\n4. E: Congresso decide.\n\n**Macete:** Indulto: Presidente."
+  },
+  {
+   "id": "const-b-t5-q07",
+   "topico": "const-b-t5",
+   "dificuldade": 1,
+   "enunciado": "O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a",
+   "alternativas": {
+    "A": "trinta dias, sob pena de multa.",
+    "B": "sessenta dias, sob pena de perda do cargo.",
+    "C": "dez dias, sob pena de crime de responsabilidade.",
+    "D": "quinze dias, sob pena de suspensão dos direitos políticos.",
+    "E": "quinze dias, sob pena de perda do cargo."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 83.",
+   "resolucao_md": "**O que a questão pede:** limite de ausência do País.\n\n**Regra rápida:** 15 dias, sob pena de perda do cargo, licença do Congresso.\n\n**Passo a passo:**\n1. Fixe 15 dias e perda do cargo.\n\n**Macete:** 15 dias."
+  }
+ ]
+}

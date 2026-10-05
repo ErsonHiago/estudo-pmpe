@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q031",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 2,
+   "enunciado": "Em Palmares, as aldeias fortificadas que formavam o quilombo eram chamadas de",
+   "alternativas": {
+    "A": "mocambos.",
+    "B": "engenhos.",
+    "C": "arraiais de pau-brasil.",
+    "D": "tabas.",
+    "E": "feitorias."
+   },
+   "gabarito": "A",
+   "explicacao": "Mocambos.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer o vocabulário.\n\n**Conceito/Regra rápida**\n**Mocambo** = aldeia quilombola; **engenho** = unidade açucareira; **feitoria** = posto de comércio; **taba** = aldeia indígena.\n\n**Passo a passo**\n1. Associe «mocambo» a «quilombo».\n2. Elimine B (inexistente), C (indígena), D e A (colonizador).\n\n**Pegadinha**\nConfundir mocambo e engenho.\n\n**Macete**\nMocambo = aldeia de quilombo.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q032",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 3,
+   "enunciado": "Sobre Palmares, analise as afirmativas.\n\nI. O mocambo do Macaco foi uma das principais sedes do quilombo.\nII. A população era composta somente de africanos fugidos, sem indígenas ou brancos pobres.\nIII. A economia incluía agricultura (milho, mandioca, feijão), caça e artesanato.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas II.",
+    "B": "Apenas I e III.",
+    "C": "Apenas III.",
+    "D": "Apenas I e II.",
+    "E": "Apenas II e III."
+   },
+   "gabarito": "B",
+   "explicacao": "Itens corretos: I, III. O item II é falso.",
+   "resolucao_md": "**O que a questão pede**\nSeparar o que é verdadeiro sobre organização.\n\n**Conceito/Regra rápida**\nPalmares reuniu **africanos, crioulos, indígenas e brancos pobres**.\n\n**Passo a passo**\n1. I: correto. III: correto.\n2. II: falso, pelo advérbio «somente».\n3. Resposta: I e III.\n\n**Pegadinha**\n«Somente» torna absoluta uma afirmação.\n\n**Macete**\nPalmares = diverso.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q033",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta os fatos na ORDEM CRONOLÓGICA correta.",
+   "alternativas": {
+    "A": "Destruição de Palmares; acordo de Ganga Zumba; Recife vila; morte de Zumbi.",
+    "B": "Morte de Zumbi; destruição de Palmares; acordo; Recife vila.",
+    "C": "Acordo de Ganga Zumba (1678); destruição de Palmares (1694); morte de Zumbi (1695); Recife elevado a vila (1709).",
+    "D": "Recife vila; acordo; destruição; morte de Zumbi.",
+    "E": "Acordo; Recife vila; destruição; morte de Zumbi."
+   },
+   "gabarito": "C",
+   "explicacao": "A ordem é 1678, 1694, 1695, 1709.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar quatro datas.\n\n**Conceito/Regra rápida**\n**1678 → 1694 → 1695 → 1709**.\n\n**Passo a passo**\n1. Destruição (1694) vem um ano antes da morte (1695).\n2. Recife vila (1709) fecha a lista.\n\n**Pegadinha**\nTrocar 1694 e 1695.\n\n**Macete**\n78, 94, 95, 1709.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q034",
+   "topico": "historia-pe-palmares",
+   "dificuldade": 2,
+   "enunciado": "Leia: «Reunia africanos fugidos, crioulos e indígenas; defendia-se com paliçadas e fossos; plantava milho, mandioca e feijão.» O trecho descreve",
+   "alternativas": {
+    "A": "um engenho de açúcar da Zona da Mata.",
+    "B": "a Cidade Maurícia holandesa.",
+    "C": "o Arraial do Bom Jesus.",
+    "D": "Palmares, o maior e mais duradouro quilombo colonial.",
+    "E": "o Terço dos Henriques."
+   },
+   "gabarito": "D",
+   "explicacao": "Palmares.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar a descrição.\n\n**Conceito/Regra rápida**\nPalavras-chave: **fugidos, paliçadas, fossos, mocambos** = quilombo.\n\n**Passo a passo**\n1. Aldeia fortificada de fugidos = quilombo.\n2. Os demais não têm fugitivos como população.\n\n**Pegadinha**\nConfundir arraial com quilombo.\n\n**Macete**\nFugidos + paliçada = quilombo.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q035",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 1,
+   "enunciado": "Entre as causas da Insurreição Pernambucana (1645-1654), destaca-se",
+   "alternativas": {
+    "A": "a proibição do tráfico negreiro.",
+    "B": "a dissolução da Constituinte por D. Pedro I.",
+    "C": "o desejo de proclamar uma república.",
+    "D": "a demissão do gabinete liberal por D. Pedro II.",
+    "E": "a cobrança de dívidas pela WIC aos senhores de engenho após a saída de Nassau."
+   },
+   "gabarito": "E",
+   "explicacao": "A causa é a cobrança de dívidas.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a causa correta, evitando outras revoltas.\n\n**Conceito/Regra rápida**\nInsurreição = contra holandeses. A é 1824; B é 1817; C é 1848.\n\n**Passo a passo**\n1. Associe «dívidas» a «WIC» e «pós-Nassau».\n2. Elimine A, B, D por pertencerem a outros movimentos.\n\n**Pegadinha**\nTrazer causas de 1817, 1824 ou 1848.\n\n**Macete**\nDívidas = holandeses.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q036",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 2,
+   "enunciado": "Henrique Dias é lembrado na Insurreição Pernambucana por",
+   "alternativas": {
+    "A": "comandar o Terço dos Henriques, formado por soldados negros.",
+    "B": "comandar os índios potiguaras aliados.",
+    "C": "ser o mestre-de-campo que ensinou a guerra de emboscada.",
+    "D": "ser o comandante-geral das tropas na fase final.",
+    "E": "ser o principal articulador político e senhor de engenho."
+   },
+   "gabarito": "A",
+   "explicacao": "Terço dos Henriques.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem e papel.\n\n**Conceito/Regra rápida**\n**Henrique Dias** = negros; **Camarão** = índios; **Vidal** = militar; **Fernandes Vieira** = articulador; **Dias Cardoso** = emboscada; **Barreto de Meneses** = comando final.\n\n**Passo a passo**\n1. Memorize: negro, índio, branco (união das três raças).\n2. B é Dias Cardoso; A é Camarão; D é Fernandes Vieira; C é Barreto de Meneses.\n\n**Pegadinha**\nConfundir Henrique Dias com Dias Cardoso (mesmo sobrenome).\n\n**Macete**\nHenrique = Henriques.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q037",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre a Insurreição Pernambucana.",
+   "alternativas": {
+    "A": "A primeira grande vitória foi no Monte das Tabocas, em agosto de 1645.",
+    "B": "Felipe Camarão, chefe potiguara, lutou ao lado dos holandeses e morreu em 1648.",
+    "C": "André Vidal de Negreiros foi chefe militar, e João Fernandes Vieira, articulador político.",
+    "D": "O movimento é visto como símbolo da união de brancos, negros e indígenas.",
+    "E": "Terminou com a expulsão dos holandeses em 1654."
+   },
+   "gabarito": "B",
+   "explicacao": "A incorreta é B.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\n**Felipe Camarão** foi aliado dos **portugueses**, ainda que parte dos potiguaras apoiasse os holandeses.\n\n**Passo a passo**\n1. Cheque cada personagem.\n2. B inverte o lado de Camarão.\n\n**Pegadinha**\nEsquecer que os potiguaras estavam divididos.\n\n**Macete**\nCamarão = lado português.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q038",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 2,
+   "enunciado": "A primeira vitória significativa dos insurretos contra os holandeses ocorreu",
+   "alternativas": {
+    "A": "em abril de 1648, nos Guararapes.",
+    "B": "em janeiro de 1654, na Campina do Taborda, com a capitulação.",
+    "C": "em agosto de 1645, no Monte das Tabocas.",
+    "D": "em 1630, no Arraial do Bom Jesus.",
+    "E": "em 1710, no Recife."
+   },
+   "gabarito": "C",
+   "explicacao": "Monte das Tabocas, 1645.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a primeira batalha.\n\n**Conceito/Regra rápida**\nTabocas (1645) → Guararapes (1648 e 1649) → capitulação (1654).\n\n**Passo a passo**\n1. Ordene as batalhas.\n2. Elimine as que são posteriores ou de outra época.\n\n**Pegadinha**\nAchar que Guararapes foi a primeira.\n\n**Macete**\nTabocas = primeira.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q039",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta os fatos na ORDEM CRONOLÓGICA correta.",
+   "alternativas": {
+    "A": "1ª Batalha dos Guararapes; Monte das Tabocas; Tratado de Haia; capitulação.",
+    "B": "Capitulação; Monte das Tabocas; 1ª Batalha dos Guararapes; Tratado de Haia.",
+    "C": "Tratado de Haia; Monte das Tabocas; Guararapes; capitulação.",
+    "D": "Monte das Tabocas; 1ª Batalha dos Guararapes; capitulação holandesa; Tratado de Haia.",
+    "E": "Monte das Tabocas; capitulação; 1ª Batalha dos Guararapes; Tratado de Haia."
+   },
+   "gabarito": "D",
+   "explicacao": "A ordem é 1645, 1648, 1654, 1661.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar quatro marcos.\n\n**Conceito/Regra rápida**\n**1645 → 1648 → 1654 → 1661**.\n\n**Passo a passo**\n1. Associe cada marco a um ano.\n2. Tabocas (1645) abre; Haia (1661) fecha.\n\n**Pegadinha**\nColocar a capitulação antes de Guararapes.\n\n**Macete**\n45, 48, 54, 61.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q040",
+   "topico": "historia-pe-insurreicao-1654",
+   "dificuldade": 3,
+   "enunciado": "Sobre a Insurreição Pernambucana, analise as afirmativas.\n\nI. É vista como símbolo da união de brancos, negros e índios contra o invasor.\nII. Antônio Dias Cardoso destacou-se na estratégia da guerra de emboscada.\nIII. João Fernandes Vieira, paraibano, foi o chefe militar da insurreição.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I.",
+    "B": "Apenas II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e III.",
+    "E": "Apenas I e II."
+   },
+   "gabarito": "E",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar o papel dos líderes.\n\n**Conceito/Regra rápida**\nO paraibano é **André Vidal de Negreiros**. **Fernandes Vieira** era rico senhor de engenho e articulador político.\n\n**Passo a passo**\n1. I: correto. II: correto.\n2. III: errado, é a descrição de Vidal de Negreiros.\n3. Resposta: I e II.\n\n**Pegadinha**\nTrocar Fernandes Vieira e Vidal.\n\n**Macete**\nVieira = política; Vidal = armas.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

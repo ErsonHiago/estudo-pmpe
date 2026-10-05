@@ -1,0 +1,190 @@
+{
+ "id": "constitucional",
+ "titulo": "Direito Constitucional – Bloco B",
+ "disciplina": "constitucional",
+ "descricao": "CF/1988: militares dos Estados. A AOCP cobra letra de lei (artigos, prazos, quóruns) e troca detalhes em alternativas parecidas.",
+ "topicos": [
+  {
+   "titulo": "Militares dos Estados (art. 42 e dispositivos aplicáveis: arts. 14, §8º; 40, §9º; 125; 142, §§2º e 3º; 144, §6º)",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Quem são os militares dos Estados (art. 42)\nOs membros das **Polícias Militares** e dos **Corpos de Bombeiros Militares**, instituições **organizadas com base na hierarquia e disciplina**, são **militares dos Estados, do Distrito Federal e dos Territórios**. Não são servidores civis, nem militares federais. As PMs e CBMs são **forças auxiliares e reserva do Exército** e se subordinam ao **Governador** (art. 144, §6º). Os militares das Forças Armadas, por sua vez, são os \"militares\" do art. 142.\n\n## O que o art. 42, §1º, \"importa\" para os militares estaduais\nAplicam-se, além do que a lei fixar, os dispositivos abaixo, e cabe à **lei estadual específica** dispor sobre as matérias do art. 142, §3º, X; as **patentes dos oficiais são conferidas pelos Governadores**.\n| Dispositivo | Conteúdo |\n|---|---|\n| **Art. 14, §8º** | militar alistável é elegível: **menos de 10 anos de serviço** = afasta-se da atividade; **mais de 10 anos** = é **agregado** pela autoridade superior e, se eleito, vai **automaticamente para a inatividade no ato da diplomação** |\n| **Art. 40, §9º** | tempo de contribuição federal, estadual ou municipal conta para aposentadoria, e o tempo de serviço para disponibilidade |\n| **Art. 142, §2º** | **não cabe habeas corpus** em relação a punições disciplinares militares |\n| **Art. 142, §3º** | regras dos militares (abaixo) |\n\n## Art. 142, §3º, aplicável aos militares estaduais\n- **I** patentes conferidas pelo Presidente (FFAA) ou, nos Estados, **pelo Governador**; privativos os títulos, postos e uniformes.\n- **II** militar da ativa que toma posse em **cargo ou emprego civil permanente** é transferido para a **reserva**.\n- **III** em cargo, emprego ou função civil **temporária, não eletiva**: fica **agregado**; depois de **2 anos** de afastamento, contínuos ou não, é transferido para a reserva.\n- **IV** **proibidas a sindicalização e a greve**.\n- **V** **sem filiação a partidos políticos** enquanto em serviço ativo.\n- **VI** o oficial só perde o **posto e a patente** se julgado **indigno do oficialato** ou com ele incompatível, por **tribunal militar de caráter permanente** (tempo de paz) ou **tribunal especial** (guerra).\n- **VII** oficial condenado a pena privativa de liberdade **superior a 2 anos**, por sentença transitada em julgado, é submetido ao julgamento do inciso anterior.\n- **VIII** direitos do art. 7º (13º salário, salário-família, férias com 1/3, licença-gestante, licença-paternidade, assistência em creche) e do art. 37, XI, XIII, XIV, XV; e, com prevalência da atividade militar, acumulação do art. 37, XVI, \"c\" (profissionais de saúde).\n- **X** a lei disporá sobre ingresso, limites de idade, estabilidade, direitos, deveres, remuneração e prerrogativas.\n\n## Pensionistas (art. 42, §2º)\nAos pensionistas dos militares dos Estados aplica-se o que for fixado em **lei específica do respectivo ente estatal**.\n\n## Justiça Militar estadual (art. 125, §§3º a 5º)\n| Tema | Regra |\n|---|---|\n| Criação | por **lei estadual**, mediante proposta do **Tribunal de Justiça** |\n| Composição | 1º grau: **juízes de direito e Conselhos de Justiça**; 2º grau: o **TJ** ou **TJM** (onde o efetivo for **superior a 20.000** integrantes) |\n| Competência (§4º) | processar e julgar os **militares dos Estados** nos **crimes militares definidos em lei** e as **ações judiciais contra atos disciplinares militares**; **ressalva do júri quando a vítima for civil** |\n| Perda do posto/graduação | cabe ao **tribunal competente** decidir sobre a perda do **posto e da patente dos oficiais** e da **graduação das praças** |\n| Juiz de direito (§5º) | julga **singularmente** os crimes militares **contra civis** e as ações contra atos disciplinares; o **Conselho de Justiça**, presidido por juiz de direito, julga os **demais** crimes militares |\n\n**Súmulas (certeza):** **STJ 53**: compete à Justiça Comum Estadual processar e julgar civil acusado de prática de crime contra instituições militares estaduais. **STJ 90**: compete à Justiça Estadual Militar processar e julgar o policial militar pela prática do crime militar, e à comum pela prática do crime comum simultâneo àquele. O Estatuto dos Policiais Militares de Pernambuco é a Lei estadual nº 6.783/1974 [VERIFICAR número e alterações].\n\n## Iniciativa de leis\nLei sobre regime jurídico, remuneração, promoções e reforma dos **militares estaduais** é de **iniciativa privativa do Governador** (simetria com o art. 61, §1º, II, \"f\", que dá ao Presidente a iniciativa quanto aos militares das Forças Armadas).",
+   "dicas": [
+    "Art. 42 = \"o RG do PM\": militar ESTADUAL, hierarquia e disciplina, subordinado ao Governador.",
+    "10 anos de serviço é o divisor do militar candidato: <10 afasta-se; >10 agregado e, eleito, inatividade na diplomação.",
+    "Militar: nada de greve, sindicato nem partido (ativa). HC não cabe contra punição disciplinar.",
+    "Oficial perde posto/patente só por decisão de tribunal; praças perdem graduação por decisão do tribunal competente (art. 125, §4º).",
+    "Crime doloso contra a vida de civil por PM: Júri, não Justiça Militar."
+   ],
+   "pegadinhas": [
+    "Dizer que os militares estaduais são subordinados ao Presidente da República ou ao Ministro da Defesa: subordinam-se ao Governador (embora sejam reserva do Exército).",
+    "Afirmar que cabe habeas corpus contra punição disciplinar militar: o art. 142, §2º, veda.",
+    "Dizer que a Justiça Militar estadual julga civis: apenas militares dos Estados (civil que atacou instituição militar estadual é da Justiça comum: Súmula STJ 53).",
+    "Permitir sindicalização e filiação partidária ao militar da ativa: ambas vedadas; só a filiação é limitada ao serviço ativo, a greve e sindicalização são proibidas em geral.",
+    "Trocar o prazo de 10 anos do militar candidato (por 5 anos, por exemplo) ou o momento da inatividade (diplomação, não posse).",
+    "Dizer que as patentes dos oficiais das PMs são concedidas pelo Comandante-Geral: são conferidas pelo Governador."
+   ],
+   "flashcards": [
+    {
+     "q": "Quem são os militares dos Estados?",
+     "a": "Membros das Polícias Militares e dos Corpos de Bombeiros Militares (art. 42)."
+    },
+    {
+     "q": "Em que se organizam a PM e o CBM?",
+     "a": "Na hierarquia e disciplina."
+    },
+    {
+     "q": "Quem confere as patentes dos oficiais das PMs?",
+     "a": "O Governador do respectivo Estado."
+    },
+    {
+     "q": "Militar candidato com mais de 10 anos de serviço: o que ocorre?",
+     "a": "É agregado pela autoridade superior e, se eleito, passa à inatividade no ato da diplomação."
+    },
+    {
+     "q": "Militar com menos de 10 anos que se candidata:",
+     "a": "Deve afastar-se da atividade."
+    },
+    {
+     "q": "Cabe habeas corpus contra punição disciplinar militar?",
+     "a": "Não (art. 142, §2º)."
+    },
+    {
+     "q": "O militar pode fazer greve ou sindicalizar-se?",
+     "a": "Não; ambas proibidas (art. 142, §3º, IV)."
+    },
+    {
+     "q": "Em quais condições o oficial perde posto e patente?",
+     "a": "Se julgado indigno do oficialato ou incompatível, por tribunal militar de caráter permanente."
+    },
+    {
+     "q": "Quando há Tribunal de Justiça Militar estadual?",
+     "a": "Onde o efetivo militar for superior a 20.000 integrantes."
+    },
+    {
+     "q": "Quem julga militar estadual que mata civil em serviço (crime doloso contra a vida)?",
+     "a": "Tribunal do Júri (ressalva do art. 125, §4º)."
+    },
+    {
+     "q": "Qual a súmula do STJ sobre civil que comete crime contra instituição militar estadual?",
+     "a": "Súmula 53: competência da Justiça Comum Estadual."
+    }
+   ],
+   "id": "const-b-t3"
+  }
+ ],
+ "questoes": [
+  {
+   "id": "const-b-t3-q01",
+   "topico": "const-b-t3",
+   "dificuldade": 1,
+   "enunciado": "Nos termos da Constituição Federal, os membros das Polícias Militares e dos Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são",
+   "alternativas": {
+    "A": "servidores públicos civis estaduais, regidos pelo regime estatutário comum.",
+    "B": "militares federais, vinculados ao Ministério da Defesa.",
+    "C": "agentes de segurança sem condição militar, subordinados ao Prefeito.",
+    "D": "servidores da Polícia Federal cedidos aos Estados.",
+    "E": "militares dos Estados, do Distrito Federal e dos Territórios."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 42, caput.",
+   "resolucao_md": "**O que a questão pede:** identificar a natureza jurídica do PM e do bombeiro militar.\n\n**Regra rápida:** Art. 42: são militares dos Estados, DF e Territórios.\n\n**Passo a passo:**\n1. A: não são civis comuns.\n2. B: não são federais.\n3. C: subordinam-se ao Governador, não ao Prefeito.\n4. D: não pertencem à PF.\n\n**Macete:** PM/bombeiro: militar ESTADUAL."
+  },
+  {
+   "id": "const-b-t3-q02",
+   "topico": "const-b-t3",
+   "dificuldade": 1,
+   "enunciado": "Aplica-se aos militares dos Estados, por força do art. 42, §1º, da Constituição Federal, a disposição do art. 142, §2º, segundo a qual",
+   "alternativas": {
+    "A": "não caberá habeas corpus em relação a punições disciplinares militares.",
+    "B": "cabe habeas corpus em relação a qualquer punição disciplinar, inclusive quanto ao mérito administrativo.",
+    "C": "cabe apenas mandado de injunção contra punições disciplinares.",
+    "D": "a punição disciplinar é insuscetível de qualquer controle judicial.",
+    "E": "só caberá habeas corpus quando o punido for oficial."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 142, §2º, aplicado pelo art. 42, §1º.",
+   "resolucao_md": "**O que a questão pede:** lembrar a regra sobre habeas corpus e punição disciplinar militar.\n\n**Regra rápida:** HC não cabe contra punição disciplinar militar (art. 142, §2º).\n\n**Passo a passo:**\n1. Procure a alternativa que reproduz a vedação.\n2. C exagera: o Judiciário controla a legalidade; a CF só veda o HC.\n3. B e D inventam regras.\n\n**Pegadinha:** C é plausível, mas a CF não proíbe todo controle judicial.\n\n**Macete:** Punição disciplinar militar: sem HC."
+  },
+  {
+   "id": "const-b-t3-q03",
+   "topico": "const-b-t3",
+   "dificuldade": 2,
+   "enunciado": "Quanto ao militar alistável candidato a cargo eletivo (art. 14, §8º, da CF), é correto afirmar que",
+   "alternativas": {
+    "A": "se contar mais de dez anos de serviço, deverá afastar-se definitivamente antes da convenção partidária.",
+    "B": "se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.",
+    "C": "se contar menos de dez anos de serviço, será agregado e, se eleito, passará à inatividade no ato da posse.",
+    "D": "o militar da ativa não pode candidatar-se em nenhuma hipótese.",
+    "E": "se contar mais de cinco anos de serviço, será agregado e retornará à ativa se eleito."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 14, §8º: menos de 10 anos = afastar-se; mais de 10 = agregado, e, se eleito, inatividade na diplomação.",
+   "resolucao_md": "**O que a questão pede:** a regra de elegibilidade do militar.\n\n**Regra rápida:** Marco dos 10 anos: <10 afasta; >10 agrega; eleito vai para a inatividade na diplomação.\n\n**Passo a passo:**\n1. A: o militar com mais de 10 anos é agregado, não se afasta definitivamente de início.\n2. C: troca o grupo (menos de 10 anos se afasta) e o momento (diplomação, não posse).\n3. D: o militar alistável é elegível.\n4. E: o marco é 10, não 5, e o eleito vai para a inatividade.\n\n**Pegadinha:** Troca de grupo (menos/mais de 10) e de momento (diplomação/posse).\n\n**Macete:** Mais de 10: agregado; diplomou, foi para casa."
+  },
+  {
+   "id": "const-b-t3-q04",
+   "topico": "const-b-t3",
+   "dificuldade": 2,
+   "enunciado": "No tocante aos direitos e restrições dos militares dos Estados, aplicáveis por remissão ao art. 142, §3º, da Constituição Federal, é correto afirmar que",
+   "alternativas": {
+    "A": "é assegurada a sindicalização, embora vedada a greve.",
+    "B": "é permitida a greve em caso de atraso de remuneração.",
+    "C": "é vedada a filiação a partidos políticos ao militar em serviço ativo.",
+    "D": "o militar da ativa pode filiar-se a partido, desde que fora do horário de serviço.",
+    "E": "o oficial perde o posto e a patente por ato do Comandante-Geral da corporação."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 142, §3º, IV e V; VI.",
+   "resolucao_md": "**O que a questão pede:** verificar as restrições constitucionais ao militar.\n\n**Regra rápida:** Militar: sem greve, sem sindicato, sem partido (ativa); oficial só perde posto/patente por decisão de tribunal.\n\n**Passo a passo:**\n1. A: sindicalização é proibida.\n2. B: greve é proibida.\n3. D: não há exceção de horário.\n4. E: perda de posto/patente depende de decisão de tribunal.\n\n**Macete:** Greve, sindicato e partido: nenhum."
+  },
+  {
+   "id": "const-b-t3-q05",
+   "topico": "const-b-t3",
+   "dificuldade": 3,
+   "enunciado": "Sobre a Justiça Militar estadual, nos termos do art. 125 da Constituição Federal, é correto afirmar que",
+   "alternativas": {
+    "A": "compete-lhe julgar civis que cometam crimes contra instituições militares estaduais.",
+    "B": "compete-lhe julgar o policial militar que praticar crime doloso contra a vida de civil, em qualquer hipótese.",
+    "C": "a perda da graduação das praças é decidida pelo Comandante-Geral da corporação, sem controle jurisdicional.",
+    "D": "compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares.",
+    "E": "é um órgão do Poder Judiciário da União, criado por lei federal."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 125, §5º. Civis: Justiça comum (Súmula STJ 53); crime doloso contra a vida de civil: júri (§4º); perda da graduação: tribunal competente; Justiça Militar estadual é criada por lei estadual.",
+   "resolucao_md": "**O que a questão pede:** a competência da Justiça Militar estadual.\n\n**Regra rápida:** Juiz de direito do juízo militar julga singularmente crimes militares contra civis e ações contra atos disciplinares; Conselho de Justiça julga os demais.\n\n**Passo a passo:**\n1. A: civil não é julgado por ela.\n2. B: crime doloso contra a vida de civil vai ao júri.\n3. C: perda da graduação das praças é decidida pelo tribunal competente (§4º).\n4. E: é estadual, criada por lei estadual por proposta do TJ.\n\n**Pegadinha:** Confundir Justiça Militar da União com a estadual.\n\n**Macete:** Júri é o fiel da balança para vítima civil e vida."
+  },
+  {
+   "id": "const-b-t3-q06",
+   "topico": "const-b-t3",
+   "dificuldade": 1,
+   "enunciado": "As patentes dos oficiais das Polícias Militares e dos Corpos de Bombeiros Militares são conferidas pelo",
+   "alternativas": {
+    "A": "Presidente da República.",
+    "B": "Comandante-Geral da corporação.",
+    "C": "Secretário de Defesa Social do Estado.",
+    "D": "Presidente da Assembleia Legislativa.",
+    "E": "Governador do respectivo Estado."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 42, §1º: as patentes dos oficiais são conferidas pelos respectivos Governadores.",
+   "resolucao_md": "**O que a questão pede:** quem confere patentes aos oficiais estaduais.\n\n**Regra rápida:** Art. 42, §1º: Governadores.\n\n**Passo a passo:**\n1. No âmbito federal é o Presidente; no estadual é o Governador.\n2. Comandante-Geral e Secretário não conferem patente.\n\n**Macete:** Estadual: Governador."
+  },
+  {
+   "id": "const-b-t3-q07",
+   "topico": "const-b-t3",
+   "dificuldade": 2,
+   "enunciado": "A respeito do regime jurídico dos militares dos Estados, é correto afirmar que",
+   "alternativas": {
+    "A": "cabe à lei estadual específica dispor sobre ingresso, limites de idade, estabilidade, direitos, deveres, remuneração e prerrogativas, nas matérias do art. 142, §3º, X.",
+    "B": "são regidos exclusivamente por lei federal, vedada a legislação estadual.",
+    "C": "integram as Forças Armadas, subordinando-se ao Ministro da Defesa.",
+    "D": "têm direito à sindicalização, desde que sem direito de greve.",
+    "E": "os pensionistas são regidos pelo Estatuto dos Servidores Civis da União."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 42, §1º e §2º: lei estadual específica; pensionistas, lei específica do ente.",
+   "resolucao_md": "**O que a questão pede:** o regime jurídico dos militares estaduais.\n\n**Regra rápida:** Normas gerais: União (art. 22, XXI). Regime próprio: lei estadual específica.\n\n**Passo a passo:**\n1. B: a leitura exclusivamente federal ignora o art. 42, §1º.\n2. C: são forças auxiliares e reserva do Exército, subordinadas ao Governador, não às Forças Armadas.\n3. D: sindicalização é vedada.\n4. E: pensionistas seguem lei específica do ente estatal.\n\n**Macete:** Estadual: lei estadual específica, normas gerais da União."
+  }
+ ]
+}

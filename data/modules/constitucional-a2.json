@@ -1,0 +1,227 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-art5-g1",
+      "titulo": "Art. 5º, grupo 1: igualdade, legalidade e liberdades (pensamento, consciência, expressão, reunião e associação)",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Caput do art. 5º e noções gerais\n\"Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos **brasileiros e aos estrangeiros residentes no País** a inviolabilidade do direito à **vida, à liberdade, à igualdade, à segurança e à propriedade**.\" (mnemônico **V-L-I-S-P**). Os direitos individuais têm **aplicação imediata** (§ 1º). Tratados de direitos humanos aprovados em cada Casa do Congresso, em **dois turnos, por 3/5** dos votos, equivalem a emenda constitucional (§ 3º).\n\n## Igualdade e legalidade\n- **Inciso I:** homens e mulheres são iguais em direitos e obrigações, **nos termos desta Constituição** (a própria CF admite tratamentos diferentes, como a licença-gestante de 120 dias).\n- **Inciso II (legalidade):** \"ninguém será obrigado a fazer ou deixar de fazer alguma coisa **senão em virtude de lei**\". Para o particular, vale o que a lei não proíbe; só lei (em sentido formal) cria obrigação. A Administração Pública, por sua vez, só faz o que a lei autoriza (art. 37).\n- **Inciso III:** ninguém será submetido a **tortura nem a tratamento desumano ou degradante**.\n\n## Liberdades de pensamento e expressão\n| Inciso | Regra |\n|---|---|\n| IV | livre manifestação do pensamento, **vedado o anonimato** |\n| V | **direito de resposta proporcional ao agravo**, além de indenização por dano material, moral ou à imagem |\n| IX | livre expressão da atividade intelectual, artística, científica e de comunicação, **independentemente de censura ou licença** |\n| XIV | acesso à informação garantido a todos; **sigilo da fonte** resguardado quando necessário ao exercício profissional |\n| XIII | livre exercício de qualquer trabalho, ofício ou profissão, **atendidas as qualificações profissionais que a lei estabelecer** |\n\n## Consciência, crença e culto\n- **VI:** inviolável a liberdade de consciência e de crença; assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e suas liturgias.\n- **VII:** assistência religiosa nas entidades civis e militares de **internação coletiva** (hospitais, presídios, quartéis).\n- **VIII (escusa de consciência):** ninguém será privado de direitos por motivo de crença religiosa ou convicção filosófica ou política, **salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa**. Quem faz isso pode perder direitos políticos (art. 15, IV).\n\n## Reunião e associação\n| Dispositivo | Pontos-chave |\n|---|---|\n| XVI (reunião) | **pacífica, sem armas**, em **locais abertos ao público**, **independentemente de autorização**, desde que não frustre outra reunião anteriormente convocada para o mesmo local; exige-se apenas **prévio aviso** à autoridade competente |\n| XVII | plena liberdade de associação para **fins lícitos**; **vedada a de caráter paramilitar** |\n| XVIII | criação de associações e, na forma da lei, de cooperativas **independe de autorização**; vedada a interferência estatal no funcionamento |\n| XIX | associações só podem ser **dissolvidas compulsoriamente ou ter atividades suspensas por decisão judicial**; para **dissolução**, exige-se **trânsito em julgado** |\n| XX | ninguém poderá ser **compelido a associar-se** ou a permanecer associado |\n| XXI | entidades associativas, **quando expressamente autorizadas**, têm legitimidade para representar seus filiados judicial ou extrajudicialmente |\n\n## Macetes\n- **Reunião:** \"PAZ, SEM ARMAS, AVISO\" (pacífica, sem armas, só aviso).\n- **Associação:** lícita, nunca paramilitar; dissolver = juiz + trânsito em julgado; suspender = juiz (sem exigir trânsito).\n- **Representação (XXI):** exige autorização expressa; já o mandado de segurança coletivo (art. 5º, LXX) **dispensa** autorização (Súmula 629 do STF).\n\n## Como a AOCP cobra\nTroca de \"vedado o anonimato\" por \"permitido\", de \"independentemente de autorização\" por \"mediante autorização\", de \"trânsito em julgado\" na suspensão, e de \"estrangeiros residentes\" por \"apenas brasileiros\".",
+      "dicas": [
+        "Caput: V-L-I-S-P (vida, liberdade, igualdade, segurança, propriedade).",
+        "Reunião: pacífica, sem armas, local aberto ao público, sem autorização, com prévio aviso.",
+        "Associação: dissolver = decisão judicial transitada em julgado; suspender = decisão judicial.",
+        "Anonimato: vedado (IV). Resposta: proporcional ao agravo (V).",
+        "XXI (representação por associação) exige autorização expressa; MS coletivo não exige."
+      ],
+      "pegadinhas": [
+        "Dizer que o caput protege só brasileiros, ou \"brasileiros e estrangeiros\" sem a palavra \"residentes\".",
+        "Afirmar que a reunião depende de autorização da autoridade: só se exige prévio aviso.",
+        "Exigir trânsito em julgado também para a suspensão de atividades da associação: só a dissolução o exige.",
+        "Dizer que o anonimato é permitido quando há interesse público: é vedado.",
+        "Dizer que o direito de resposta é \"integral\" ou \"ilimitado\": é proporcional ao agravo.",
+        "Trocar a necessidade de autorização expressa (XXI) por \"independe de autorização\" (essa é a regra do MS coletivo).",
+        "Afirmar que a liberdade de associação admite entidades paramilitares desde que registradas: é vedada."
+      ],
+      "flashcards": [
+        {
+          "q": "Quais direitos o caput do art. 5º declara invioláveis?",
+          "a": "Vida, liberdade, igualdade, segurança e propriedade (V-L-I-S-P)."
+        },
+        {
+          "q": "A quem o caput garante esses direitos?",
+          "a": "Aos brasileiros e aos estrangeiros residentes no País."
+        },
+        {
+          "q": "Qual o fundamento constitucional do princípio da legalidade para o particular?",
+          "a": "Art. 5º, II: ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei."
+        },
+        {
+          "q": "O anonimato é permitido na manifestação do pensamento?",
+          "a": "Não: é vedado (art. 5º, IV)."
+        },
+        {
+          "q": "O direito de resposta é limitado por quê?",
+          "a": "Deve ser proporcional ao agravo, além de indenização por dano material, moral ou à imagem (art. 5º, V)."
+        },
+        {
+          "q": "O que é a escusa de consciência (art. 5º, VIII)?",
+          "a": "Ninguém é privado de direitos por crença, salvo se a invocar para fugir de obrigação legal a todos imposta e recusar prestação alternativa."
+        },
+        {
+          "q": "Requisitos da reunião (art. 5º, XVI)?",
+          "a": "Pacífica, sem armas, em locais abertos ao público, sem autorização, com prévio aviso, sem frustrar outra reunião convocada antes."
+        },
+        {
+          "q": "Associação de caráter paramilitar pode?",
+          "a": "Não: é vedada (art. 5º, XVII)."
+        },
+        {
+          "q": "Criar associação e cooperativa depende de autorização?",
+          "a": "Não: independe de autorização, vedada a interferência estatal no funcionamento (XVIII)."
+        },
+        {
+          "q": "Quem pode dissolver associação compulsoriamente?",
+          "a": "Apenas decisão judicial transitada em julgado; suspender atividades exige só decisão judicial (XIX)."
+        },
+        {
+          "q": "Alguém pode ser obrigado a se associar?",
+          "a": "Não: ninguém pode ser compelido a associar-se ou a permanecer associado (XX)."
+        },
+        {
+          "q": "Como o art. 5º, IX trata a expressão artística e científica?",
+          "a": "É livre, independentemente de censura ou licença."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-art5-g1-q01",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 1,
+      "enunciado": "Nos termos do caput do art. 5º da Constituição Federal, a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade é garantida",
+      "alternativas": {
+        "A": "exclusivamente aos brasileiros natos.",
+        "B": "aos brasileiros natos e naturalizados, vedada a extensão aos estrangeiros.",
+        "C": "aos brasileiros e aos estrangeiros, desde que naturalizados.",
+        "D": "aos brasileiros residentes no País e aos estrangeiros em trânsito, excluídos os estrangeiros residentes.",
+        "E": "aos brasileiros e aos estrangeiros residentes no País."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é o texto literal do caput. Demais: A) a CF inclui brasileiros em geral e estrangeiros residentes. B) os estrangeiros residentes são expressamente contemplados. C) o caput fala em estrangeiros residentes, não em naturalizados. D) inverte o texto: os residentes estão incluídos.",
+      "resolucao_md": "**O que a questão pede**\nCompletar o caput do art. 5º com os destinatários corretos.\n\n**Conceito/Regra rápida**\n**Art. 5º, caput**: \"brasileiros e estrangeiros residentes no País\". A interpretação do STF estende a proteção a estrangeiros não residentes (ex.: turistas), mas a prova cobra o texto.\n\n**Passo a passo**\n1. Lembre a expressão-chave: \"estrangeiros residentes no País\".\n2. Elimine as que excluem estrangeiros.\n3. Elimine a que exige naturalização.\n4. Elimine a que inverte (exclui residentes).\n5. Alternativa E.\n\n**Pegadinha**\nAlternativas \"só brasileiros\" soam patrióticas e atraem quem não leu o caput.\n\n**Macete**\nBrasileiros + estrangeiros RESIDENTES."
+    },
+    {
+      "id": "const-a-art5-g1-q02",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "Uma portaria de órgão administrativo estabelece, sem amparo em lei, a obrigação de os moradores de determinado bairro realizarem cadastro em um sistema da prefeitura, sob pena de multa. À luz da Constituição Federal, é correto afirmar que",
+      "alternativas": {
+        "A": "a portaria viola o princípio da legalidade (art. 5º, II), pois a criação de obrigação ao particular depende de lei.",
+        "B": "a portaria é válida, pois o princípio da legalidade só se aplica ao Poder Legislativo.",
+        "C": "a portaria é válida, pois a Administração pode criar obrigações por ato infralegal sempre que houver interesse público.",
+        "D": "a portaria é nula somente se for editada por autoridade incompetente, sendo irrelevante a ausência de lei.",
+        "E": "a portaria é válida desde que seja posteriormente ratificada por decreto do Chefe do Executivo."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: o art. 5º, II exige lei para obrigar alguém a fazer ou deixar de fazer. Demais: B) a legalidade vincula todos; o particular só se obriga por lei. C) interesse público não substitui a lei como fonte de obrigação. D) a ausência de lei já a torna inválida. E) decreto também é ato infralegal e não supre a exigência de lei.",
+      "resolucao_md": "**O que a questão pede**\nAplicar o princípio da legalidade a um caso concreto.\n\n**Conceito/Regra rápida**\n**Art. 5º, II**: ninguém é obrigado a fazer ou deixar de fazer algo \"senão em virtude de lei\". Ato infralegal (portaria, decreto) só regulamenta o que a lei já previu.\n\n**Passo a passo**\n1. Identifique a obrigação imposta ao particular (cadastro, sob multa).\n2. Pergunte: existe lei prevendo? O enunciado diz que não.\n3. Portaria é ato infralegal e não pode criar obrigação nova.\n4. Logo, há violação ao art. 5º, II: alternativa A.\n\n**Pegadinha**\nO \"interesse público\" é argumento sedutor, mas não dispensa a lei.\n\n**Macete**\nObrigação para o cidadão = lei. Portaria só detalha."
+    },
+    {
+      "id": "const-a-art5-g1-q03",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "Acerca da liberdade de manifestação do pensamento e de expressão, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "O direito de resposta é assegurado de forma proporcional ao agravo, sem prejuízo da indenização por dano material, moral ou à imagem.",
+        "B": "É permitido o anonimato quando a divulgação tiver interesse público relevante.",
+        "C": "A atividade intelectual, artística, científica e de comunicação é livre, independentemente de censura ou licença.",
+        "D": "É resguardado o sigilo da fonte, quando necessário ao exercício profissional.",
+        "E": "É assegurado a todos o acesso à informação."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: o art. 5º, IV, veda o anonimato sem exceção desse tipo. Demais: A) é o texto do art. 5º, V. C) é o art. 5º, IX. D) é o art. 5º, XIV. E) é o art. 5º, XIV.",
+      "resolucao_md": "**O que a questão pede**\nMarcar a alternativa que contém erro (INCORRETA).\n\n**Conceito/Regra rápida**\n**Art. 5º, IV, V, IX e XIV**: manifestação livre, **vedado o anonimato**; resposta proporcional; expressão sem censura/licença; sigilo da fonte.\n\n**Passo a passo**\n1. Leia cada afirmação e compare com os incisos IV, V, IX e XIV.\n2. A de resposta proporcional bate com o inciso V.\n3. A de censura/licença bate com o IX; as de informação e sigilo da fonte batem com o XIV.\n4. A que \"permite o anonimato\" contradiz o IV. Marque B.\n\n**Pegadinha**\nA CF não prevê exceções ao veto ao anonimato.\n\n**Macete**\nPensamento livre, mas com o rosto à mostra."
+    },
+    {
+      "id": "const-a-art5-g1-q04",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "Acerca da liberdade de consciência, de crença e de culto (art. 5º, VI a VIII, da CF/88), analise as afirmativas.\n\nI. É inviolável a liberdade de consciência e de crença, assegurado o livre exercício dos cultos religiosos.\nII. É assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva.\nIII. Ninguém será privado de direitos por motivo de crença religiosa, salvo se a invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa.\nIV. A Constituição proíbe a prestação alternativa, por violar a liberdade de crença.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I e II, apenas.",
+        "B": "II e III, apenas.",
+        "C": "I, II e III, apenas.",
+        "D": "I, III e IV, apenas.",
+        "E": "I, II, III e IV."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: os itens I, II e III reproduzem os incisos VI, VII e VIII. Demais: A) o item III também é verdadeiro (art. 5º, VIII). B) o item I também é verdadeiro (art. 5º, VI). D) o item IV é falso: a CF prevê a prestação alternativa, não a proíbe. E) o item IV é falso.",
+      "resolucao_md": "**O que a questão pede**\nCombinar os itens verdadeiros.\n\n**Conceito/Regra rápida**\n**Art. 5º, VI, VII, VIII.** A escusa de consciência só protege quem aceita cumprir prestação alternativa fixada em lei.\n\n**Passo a passo**\n1. Item I: texto do inciso VI. Verdadeiro.\n2. Item II: texto do inciso VII. Verdadeiro.\n3. Item III: texto do inciso VIII. Verdadeiro.\n4. Item IV: inverte o VIII (a CF prevê a prestação alternativa). Falso.\n5. Combinação: I, II e III, alternativa C.\n\n**Pegadinha**\nNo item III, quem recusa também a prestação alternativa pode perder direitos (e até direitos políticos, art. 15, IV).\n\n**Macete**\nCrença sim; fugir de tudo, não: cumpre-se a prestação alternativa."
+    },
+    {
+      "id": "const-a-art5-g1-q05",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "Um sindicato pretende realizar uma passeata pacífica, sem armas, em uma praça pública, em data em que nenhuma outra reunião foi convocada para o local. Com base no art. 5º, XVI, da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "a reunião depende de autorização prévia da autoridade competente, em razão do uso de espaço público.",
+        "B": "a reunião independe de qualquer comunicação ao poder público, pois a liberdade é absoluta.",
+        "C": "a reunião é permitida com armas, desde que registradas e de uso permitido.",
+        "D": "a reunião independe de autorização, sendo exigido apenas prévio aviso à autoridade competente.",
+        "E": "a reunião só é permitida em local fechado, para evitar tumultos."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: reproduz a parte final do inciso XVI. Demais: A) a CF dispensa autorização. B) exige-se prévio aviso. C) a reunião deve ser sem armas. E) o inciso XVI trata de reunião em locais abertos ao público.",
+      "resolucao_md": "**O que a questão pede**\nAplicar os requisitos da liberdade de reunião.\n\n**Conceito/Regra rápida**\n**Art. 5º, XVI**: pacífica, sem armas, em locais abertos ao público, sem autorização, com prévio aviso; não pode frustrar outra reunião anteriormente convocada.\n\n**Passo a passo**\n1. Checklist: pacífica (sim), sem armas (sim), local aberto (praça, sim), outra reunião no local (não).\n2. Portanto o direito pode ser exercido.\n3. Falta definir o que a autoridade pode exigir: apenas aviso, nunca autorização.\n4. Alternativa D.\n\n**Pegadinha**\n\"Autorização\" é a palavra-armadilha; \"aviso\" é a correta.\n\n**Macete**\nAviso sim, autorização não."
+    },
+    {
+      "id": "const-a-art5-g1-q06",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "No que concerne à liberdade de associação (art. 5º, XVII a XXI, da CF/88), é correto afirmar que",
+      "alternativas": {
+        "A": "a criação de associações e cooperativas depende de autorização do Estado, mas é vedada a interferência em seu funcionamento.",
+        "B": "é plena a liberdade de associação, inclusive para fins paramilitares, desde que registrada a entidade.",
+        "C": "tanto a dissolução quanto a suspensão das atividades exigem decisão judicial transitada em julgado.",
+        "D": "ninguém pode ser compelido a associar-se, salvo quando se tratar de entidade de utilidade pública.",
+        "E": "as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no caso de dissolução, o trânsito em julgado."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é o texto do inciso XIX. Demais: A) a criação independe de autorização (XVIII). B) o caráter paramilitar é vedado (XVII). C) o trânsito em julgado é exigido só para a dissolução. D) o inciso XX não traz exceção.",
+      "resolucao_md": "**O que a questão pede**\nEscolher a afirmação correta sobre associações.\n\n**Conceito/Regra rápida**\n**Art. 5º, XVII-XXI**: fins lícitos, nunca paramilitar; criação sem autorização; dissolução (judicial + trânsito) e suspensão (judicial); ninguém é obrigado a se associar.\n\n**Passo a passo**\n1. Confira XVIII: criar independe de autorização. Elimina a primeira errada.\n2. Confira XVII: paramilitar é vedado. Elimina a segunda.\n3. Confira XIX: trânsito em julgado só na dissolução. Elimina a que o estende à suspensão.\n4. Confira XX: sem exceção. Elimina a de \"utilidade pública\".\n5. Sobra E.\n\n**Pegadinha**\nO detalhe do trânsito em julgado só na dissolução é o mais cobrado.\n\n**Macete**\nDissolver = juiz + trânsito; suspender = só juiz."
+    },
+    {
+      "id": "const-a-art5-g1-q07",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "Uma associação de moradores deseja ajuizar ação em nome de seus associados para discutir tema de interesse da categoria. De acordo com o art. 5º, XXI, da CF/88, as entidades associativas",
+      "alternativas": {
+        "A": "têm legitimidade para representar seus filiados judicial ou extrajudicialmente, quando expressamente autorizadas.",
+        "B": "têm legitimidade para representar seus filiados em qualquer caso, independentemente de autorização.",
+        "C": "só podem representar seus filiados judicialmente, e nunca extrajudicialmente.",
+        "D": "só têm legitimidade se estiverem constituídas há pelo menos um ano, em qualquer hipótese.",
+        "E": "somente podem atuar mediante autorização do Ministério Público."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é a redação do inciso XXI. Demais: B) o inciso exige autorização expressa; a dispensa é do MS coletivo. C) o texto abrange representação judicial ou extrajudicial. D) o requisito de um ano é do mandado de segurança coletivo (art. 5º, LXX, b). E) não há exigência de autorização do MP.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar o requisito de representação por entidade associativa.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXI**: representação de filiados, judicial ou extrajudicial, quando **expressamente autorizadas**.\n\n**Passo a passo**\n1. Palavra-chave: \"expressamente autorizadas\".\n2. Descarte a que dispensa autorização (confunde com MS coletivo).\n3. Descarte a que limita a atuação ao âmbito judicial.\n4. Descarte a do prazo de um ano (outro instituto) e a do MP.\n5. Alternativa A.\n\n**Pegadinha**\nMisturar o inciso XXI com o MS coletivo (art. 5º, LXX) é o erro clássico.\n\n**Macete**\nXXI = autorização expressa; MS coletivo = dispensa."
+    },
+    {
+      "id": "const-a-art5-g1-q08",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 2,
+      "enunciado": "Acerca da igualdade entre homens e mulheres prevista no art. 5º, I, da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "a igualdade é absoluta e impede qualquer diferença de tratamento, inclusive a prevista na própria Constituição.",
+        "B": "a igualdade é assegurada nos termos da própria Constituição, que admite tratamentos diferenciados nela previstos, como a licença-gestante de 120 dias.",
+        "C": "a igualdade aplica-se apenas aos direitos, não às obrigações.",
+        "D": "a igualdade aplica-se apenas às relações de trabalho.",
+        "E": "a igualdade depende de lei complementar para produzir efeitos."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: o inciso I remete aos \"termos desta Constituição\", e a CF prevê diferenças (art. 7º, XVIII). Demais: A) o próprio texto ressalva \"nos termos desta Constituição\". C) o inciso fala em direitos e obrigações. D) o inciso I tem alcance geral. E) os direitos fundamentais têm aplicação imediata (art. 5º, § 1º).",
+      "resolucao_md": "**O que a questão pede**\nEntender o alcance do art. 5º, I.\n\n**Conceito/Regra rápida**\n**Art. 5º, I**: homens e mulheres iguais em direitos e obrigações, \"nos termos desta Constituição\". Diferenças só as autorizadas pelo próprio texto constitucional (ex.: licença-gestante, art. 7º, XVIII).\n\n**Passo a passo**\n1. Marque a ressalva \"nos termos desta Constituição\".\n2. Descarte a \"igualdade absoluta\" (ignora a ressalva).\n3. Descarte a que limita a \"direitos\" e a que limita ao trabalho.\n4. Descarte a que exige lei complementar (aplicação imediata).\n5. Alternativa B.\n\n**Pegadinha**\nAlternativas com \"absoluta\" ou \"apenas\" tendem a ser falsas.\n\n**Macete**\nIgualdade sim, mas \"nos termos da CF\"."
+    },
+    {
+      "id": "const-a-art5-g1-q09",
+      "topico": "const-a-art5-g1",
+      "dificuldade": 3,
+      "enunciado": "Um prefeito, incomodado com reportagens críticas à sua gestão, exige que um jornal submeta previamente suas matérias a uma autoridade municipal para obter licença de publicação. À luz do art. 5º da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "a liberdade de imprensa é absoluta, de modo que não cabe qualquer responsabilização posterior por abusos.",
+        "B": "a exigência é válida, pois a Administração pode condicionar a publicação ao interesse público local.",
+        "C": "a exigência de licença ou censura prévia é inconstitucional (art. 5º, IX), sem prejuízo do direito de resposta e de indenização em caso de abuso.",
+        "D": "a exigência é válida se a matéria for anônima, hipótese em que a censura prévia é admitida.",
+        "E": "a exigência é válida, pois só a censura de atividade científica é vedada."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: o inciso IX veda censura e licença; abusos são tratados a posteriori (V e X). Demais: A) o direito de resposta e a indenização (V e X) existem justamente para os abusos. B) a CF veda censura e licença. D) o anonimato é vedado, mas isso não autoriza censura prévia. E) o inciso IX veda censura em atividades intelectual, artística, científica e de comunicação.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a vedação à censura e à licença prévias.\n\n**Conceito/Regra rápida**\n**Art. 5º, IX**: livre expressão, independentemente de censura ou licença. **Art. 5º, V e X**: resposta proporcional, indenização, e inviolabilidade da honra e imagem (responsabilização depois, não censura antes).\n\n**Passo a passo**\n1. Identifique o ato: licença prévia para publicar. É censura prévia.\n2. O inciso IX proíbe expressamente censura e licença.\n3. Abusos são resolvidos depois, por direito de resposta e indenização.\n4. A única alternativa que combina as duas ideias é a C.\n\n**Pegadinha**\nNão confunda \"livre\" com \"irresponsável\": a liberdade convive com responsabilização posterior.\n\n**Macete**\nSem censura antes, com responsabilização depois."
+    }
+  ]
+}

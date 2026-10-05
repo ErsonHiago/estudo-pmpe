@@ -1,0 +1,107 @@
+{
+  "id": "taf",
+  "titulo": "TAF – Exames de Aptidão Física (Soldado PMPE)",
+  "disciplina": "fisico",
+  "descricao": "Preparação para os Exames de Aptidão Física (item 14 do edital).",
+  "topicos": [
+    {
+      "id": "taf-barra",
+      "titulo": "14.9 e 14.10 – Flexão na barra fixa (dinâmica e isometria)",
+      "prioridade": 1,
+      "horas": 8,
+      "resumo_md": "> **Aviso:** orientação geral; não substitui médico ou educador físico. Cuide de ombros, cotovelos e punhos; progrida devagar.\n\n## Índices\n| Sexo | Modalidade | Índice |\n|---|---|---|\n| Masculino | Dinâmica | mínimo **5 flexões** válidas |\n| Feminino | **Isometria** | mínimo **25 s** |\nTeste do **1º dia**, em **uma única tentativa**.\n\n## Versão masculina (14.9)\n**Posição inicial:** em frente ao examinador, pendurado com **pegada pronada** (palmas para frente), **cotovelos estendidos**, corpo vertical, pernas estendidas, **pés sem contato** com solo ou apoios. Largura da pegada: aproximadamente a dos ombros.\n**Execução:** ao comando *iniciar*, flexionar os cotovelos até o **queixo ultrapassar a parte superior da barra, sem apoiá-lo**, e voltar à **extensão total dos cotovelos**. Isso é 1 repetição.\n**Contagem:** só vale a repetição completa, começando e terminando com cotovelos **totalmente estendidos**. Sem extensão total, **não conta**. O movimento deve ser dinâmico: parar para descansar **encerra** o teste. O fiscal conta em voz alta e, se erro, repete o último número válido. O teste acaba se as mãos perderem o contato com a barra.\n\n**Proibido (14.9.3):** tocar o pé no solo ou apoio; cruzar pernas; flexionar joelhos ou quadril; receber ajuda física; usar luvas; apoiar o queixo na barra; kipping/butterfly (impulso cíclico); impulsionar com pernas ou abdome (pedalada, galeio); estender o pescoço em vez de subir só com os braços; soltar as mãos após passar o queixo sem completar a extensão; usar magnésio, resina ou qualquer produto de aderência.\n\n## Versão feminina: isometria (14.10)\n**Posição inicial:** com suporte/plataforma só para chegar à posição, pendurada com pegada pronada, **braços flexionados, queixo acima da barra sem tocá-la**, corpo vertical. Ao comando *iniciar*, o apoio é retirado e **o cronômetro começa**. Sustentar com os dois braços flexionados, queixo acima, pernas estendidas.\n**Cronometragem encerra** se: atingir o tempo mínimo; o queixo ficar abaixo da barra ou **tocá-la**; flexionar joelhos ou quadril; ou descumprir qualquer exigência. Mesmas proibições de ajuda, luvas, magnésio, impulso e pescoço estendido. **Uma tentativa.**\n\n## Técnica\n1. **Escápulas ativas:** antes de dobrar os braços, puxe os ombros para baixo e para trás (afastando-os das orelhas).\n2. Puxe os **cotovelos para baixo e para trás**, peito em direção à barra, olhar à frente (não estique o pescoço).\n3. Corpo em bloco, glúteos e abdome contraídos, sem balançar.\n4. Descida controlada até a extensão total; respire: solta na subida, inspira na descida.\n\n## Erros comuns\n- Descer só parcialmente (a repetição não conta).\n- Estender o pescoço para o queixo passar.\n- Balançar ou pedalar; dobrar joelhos.\n- Pegada muito aberta (ombros) ou fechada demais.\n\n## Progressões do zero\n| Etapa | Exercício | Meta |\n|---|---|---|\n| 1 | **Suspensão passiva** (pendurar) | 30 a 45 s, fortalece pegada |\n| 2 | **Barra australiana** (remada com o corpo inclinado) | 3x10 |\n| 3 | **Negativas** (subir com apoio e descer em 4 a 6 s) | 3x3 a 5 |\n| 4 | **Isometria** com queixo acima (apoio na plataforma) | 3x10 a 25 s |\n| 5 | **Elástico** de assistência | repetições completas, reduzindo o elástico |\n| 6 | Barra livre | séries de 2 a 3 reps, depois acumular |\nFrequência: 3 sessões semanais, 48 h entre sessões fortes. Para chegar a 5 reps: faça séries submáximas (ex.: 3 reps x 5 séries) e aumente gradualmente. Treine também com pegada exata do edital, em barra sem magnésio.",
+      "dicas": [
+        "Treine sem luvas e sem magnésio: o edital proíbe ambos.",
+        "Comece cada repetição com os cotovelos totalmente estendidos e termine do mesmo jeito.",
+        "Para quem tem isometria: treine tempos de 10, 15, 20 e 30 s para passar dos 25 s com folga.",
+        "Pegada pronada, na largura dos ombros.",
+        "Filme-se de lado e de frente para checar o queixo e a extensão."
+      ],
+      "pegadinhas": [
+        "Contar repetição em que o queixo passou mas os cotovelos não estenderam: não conta.",
+        "Apoiar levemente o queixo na barra para 'garantir': proibido.",
+        "Parar um instante para descansar durante o teste dinâmico: encerra o teste (14.9.2 e).",
+        "Isometria feminina: tocar a barra com o queixo também encerra a cronometragem.",
+        "Há apenas uma tentativa; não existe repetir o teste se falhar."
+      ],
+      "flashcards": [
+        {"q": "Índice masculino da barra?", "a": "Mínimo 5 flexões dinâmicas."},
+        {"q": "Índice feminino da barra?", "a": "Mínimo 25 s em isometria."},
+        {"q": "Tipo de pegada exigida?", "a": "Pronada, na largura aproximada dos ombros."},
+        {"q": "Condição para contar uma repetição?", "a": "Queixo acima da barra sem apoiar e extensão total dos cotovelos."},
+        {"q": "Pode usar magnésio ou luvas?", "a": "Não."},
+        {"q": "O que acontece se parar para descansar no teste dinâmico?", "a": "Teste encerrado."},
+        {"q": "Quantas tentativas na barra?", "a": "Uma."},
+        {"q": "Como a isometria feminina começa?", "a": "Com queixo acima da barra; ao 'iniciar' retira-se o apoio e inicia-se o cronômetro."},
+        {"q": "Kipping é permitido?", "a": "Não; qualquer impulso com pernas ou abdome é proibido."},
+        {"q": "Progressão inicial para quem não faz nenhuma barra?", "a": "Suspensão, barra australiana, negativas, isometria e elásticos."}
+      ]
+    },
+    {
+      "id": "taf-salto",
+      "titulo": "14.11 – Salto em distância",
+      "prioridade": 1,
+      "horas": 5,
+      "resumo_md": "> **Aviso:** orientação geral; não substitui médico ou educador físico. Cuide de tornozelos, joelhos e posteriores de coxa.\n\n## Índices e tentativas\n| Sexo | Índice mínimo |\n|---|---|\n| Masculino | **3,60 m** |\n| Feminino | **2,80 m** |\nTeste do **1º dia**, ambos os sexos. Até **3 tentativas**; ao atingir o índice, **não precisa** fazer as demais.\n\n## Regras do edital (14.11)\n- **Posição inicial:** em pé, no ponto de partida da corrida de aproximação que o próprio candidato escolhe.\n- **Execução:** corrida de aproximação, **impulsão com apenas uma perna** antes da tábua ou marca de impulsão, voo e aterrissagem. A medida considera a **parte do corpo que tocar a área de teste mais próxima do ponto de início da marcação**.\n- O teste é feito em **caixa de salto similar à olímpica** (de areia).\n- Só é oficial a **medida da banca**.\n- **Proibido:** ajuda física; equipamento ou material de auxílio à impulsão; impulsão com as duas pernas; **tocar na tábua ou marca de impulsão (salto queimado)**; após a aterrissagem, **projetar o corpo para trás** da linha do índice.\n\n## Técnica\n1. **Aproximação:** 8 a 12 passadas em aceleração progressiva, mantendo a mesma marca de partida em todas as tentativas. Teste e ajuste a distância para o último passo cair antes da tábua.\n2. **Impulsão:** última passada ligeiramente mais curta; perna de impulsão forte, braços e joelho contrário sobem juntos.\n3. **Voo:** tronco levemente inclinado, joelhos flexionados à frente.\n4. **Aterrissagem:** pernas à frente, pés juntos; **inclinar o tronco para frente** ao tocar, para o corpo não cair para trás, e deixar o quadril cair adiante dos calcanhares.\n\n## Como converter em treino\n| Meta | Estratégia |\n|---|---|\n| Velocidade na aproximação | Corridas de 20 a 30 m em progressão, 6 a 8x |\n| Potência de perna | Agachamento com peso corporal, avanço, saltos em degrau, saltos verticais |\n| Salto horizontal | 6 a 10 saltos por sessão com descanso longo, 2x semana |\n| Aterrissagem | Treinar a queda para frente na caixa de areia |\n| Mobilidade | Tornozelos e flexores de quadril |\n\n## Exemplos de metas\nMasculino 3,60 m: treine até saltar **3,70 a 3,80 m** em treino para ter folga. Feminino 2,80 m: **2,90 a 3,00 m**. Marque o chão com fita e meça.\n\n## Erros comuns\n- Pisar na tábua (queimar) por empolgação na última passada.\n- Cair para trás, com a mão ou o glúteo marcando a areia atrás da pegada.\n- Aproximação curta ou lenta: a velocidade é metade do resultado.\n- Impulsão com os dois pés (corrida parada).",
+      "dicas": [
+        "Marque a distância da aproximação com fita e repita sempre igual.",
+        "Se atingir o índice na 1ª tentativa, o teste acaba: caprichar nela.",
+        "Aterrisse com o tronco para frente; o rastro mais próximo da partida é o que vale.",
+        "Treine em caixa de areia para ensaiar o contato da queda.",
+        "Foque em velocidade: sprints curtos melhoram o salto."
+      ],
+      "pegadinhas": [
+        "A medida vai até o ponto que o calcanhar tocou: FALSO. É a parte do corpo mais próxima do início, incluindo mão ou glúteo.",
+        "Impulsão com os dois pés é permitida no salto em distância com corrida: FALSO; é com uma perna.",
+        "Obrigatório fazer as 3 tentativas: FALSO. Atingiu o índice, parou.",
+        "Tocar a tábua de impulsão sem consequências: FALSO; é salto queimado.",
+        "Usar tênis de pregos ou bloco de partida: proibido (14.20)."
+      ],
+      "flashcards": [
+        {"q": "Índice masculino do salto?", "a": "3,60 m."},
+        {"q": "Índice feminino do salto?", "a": "2,80 m."},
+        {"q": "Número de tentativas no salto?", "a": "Até 3; para ao atingir o índice."},
+        {"q": "Impulsão com quantas pernas?", "a": "Apenas uma."},
+        {"q": "O que é salto queimado?", "a": "Tocar a tábua ou marca de impulsão."},
+        {"q": "Onde se mede o salto?", "a": "Na parte do corpo que toca a área mais próxima do ponto de partida."},
+        {"q": "Onde é feito o teste?", "a": "Caixa de salto similar à olímpica."},
+        {"q": "Quem mede oficialmente?", "a": "Apenas a banca examinadora."},
+        {"q": "Por que não projetar o corpo para trás da linha?", "a": "É proibido após a aterrissagem; invalida o salto."}
+      ]
+    },
+    {
+      "id": "taf-natacao",
+      "titulo": "14.14 – Natação 50 m",
+      "prioridade": 1,
+      "horas": 12,
+      "resumo_md": "> **Aviso:** orientação geral; não substitui médico ou educador físico. **Nunca treine natação sozinho**: use piscina com salva-vidas ou instrutor. Quem não sabe nadar deve começar com aulas.\n\n## Índices\n| Sexo | Máximo |\n|---|---|\n| Masculino | **1min00s** (média 30 s por 25 m) |\n| Feminino | **1min10s** (média 35 s por 25 m) |\nTeste do **1º dia**, **uma tentativa**, piscina de 25 m (com 1 virada) ou 50 m (sem virada).\n\n## Regras do edital (14.14)\n- **Largada:** ao *em posição*, dentro da piscina, ao menos uma das mãos na borda/parede de largada; pode ficar com pés e mãos na parede interna até o comando. Ao sinal, iniciar imediatamente; pode impulsionar-se na largada.\n- **Nado livre (qualquer estilo)** por 50 m.\n- **Virada (25 m):** tocar a **parede interna** com qualquer parte do corpo, virar e seguir. **Não é permitido** apoiar-se, segurar-se ou usar a **borda superior** para descanso, sustentação ou ajuda.\n- **Chegada:** quando tocar a borda com qualquer parte do corpo; trava o cronômetro.\n- **Proibido:** apoiar-se ou impulsionar-se na borda lateral, parede lateral ou raia; parar de nadar (exceto na chegada); ajuda física; acessórios (só **touca e óculos**); **tocar ou impulsionar com os pés no fundo**.\n- **Trajes:** masculino sunga ou sungão; feminino maiô. Proibido biquíni, sunquíni, macaquinho, roupa térmica, bermuda, short, camiseta.\n\n## Técnica do crawl\n| Elemento | Como fazer |\n|---|---|\n| Posição do corpo | Horizontal, cabeça alinhada, olhar para o fundo |\n| Braçada | Entrada da mão na linha do ombro, puxada com cotovelo alto, empurrão até a coxa, recuperação relaxada |\n| Pernada | Batimento contínuo, partindo do quadril, joelhos quase estendidos, pés relaxados; 2 a 6 batidas por ciclo |\n| Respiração | Rotação do corpo, boca fora d'água de lado; expirar pelo nariz/boca dentro d'água; inspirar a cada 2 ou 3 braçadas |\n\n## Como nadar 50 m do zero\n1. **Adaptação:** respirar na água, expirar com o rosto submerso, flutuar (ventral e dorsal).\n2. **Pernada com prancha:** 4x25 m com descanso de 30 s.\n3. **Respiração lateral** com prancha, depois com uma mão à frente (nado 6 batidas).\n4. **Crawl completo:** 25 m sem parar, depois 2x25 com pouco descanso.\n5. **50 m contínuos** em ritmo confortável; só depois reduzir o tempo.\nMeta de ritmo: masculino 30 s por 25 m; feminino 35 s por 25 m.\n\n## Treinos para tempo\n| Treino | Exemplo |\n|---|---|\n| Tiros | 8x25 m no ritmo-alvo com 30 s de descanso |\n| Resistência | 4x50 m com 45 a 60 s de descanso |\n| Virada | Treine tocar a parede, girar e empurrar |\n| Simulado | 50 m cronometrado a cada 2 semanas |\n\nErros comuns: cabeça levantada (quadril afunda), pernada só dos joelhos, braçada curta, prender o ar demais. Treine **2 a 3 vezes por semana**; muitos candidatos precisam de 3 a 6 meses de aulas.",
+      "dicas": [
+        "Faça aulas com instrutor cedo; natação é a prova que mais exige tempo de aprendizado.",
+        "Treine o toque na parede e a virada, que não pode usar a borda superior.",
+        "Use apenas touca e óculos nos treinos simulados.",
+        "Mantenha cabeça alinhada e olhe para o fundo.",
+        "Prefira ritmo constante: arrancar e parar elimina o teste."
+      ],
+      "pegadinhas": [
+        "Pode parar para respirar apoiado na raia: FALSO (14.14.3).",
+        "Tocar o fundo da piscina com os pés é tolerado: FALSO, é proibido.",
+        "Usar a borda superior na virada: proibido; toca-se a parede interna.",
+        "Qualquer maiô ou biquíni serve: FALSO. Feminino: maiô; biquíni e macaquinho são vedados.",
+        "Natação é testada em nado específico (crawl): FALSO. É nado livre, qualquer estilo."
+      ],
+      "flashcards": [
+        {"q": "Tempo máximo masculino na natação?", "a": "1min00s."},
+        {"q": "Tempo máximo feminino na natação?", "a": "1min10s."},
+        {"q": "Quantas tentativas na natação?", "a": "Uma."},
+        {"q": "Que nado é exigido?", "a": "Nado livre, qualquer estilo."},
+        {"q": "Acessórios permitidos?", "a": "Somente touca e óculos de natação."},
+        {"q": "Traje masculino?", "a": "Sunga ou sungão."},
+        {"q": "Traje feminino?", "a": "Maiô."},
+        {"q": "Na virada em piscina de 25 m, o que tocar?", "a": "A parede interna, com qualquer parte do corpo."},
+        {"q": "Posso tocar o fundo com os pés?", "a": "Não."},
+        {"q": "Ritmo por 25 m para o índice masculino?", "a": "Cerca de 30 s."}
+      ]
+    }
+  ],
+  "questoes": []
+}

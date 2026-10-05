@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q101",
+   "topico": "historia-pe-cultura-popular",
+   "dificuldade": 2,
+   "enunciado": "O Galo da Madrugada, criado em 1978,",
+   "alternativas": {
+    "A": "é o maior bloco carnavalesco do mundo, no Recife.",
+    "B": "é um maracatu rural.",
+    "C": "é uma dança de roda de Itamaracá.",
+    "D": "é um auto natalino.",
+    "E": "é um grupo de caboclinhos."
+   },
+   "gabarito": "A",
+   "explicacao": "Maior bloco do mundo.",
+   "resolucao_md": "**O que a questão pede**\nAssociar.\n\n**Conceito/Regra rápida**\nGalo da Madrugada = frevo/carnaval.\n\n**Passo a passo**\n1. Ligue ao carnaval.\n2. Elimine as demais.\n\n**Pegadinha**\nConfundir com maracatu.\n\n**Macete**\nGalo = bloco.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q102",
+   "topico": "historia-pe-cultura-popular",
+   "dificuldade": 2,
+   "enunciado": "A ciranda, dança de roda, é associada a",
+   "alternativas": {
+    "A": "Palmares e Zumbi.",
+    "B": "Itamaracá e à cirandeira Lia de Itamaracá.",
+    "C": "Caruaru e o frevo.",
+    "D": "Olinda e o maracatu rural.",
+    "E": "Serra Talhada e o cangaço."
+   },
+   "gabarito": "B",
+   "explicacao": "Itamaracá.",
+   "resolucao_md": "**O que a questão pede**\nAssociar.\n\n**Conceito/Regra rápida**\nCiranda = Itamaracá = Lia.\n\n**Passo a passo**\n1. Ciranda → roda → Itamaracá.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar com coco.\n\n**Macete**\nCiranda = Lia.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q103",
+   "topico": "historia-pe-cultura-popular",
+   "dificuldade": 3,
+   "enunciado": "Sobre as manifestações populares pernambucanas, analise as afirmativas.\n\nI. Os caboclinhos são uma dança de origem indígena, com flechas e cocares.\nII. O cavalo-marinho é folguedo da Zona da Mata Norte.\nIII. O coco é um auto natalino com pastoras.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I.",
+    "B": "Apenas II.",
+    "C": "Apenas I e II.",
+    "D": "Apenas III.",
+    "E": "Apenas I e III."
+   },
+   "gabarito": "C",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar.\n\n**Conceito/Regra rápida**\n**Pastoril** = auto natalino; **coco** = dança de roda e tamancos.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado.\n3. Resposta: I e II.\n\n**Pegadinha**\nTrocar coco e pastoril.\n\n**Macete**\nPastoril = Natal.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q104",
+   "topico": "historia-pe-cultura-popular",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "O frevo nasceu no Recife, a partir das bandas militares.",
+    "B": "O frevo-canção e o frevo de rua são tipos de frevo.",
+    "C": "A calunga é a boneca sagrada do maracatu-nação.",
+    "D": "O maracatu rural, de baque virado, é do Recife e usa calunga.",
+    "E": "As alfaias são tambores do maracatu."
+   },
+   "gabarito": "D",
+   "explicacao": "A incorreta é D.",
+   "resolucao_md": "**O que a questão pede**\nAchar o erro.\n\n**Conceito/Regra rápida**\nRural = baque solto.\n\n**Passo a passo**\n1. Troca de nação e rural.\n2. D é incorreta.\n\n**Pegadinha**\nTrocar as características.\n\n**Macete**\nRural = baque solto.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q105",
+   "topico": "historia-pe-afro",
+   "dificuldade": 2,
+   "enunciado": "O Catucá, na Mata do Catucá, norte do Recife,",
+   "alternativas": {
+    "A": "foi quilombo do século XVII, chefiado por Ganga Zumba.",
+    "B": "foi engenho de Nassau.",
+    "C": "foi terreiro de Pai Adão.",
+    "D": "foi arraial de Matias de Albuquerque.",
+    "E": "foi quilombo do século XIX ligado ao Malunguinho."
+   },
+   "gabarito": "E",
+   "explicacao": "Século XIX.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o quilombo.\n\n**Conceito/Regra rápida**\nCatucá = século XIX; Palmares = século XVII.\n\n**Passo a passo**\n1. Século XIX.\n2. Elimine as demais.\n\n**Pegadinha**\nConfundir com Palmares.\n\n**Macete**\nCatucá = Malunguinho.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q106",
+   "topico": "historia-pe-afro",
+   "dificuldade": 2,
+   "enunciado": "O Sítio de Pai Adão, no Recife, é",
+   "alternativas": {
+    "A": "um terreiro histórico do Xangô do Recife (Nação Nagô).",
+    "B": "um quilombo remanescente do Sertão.",
+    "C": "um bloco carnavalesco.",
+    "D": "um forte holandês.",
+    "E": "uma igreja jesuíta."
+   },
+   "gabarito": "A",
+   "explicacao": "Terreiro.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o terreiro.\n\n**Conceito/Regra rápida**\nXangô do Recife = candomblé nagô.\n\n**Passo a passo**\n1. Pai Adão = terreiro.\n2. Elimine as demais.\n\n**Pegadinha**\nConfundir com quilombo.\n\n**Macete**\nPai Adão = Xangô.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q107",
+   "topico": "historia-pe-afro",
+   "dificuldade": 2,
+   "enunciado": "Joaquim Nabuco, recifense, foi autor de",
+   "alternativas": {
+    "A": "«Casa-Grande & Senzala» (1933).",
+    "B": "«O Abolicionismo» (1883), figura central da campanha abolicionista.",
+    "C": "«Manifesto ao Mundo» (1849).",
+    "D": "«Typhis Pernambucano» (1824).",
+    "E": "«Os Sertões» (1902)."
+   },
+   "gabarito": "B",
+   "explicacao": "O Abolicionismo.",
+   "resolucao_md": "**O que a questão pede**\nAssociar autor e obra.\n\n**Conceito/Regra rápida**\nNabuco = Abolicionismo. Freyre = Casa-Grande.\n\n**Passo a passo**\n1. Obra → autor.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar Nabuco e Freyre.\n\n**Macete**\nNabuco = abolição.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q108",
+   "topico": "historia-pe-afro",
+   "dificuldade": 3,
+   "enunciado": "Sobre aspectos afro-brasileiros em Pernambuco, analise as afirmativas.\n\nI. A Jurema sagrada mistura elementos indígenas, africanos e católicos.\nII. A Noite dos Tambores Silenciosos homenageia escravizados mortos.\nIII. Conceição das Crioulas é quilombo remanescente da Zona da Mata.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas III.",
+    "B": "Apenas I e III.",
+    "C": "Apenas I e II.",
+    "D": "Apenas II e III.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar.\n\n**Conceito/Regra rápida**\nConceição das Crioulas fica em **Salgueiro**, no **Sertão**.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado.\n3. Resposta: I e II.\n\n**Pegadinha**\nTrocar a mesorregião.\n\n**Macete**\nCrioulas = Sertão.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q109",
+   "topico": "historia-pe-linha-tempo",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta a sequência correta: 1) Insurreição Pernambucana; 2) Guerra dos Mascates; 3) Conspiração dos Suassunas; 4) Revolução de 1817.",
+   "alternativas": {
+    "A": "2, 1, 3, 4.",
+    "B": "1, 3, 2, 4.",
+    "C": "3, 1, 2, 4.",
+    "D": "1, 2, 3, 4.",
+    "E": "4, 3, 2, 1."
+   },
+   "gabarito": "D",
+   "explicacao": "1, 2, 3, 4.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar.\n\n**Conceito/Regra rápida**\n**1645 → 1710 → 1801 → 1817**.\n\n**Passo a passo**\n1. Datas dos quatro.\n2. Só a primeira respeita.\n\n**Pegadinha**\nTrocar 1801 e 1710.\n\n**Macete**\n45, 710, 801, 817.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q110",
+   "topico": "historia-pe-linha-tempo",
+   "dificuldade": 2,
+   "enunciado": "A sequência de «inimigos» dos movimentos pernambucanos é",
+   "alternativas": {
+    "A": "holandeses, indígenas, Império, Coroa, mascates, conservadores.",
+    "B": "Coroa, Império, holandeses, mascates, conservadores, indígenas.",
+    "C": "conservadores, mascates, holandeses, Coroa, Império, indígenas.",
+    "D": "Império, Coroa, mascates, holandeses, indígenas, conservadores.",
+    "E": "indígenas e franceses, holandeses, portugueses locais (mascates), Coroa portuguesa, Império e conservadores."
+   },
+   "gabarito": "E",
+   "explicacao": "Sequência da letra E.",
+   "resolucao_md": "**O que a questão pede**\nMemorizar a sequência.\n\n**Conceito/Regra rápida**\n1500s → 1630-54 → 1710 → 1817 → 1824 → 1848.\n\n**Passo a passo**\n1. Ordem cronológica.\n2. Só uma respeita.\n\n**Pegadinha**\nTrocar a ordem.\n\n**Macete**\nÍndios → holandeses → mascates → Coroa → Império → conservadores.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

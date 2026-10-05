@@ -1,0 +1,226 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-principios",
+      "titulo": "Princípios Fundamentais (CF, arts. 1º a 4º)",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## Visão geral\nOs **arts. 1º a 4º** formam o Título I da CF/88, \"Dos Princípios Fundamentais\". São os artigos mais cobrados em concurso porque a banca troca uma palavra e transforma o texto verdadeiro em falso. Estude cada um quase como um poema decorado.\n\n## Art. 1º – a República e seus fundamentos\nA **República Federativa do Brasil** é formada pela **união indissolúvel dos Estados e Municípios e do Distrito Federal** e constitui-se em **Estado Democrático de Direito**. Repare: o texto do art. 1º **não cita a União** como componente (ela aparece no art. 18). \"Indissolúvel\" significa que não existe direito de secessão (um Estado não pode \"sair\" do Brasil).\n\nOs **fundamentos** (alicerces) são cinco, e o mnemônico é **SO-CI-DI-VA-PO**:\n- **So**berania;\n- **Ci**dadania;\n- **Di**gnidade da pessoa humana;\n- **Va**lores sociais do trabalho e da livre iniciativa;\n- pluralismo **po**lítico (é \"político\", e não \"partidário\").\n\n**Parágrafo único:** \"Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.\" É a democracia **semidireta** (representativa + instrumentos de participação direta, como plebiscito, referendo e iniciativa popular, art. 14).\n\n## Art. 2º – separação dos Poderes\n\"São Poderes da União, **independentes e harmônicos entre si**, o Legislativo, o Executivo e o Judiciário.\" O Ministério Público e os Tribunais de Contas **não** são \"Poderes\". Existe um sistema de **freios e contrapesos** (um Poder controla o outro), mas não hierarquia entre eles.\n\n## Art. 3º – objetivos fundamentais\nSão metas a alcançar, e todos começam por verbo no infinitivo. Mnemônico **CO-GA-ER-PRO**:\n| Inciso | Verbo | Objetivo |\n|---|---|---|\n| I | **Co**nstruir | sociedade **livre, justa e solidária** |\n| II | **Ga**rantir | o desenvolvimento nacional |\n| III | **Er**radicar | pobreza e marginalização; **reduzir** desigualdades sociais e regionais |\n| IV | **Pro**mover | o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação |\n\nAtenção: \"erradicar a pobreza\" **e a marginalização** (erradicam-se as duas), mas **reduzem-se** as desigualdades (não se erradicam).\n\n## Art. 4º – princípios das relações internacionais\nO Brasil rege-se por **dez princípios**. Mnemônico das iniciais: **I-P-A-N-I-D-S-R-C-A** (\"Independência, Prevalência, Autodeterminação, Não-intervenção, Igualdade, Defesa da paz, Solução pacífica, Repúdio, Cooperação, Asilo\"):\n| Inciso | Princípio |\n|---|---|\n| I | **I**ndependência nacional |\n| II | **P**revalência dos direitos humanos |\n| III | **A**utodeterminação dos povos |\n| IV | **N**ão-intervenção |\n| V | **I**gualdade entre os Estados |\n| VI | **D**efesa da paz |\n| VII | **S**olução pacífica dos conflitos |\n| VIII | **R**epúdio ao terrorismo e ao racismo |\n| IX | **C**ooperação entre os povos para o progresso da humanidade |\n| X | concessão de **A**silo político |\n\n**Parágrafo único:** o Brasil buscará a integração **econômica, política, social e cultural** dos povos da **América Latina**, visando à formação de uma **comunidade latino-americana de nações**. É um objetivo a buscar, não uma obrigação de entrar em bloco específico.\n\n## Como a AOCP cobra\n1. Lista de itens misturando fundamentos (art. 1º), objetivos (art. 3º) e princípios internacionais (art. 4º) para você identificar o intruso.\n2. Troca de palavra: \"pluralismo partidário\", \"sociedade igualitária\", \"intervenção humanitária\".\n3. Itens com \"independentes e subordinados\", \"Poder Moderador\", \"Ministério Público como Poder\".",
+      "dicas": [
+        "Fundamentos = SO-CI-DI-VA-PO (soberania, cidadania, dignidade, valores sociais do trabalho e livre iniciativa, pluralismo político).",
+        "Objetivos = CO-GA-ER-PRO: Construir, Garantir, Erradicar (e reduzir), Promover.",
+        "Art. 4º tem 10 incisos; decore a sequência I-P-A-N-I-D-S-R-C-A.",
+        "Pergunte sempre: é fundamento (art. 1º), objetivo (art. 3º) ou princípio internacional (art. 4º)? A banca mistura os três.",
+        "Se aparecer \"partidário\", \"igualitária\" ou \"intervenção\", desconfie: o texto fala em pluralismo político, sociedade livre, justa e solidária e não-intervenção."
+      ],
+      "pegadinhas": [
+        "Trocar \"pluralismo político\" por \"pluralismo partidário\": o fundamento é o político, mais amplo.",
+        "Colocar \"erradicação da pobreza\" ou \"garantia do desenvolvimento nacional\" como fundamentos: são OBJETIVOS (art. 3º).",
+        "Colocar \"independência nacional\", \"defesa da paz\" ou \"prevalência dos direitos humanos\" como objetivos ou fundamentos: são princípios das relações internacionais (art. 4º).",
+        "Dizer que o Ministério Público ou o Tribunal de Contas é um Poder: o art. 2º só prevê Legislativo, Executivo e Judiciário.",
+        "Dizer que a sociedade a construir é \"livre, justa e igualitária\": o texto diz \"livre, justa e solidária\".",
+        "Afirmar que a União integra a lista do art. 1º: o art. 1º fala em Estados, Municípios e Distrito Federal."
+      ],
+      "flashcards": [
+        {
+          "q": "Quais são os 5 fundamentos da República (art. 1º)?",
+          "a": "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político."
+        },
+        {
+          "q": "Mnemônico dos fundamentos?",
+          "a": "SO-CI-DI-VA-PO."
+        },
+        {
+          "q": "Como o art. 1º define a República Federativa do Brasil?",
+          "a": "União indissolúvel de Estados, Municípios e Distrito Federal; Estado Democrático de Direito."
+        },
+        {
+          "q": "Qual o parágrafo único do art. 1º?",
+          "a": "Todo o poder emana do povo, que o exerce por representantes eleitos ou diretamente."
+        },
+        {
+          "q": "Quais os Poderes do art. 2º e como se relacionam?",
+          "a": "Legislativo, Executivo e Judiciário; independentes e harmônicos entre si."
+        },
+        {
+          "q": "Quais os 4 objetivos fundamentais (art. 3º)?",
+          "a": "Construir sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar pobreza e marginalização e reduzir desigualdades; promover o bem de todos sem preconceitos."
+        },
+        {
+          "q": "Mnemônico dos objetivos?",
+          "a": "CO-GA-ER-PRO (Construir, Garantir, Erradicar, Promover)."
+        },
+        {
+          "q": "O que se erradica e o que se reduz no art. 3º, III?",
+          "a": "Erradicam-se pobreza e marginalização; reduzem-se desigualdades sociais e regionais."
+        },
+        {
+          "q": "Quantos princípios o art. 4º traz e qual o inciso II?",
+          "a": "Dez princípios; inciso II = prevalência dos direitos humanos."
+        },
+        {
+          "q": "Qual princípio do art. 4º trata do asilo?",
+          "a": "Inciso X: concessão de asilo político."
+        },
+        {
+          "q": "O que busca o parágrafo único do art. 4º?",
+          "a": "Integração econômica, política, social e cultural dos povos da América Latina, visando a uma comunidade latino-americana de nações."
+        },
+        {
+          "q": "Autodeterminação dos povos e não-intervenção: em que artigo?",
+          "a": "Art. 4º, incisos III e IV."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-principios-q01",
+      "topico": "const-a-principios",
+      "dificuldade": 1,
+      "enunciado": "Segundo o art. 1º da Constituição Federal de 1988, são fundamentos da República Federativa do Brasil:",
+      "alternativas": {
+        "A": "a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político.",
+        "B": "a soberania, a cidadania, a dignidade da pessoa humana, a erradicação da pobreza e o pluralismo político.",
+        "C": "a independência nacional, a cidadania, a dignidade da pessoa humana, a livre iniciativa e o pluralismo político.",
+        "D": "a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo partidário.",
+        "E": "a separação dos Poderes, a soberania, a cidadania, a dignidade da pessoa humana e o pluralismo político."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: reproduz literalmente os cinco incisos do art. 1º. Demais: B) erradicar a pobreza é objetivo (art. 3º, III), não fundamento. C) independência nacional é princípio das relações internacionais (art. 4º, I). D) o fundamento é pluralismo \"político\", não \"partidário\". E) a separação dos Poderes está no art. 2º; não é um dos cinco fundamentos.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar a lista exata de fundamentos do art. 1º.\n\n**Conceito/Regra rápida**\n**Art. 1º, I a V**: soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político (SO-CI-DI-VA-PO).\n\n**Passo a passo**\n1. Escreva mentalmente SO-CI-DI-VA-PO e confira cada alternativa.\n2. Elimine a que traz \"erradicação da pobreza\" (objetivo, art. 3º).\n3. Elimine a que traz \"independência nacional\" (princípio internacional, art. 4º).\n4. Elimine a que traz \"pluralismo partidário\" (troca de palavra) e a que traz \"separação dos Poderes\" (art. 2º).\n5. Resta a alternativa A, com os cinco incisos corretos.\n\n**Pegadinha**\nA banca mistura itens de artigos vizinhos (1º, 2º, 3º e 4º) e troca \"político\" por \"partidário\".\n\n**Macete**\nSO-CI-DI-VA-PO: se faltar ou sobrar uma sílaba, está errada."
+    },
+    {
+      "id": "const-a-principios-q02",
+      "topico": "const-a-principios",
+      "dificuldade": 1,
+      "enunciado": "Assinale a alternativa que NÃO apresenta um objetivo fundamental da República Federativa do Brasil, nos termos do art. 3º da CF/88.",
+      "alternativas": {
+        "A": "Construir uma sociedade livre, justa e solidária.",
+        "B": "Defender a paz.",
+        "C": "Garantir o desenvolvimento nacional.",
+        "D": "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+        "E": "Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: a defesa da paz é princípio das relações internacionais (art. 4º, VI), não objetivo do art. 3º. Demais: A) é o art. 3º, I. C) é o art. 3º, II. D) é o art. 3º, III. E) é o art. 3º, IV.",
+      "resolucao_md": "**O que a questão pede**\nAchar o intruso: o item que NÃO é objetivo do art. 3º.\n\n**Conceito/Regra rápida**\n**Art. 3º**: Construir, Garantir, Erradicar/Reduzir, Promover (CO-GA-ER-PRO). Qualquer coisa fora desses quatro incisos não é objetivo fundamental.\n\n**Passo a passo**\n1. Leia o enunciado: pede o que NÃO é objetivo (cuidado com a negação).\n2. Reconheça os quatro verbos do mnemônico: construir, garantir, erradicar, promover.\n3. Quatro alternativas começam por esses verbos e batem com os incisos.\n4. A alternativa B usa \"defender\" e trata de paz: é o art. 4º, VI.\n\n**Pegadinha**\nEm questões \"EXCETO/NÃO\", marque o item falso; o aluno apressado marca o primeiro verdadeiro que encontra.\n\n**Macete**\nObjetivo = verbo de transformar a sociedade (construir, garantir, erradicar, promover); relação com outros países = art. 4º."
+    },
+    {
+      "id": "const-a-principios-q03",
+      "topico": "const-a-principios",
+      "dificuldade": 2,
+      "enunciado": "Acerca dos princípios que regem o Brasil nas relações internacionais (art. 4º da CF/88), analise as afirmativas.\n\nI. Prevalência dos direitos humanos.\nII. Concessão de asilo político.\nIII. Repúdio ao terrorismo e ao racismo.\nIV. Intervenção humanitária em Estados que violem direitos humanos.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I e II, apenas.",
+        "B": "II e IV, apenas.",
+        "C": "I, II e III, apenas.",
+        "D": "I, III e IV, apenas.",
+        "E": "I, II, III e IV."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: os itens I, II e III constam respectivamente nos incisos II, X e VIII do art. 4º. Demais: A) omite o item III, que também é princípio (art. 4º, VIII). B) o item IV contraria o princípio da não-intervenção (art. 4º, IV). D) inclui o item IV, falso. E) o item IV é falso: a CF consagra a não-intervenção.",
+      "resolucao_md": "**O que a questão pede**\nMarcar a combinação de itens verdadeiros sobre o art. 4º.\n\n**Conceito/Regra rápida**\n**Art. 4º**: I independência; II prevalência dos DH; III autodeterminação; IV **não-intervenção**; V igualdade; VI defesa da paz; VII solução pacífica; VIII repúdio ao terrorismo e racismo; IX cooperação; X asilo político.\n\n**Passo a passo**\n1. Item I: bate com o inciso II. Verdadeiro.\n2. Item II: bate com o inciso X. Verdadeiro.\n3. Item III: bate com o inciso VIII. Verdadeiro.\n4. Item IV: \"intervenção\" contradiz o inciso IV (não-intervenção). Falso.\n5. Combine: só I, II e III, alternativa C.\n\n**Pegadinha**\nA palavra \"humanitária\" dá ar de coisa boa, mas a CF só prevê não-intervenção.\n\n**Macete**\nNo art. 4º a palavra-chave é NÃO-intervenção; nada de \"intervir\"."
+    },
+    {
+      "id": "const-a-principios-q04",
+      "topico": "const-a-principios",
+      "dificuldade": 1,
+      "enunciado": "Acerca da separação dos Poderes na Constituição Federal de 1988, é correto afirmar que",
+      "alternativas": {
+        "A": "são Poderes da República o Legislativo, o Executivo, o Judiciário e o Ministério Público.",
+        "B": "os Poderes são independentes entre si, mas o Judiciário é hierarquicamente superior aos demais.",
+        "C": "existe um quarto Poder, o Moderador, exercido pelo Presidente da República.",
+        "D": "são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+        "E": "são independentes entre si, sendo vedada qualquer forma de controle recíproco."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: reproduz o art. 2º. Demais: A) o Ministério Público não é Poder; o art. 2º prevê só três. B) não há hierarquia entre os Poderes. C) o Poder Moderador existiu na Constituição de 1824, não na de 1988. E) existe sistema de freios e contrapesos, ou seja, controle recíproco.",
+      "resolucao_md": "**O que a questão pede**\nEscolher a afirmação correta sobre o art. 2º.\n\n**Conceito/Regra rápida**\n**Art. 2º**: \"São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.\"\n\n**Passo a passo**\n1. Fixe os três Poderes e o par \"independentes e harmônicos\".\n2. Descarte a alternativa com Ministério Público como quarto Poder.\n3. Descarte \"hierarquicamente superior\" (independência exclui hierarquia).\n4. Descarte \"Poder Moderador\" (Constituição do Império).\n5. Descarte \"vedado controle recíproco\" (há freios e contrapesos).\n6. Sobra a alternativa D.\n\n**Pegadinha**\nAlternativas que parecem \"mais completas\" (adicionam um Poder) costumam estar erradas.\n\n**Macete**\nTrês Poderes, dois adjetivos: independentes e harmônicos."
+    },
+    {
+      "id": "const-a-principios-q05",
+      "topico": "const-a-principios",
+      "dificuldade": 2,
+      "enunciado": "Sobre o parágrafo único do art. 4º da CF/88, o Brasil buscará",
+      "alternativas": {
+        "A": "a integração exclusivamente econômica e comercial com os países do Mercosul.",
+        "B": "a formação de um Estado federal único com os demais países da América do Sul.",
+        "C": "a integração apenas com os países limítrofes, por meio de tratados bilaterais.",
+        "D": "a integração dos povos da América Latina, objetivo fundamental previsto no art. 3º.",
+        "E": "a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: é o texto literal. Demais: A) o texto fala em integração econômica, política, social e cultural, e da América Latina, não só do Mercosul. B) a CF prevê comunidade de nações, não fusão em um único Estado. C) não há restrição a limítrofes nem a tratados bilaterais. D) o dispositivo está no parágrafo único do art. 4º, não no art. 3º.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer o conteúdo literal do parágrafo único do art. 4º.\n\n**Conceito/Regra rápida**\n**Art. 4º, parágrafo único**: integração econômica, política, social e cultural dos povos da América Latina, para formar uma comunidade latino-americana de nações.\n\n**Passo a passo**\n1. Procure os quatro adjetivos: econômica, política, social e cultural.\n2. Procure \"América Latina\" e \"comunidade latino-americana de nações\".\n3. Elimine as que restringem a economia/Mercosul ou a limítrofes.\n4. Elimine a que fala em Estado único (fusão não existe no texto).\n5. Elimine a que o localiza no art. 3º.\n6. Alternativa E.\n\n**Pegadinha**\nRestringir o alcance (\"exclusivamente\", \"apenas\") é o truque mais frequente.\n\n**Macete**\nEPSC + América Latina = comunidade de nações."
+    },
+    {
+      "id": "const-a-principios-q06",
+      "topico": "const-a-principios",
+      "dificuldade": 2,
+      "enunciado": "A respeito do art. 1º da CF/88, é correto afirmar que a República Federativa do Brasil",
+      "alternativas": {
+        "A": "é formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal e constitui-se em Estado Democrático de Direito.",
+        "B": "é formada pela união dissolúvel dos Estados, admitida a secessão mediante plebiscito local.",
+        "C": "constitui-se em Estado Social de Direito.",
+        "D": "é formada pelos Estados, Municípios e Territórios Federais.",
+        "E": "adota a monarquia constitucional como forma de governo."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é o texto do caput do art. 1º. Demais: B) a união é indissolúvel; não há direito de secessão. C) o texto fala em Estado Democrático de Direito. D) o art. 1º cita Estados, Municípios e Distrito Federal; Territórios não integram a lista. E) a forma de governo é a República.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer a redação correta do caput do art. 1º.\n\n**Conceito/Regra rápida**\n**Art. 1º, caput**: união **indissolúvel** de Estados, Municípios e DF; **Estado Democrático de Direito**; forma de governo republicana.\n\n**Passo a passo**\n1. Marque as palavras-chave: indissolúvel, Estados, Municípios, Distrito Federal, Democrático.\n2. Elimine \"dissolúvel/secessão\".\n3. Elimine \"Social de Direito\" e \"monarquia\".\n4. Elimine \"Territórios Federais\" (não constam no art. 1º).\n5. Alternativa A.\n\n**Pegadinha**\nTrocar \"Democrático\" por \"Social\" ou \"Constitucional\" parece natural, mas é falso.\n\n**Macete**\nIndissolúvel + Democrático de Direito."
+    },
+    {
+      "id": "const-a-principios-q07",
+      "topico": "const-a-principios",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa que contém o texto correto do parágrafo único do art. 1º da Constituição Federal.",
+      "alternativas": {
+        "A": "Todo o poder emana do povo, que o exerce exclusivamente por meio de representantes eleitos.",
+        "B": "Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.",
+        "C": "Todo o poder emana da Nação, que o exerce por meio do Presidente da República.",
+        "D": "Todo o poder emana do povo, que o exerce apenas diretamente, por plebiscito e referendo.",
+        "E": "Todo o poder emana da Constituição, que o distribui entre os três Poderes."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é a redação literal. Demais: A) a CF admite também o exercício direto (plebiscito, referendo, iniciativa popular). C) o poder emana do povo, não da Nação nem de um agente único. D) a representação é a regra; o exercício não é só direto. E) o poder emana do povo; a CF é a fonte das competências.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar a redação correta do parágrafo único do art. 1º.\n\n**Conceito/Regra rápida**\n**Art. 1º, parágrafo único**: poder emana do povo; exercido por representantes eleitos **ou** diretamente (democracia semidireta).\n\n**Passo a passo**\n1. Fixe: origem = povo; exercício = representantes OU diretamente.\n2. Elimine as que mudam a origem (Nação, Constituição).\n3. Elimine as que dizem \"exclusivamente\" ou \"apenas\".\n4. Alternativa B.\n\n**Pegadinha**\n\"Exclusivamente\" e \"apenas\" transformam um texto misto em texto restritivo.\n\n**Macete**\nPovo é o dono do poder; usa representante ou usa o próprio voto direto."
+    },
+    {
+      "id": "const-a-principios-q08",
+      "topico": "const-a-principios",
+      "dificuldade": 2,
+      "enunciado": "Assinale a alternativa INCORRETA quanto aos princípios que regem as relações internacionais do Brasil, segundo a CF/88.",
+      "alternativas": {
+        "A": "Independência nacional.",
+        "B": "Autodeterminação dos povos.",
+        "C": "A intervenção em assuntos internos de outros Estados é admitida quando necessária à defesa da paz.",
+        "D": "Igualdade entre os Estados.",
+        "E": "Solução pacífica dos conflitos."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: a CF consagra a não-intervenção (art. 4º, IV), sem essa exceção. Demais: A) é o art. 4º, I. B) é o art. 4º, III. D) é o art. 4º, V. E) é o art. 4º, VII.",
+      "resolucao_md": "**O que a questão pede**\nAchar a alternativa falsa (INCORRETA).\n\n**Conceito/Regra rápida**\nO art. 4º, IV, prevê **não-intervenção**, sem ressalva textual.\n\n**Passo a passo**\n1. Note que a questão pede a INCORRETA.\n2. Confira as quatro alternativas simples: todas estão no art. 4º.\n3. Veja que a alternativa C inventa uma exceção à não-intervenção.\n4. Marque C.\n\n**Pegadinha**\nA justificativa \"defesa da paz\" parece razoável e atrai o aluno; mas é invenção.\n\n**Macete**\nNão-intervenção não tem \"se\"."
+    },
+    {
+      "id": "const-a-principios-q09",
+      "topico": "const-a-principios",
+      "dificuldade": 1,
+      "enunciado": "Em relação à classificação dos dispositivos dos arts. 1º a 4º da CF/88, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O pluralismo político é objetivo fundamental previsto no art. 3º.",
+        "B": "A defesa da paz é fundamento da República, previsto no art. 1º.",
+        "C": "A independência nacional é objetivo fundamental, previsto no art. 3º.",
+        "D": "Garantir o desenvolvimento nacional é objetivo fundamental da República (art. 3º, II).",
+        "E": "A cidadania é princípio das relações internacionais, previsto no art. 4º."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: o verbo \"garantir\" corresponde ao inciso II do art. 3º. Demais: A) é fundamento, art. 1º, V. B) é princípio das relações internacionais, art. 4º, VI. C) é princípio das relações internacionais, art. 4º, I. E) é fundamento, art. 1º, II.",
+      "resolucao_md": "**O que a questão pede**\nEncaixar cada expressão no artigo certo.\n\n**Conceito/Regra rápida**\nFundamentos = art. 1º; Poderes = art. 2º; Objetivos = art. 3º; Relações internacionais = art. 4º.\n\n**Passo a passo**\n1. Pluralismo político: fundamento (art. 1º, V). A que diz \"objetivo\" erra.\n2. Defesa da paz: art. 4º, VI. A que diz \"fundamento\" erra.\n3. Independência nacional: art. 4º, I. A que diz \"objetivo\" erra.\n4. Cidadania: art. 1º, II. A que diz \"princípio internacional\" erra.\n5. Garantir o desenvolvimento nacional: art. 3º, II. Correta, alternativa D.\n\n**Pegadinha**\nTodas as alternativas usam termos reais da CF; o erro está só na \"etiqueta\" (fundamento/objetivo/princípio).\n\n**Macete**\nFundamento = o que sustenta; objetivo = o que se persegue (verbo); princípio internacional = como o Brasil trata outros países."
+    }
+  ]
+}

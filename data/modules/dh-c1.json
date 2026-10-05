@@ -1,0 +1,168 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-teoria",
+   "titulo": "Teoria geral dos Direitos Humanos, gerações e incorporação de tratados",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Conceito e fundamento\n**Direitos humanos** são os direitos inerentes a toda pessoa pelo simples fato de ser pessoa, ligados à **dignidade da pessoa humana** (CF, art. 1º, III). Já **direitos fundamentais** são os direitos humanos positivados na Constituição de um Estado (Título II da CF). Direitos humanos têm âmbito internacional; direitos fundamentais, âmbito interno.\n\n## Características (decore as palavras-chave)\n| Característica | Significado |\n|---|---|\n| **Universalidade** | valem para todos, sem distinção de origem, raça, sexo, religião |\n| **Indivisibilidade** | os direitos formam um bloco: não se escolhe respeitar uns e ignorar outros |\n| **Interdependência** | a violação de um afeta os demais |\n| **Inalienabilidade** | não podem ser vendidos ou transferidos |\n| **Imprescritibilidade** | não se perdem pelo não uso no tempo |\n| **Historicidade** | surgem e evoluem ao longo da história |\n| **Relatividade (limitabilidade)** | **não são absolutos**; podem colidir e ser ponderados (exceção clássica: proibição da tortura) |\n| **Vedação ao retrocesso** | não se pode reduzir o nível de proteção já alcançado |\n\n## Gerações (dimensões) de direitos\n| Geração | Lema | Exemplos |\n|---|---|---|\n| **1ª** | **liberdade** | direitos civis e políticos: vida, liberdade, propriedade, voto; exigem **abstenção** do Estado |\n| **2ª** | **igualdade** | direitos sociais, econômicos e culturais: saúde, educação, trabalho; exigem **prestação** do Estado |\n| **3ª** | **fraternidade/solidariedade** | meio ambiente, paz, autodeterminação dos povos, patrimônio comum da humanidade; direitos **difusos** |\n| **4ª/5ª** | (controvertidas) | democracia, informação, pluralismo, bioética, cibernética (4ª); paz (5ª, para Bonavides) |\n\nDica: o termo **\"dimensões\"** é preferido hoje porque uma geração não substitui a outra: elas se **acumulam**.\n\n## Aplicação e abertura na CF (art. 5º)\n- **§1º:** normas definidoras de direitos e garantias fundamentais têm **aplicação imediata**.\n- **§2º (cláusula de abertura):** os direitos da CF **não excluem outros** decorrentes do regime e dos princípios por ela adotados, ou **dos tratados internacionais** de que o Brasil seja parte.\n- **§3º (EC 45/2004):** tratados e convenções sobre direitos humanos aprovados, em **cada Casa do Congresso, em dois turnos, por 3/5 dos votos dos respectivos membros**, serão **equivalentes às emendas constitucionais**.\n- **§4º:** o Brasil se submete à jurisdição do **Tribunal Penal Internacional** a cuja criação tenha manifestado adesão.\n- **Art. 4º, II:** nas relações internacionais o Brasil rege-se pela **prevalência dos direitos humanos**.\n\n## Incorporação de tratados (passo a passo)\n1. **Assinatura** pelo Presidente da República (art. 84, VIII);\n2. **Aprovação** pelo Congresso por **decreto legislativo** (art. 49, I);\n3. **Ratificação** (depósito do instrumento);\n4. **Promulgação e publicação por decreto presidencial**, que dá vigência interna.\n\n## Status hierárquico (STF, RE 466.343, 2008)\n| Tipo de tratado | Posição |\n|---|---|\n| Tratado de DH aprovado pelo rito do **§3º** | **equivalente a emenda constitucional** (ex.: Convenção de Nova York sobre Pessoas com Deficiência, Decreto 6.949/2009) |\n| Tratado de DH **anterior à EC 45** ou sem o quórum | **supralegal**: acima da lei, **abaixo da Constituição** (ex.: Pacto de San José) |\n| Tratado comum (não DH) | **lei ordinária** |\n\nConsequência da **supralegalidade**: a lei anterior ou posterior contrária ao tratado perde eficácia (efeito paralisante). Foi assim que se afastou a **prisão civil do depositário infiel**, restando admitida apenas a do **devedor de alimentos**. Resultado consolidado na **Súmula Vinculante 25**: \"É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.\" Veja também a Súmula 419 do STJ.\n\n## Controle de convencionalidade\nÉ a verificação da compatibilidade das leis internas com os tratados de DH. Tratados com status de emenda constituem parâmetro do controle **concentrado**; os supralegais, do controle **difuso** de convencionalidade. Normas **jus cogens** (proibição da tortura, escravidão, genocídio) não admitem derrogação.",
+   "dicas": [
+    "Tratado de DH: 3/5, dois turnos, cada Casa = emenda constitucional. Sem o rito = supralegal.",
+    "Gerações: liberdade (1ª), igualdade (2ª), fraternidade (3ª) — a mesma ordem da Revolução Francesa.",
+    "1ª geração = Estado se abstém; 2ª = Estado presta.",
+    "SV 25 e a supralegalidade andam juntas: depositário infiel não pode ser preso; devedor de alimentos pode."
+   ],
+   "pegadinhas": [
+    "Dizer que os direitos humanos são ABSOLUTOS: são relativos/limitáveis (exceção: proibição da tortura).",
+    "Afirmar que todo tratado de DH tem status de emenda: só o aprovado pelo rito do art. 5º, §3º; os demais são supralegais.",
+    "Trocar o quórum: é 3/5 dos membros de cada Casa, em DOIS turnos (não maioria simples, nem 2/3).",
+    "Dizer que a SV 25 proíbe também a prisão do devedor de alimentos: não, essa continua permitida.",
+    "Confundir direitos humanos (internacional) com direitos fundamentais (positivados na Constituição)."
+   ],
+   "flashcards": [
+    {
+     "q": "Quais as 3 primeiras gerações de direitos e seus lemas?",
+     "a": "1ª liberdade (civis/políticos); 2ª igualdade (sociais/econômicos/culturais); 3ª fraternidade (difusos)."
+    },
+    {
+     "q": "Qual o quórum do art. 5º, §3º da CF?",
+     "a": "3/5 dos membros de cada Casa, em dois turnos."
+    },
+    {
+     "q": "Qual o status do Pacto de San José no Brasil?",
+     "a": "Supralegal (acima da lei, abaixo da CF), segundo o STF."
+    },
+    {
+     "q": "O que diz a Súmula Vinculante 25?",
+     "a": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito."
+    },
+    {
+     "q": "Quem aprova o tratado no Congresso e por qual ato?",
+     "a": "O Congresso, por decreto legislativo (art. 49, I)."
+    },
+    {
+     "q": "Que ato dá vigência interna ao tratado?",
+     "a": "O decreto presidencial de promulgação."
+    },
+    {
+     "q": "O que é a cláusula de abertura do art. 5º, §2º?",
+     "a": "Os direitos da CF não excluem outros decorrentes do regime, dos princípios ou de tratados internacionais."
+    },
+    {
+     "q": "Exemplo de tratado com status de emenda constitucional?",
+     "a": "Convenção sobre os Direitos das Pessoas com Deficiência (Decreto 6.949/2009)."
+    },
+    {
+     "q": "O que significa vedação ao retrocesso?",
+     "a": "Não se pode reduzir o nível de proteção de direitos já conquistado."
+    },
+    {
+     "q": "Qual o princípio das relações internacionais do Brasil ligado aos DH?",
+     "a": "Prevalência dos direitos humanos (art. 4º, II)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-teoria-q01",
+   "topico": "dh-c-teoria",
+   "dificuldade": 1,
+   "enunciado": "Sobre o procedimento previsto no art. 5º, §3º, da Constituição Federal para os tratados internacionais de direitos humanos, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "Os tratados são aprovados por maioria simples em turno único e têm hierarquia de lei ordinária.",
+    "B": "Os tratados dependem de aprovação por dois terços dos membros apenas do Senado Federal.",
+    "C": "Os tratados aprovados em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.",
+    "D": "Os tratados são aprovados por decreto do Presidente, sem participação do Congresso.",
+    "E": "Os tratados são equivalentes a leis complementares, aprovados por maioria absoluta."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 5º, §3º, CF (EC 45/2004): 3/5, dois turnos, em cada Casa = equivalência a emenda. As demais confundem quórum, Casa ou natureza.",
+   "resolucao_md": "**O que a questão pede:** o quórum e o efeito do §3º.\n\n**Regra rápida:** tratado de DH aprovado como PEC (3/5, 2 turnos, cada Casa) vira equivalente a emenda.\n\n**Passo a passo:**\n1. Letra A trata como lei ordinária: errado, só vale para tratado comum.\n2. Letra B cita 2/3 e só o Senado: o §3º exige as duas Casas e 3/5.\n3. Letra D tira o Congresso: o tratado exige decreto legislativo (art. 49, I).\n4. Letra E fala em lei complementar: figura que não existe nesse parágrafo.\n5. Resta a correta.\n\n**Pegadinha:** Trocar 3/5 por 2/3 ou maioria.\n\n**Macete:** Tratado de DH = PEC: 3/5, dois turnos, duas Casas."
+  },
+  {
+   "id": "dh-c-teoria-q02",
+   "topico": "dh-c-teoria",
+   "dificuldade": 2,
+   "enunciado": "De acordo com a jurisprudência do Supremo Tribunal Federal, os tratados internacionais de direitos humanos aprovados sem o rito do art. 5º, §3º, da Constituição possuem status",
+   "alternativas": {
+    "A": "supralegal, situando-se abaixo da Constituição e acima das leis ordinárias.",
+    "B": "constitucional pleno, equivalente às emendas.",
+    "C": "de lei ordinária federal, podendo ser revogados por lei posterior.",
+    "D": "de lei complementar, exigindo quórum qualificado para revogação.",
+    "E": "meramente programático, sem eficácia jurídica interna."
+   },
+   "gabarito": "A",
+   "explicacao": "RE 466.343/SP: supralegalidade. Efeito paralisante sobre a legislação infraconstitucional contrária.",
+   "resolucao_md": "**O que a questão pede:** o status dos tratados de DH sem o rito qualificado.\n\n**Regra rápida:** escada: CF/emendas > tratados de DH supralegais > leis.\n\n**Passo a passo:**\n1. Descarte B: lei ordinária é o status do tratado comum.\n2. Descarte C: não há status de lei complementar.\n3. Descarte D: tratado ratificado e promulgado tem eficácia interna.\n4. Descarte E: constitucional pleno só com o §3º.\n\n**Pegadinha:** Confundir \"supralegal\" com \"constitucional\".\n\n**Macete:** Supra = acima da lei, mas abaixo da CF."
+  },
+  {
+   "id": "dh-c-teoria-q03",
+   "topico": "dh-c-teoria",
+   "dificuldade": 2,
+   "enunciado": "A Súmula Vinculante nº 25 do STF estabelece que",
+   "alternativas": {
+    "A": "é lícita a prisão civil de qualquer devedor, inclusive o de alimentos e o depositário.",
+    "B": "é ilícita a prisão civil do devedor de pensão alimentícia.",
+    "C": "a prisão civil por dívida é permitida sempre que houver depósito judicial.",
+    "D": "somente o depositário infiel judicial pode ser preso, e não o contratual.",
+    "E": "é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito."
+   },
+   "gabarito": "E",
+   "explicacao": "SV 25: ilícita a prisão do depositário infiel em qualquer modalidade. A prisão do devedor de alimentos permanece (art. 5º, LXVII, CF).",
+   "resolucao_md": "**O que a questão pede:** o enunciado da SV 25.\n\n**Regra rápida:** a supralegalidade do Pacto de San José (art. 7.7) paralisou a prisão do depositário infiel.\n\n**Passo a passo:**\n1. A e C permitem a prisão do depositário: contrariam a SV.\n2. B nega a prisão do devedor de alimentos: ela continua válida.\n3. D distingue modalidades: a SV diz \"qualquer que seja\".\n4. Sobra a correta.\n\n**Pegadinha:** Achar que a SV acabou com toda prisão civil.\n\n**Macete:** Depositário infiel: nunca. Alimentos: pode."
+  },
+  {
+   "id": "dh-c-teoria-q04",
+   "topico": "dh-c-teoria",
+   "dificuldade": 1,
+   "enunciado": "Quanto às gerações (dimensões) de direitos humanos, assinale a alternativa que associa corretamente a geração ao seu conteúdo típico.",
+   "alternativas": {
+    "A": "Os direitos de segunda geração são os civis e políticos e exigem apenas abstenção do Estado.",
+    "B": "Os direitos de terceira geração são os sociais, como saúde e educação, ligados à igualdade.",
+    "C": "Os direitos de primeira geração são difusos e ligados à fraternidade.",
+    "D": "Os direitos de primeira geração são os civis e políticos, ligados à liberdade e que demandam, em regra, uma abstenção do Estado.",
+    "E": "As gerações se substituem: surgida a segunda, a primeira perde validade."
+   },
+   "gabarito": "D",
+   "explicacao": "1ª geração: liberdade e abstenção estatal. 2ª: igualdade (sociais). 3ª: fraternidade (difusos). As gerações se somam.",
+   "resolucao_md": "**O que a questão pede:** associar geração e conteúdo.\n\n**Regra rápida:** liberdade-igualdade-fraternidade = 1ª, 2ª e 3ª.\n\n**Passo a passo:**\n1. A troca 1ª por 2ª geração.\n2. B atribui direitos sociais à 3ª: são da 2ª.\n3. C atribui difusos à 1ª: são da 3ª.\n4. E diz que se substituem: na verdade se acumulam (por isso \"dimensões\").\n\n**Pegadinha:** Esquecer que as dimensões são cumulativas.\n\n**Macete:** LIF: Liberdade, Igualdade, Fraternidade, nessa ordem."
+  },
+  {
+   "id": "dh-c-teoria-q05",
+   "topico": "dh-c-teoria",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta, na ordem correta, as etapas de incorporação de um tratado internacional ao ordenamento brasileiro.",
+   "alternativas": {
+    "A": "Aprovação pelo Congresso por lei ordinária, promulgação pelo Senado e sanção do tratado.",
+    "B": "Assinatura pelo Presidente, aprovação pelo Congresso por decreto legislativo, ratificação e promulgação por decreto presidencial.",
+    "C": "Ratificação, assinatura pelo STF, aprovação por decreto legislativo e publicação.",
+    "D": "Assinatura pelo Presidente, aprovação por decreto legislativo, vigência automática sem promulgação.",
+    "E": "Aprovação por resolução do Senado, ratificação e controle prévio do STF."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 84, VIII e art. 49, I, CF: assinatura, decreto legislativo, ratificação, decreto de promulgação.",
+   "resolucao_md": "**O que a questão pede:** a sequência correta.\n\n**Regra rápida:** executivo assina, Congresso aprova (decreto legislativo), executivo ratifica e promulga (decreto).\n\n**Passo a passo:**\n1. A fala em lei ordinária e sanção: tratado não é sancionado.\n2. C põe o STF a assinar o tratado: absurdo, a assinatura é do Executivo.\n3. D elimina a promulgação, indispensável à vigência interna.\n4. E usa resolução do Senado e controle prévio do STF: inexistente.\n\n**Pegadinha:** Esquecer o decreto de promulgação.\n\n**Macete:** Assina-Aprova-Ratifica-Promulga."
+  },
+  {
+   "id": "dh-c-teoria-q06",
+   "topico": "dh-c-teoria",
+   "dificuldade": 2,
+   "enunciado": "Entre as características dos direitos humanos, aquela que expressa a ideia de que eles NÃO são absolutos, podendo ser limitados para harmonizá-los com outros direitos, é a",
+   "alternativas": {
+    "A": "relatividade (limitabilidade).",
+    "B": "universalidade.",
+    "C": "indivisibilidade.",
+    "D": "imprescritibilidade.",
+    "E": "inalienabilidade."
+   },
+   "gabarito": "A",
+   "explicacao": "A relatividade admite ponderação entre direitos em colisão. As demais tratam de titularidade (universalidade), unidade do conjunto, não perda pelo tempo e intransferibilidade.",
+   "resolucao_md": "**O que a questão pede:** a característica que corresponde à limitabilidade.\n\n**Regra rápida:** direito humano pode ser ponderado; a exceção é a vedação da tortura.\n\n**Passo a passo:**\n1. Universalidade: vale para todos.\n2. Indivisibilidade: bloco único.\n3. Imprescritibilidade: não prescreve pelo desuso.\n4. Inalienabilidade: não se transfere.\n\n**Pegadinha:** Pensar que \"limitar\" é negar o direito.\n\n**Macete:** Relativo = ponderável."
+  }
+ ]
+}

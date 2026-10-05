@@ -1,0 +1,245 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-sociais",
+      "titulo": "Direitos sociais (CF, arts. 6º a 11)",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## Art. 6º – os direitos sociais\n\"São direitos sociais a **educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados**, na forma desta Constituição.\" Mnemônico pelas iniciais, na ordem: **E-S-A-T-M-T-L-S-P-P-A** (Educação, Saúde, Alimentação, Trabalho, Moradia, Transporte, Lazer, Segurança, Previdência, Proteção à maternidade/infância, Assistência). A **alimentação** foi incluída pela **EC 64/2010** e o **transporte** pela **EC 90/2015**. Note: **propriedade não é direito social** (é direito individual, art. 5º).\n\n**Parágrafo único (EC 114/2021):** \"Todo brasileiro em situação de vulnerabilidade social terá direito a uma **renda básica familiar**, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária.\"\n\n## Art. 7º – direitos dos trabalhadores urbanos e rurais (principais)\n| Tema | Regra |\n|---|---|\n| I | relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de **lei complementar** |\n| II e III | seguro-desemprego (desemprego involuntário) e **FGTS** |\n| IV | **salário mínimo** fixado em lei, **nacionalmente unificado**, para atender às necessidades vitais básicas do trabalhador e da família; **vedada a vinculação** para qualquer fim |\n| VI | **irredutibilidade** do salário, salvo convenção ou acordo coletivo |\n| VIII | **décimo terceiro** salário |\n| IX | trabalho noturno com remuneração superior ao diurno |\n| XIII | jornada normal de **8 horas diárias e 44 semanais**, com compensação e redução por acordo ou convenção coletiva |\n| XIV | **6 horas** para turnos ininterruptos de revezamento, salvo negociação coletiva |\n| XV | repouso semanal remunerado, **preferencialmente aos domingos** |\n| XVI | hora extra com adicional de, no mínimo, **50%** |\n| XVII | férias anuais remuneradas com, pelo menos, **1/3 a mais** |\n| XVIII | licença à gestante, sem prejuízo do emprego e do salário, de **120 dias** |\n| XIX | **licença-paternidade**, nos termos fixados em lei |\n| XXI | **aviso prévio proporcional** ao tempo de serviço, **no mínimo 30 dias** |\n| XXII e XXIII | redução dos riscos do trabalho; adicional para atividades penosas, insalubres ou perigosas |\n| XXV | assistência gratuita a filhos e dependentes até **5 anos** em creches e pré-escolas |\n| XXIX | **prescrição de 5 anos** para créditos trabalhistas (urbanos e rurais), até o limite de **2 anos** após a extinção do contrato |\n| XXX a XXXII | proibição de discriminação por sexo, idade, cor, estado civil, e por deficiência; e de distinção entre trabalho manual, técnico e intelectual |\n| XXXIII | proibição de trabalho **noturno, perigoso ou insalubre a menores de 18** e de **qualquer trabalho a menores de 16**, **salvo aprendiz a partir de 14** |\nO **parágrafo único** estende aos **trabalhadores domésticos** uma lista específica de direitos (EC 72/2013).\n\n## Art. 8º – liberdade sindical\n- **I:** não se exige autorização do Estado para fundar sindicato (basta o **registro** no órgão competente); vedadas a interferência e a intervenção.\n- **II (unicidade sindical):** **vedada mais de uma organização sindical**, em qualquer grau, da mesma categoria na **mesma base territorial**, **nunca inferior à área de um Município**.\n- **III:** o sindicato defende direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas.\n- **V:** ninguém é obrigado a filiar-se ou manter-se filiado.\n- **VI:** obrigatória a participação dos sindicatos nas negociações coletivas.\n- **VIII:** proibida a dispensa do empregado sindicalizado **desde o registro da candidatura** a cargo de direção ou representação sindical e, se eleito, **ainda que suplente, até um ano após o fim do mandato**, salvo falta grave.\n\n## Arts. 9º, 10 e 11\n- **Art. 9º (greve):** compete aos **trabalhadores decidir** sobre a oportunidade de exercer o direito e os interesses a defender. A lei define os **serviços ou atividades essenciais** e o atendimento das necessidades inadiáveis da comunidade; os **abusos** sujeitam às penas da lei.\n- **Art. 10:** participação de trabalhadores e empregadores nos colegiados de órgãos públicos em que seus interesses profissionais ou previdenciários sejam discutidos.\n- **Art. 11:** em empresas com **mais de 200 empregados**, é assegurada a eleição de **um representante** para entendimento direto com os empregadores.\n\n## Atenção para a PM\nOs **militares dos Estados** não têm direito a **sindicalização nem a greve** (art. 142, § 3º, IV, aplicável por força do art. 42, § 1º). Servidores civis têm greve, nos termos de lei específica (art. 37, VII).",
+      "dicas": [
+        "Art. 6º tem 11 direitos; alimentação (EC 64/2010) e transporte (EC 90/2015) são os acréscimos mais cobrados.",
+        "Jornada: 8 por dia, 44 por semana; turnos de revezamento: 6 horas.",
+        "Licença-gestante: 120 dias; licença-paternidade: \"nos termos fixados em lei\".",
+        "Aviso prévio proporcional: mínimo de 30 dias.",
+        "Menor: noturno/perigoso/insalubre só a partir dos 18; trabalho a partir dos 16; aprendiz a partir dos 14.",
+        "Sindicato: unicidade, base territorial mínima de um Município; militares estaduais não têm sindicalização nem greve."
+      ],
+      "pegadinhas": [
+        "Incluir \"propriedade\" na lista do art. 6º: ela é direito individual do art. 5º.",
+        "Dizer que a licença-paternidade tem 5 dias na CF: o art. 7º, XIX diz \"nos termos fixados em lei\" (o prazo está no ADCT/legislação).",
+        "Trocar o adicional de 50% por 20% ou 30% para a hora extra, ou 1/3 por 1/2 nas férias.",
+        "Dizer que o aprendiz pode trabalhar a partir dos 16 anos: a CF diz 14.",
+        "Dizer que o piso do salário mínimo é regional ou que pode ser indexador: é nacionalmente unificado e vedada a vinculação.",
+        "Dizer que a CF permite pluralidade sindical: a regra é a unicidade, na mesma base territorial.",
+        "Dizer que o policial militar estadual tem direito de greve ou sindicalização: é vedado.",
+        "Dizer que o prazo prescricional trabalhista é de 2 anos durante o contrato: é de 5 anos, até 2 anos após o fim do contrato."
+      ],
+      "flashcards": [
+        {
+          "q": "Quais os direitos sociais do art. 6º?",
+          "a": "Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância, assistência aos desamparados."
+        },
+        {
+          "q": "Qual emenda incluiu a alimentação no art. 6º?",
+          "a": "EC 64/2010."
+        },
+        {
+          "q": "Qual emenda incluiu o transporte no art. 6º?",
+          "a": "EC 90/2015."
+        },
+        {
+          "q": "O que traz o parágrafo único do art. 6º?",
+          "a": "Renda básica familiar para brasileiro em vulnerabilidade social, nos termos da lei (EC 114/2021)."
+        },
+        {
+          "q": "Qual a jornada normal máxima na CF?",
+          "a": "8 horas diárias e 44 semanais, com compensação e redução por acordo ou convenção coletiva."
+        },
+        {
+          "q": "Qual o adicional mínimo de hora extra?",
+          "a": "50% (art. 7º, XVI)."
+        },
+        {
+          "q": "Qual o acréscimo constitucional nas férias?",
+          "a": "Pelo menos 1/3 a mais do salário normal."
+        },
+        {
+          "q": "Qual a duração da licença à gestante?",
+          "a": "120 dias, sem prejuízo do emprego e do salário."
+        },
+        {
+          "q": "Quanto é o aviso prévio?",
+          "a": "Proporcional ao tempo de serviço, no mínimo 30 dias."
+        },
+        {
+          "q": "Idade para trabalho do menor?",
+          "a": "Proibido a menores de 16, salvo aprendiz a partir de 14; noturno, perigoso ou insalubre só a partir de 18."
+        },
+        {
+          "q": "Qual a prescrição dos créditos trabalhistas?",
+          "a": "5 anos, até 2 anos após a extinção do contrato."
+        },
+        {
+          "q": "O que é unicidade sindical?",
+          "a": "Vedada mais de uma organização sindical da mesma categoria na mesma base territorial (mínimo: um Município)."
+        },
+        {
+          "q": "Desde quando o dirigente sindical tem estabilidade?",
+          "a": "Desde o registro da candidatura, e, se eleito (ainda que suplente), até 1 ano após o fim do mandato (art. 8º, VIII)."
+        },
+        {
+          "q": "Quem decide sobre a oportunidade da greve?",
+          "a": "Os trabalhadores (art. 9º); a lei define serviços essenciais; abusos sujeitam às penas da lei."
+        },
+        {
+          "q": "Quando o art. 11 assegura representante dos empregados?",
+          "a": "Em empresas com mais de 200 empregados."
+        },
+        {
+          "q": "Militar estadual pode fazer greve ou sindicalizar-se?",
+          "a": "Não (art. 142, § 3º, IV, c/c art. 42, § 1º)."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-sociais-q01",
+      "topico": "const-a-sociais",
+      "dificuldade": 1,
+      "enunciado": "Assinale a alternativa que NÃO apresenta um direito social previsto no art. 6º da Constituição Federal.",
+      "alternativas": {
+        "A": "A alimentação.",
+        "B": "A propriedade.",
+        "C": "O transporte.",
+        "D": "A moradia.",
+        "E": "O lazer."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é direito individual (art. 5º, caput e XXII), não consta do rol do art. 6º. Demais: A) incluída pela EC 64/2010. C) incluído pela EC 90/2015. D) consta do art. 6º. E) consta do art. 6º.",
+      "resolucao_md": "**O que a questão pede**\nAchar o item que não é direito social.\n\n**Conceito/Regra rápida**\n**Art. 6º**: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância, assistência aos desamparados.\n\n**Passo a passo**\n1. Questão de exclusão: marque o que NÃO consta.\n2. Alimentação, transporte, moradia e lazer constam.\n3. Propriedade não consta no art. 6º.\n4. Alternativa B.\n\n**Pegadinha**\nPropriedade aparece em muitos artigos, o que confunde; no art. 6º, não.\n\n**Macete**\nDireitos sociais: serviços e proteção. Propriedade é individual."
+    },
+    {
+      "id": "const-a-sociais-q02",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "Acerca do parágrafo único do art. 6º da CF/88, incluído pela Emenda Constitucional 114/2021, é correto afirmar que",
+      "alternativas": {
+        "A": "a renda básica familiar é um benefício temporário, que independe de lei para ser exigido.",
+        "B": "o direito é restrito às famílias com filhos menores de seis anos.",
+        "C": "todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária.",
+        "D": "o direito é garantido a todo residente no País, brasileiro ou estrangeiro, independentemente de renda.",
+        "E": "a renda básica familiar é paga diretamente pelos Municípios, sem participação da União."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: reproduz o parágrafo único. Demais: A) o texto fala em programa permanente, com normas definidas em lei. B) não há esse critério na CF. D) o texto fala em brasileiro em situação de vulnerabilidade social. E) o texto diz \"garantida pelo poder público\", sem fixar o ente.",
+      "resolucao_md": "**O que a questão pede**\nReproduzir o conteúdo do parágrafo único do art. 6º.\n\n**Conceito/Regra rápida**\n**Art. 6º, parágrafo único**: renda básica familiar, programa **permanente**, requisitos em **lei**, brasileiro em **vulnerabilidade social**.\n\n**Passo a passo**\n1. Palavras-chave: brasileiro, vulnerabilidade, permanente, lei, legislação fiscal e orçamentária.\n2. Elimine \"temporário\" e \"independe de lei\".\n3. Elimine \"filhos menores de seis anos\" e \"todo residente\".\n4. Elimine \"pago pelos Municípios\".\n5. Alternativa C.\n\n**Pegadinha**\nAmpliar ou restringir os destinatários é a técnica da banca.\n\n**Macete**\nRenda básica = permanente + lei + vulnerabilidade."
+    },
+    {
+      "id": "const-a-sociais-q03",
+      "topico": "const-a-sociais",
+      "dificuldade": 1,
+      "enunciado": "Quanto à duração do trabalho, o art. 7º, XIII, da CF/88 estabelece:",
+      "alternativas": {
+        "A": "seis horas diárias e trinta e seis semanais, para todos os trabalhadores.",
+        "B": "oito horas diárias e quarenta semanais, vedada qualquer compensação.",
+        "C": "dez horas diárias e quarenta e quatro semanais, com adicional de 50%.",
+        "D": "duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho.",
+        "E": "oito horas diárias e quarenta e quatro semanais, sem possibilidade de redução por negociação coletiva."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é a redação do inciso XIII. Demais: A) as seis horas são para turnos ininterruptos de revezamento (XIV). B) o semanal é 44 horas, e a compensação é facultada. C) o limite diário é 8 horas. E) a redução por acordo ou convenção é prevista.",
+      "resolucao_md": "**O que a questão pede**\nLembrar a jornada normal constitucional.\n\n**Conceito/Regra rápida**\n**Art. 7º, XIII**: 8 horas por dia, 44 por semana; compensação e redução por acordo/convenção coletiva.\n\n**Passo a passo**\n1. Fixe 8 e 44.\n2. Elimine 6 e 36 (turno de revezamento é 6 horas, XIV).\n3. Elimine 40 semanais e 10 diárias.\n4. Elimine a que veda redução por negociação.\n5. Alternativa D.\n\n**Pegadinha**\nOs números 40 e 44 costumam ser trocados.\n\n**Macete**\nOito-quarenta-e-quatro."
+    },
+    {
+      "id": "const-a-sociais-q04",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "Analise as afirmativas sobre direitos dos trabalhadores previstos no art. 7º da CF/88.\n\nI. A licença à gestante, sem prejuízo do emprego e do salário, tem duração de 120 dias.\nII. O serviço extraordinário será remunerado com adicional de, no mínimo, 20% sobre o valor da hora normal.\nIII. O gozo de férias anuais é remunerado com, pelo menos, um terço a mais do que o salário normal.\nIV. O aviso prévio é proporcional ao tempo de serviço, sendo no mínimo de trinta dias.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I e II, apenas.",
+        "B": "II e III, apenas.",
+        "C": "I, II e IV, apenas.",
+        "D": "I, II, III e IV.",
+        "E": "I, III e IV, apenas."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: os itens I, III e IV reproduzem os incisos XVIII, XVII e XXI; no item II o adicional mínimo é 50%. Demais: A) o item II é falso (50%, não 20%). B) o item II é falso. C) o item II é falso. D) o item II é falso.",
+      "resolucao_md": "**O que a questão pede**\nCombinar os itens verdadeiros.\n\n**Conceito/Regra rápida**\n**Art. 7º**: licença-gestante 120 dias (XVIII); hora extra no mínimo 50% (XVI); férias + 1/3 (XVII); aviso prévio proporcional, mínimo 30 dias (XXI).\n\n**Passo a passo**\n1. Item I: XVIII. Verdadeiro.\n2. Item II: o mínimo é 50%. Falso.\n3. Item III: XVII. Verdadeiro.\n4. Item IV: XXI. Verdadeiro.\n5. Combinação: I, III e IV. Alternativa E.\n\n**Pegadinha**\nPercentuais e prazos são alvo de troca numérica.\n\n**Macete**\n120 dias, 50%, 1/3, 30 dias."
+    },
+    {
+      "id": "const-a-sociais-q05",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "Em relação ao salário mínimo, previsto no art. 7º, IV, da CF/88, é correto afirmar que ele é",
+      "alternativas": {
+        "A": "fixado em lei, nacionalmente unificado, capaz de atender às necessidades vitais básicas do trabalhador e de sua família, sendo vedada sua vinculação para qualquer fim.",
+        "B": "fixado por cada Estado, conforme o custo de vida local, podendo ser vinculado como indexador de tributos.",
+        "C": "fixado por decreto presidencial, sem necessidade de lei.",
+        "D": "destinado a atender somente à alimentação e à moradia do trabalhador, excluída a família.",
+        "E": "nacionalmente unificado e podendo ser usado como indexador para reajuste de benefícios privados."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é o texto do inciso IV. Demais: B) é nacionalmente unificado e a vinculação é vedada. C) é fixado em lei. D) o texto inclui a família e várias necessidades (educação, saúde, lazer, vestuário, higiene, transporte, previdência). E) a vinculação para qualquer fim é vedada.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer os atributos constitucionais do salário mínimo.\n\n**Conceito/Regra rápida**\n**Art. 7º, IV**: fixado em lei; nacionalmente unificado; atende às necessidades vitais básicas do trabalhador e da família; vedada a vinculação para qualquer fim.\n\n**Passo a passo**\n1. Lembre: lei, nacional, família, sem vinculação.\n2. Elimine a que fala em salário estadual e vinculação.\n3. Elimine \"decreto\".\n4. Elimine \"somente alimentação e moradia, sem família\".\n5. Elimine a que aceita indexador.\n6. Alternativa A.\n\n**Pegadinha**\nPiso salarial (art. 7º, V) é outra coisa; não confunda com o salário mínimo.\n\n**Macete**\nMínimo é um só para o Brasil e não serve de índice."
+    },
+    {
+      "id": "const-a-sociais-q06",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "No tocante ao trabalho de menores, o art. 7º, XXXIII, da CF/88 determina:",
+      "alternativas": {
+        "A": "proibição de qualquer trabalho a menores de dezoito anos, sem exceção.",
+        "B": "proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito anos e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos.",
+        "C": "permissão de trabalho como aprendiz a partir dos doze anos.",
+        "D": "permissão de trabalho noturno a menores de dezesseis a dezoito anos, desde que remunerado com adicional.",
+        "E": "permissão de qualquer trabalho a partir dos quatorze anos, inclusive perigoso, se autorizado pelos pais."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o texto do inciso XXXIII. Demais: A) a CF admite trabalho a partir dos 16 e aprendizagem a partir dos 14. C) a CF fixa 14 anos. D) o noturno é vedado a menores de 18. E) trabalho perigoso é vedado até os 18.",
+      "resolucao_md": "**O que a questão pede**\nLembrar as idades do trabalho do menor.\n\n**Conceito/Regra rápida**\n**Art. 7º, XXXIII**: 18 (noturno, perigoso, insalubre), 16 (qualquer trabalho), 14 (aprendiz).\n\n**Passo a passo**\n1. Monte a escada: 14 aprendiz; 16 trabalho; 18 trabalho noturno, perigoso e insalubre.\n2. Elimine \"qualquer trabalho só a partir de 18\".\n3. Elimine \"aprendiz aos 12\".\n4. Elimine \"noturno aos 16\" e \"perigoso aos 14\".\n5. Alternativa B.\n\n**Pegadinha**\nTroca de idades (12/14/16/18) é a técnica favorita.\n\n**Macete**\n14-16-18."
+    },
+    {
+      "id": "const-a-sociais-q07",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "Segundo o art. 7º, XXIX, da CF/88, a ação quanto aos créditos resultantes das relações de trabalho tem prazo prescricional de",
+      "alternativas": {
+        "A": "dois anos para urbanos e cinco anos para rurais, contados do início do contrato.",
+        "B": "três anos para qualquer trabalhador, sem limite após a extinção do contrato.",
+        "C": "cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho.",
+        "D": "cinco anos para urbanos e rurais, mas imprescritível durante a vigência do contrato.",
+        "E": "dez anos para urbanos e rurais, até o limite de cinco anos após o término do contrato."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é a redação do inciso XXIX. Demais: A) o prazo é o mesmo para urbanos e rurais: 5 anos. B) a CF fixa 5 anos, com limite de 2 anos após o término. D) a prescrição corre durante o contrato. E) não é 10 anos nem 5 após o término.",
+      "resolucao_md": "**O que a questão pede**\nLembrar a prescrição trabalhista.\n\n**Conceito/Regra rápida**\n**Art. 7º, XXIX**: 5 anos (urbanos e rurais), até 2 anos depois de extinto o contrato.\n\n**Passo a passo**\n1. Fixe 5 + 2.\n2. Elimine as que diferenciam urbanos e rurais.\n3. Elimine 3 e 10 anos.\n4. Elimine a \"imprescritibilidade durante o contrato\".\n5. Alternativa C.\n\n**Pegadinha**\nO \"5 + 2\" costuma aparecer invertido (\"2 anos + 5 anos\").\n\n**Macete**\nCinco para cobrar; dois depois de sair."
+    },
+    {
+      "id": "const-a-sociais-q08",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "No que se refere à organização sindical (art. 8º da CF/88), é correto afirmar que",
+      "alternativas": {
+        "A": "é admitida a pluralidade sindical, podendo coexistir vários sindicatos da mesma categoria na mesma base territorial.",
+        "B": "a base territorial do sindicato pode ser inferior à área de um Município, se houver acordo entre as categorias.",
+        "C": "a fundação de sindicato depende de prévia autorização do Estado, que poderá intervir em sua organização.",
+        "D": "é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que não pode ser inferior à área de um Município.",
+        "E": "o empregado sindicalizado só tem proteção contra a dispensa após ser eleito dirigente sindical."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é o inciso II (unicidade sindical). Demais: A) a CF adota a unicidade. B) a base nunca pode ser inferior a um Município. C) não se exige autorização, e a interferência e a intervenção são vedadas (I). E) a proteção começa no registro da candidatura (VIII).",
+      "resolucao_md": "**O que a questão pede**\nIdentificar regra correta sobre sindicato.\n\n**Conceito/Regra rápida**\n**Art. 8º**: sem autorização do Estado (só registro); **unicidade**; base mínima = Município; estabilidade desde o **registro da candidatura**.\n\n**Passo a passo**\n1. Elimine a pluralidade (CF = unicidade).\n2. Elimine base inferior a um Município.\n3. Elimine autorização/intervenção estatal.\n4. Elimine estabilidade só após a eleição.\n5. Alternativa D.\n\n**Pegadinha**\nA estabilidade do dirigente começa antes da eleição.\n\n**Macete**\nUma categoria, uma base, um sindicato (mínimo Município)."
+    },
+    {
+      "id": "const-a-sociais-q09",
+      "topico": "const-a-sociais",
+      "dificuldade": 2,
+      "enunciado": "Um soldado da Polícia Militar de Pernambuco pretende filiar-se a um sindicato e participar de movimento grevista da corporação. Segundo a Constituição Federal,",
+      "alternativas": {
+        "A": "é permitido o direito de greve, nos termos do art. 9º, sem qualquer restrição.",
+        "B": "é permitida a sindicalização, vedada apenas a greve.",
+        "C": "é permitida a greve, vedada apenas a sindicalização.",
+        "D": "são permitidas, desde que mantidos os serviços essenciais.",
+        "E": "é vedada, aos militares dos Estados, a sindicalização e a greve (arts. 142, § 3º, IV, e 42, § 1º)."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: a CF proíbe expressamente ambos aos militares. Demais: A) o art. 9º não alcança os militares, que têm vedação específica. B) ambas são vedadas. C) ambas são vedadas. D) a CF não prevê essa ressalva para os militares.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a vedação de greve e sindicalização ao militar estadual.\n\n**Conceito/Regra rápida**\n**Art. 142, § 3º, IV** (aplicável aos militares dos Estados pelo **art. 42, § 1º**): ao militar são proibidas a sindicalização e a greve.\n\n**Passo a passo**\n1. O art. 9º vale para trabalhadores em geral.\n2. Para militares há regra especial: IV do § 3º do art. 142.\n3. O art. 42, § 1º estende a regra aos militares dos Estados (PM e bombeiros).\n4. As duas condutas são proibidas. Alternativa E.\n\n**Pegadinha**\nNão existe meio-termo (só uma das vedações) na CF.\n\n**Macete**\nMilitar: sem sindicato e sem greve."
+    }
+  ]
+}

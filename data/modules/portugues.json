@@ -1,0 +1,877 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa (IBAM) — do zero ao avançado",
+ "disciplina": "portugues",
+ "descricao": "Língua Portuguesa completa para o edital IBAM (10 questões): interpretação, coesão, conectivos, morfossintaxe, regência, crase, pontuação, acentuação, ortografia, com passo a passo e macetes. A banca cobra muito interpretação de texto e questões de \"assinale a INCORRETA\" sobre gramática normativa.",
+ "topicos": [
+  {
+   "id": "portugues-interpretacao",
+   "titulo": "1. Leitura e compreensão de textos variados (interpretação)",
+   "prioridade": 1,
+   "horas": 8,
+   "resumo_md": "## Por que este tópico vale ouro\nDas 10 questões de Português, **a maioria é de interpretação**. Boa notícia: não exige decorar regra; exige **método** e atenção a pegadinhas. Você, que é bom em raciocínio lógico e dissertação, tem vantagem aqui.\n\n## As 3 operações que a banca cobra\n| Operação | O que é | Exemplo (texto: \"A taxa caiu 30% após o aplicativo\") |\n|---|---|---|\n| **Paráfrase** | Dizer **a mesma coisa** com outras palavras | \"Depois do aplicativo, a taxa diminuiu em 30%.\" |\n| **Inferência** | Conclusão **obrigatória/provável** a partir do que está escrito | \"O aplicativo provavelmente contribuiu para a queda.\" (se o texto liga os fatos) |\n| **Extrapolação** | Ir **além** do texto (opinião, generalização, dado novo) | \"O aplicativo resolveu todos os problemas.\" |\n\n**Regra de ouro:** a resposta correta **está no texto** (explícita ou implicitamente). Se você precisou do seu conhecimento de mundo ou de uma opinião para validar a alternativa, ela provavelmente é **extrapolação** (errada).\n\n## Passo a passo (como resolver)\n1. Leia o **enunciado primeiro** (o que pedem: ideia central? inferência? INCORRETA? \"segundo o texto\"?).\n2. Leia o texto **uma vez completa**, sublinhando: **quem fez o quê**, conectivos de oposição (mas, porém, embora) e palavras de quantidade (todos, alguns, a maioria, nunca).\n3. Resuma cada parágrafo em **uma frase** mentalmente.\n4. Vá às alternativas e **elimine** as que: (a) usam palavras absolutas (**sempre, nunca, todos, somente, apenas, completamente**) sem apoio no texto; (b) **invertem** causa e consequência; (c) trazem informação **nova**; (d) mudam o **sentido** de um conectivo (\"embora\" virou \"porque\").\n5. Se restar dúvida, volte ao trecho e **localize a frase que prova** a alternativa. Sem prova = errada.\n6. Em questão **INCORRETA/EXCETO**, marque a que o texto contradiz ou não sustenta; as outras três são verdadeiras.\n\n## Tipos de questão frequentes\n- **Ideia central / tema / título:** o que **todos** os parágrafos sustentam. Título é a síntese, não um detalhe.\n- **Inferência:** \"depreende-se\", \"é possível concluir\".\n- **Sentido de palavra/expressão no contexto:** o significado vem do contexto, não do dicionário. Teste: substitua a palavra pela alternativa; a frase mantém o sentido?\n- **Referente de pronome/termo:** a quem \"ele\", \"o\", \"isso\", \"tal\" se refere (veja também Coesão).\n- **Ironia/humor/ponto de vista:** elogio aparente que esconde crítica; o autor critica, defende, ironiza?\n- **Linguagem:** denotativa (sentido literal) x **conotativa** (figurado).\n- **Estrutura:** função de um parágrafo, de um exemplo, de uma pergunta retórica.\n\n## Pegadinhas clássicas\n- Alternativa **verdadeira no mundo real**, mas **não dita no texto** (extrapolação).\n- **Generalização** de dado parcial (pesquisa em 3 bairros → \"toda a cidade\").\n- **Troca** de \"pode ser\" por \"é\"; de \"alguns\" por \"todos\"; de \"em parte\" por \"totalmente\".\n- **Inversão** de causa e efeito.\n- Opinião do **personagem/fonte citada** atribuída ao autor.",
+   "dicas": [
+    "Leia o enunciado ANTES do texto: você já lê procurando o que importa.",
+    "Palavras absolutas (sempre, nunca, todos, somente, completamente) em alternativas são suspeitas — 80% das vezes estão erradas.",
+    "Teste de prova: consiga apontar a FRASE do texto que sustenta a alternativa; sem frase, sem resposta.",
+    "Em \"sentido no contexto\", substitua a palavra pela opção e releia a frase inteira.",
+    "Mas/porém/embora/contudo sinalizam a ideia que o autor quer destacar (geralmente a que vem depois do \"mas\").",
+    "Não responda com o que você acha: responda com o que o texto diz."
+   ],
+   "pegadinhas": [
+    "Alternativa correta no mundo real, mas ausente no texto: é extrapolação, logo errada.",
+    "Generalização indevida: pesquisa com amostra vira afirmação sobre \"todos\".",
+    "Inversão de causa e consequência (\"a chuva ocorreu porque as ruas alagaram\").",
+    "Atribuir ao autor uma opinião que o texto apenas cita como de outra pessoa (\"segundo os críticos...\").",
+    "Trocar conectivo de concessão (embora) por causa (porque) e mudar o sentido da frase.",
+    "Em questão INCORRETA, confundir-se e marcar a verdadeira: releia o comando antes de marcar."
+   ],
+   "flashcards": [
+    {
+     "q": "O que é paráfrase?",
+     "a": "Reescrever a mesma ideia com outras palavras, sem acrescentar nem retirar sentido."
+    },
+    {
+     "q": "O que é inferência?",
+     "a": "Conclusão lógica extraída de informações do texto, ainda que não escrita literalmente."
+    },
+    {
+     "q": "O que é extrapolação?",
+     "a": "Ir além do texto: acrescentar dado, opinião ou generalização que ele não sustenta. Resposta errada."
+    },
+    {
+     "q": "Diferença entre denotação e conotação?",
+     "a": "Denotação = sentido literal/dicionário; conotação = sentido figurado, dependente do contexto."
+    },
+    {
+     "q": "Qual a primeira providência ao resolver questão de interpretação?",
+     "a": "Ler o enunciado (comando) antes do texto."
+    },
+    {
+     "q": "Palavras absolutas que merecem desconfiança?",
+     "a": "Sempre, nunca, todos, ninguém, somente, apenas, completamente, jamais."
+    },
+    {
+     "q": "Como testar o sentido de uma palavra no contexto?",
+     "a": "Substituir pela alternativa e verificar se o sentido da frase se mantém."
+    },
+    {
+     "q": "O que é ironia?",
+     "a": "Dizer o contrário do que se pensa, geralmente para criticar, com elogio aparente."
+    },
+    {
+     "q": "Ideia central é o mesmo que detalhe?",
+     "a": "Não. A ideia central é a síntese do que todos os parágrafos sustentam."
+    },
+    {
+     "q": "Em questão INCORRETA, quantas alternativas são verdadeiras?",
+     "a": "Três; a resposta é a única falsa/não sustentada pelo texto."
+    }
+   ]
+  },
+  {
+   "id": "portugues-tipos-textuais",
+   "titulo": "2. Modos de organização do discurso (descrição, narração, argumentação, injunção, exposição, dissertação)",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## Tipo textual x gênero\n**Tipo (ou modo de organização)** = a estrutura/finalidade do trecho (descrever, narrar...). **Gênero** = a \"forma social\" do texto (notícia, receita, ofício). Um gênero pode misturar tipos; uma receita é **injuntiva**, mas pode ter parte descritiva.\n\n## Os tipos\n| Tipo | Função | Marcas linguísticas | Exemplo |\n|---|---|---|---|\n| **Descritivo** | Retratar características de ser, lugar, objeto (como um \"retrato\") | Verbos de estado/ligação (ser, estar, parecer) no **presente/imperfeito**; **adjetivos**; ausência de progressão temporal | \"A sala era ampla, de paredes claras e piso de madeira.\" |\n| **Narrativo** | Contar fatos no tempo, com personagens e conflito | Verbos de **ação** no **pretérito perfeito**; marcadores temporais (\"depois\", \"de repente\"); narrador, enredo, tempo, espaço | \"Ele abriu a porta e viu o bilhete.\" |\n| **Argumentativo** | **Convencer**: defende um ponto de vista com argumentos | Tese, argumentos, **conectivos** de causa, oposição, conclusão; verbos de opinião | \"Defendo que... pois...\" |\n| **Injuntivo (instrucional)** | Orientar, instruir, dar ordens | **Imperativo** ou infinitivo; passos numerados; vocativo ao leitor | \"Misture, bata, asse.\" |\n| **Expositivo** | **Informar/explicar** um tema sem tentar convencer | Presente do indicativo; linguagem objetiva, impessoal; definições, exemplos | Verbete de enciclopédia, aula, reportagem informativa |\n| **Dissertativo** | Desenvolve ideias em tese + desenvolvimento + conclusão (abstração e raciocínio lógico) | Pode ser **expositivo** (só explica) ou **argumentativo** (defende tese) | Redação de concurso |\n\n## Dissertação expositiva x argumentativa\n- **Expositiva:** apresenta e explica ideias, **sem posicionar-se** (ex.: \"O que é inflação?\").\n- **Argumentativa:** assume **tese** e a defende (ex.: \"A escola deve ensinar educação financeira?\").\n\n## Passo a passo para identificar o tipo\n1. Pergunte: **o trecho pretende** (a) mostrar como algo é? → descritivo; (b) contar o que aconteceu? → narrativo; (c) convencer? → argumentativo; (d) mandar/orientar? → injuntivo; (e) explicar/informar? → expositivo.\n2. Confirme pelos **verbos**: estado → descrição; ação no passado → narração; imperativo → injunção.\n3. Atenção: **a banca cobra o predominante** no trecho.\n\n## Pegadinhas\n- Texto com adjetivos não é necessariamente descritivo se há **sequência de ações no tempo** (narrativo).\n- **Injuntivo** não é só imperativo: \"É necessário bater os ovos\" também orienta.\n- Dissertar **não é** sempre argumentar.",
+   "dicas": [
+    "Descrição = foto; narração = filme; argumentação = debate; injunção = manual; exposição = aula.",
+    "Verbo de ação no pretérito + marcadores de tempo = narrativo.",
+    "Imperativo/infinitivo de comando = injuntivo.",
+    "Conectivos de causa/oposição + tese = argumentativo."
+   ],
+   "pegadinhas": [
+    "Achar que todo texto com adjetivos é descritivo: se há ações em sequência, predomina a narração.",
+    "Achar que texto injuntivo precisa ter verbo no imperativo: o infinitivo e expressões de obrigatoriedade também instruem.",
+    "Confundir exposição (informar) com argumentação (convencer).",
+    "Confundir tipo textual com gênero textual (receita é gênero; injuntivo é tipo)."
+   ],
+   "flashcards": [
+    {
+     "q": "Tipo textual que busca convencer?",
+     "a": "Argumentativo."
+    },
+    {
+     "q": "Verbos típicos da descrição?",
+     "a": "Verbos de ligação/estado (ser, estar, parecer), presente ou pretérito imperfeito."
+    },
+    {
+     "q": "Verbos típicos da narração?",
+     "a": "Verbos de ação, geralmente no pretérito perfeito."
+    },
+    {
+     "q": "Qual tipo usa imperativo e passos numerados?",
+     "a": "Injuntivo (instrucional)."
+    },
+    {
+     "q": "Qual tipo informa sem posicionar-se?",
+     "a": "Expositivo."
+    },
+    {
+     "q": "Estrutura da dissertação?",
+     "a": "Introdução (tese), desenvolvimento (argumentos) e conclusão."
+    },
+    {
+     "q": "Diferença entre dissertação expositiva e argumentativa?",
+     "a": "A expositiva explica; a argumentativa defende uma tese."
+    },
+    {
+     "q": "Elementos da narrativa?",
+     "a": "Narrador, personagens, enredo, tempo e espaço."
+    },
+    {
+     "q": "Receita culinária: tipo e gênero?",
+     "a": "Tipo injuntivo; gênero receita."
+    }
+   ]
+  },
+  {
+   "id": "portugues-generos",
+   "titulo": "3. Gêneros do discurso (ofício, requerimento, ata, notícia, crônica, artigo de opinião...)",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## Conceito\n**Gênero textual** é a forma relativamente estável de texto usada em uma situação social (quem fala, para quem, com que finalidade). A banca pede: **reconhecer o gênero** pela finalidade, estrutura e linguagem.\n\n## Gêneros administrativos (muito úteis para quem fará concurso público)\n| Gênero | Finalidade | Elementos básicos | Linguagem |\n|---|---|---|---|\n| **Ofício** | Comunicação **oficial** entre órgãos/autoridades (ou com particulares) | Timbre, **número**, local e data, **vocativo**, assunto, texto, fecho, assinatura, cargo, destinatário | Formal, impessoal, objetiva |\n| **Requerimento** | **Pedir** algo a uma autoridade, com base em direito | Cabeçalho/vocativo (\"Ilmo. Sr...\"), identificação do requerente, **pedido**, fundamento, \"Nestes termos, pede deferimento\", local, data, assinatura | Formal; o requerente se identifica |\n| **Ata** | **Registro fiel** do que ocorreu em reunião/assembleia | Título, data, hora, local, participantes, pauta, deliberações, fecho, assinaturas; escrita **em texto corrido**, sem parágrafos/espaços em branco | Verbos no **passado**, 3ª pessoa, objetividade; sem rasuras |\n| **Memorando** | Comunicação **interna** entre setores | Número, assunto, destinatário, texto curto | Ágil e formal |\n| **Ofício x memorando** | Ofício: externo; memorando: interno | | |\n| **Procuração, declaração, atestado, edital** | Documentos com finalidade jurídica/administrativa | | |\n\n## Gêneros jornalísticos e literários\n| Gênero | Marca principal |\n|---|---|\n| **Notícia** | Fato **recente**, linguagem objetiva, 3ª pessoa; lide (o quê, quem, quando, onde, como, por quê); título + lide |\n| **Reportagem** | Aprofunda um tema, com fontes e contexto; mais longa que a notícia |\n| **Editorial** | Opinião do **veículo** (jornal), sem assinatura de autor |\n| **Artigo de opinião** | Opinião **assinada** pelo autor; **argumentativo**; tese e argumentos |\n| **Crônica** | Texto **curto** sobre o **cotidiano**, linguagem leve, subjetiva, humor/lirismo; liga fato a reflexão |\n| **Carta do leitor** | Leitor opina/reage a matéria do jornal |\n| **Resenha** | Resumo + avaliação crítica de obra |\n| **Charge** | Humor **crítico** sobre fato **atual**, linguagem verbal e não verbal |\n| **Tirinha/HQ, anúncio, cartum, poema, conto, fábula** | Observe finalidade e estrutura |\n\n## Passo a passo\n1. Quem **fala** e para **quem**? (órgão→órgão = ofício; cidadão→autoridade = requerimento)\n2. **Finalidade**: informar (notícia), opinar (artigo/editorial), registrar (ata), pedir (requerimento), divertir/refletir (crônica).\n3. Observe **linguagem**: objetiva (notícia, ata) x subjetiva (crônica) x argumentativa (artigo).\n4. Elimine alternativas que atribuam a um gênero a função de outro.\n\n## Atenção\nEditorial = **opinião do jornal**; artigo = opinião **do autor** assinante. Notícia **não** deve opinar. Crônica dialoga com o **tempo presente** mas **não** tem a objetividade da notícia.",
+   "dicas": [
+    "Ofício = externo; memorando = interno; requerimento = pedido.",
+    "Ata = registro fiel do ocorrido; em parágrafo único, sem rasuras.",
+    "Editorial sem assinatura (voz do jornal); artigo com assinatura.",
+    "Crônica = cotidiano + subjetividade + brevidade."
+   ],
+   "pegadinhas": [
+    "Confundir editorial (opinião do veículo, sem autor) com artigo de opinião (assinado).",
+    "Dizer que a notícia é opinativa: ela é, em princípio, objetiva.",
+    "Confundir ofício com memorando: o ofício é, em regra, comunicação externa.",
+    "Achar que ata é redigida no futuro ou com pedidos: ela registra fatos já ocorridos.",
+    "Confundir crônica (leve, cotidiano) com conto (ficção narrativa) ou com reportagem."
+   ],
+   "flashcards": [
+    {
+     "q": "Para que serve o requerimento?",
+     "a": "Solicitar algo (direito/benefício) a uma autoridade, com fecho \"pede deferimento\"."
+    },
+    {
+     "q": "Ata: tempo verbal predominante?",
+     "a": "Passado (registra o que ocorreu), em 3ª pessoa."
+    },
+    {
+     "q": "Diferença ofício x memorando?",
+     "a": "Ofício: comunicação externa/oficial; memorando: comunicação interna."
+    },
+    {
+     "q": "O que é lide?",
+     "a": "Primeiro parágrafo da notícia que responde: o quê, quem, quando, onde, como e por quê."
+    },
+    {
+     "q": "Editorial é de quem?",
+     "a": "Do veículo de comunicação (não é assinado pelo autor individual)."
+    },
+    {
+     "q": "Artigo de opinião: tipo predominante?",
+     "a": "Argumentativo, com tese e argumentos, assinado."
+    },
+    {
+     "q": "Crônica: marca principal?",
+     "a": "Texto breve sobre o cotidiano, linguagem leve e subjetiva."
+    },
+    {
+     "q": "Charge: finalidade?",
+     "a": "Crítica bem-humorada de fato atual, com linguagem verbal e visual."
+    },
+    {
+     "q": "Reportagem x notícia?",
+     "a": "Reportagem aprofunda; notícia relata o fato recente de forma breve."
+    }
+   ]
+  },
+  {
+   "id": "portugues-coesao-coerencia",
+   "titulo": "4. Coesão e coerência: mecanismos e efeitos de sentido",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Definições (decore a diferença)\n- **Coesão** = ligação **linguística** entre as partes do texto (palavras e estruturas que \"costuram\" frases). Está na **superfície** do texto.\n- **Coerência** = **sentido lógico**, ausência de contradição, adequação ao contexto/mundo. Está no **significado**.\nUm texto pode ter **coesão sem coerência** (\"Choveu muito, portanto fui ao mercado de bicicleta... Mas a Lua é de queijo, logo...\").\n\n## Mecanismos de coesão\n### 1) Coesão referencial (retomada ou antecipação)\n- **Anáfora**: o termo retoma algo **já dito** (\"Maria chegou. **Ela** sorriu.\").\n- **Catáfora**: o termo antecipa algo **que virá** (\"Só quero **isto**: paz.\").\n- Recursos: **pronomes** (pessoais, demonstrativos, relativos, possessivos), **sinônimos**, **hiperônimos** (o carro → o veículo), **expressões nominais** (\"o prefeito\" → \"o chefe do Executivo municipal\"), **numerais**, advérbios (aqui, lá).\n- **Elipse**: omissão de termo facilmente recuperável (\"Maria comprou pão; (ela) pagou em dinheiro\").\n- **Repetição** (reiteração) proposital, para ênfase.\n\n### 2) Coesão sequencial\nEstabelece relações lógicas pelos **conectivos** (conjunções, preposições, advérbios, locuções: \"portanto\", \"porém\", \"além disso\"), por **tempos verbais** coerentes e por **paralelismo**.\n\n## Mecanismos de coerência\nNão contradição; **progressão** (informação nova a cada parágrafo); **continuidade** de tema; **relevância**; adequação à **situação** (linguagem formal x informal); conhecimento de mundo.\n\n## Problemas típicos (cobrados como \"assinale o problema\")\n| Problema | Exemplo |\n|---|---|\n| **Ambiguidade (referente duvidoso)** | \"João disse a Pedro que **ele** seria promovido.\" (quem?) |\n| **Contradição** | \"Era um jovem velho de 20 anos que...\" sem sentido figurado |\n| **Conectivo inadequado** | \"Estudou muito, **mas** foi aprovado.\" (relação de oposição indevida) |\n| **Repetição desnecessária** | \"O prefeito disse que o prefeito vai...\" |\n| **Paralelismo quebrado** | \"Gosta de nadar, correr e de caminhada.\" |\n| **Mudança brusca de tempo/pessoa** | \"Ontem eu vou ao mercado.\" |\n\n## Passo a passo para questão de coesão\n1. Localize o **termo destacado** (pronome, conectivo, expressão).\n2. Pergunte: **a que ele remete?** (volte à frase anterior; ou adiante, se catáfora).\n3. Substitua o termo pela alternativa; **se o sentido se mantém**, está correto.\n4. Em questão de **conectivo**, descubra a relação (causa, oposição...) e confira a alternativa (ver tópico Conectivos).\n5. Em questão de **reordenação**: ache o parágrafo/frase de **abertura** (sem pronome sem referente nem conectivo de continuidade) e siga os conectivos.\n\n## Efeitos de sentido\nRetomar com **sinônimo/hiperônimo** evita repetição e **qualifica** o objeto (\"o político\" → \"o infeliz\"). A **repetição** pode enfatizar. A **elipse** dá **concisão**. **Conectivos** orientam o raciocínio do leitor.",
+   "dicas": [
+    "Coesão = costura (palavras); coerência = lógica (ideias).",
+    "Anáfora retoma (para trás); catáfora antecipa (para frente).",
+    "Em reordenação de frases, procure primeiro a frase que não tem pronome sem referente nem conectivo de continuidade: é a abertura.",
+    "Para checar um pronome: troque pelo termo que você acha que ele retoma e releia."
+   ],
+   "pegadinhas": [
+    "Achar que coesão e coerência são sinônimos: podem existir independentemente.",
+    "Confundir anáfora (retoma) com catáfora (antecipa).",
+    "Marcar como \"repetição\" uma retomada por sinônimo ou hiperônimo (isso é mecanismo de coesão).",
+    "Substituir conectivo por outro de valor semântico diferente (mas por logo) e dizer que mantém o sentido.",
+    "Ignorar a ambiguidade do pronome \"ele/ela/seu\" quando há dois possíveis referentes."
+   ],
+   "flashcards": [
+    {
+     "q": "O que é coesão?",
+     "a": "Ligação linguística entre as partes do texto (pronomes, conectivos, elipse, sinonímia...)."
+    },
+    {
+     "q": "O que é coerência?",
+     "a": "Sentido lógico global do texto, sem contradição e adequado ao contexto."
+    },
+    {
+     "q": "Anáfora?",
+     "a": "Termo que retoma algo já mencionado."
+    },
+    {
+     "q": "Catáfora?",
+     "a": "Termo que antecipa algo que será dito."
+    },
+    {
+     "q": "O que é elipse?",
+     "a": "Omissão de termo facilmente identificável pelo contexto."
+    },
+    {
+     "q": "Hiperônimo?",
+     "a": "Palavra de sentido mais amplo que engloba outra (animal em relação a cão)."
+    },
+    {
+     "q": "Coesão sequencial usa principalmente...?",
+     "a": "Conectivos e tempos verbais para ligar ideias."
+    },
+    {
+     "q": "Exemplo de falha de paralelismo?",
+     "a": "Gosta de ler, escrever e de música (estruturas diferentes na enumeração)."
+    },
+    {
+     "q": "Efeito de retomar por sinônimo?",
+     "a": "Evita repetição e pode acrescentar avaliação (o político -> o infeliz)."
+    }
+   ]
+  },
+  {
+   "id": "portugues-relacoes-partes",
+   "titulo": "5. Relação entre as partes do texto: causa, consequência, comparação, conclusão, exemplificação, generalização, particularização",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## O que a banca pede\nDado um trecho, identificar **qual relação lógica** liga uma parte à outra, ou **qual conectivo/expressão** a explicita. É raciocínio lógico aplicado à leitura: uma habilidade que você tem.\n\n## As relações e seus \"sinais\"\n| Relação | Pergunta-chave | Sinais comuns | Exemplo |\n|---|---|---|---|\n| **Causa** | Por quê? | porque, pois, já que, visto que, devido a, em virtude de, graças a | \"O rio transbordou **porque** choveu muito.\" |\n| **Consequência** | Qual o resultado? | de modo que, tanto que, portanto, por isso, logo, assim, então, tão... que | \"Choveu muito; **por isso** o rio transbordou.\" |\n| **Comparação** | Semelhante a quê? | como, tal qual, assim como, mais/menos... (do) que, tanto quanto | \"Ele corre **como** um atleta.\" |\n| **Conclusão** | O que se deduz? | portanto, logo, assim, em suma, em conclusão, por conseguinte | \"Todos pagaram; **logo**, o caixa fechou.\" |\n| **Exemplificação** | Qual um caso? | por exemplo, como (= tais como), isto é (explicação), a saber, ou seja | \"Frutas cítricas, **como** laranja e limão.\" |\n| **Generalização** | Vale para o todo | em geral, de modo geral, no geral, geralmente, todos, sempre, de forma ampla | \"**Em geral**, o brasileiro valoriza a família.\" |\n| **Particularização** | Vale para um caso | em particular, especificamente, especialmente, sobretudo, em especial | \"Gosta de música, **em particular** do samba.\" |\n| **Oposição/Contraste** | Contrário? | mas, porém, contudo, embora | |\n| **Explicação/Reformulação** | Dito de outro modo | isto é, ou seja, quer dizer | |\n\n## Passo a passo\n1. Leia o trecho e **resuma cada parte** em uma frase.\n2. Pergunte \"A segunda parte **explica** a primeira? **Resulta** dela? **Exemplifica**? **Contraria**?\"\n3. Teste a **ordem**: se trocar causa por consequência o sentido quebra? Então são causa/consequência.\n4. **Cuidado com \"como\"**: pode ser **comparação** (\"como um leão\"), **causa** (\"Como estava cansado, dormiu\"), **exemplo** (\"frutas como a maçã\"), **conformidade** (\"como você disse\").\n5. Marque a alternativa cuja **relação** rotulada confere com o teste.\n\n## Pegadinhas\n- **Causa x consequência**: a que vem depois do \"porque\" é a **causa**; a que vem depois de \"portanto\" é a **consequência**/conclusão.\n- **Conclusão x consequência**: conclusão é dedução lógica (\"Choveu, logo a rua está molhada\"); consequência é efeito de fato.\n- **Generalização** x **particularização**: o \"todo\" x a \"parte\".\n- \"Como\" não é sempre comparação!",
+   "dicas": [
+    "Depois do \"porque\": causa. Depois do \"portanto/logo/por isso\": consequência/conclusão.",
+    "\"Como\" tem 4 valores: comparação, causa, exemplo, conformidade — veja o contexto.",
+    "Generalização = \"em geral, todos\"; particularização = \"em especial, sobretudo\".",
+    "Reformule com \"porque\": se a frase continua fazendo sentido, a relação é de causa."
+   ],
+   "pegadinhas": [
+    "Trocar causa por consequência: \"O aluno foi aprovado porque estudou\" (causa = estudar); invertida seria erro.",
+    "Achar que todo \"como\" é comparação.",
+    "Confundir explicação (\"isto é\") com exemplificação (\"por exemplo\").",
+    "Chamar de generalização um trecho que particulariza (e vice-versa)."
+   ],
+   "flashcards": [
+    {
+     "q": "Conectivos de causa?",
+     "a": "Porque, pois (antes do verbo), já que, visto que, como (inicial), devido a."
+    },
+    {
+     "q": "Conectivos de consequência?",
+     "a": "De modo que, tanto que, por isso, portanto, logo."
+    },
+    {
+     "q": "Sinais de exemplificação?",
+     "a": "Por exemplo, como, tais como, a saber."
+    },
+    {
+     "q": "Sinais de conclusão?",
+     "a": "Logo, portanto, assim, por conseguinte, em suma."
+    },
+    {
+     "q": "Sinais de particularização?",
+     "a": "Em especial, sobretudo, em particular, especialmente."
+    },
+    {
+     "q": "Sinais de generalização?",
+     "a": "Em geral, de modo geral, geralmente."
+    },
+    {
+     "q": "Valores da palavra \"como\"?",
+     "a": "Comparação, causa, exemplo, conformidade e modo."
+    },
+    {
+     "q": "Diferença entre conclusão e consequência?",
+     "a": "Conclusão = dedução lógica; consequência = efeito/resultado de fato."
+    },
+    {
+     "q": "Comparação: sinais?",
+     "a": "Como, tal qual, assim como, mais/menos que."
+    }
+   ]
+  },
+  {
+   "id": "portugues-conectivos",
+   "titulo": "6. Conectivos: classificação, uso e efeitos de sentido (conjunções coordenativas e subordinativas)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Ideia geral\n**Conectivos** ligam palavras, orações ou parágrafos e **definem a relação de sentido**. Os principais são as **conjunções**. Trocar um conectivo por outro de valor diferente **muda o sentido** — pegadinha favorita.\n\n## Conjunções COORDENATIVAS (ligam orações independentes)\n| Tipo | Valor | Conjunções |\n|---|---|---|\n| **Aditivas** | soma | **e, nem**, não só... mas também, tanto... quanto |\n| **Adversativas** | oposição | **mas, porém, todavia, contudo, entretanto, no entanto, não obstante**, senão |\n| **Alternativas** | escolha | **ou**, ora... ora, quer... quer, seja... seja |\n| **Conclusivas** | conclusão | **logo, portanto, por isso, então, pois** (depois do verbo), assim, por conseguinte |\n| **Explicativas** | explicação | **que, porque, pois** (antes do verbo), porquanto |\n\n## Conjunções SUBORDINATIVAS (ligam oração dependente à principal)\n| Tipo | Valor | Conjunções |\n|---|---|---|\n| **Causais** | causa | porque, **como** (início), já que, visto que, uma vez que, dado que, visto como |\n| **Concessivas** | **oposição que não impede** | **embora, ainda que, mesmo que, apesar de que, conquanto, se bem que, posto que, por mais que** |\n| **Condicionais** | condição | **se, caso, desde que, contanto que, a menos que, salvo se, sem que** |\n| **Finais** | finalidade | **para que, a fim de que**, que |\n| **Consecutivas** | consequência | **tão... que, tanto... que, de modo que, de forma que**, que (após tal, tão) |\n| **Comparativas** | comparação | **como, que, (do) que**, tal qual, assim como, tanto quanto |\n| **Conformativas** | conformidade | **conforme, segundo, consoante, como** (= de acordo com) |\n| **Proporcionais** | proporção | **à medida que, à proporção que, quanto mais... mais** |\n| **Temporais** | tempo | **quando, enquanto, assim que, logo que, depois que, antes que, mal, sempre que** |\n| **Integrantes** | completam verbo (substantivas) | **que, se** |\n\n## Pegadinhas de sentido (os pares mais cobrados)\n- **Mas ≠ embora**: \"Choveu, **mas** saímos\" (adversativa, coordenada) x \"**Embora** chovesse, saímos\" (concessiva, subordinada). Ambas indicam contraste, **mas a estrutura sintática muda**.\n- **Pois**: no início da oração, depois de vírgula = **explicativa** (\"Venha logo, pois é tarde\"); **depois do verbo, entre vírgulas = conclusiva** (\"Está tarde; devemos, pois, sair\").\n- **Que**: pode ser integrante, relativo, explicativo, consecutivo...\n- **Como**: causa, comparação, conformidade.\n- **Se**: condicional **ou** integrante (dúvida: \"Não sei se virá\").\n- **Porque** (junto) = causa/explicação; **por que** pergunta; **porquê** substantivo (ver Ortografia).\n- **Posto que** = **embora** (concessiva), **não** \"porque\"! (é o mais cobrado).\n\n## Passo a passo\n1. Identifique o conectivo no trecho.\n2. Descubra a **relação lógica** (use: causa? oposição? condição?).\n3. Se a questão pede **substituição**, teste: o novo conectivo tem **mesmo valor**? Atenção à **ordem das orações** e ao **modo verbal** (concessiva pede subjuntivo: \"embora **chova**\").\n4. Se pedir classificação da oração, ligue o conectivo ao nome (embora → concessiva).\n\n## Efeitos de sentido\n- **Mas/porém** colocados no meio dão **ênfase à segunda ideia**.\n- **Ainda que/embora** **atenuam** a primeira ideia.\n- **Portanto** sinaliza a **tese concluída**.",
+   "dicas": [
+    "Macete das adversativas: MAPOTOCONENTRE (mas, porém, todavia, contudo, entretanto, no entanto).",
+    "Posto que = embora (concessiva). Pegadinha clássica!",
+    "Concessiva pede subjuntivo; \"embora\" nunca equivale a \"porque\".",
+    "\"Pois\" depois do verbo, entre vírgulas = conclusiva; antes = explicativa.",
+    "Condição: se, caso, desde que, contanto que, a menos que."
+   ],
+   "pegadinhas": [
+    "Achar que \"posto que\" é causal (é concessiva = embora).",
+    "Dizer que \"pois\" é sempre explicativa.",
+    "Trocar \"embora\" por \"porque\" e achar que o sentido se manteve.",
+    "Confundir adversativa (coordenada) com concessiva (subordinada): ambas contrastam, mas a estrutura é diferente.",
+    "Achar que \"como\" é sempre comparativo.",
+    "Aceitar \"à medida que\" como causal; é proporcional."
+   ],
+   "flashcards": [
+    {
+     "q": "Conjunções adversativas?",
+     "a": "Mas, porém, todavia, contudo, entretanto, no entanto, não obstante."
+    },
+    {
+     "q": "Conjunções concessivas?",
+     "a": "Embora, ainda que, mesmo que, conquanto, se bem que, posto que, por mais que."
+    },
+    {
+     "q": "Conjunções condicionais?",
+     "a": "Se, caso, desde que, contanto que, a menos que, salvo se."
+    },
+    {
+     "q": "Conjunções finais?",
+     "a": "Para que, a fim de que."
+    },
+    {
+     "q": "Conjunções conclusivas?",
+     "a": "Logo, portanto, por isso, então, assim, pois (depois do verbo)."
+    },
+    {
+     "q": "Conjunções explicativas?",
+     "a": "Que, porque, pois (antes do verbo), porquanto."
+    },
+    {
+     "q": "Conjunções consecutivas?",
+     "a": "Tão... que, tanto... que, de modo que, de forma que."
+    },
+    {
+     "q": "Conjunções proporcionais?",
+     "a": "À medida que, à proporção que, quanto mais... mais."
+    },
+    {
+     "q": "Conjunções conformativas?",
+     "a": "Conforme, segundo, consoante, como (= de acordo com)."
+    },
+    {
+     "q": "Conjunção integrante?",
+     "a": "Que e se; introduzem orações substantivas."
+    },
+    {
+     "q": "Posto que equivale a...?",
+     "a": "Embora (concessiva)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "portugues-interpretacao-q01",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 1,
+   "enunciado": "Leia o texto.\n\n\"A Prefeitura de uma cidade do interior anunciou que as filas nos postos de saúde diminuíram 30% depois da implantação do agendamento pelo aplicativo. Moradores idosos, porém, relatam dificuldade para usar a ferramenta e continuam indo cedo aos postos, na esperança de conseguir atendimento. A secretaria afirma que oferecerá oficinas de capacitação.\"\n\nAssinale a alternativa que traz uma inferência adequada ao texto.",
+   "alternativas": {
+    "A": "O aplicativo fracassou e deve ser abandonado pela Prefeitura.",
+    "B": "Todos os idosos da cidade foram excluídos do atendimento de saúde.",
+    "C": "O aplicativo reduziu as filas, mas parte do público idoso ainda não se beneficia plenamente dele.",
+    "D": "As filas nos postos de saúde acabaram por completo após o aplicativo."
+   },
+   "gabarito": "C",
+   "explicacao": "A inferência (redução de 30% + dificuldade dos idosos) é sustentada pelo texto. As demais extrapolam: não se diz que fracassou, que \"todos\" foram excluídos ou que as filas acabaram (houve queda de 30%)."
+  },
+  {
+   "id": "portugues-interpretacao-q02",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Com base no mesmo texto (\"A Prefeitura de uma cidade do interior anunciou que as filas nos postos de saúde diminuíram 30% depois da implantação do agendamento pelo aplicativo. Moradores idosos, porém, relatam dificuldade para usar a ferramenta e continuam indo cedo aos postos, na esperança de conseguir atendimento. A secretaria afirma que oferecerá oficinas de capacitação.\"), assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "A secretaria reconheceu o fracasso do aplicativo e anunciou que irá desativá-lo.",
+    "B": "A redução das filas é atribuída, pela Prefeitura, ao agendamento digital.",
+    "C": "Há relatos de que idosos enfrentam barreiras no uso do aplicativo.",
+    "D": "A secretaria prevê ações de capacitação para os usuários."
+   },
+   "gabarito": "A",
+   "explicacao": "O texto não diz que houve reconhecimento de fracasso nem desativação; ao contrário, fala em oficinas de capacitação. As demais estão no texto."
+  },
+  {
+   "id": "portugues-interpretacao-q03",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 1,
+   "enunciado": "Leia: \"Depois de esperar quatro horas na repartição, Jorge foi informado de que faltava um carimbo. 'Que eficiência admirável!', comentou, guardando os papéis.\"\n\nA expressão \"Que eficiência admirável!\" expressa",
+   "alternativas": {
+    "A": "elogio sincero ao serviço prestado pela repartição.",
+    "B": "ironia, pois o personagem critica a ineficiência do atendimento por meio de um elogio aparente.",
+    "C": "gratidão do personagem por ter sido atendido.",
+    "D": "surpresa positiva com a rapidez do atendimento."
+   },
+   "gabarito": "B",
+   "explicacao": "A situação (quatro horas de espera, falta de carimbo) contradiz o elogio, caracterizando ironia: diz-se o contrário do que se pensa, para criticar."
+  },
+  {
+   "id": "portugues-interpretacao-q04",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n\"Ler não é apenas decodificar palavras. O leitor competente aciona o que já sabe sobre o assunto, formula hipóteses e confere-as ao longo do texto. Por isso, dois leitores podem extrair do mesmo texto compreensões diferentes, o que não significa que qualquer interpretação seja válida: o texto impõe limites ao que se pode dizer sobre ele.\"\n\nA ideia central do texto é que",
+   "alternativas": {
+    "A": "qualquer interpretação de um texto é igualmente válida, desde que o leitor a defenda.",
+    "B": "ler consiste basicamente em decodificar as palavras que compõem o texto.",
+    "C": "dois leitores competentes sempre chegam exatamente à mesma compreensão do texto.",
+    "D": "a leitura é um processo ativo do leitor, mas a interpretação encontra limites no próprio texto."
+   },
+   "gabarito": "D",
+   "explicacao": "O texto afirma duas coisas: leitura ativa e limite imposto pelo texto. As demais alternativas contrariam o texto (decodificar não basta; nem qualquer interpretação vale; compreensões podem diferir)."
+  },
+  {
+   "id": "portugues-interpretacao-q05",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Releia o final do texto anterior: \"...o que não significa que qualquer interpretação seja válida: o texto impõe limites...\". A oração \"o que não significa que qualquer interpretação seja válida\" tem a função de",
+   "alternativas": {
+    "A": "apresentar um exemplo da ideia anterior.",
+    "B": "expor a causa da diferença entre as compreensões.",
+    "C": "concluir, de forma obrigatória, o raciocínio anterior.",
+    "D": "fazer uma ressalva à ideia anterior, restringindo-lhe o alcance."
+   },
+   "gabarito": "D",
+   "explicacao": "A expressão \"o que não significa que\" introduz limite/ressalva à afirmação de que leitores podem compreender diferentemente."
+  },
+  {
+   "id": "portugues-interpretacao-q06",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia: \"O prefeito assinou o decreto na segunda-feira. Ele estabelece novos horários para o comércio, o que desagradou os lojistas, que o consideraram prejudicial às vendas.\"\n\nO pronome \"o\", em \"que o consideraram prejudicial\", refere-se a",
+   "alternativas": {
+    "A": "prefeito.",
+    "B": "comércio.",
+    "C": "decreto.",
+    "D": "lojistas."
+   },
+   "gabarito": "C",
+   "explicacao": "O que foi considerado prejudicial às vendas é o decreto (que estabelece novos horários). Os lojistas são o sujeito de \"consideraram\"; o pronome \"o\" é o objeto, retomando \"decreto\"."
+  },
+  {
+   "id": "portugues-interpretacao-q07",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia: \"Embora o orçamento tenha sido ampliado, as obras continuam paradas por falta de licitação.\"\n\nAssinale a paráfrase que mantém o sentido da frase.",
+   "alternativas": {
+    "A": "Como o orçamento foi ampliado, as obras continuam paradas por falta de licitação.",
+    "B": "Apesar da ampliação do orçamento, as obras seguem paralisadas porque não houve licitação.",
+    "C": "O orçamento foi ampliado porque as obras estavam paradas por falta de licitação.",
+    "D": "As obras continuam paradas porque o orçamento não foi ampliado."
+   },
+   "gabarito": "B",
+   "explicacao": "\"Embora\" é concessiva (contraste sem impedir). A paráfrase correta mantém a concessão (\"apesar de\") e a causa da paralisação. As demais invertem ou criam causas inexistentes."
+  },
+  {
+   "id": "portugues-interpretacao-q08",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia: \"Pesquisa realizada em três bairros da cidade indicou que 62% dos entrevistados aprovam a nova ciclovia.\"\n\nAssinale a conclusão que pode ser extraída do texto sem extrapolação.",
+   "alternativas": {
+    "A": "A maioria dos entrevistados nos três bairros aprova a ciclovia.",
+    "B": "A maioria dos moradores de toda a cidade aprova a ciclovia.",
+    "C": "Todos os moradores dos três bairros aprovam a ciclovia.",
+    "D": "A ciclovia foi construída por pressão popular."
+   },
+   "gabarito": "A",
+   "explicacao": "62% é maioria da amostra. Generalizar para \"toda a cidade\" ou \"todos\" é extrapolar; a causa da construção não aparece no texto."
+  },
+  {
+   "id": "portugues-interpretacao-q09",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Considerando o texto sobre o agendamento por aplicativo nos postos de saúde (queda de 30% nas filas, dificuldade dos idosos e oficinas de capacitação), o título que melhor sintetiza o conteúdo é",
+   "alternativas": {
+    "A": "Agendamento digital reduz filas, mas ainda desafia os idosos.",
+    "B": "Prefeitura fracassa na tentativa de modernizar a saúde.",
+    "C": "Idosos rejeitam tecnologia e prejudicam o atendimento.",
+    "D": "Oficinas de capacitação resolvem todos os problemas dos postos."
+   },
+   "gabarito": "A",
+   "explicacao": "O bom título sintetiza o texto todo (ganho + dificuldade). Os demais tomam parte, exageram ou atribuem juízos inexistentes."
+  },
+  {
+   "id": "portugues-interpretacao-q10",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n\"Na cidade, o 'jeitinho' é tratado como virtude por uns e como vício por outros. Quem o defende vê nele criatividade diante da burocracia; quem o condena enxerga apenas uma porta aberta para privilégios.\"\n\nSegundo o texto, quem condena o \"jeitinho\"",
+   "alternativas": {
+    "A": "o considera sinal de criatividade diante da burocracia.",
+    "B": "o trata como virtude a ser estimulada.",
+    "C": "o associa à concessão de privilégios.",
+    "D": "o vê como forma legítima de combater a burocracia."
+   },
+   "gabarito": "C",
+   "explicacao": "A parte final atribui aos críticos a visão de \"porta aberta para privilégios\". As demais alternativas atribuem a posição dos defensores aos críticos."
+  },
+  {
+   "id": "portugues-tipos-textuais-q01",
+   "topico": "portugues-tipos-textuais",
+   "dificuldade": 1,
+   "enunciado": "\"Misture a farinha e o açúcar. Em seguida, acrescente os ovos e bata por cinco minutos.\"\n\nO trecho acima é predominantemente",
+   "alternativas": {
+    "A": "descritivo, pois caracteriza ingredientes.",
+    "B": "injuntivo, pois orienta o leitor a executar ações.",
+    "C": "narrativo, pois relata fatos ocorridos no passado.",
+    "D": "argumentativo, pois defende uma tese."
+   },
+   "gabarito": "B",
+   "explicacao": "Verbos no imperativo e sequência de passos indicam texto injuntivo (instrucional)."
+  },
+  {
+   "id": "portugues-tipos-textuais-q02",
+   "topico": "portugues-tipos-textuais",
+   "dificuldade": 2,
+   "enunciado": "\"A cidade amanheceu cinzenta. As ruas, molhadas, refletiam os postes ainda acesos; nas calçadas, poucos passantes caminhavam encolhidos, com guarda-chuvas escuros.\"\n\nO trecho tem predomínio do tipo",
+   "alternativas": {
+    "A": "injuntivo, em razão da orientação ao leitor.",
+    "B": "argumentativo, em razão da defesa de um ponto de vista.",
+    "C": "expositivo, em razão da explicação de um conceito.",
+    "D": "descritivo, em razão da caracterização de ambiente por meio de adjetivos e verbos de estado/imperfeito."
+   },
+   "gabarito": "D",
+   "explicacao": "Há retrato do espaço (cinzenta, molhadas, escuros), com pretérito imperfeito e sem progressão de ações: descrição."
+  },
+  {
+   "id": "portugues-tipos-textuais-q03",
+   "topico": "portugues-tipos-textuais",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre os tipos textuais.",
+   "alternativas": {
+    "A": "O texto narrativo apresenta sequência de ações no tempo, com personagens, espaço e conflito.",
+    "B": "O texto injuntivo orienta ou instrui o leitor, geralmente com imperativo ou infinitivo.",
+    "C": "O texto argumentativo defende um ponto de vista com apoio em argumentos.",
+    "D": "O texto expositivo tem como objetivo principal convencer o leitor de uma tese por meio de argumentos."
+   },
+   "gabarito": "D",
+   "explicacao": "Quem busca convencer é o argumentativo; o expositivo informa/explica. As demais definições estão corretas."
+  },
+  {
+   "id": "portugues-tipos-textuais-q04",
+   "topico": "portugues-tipos-textuais",
+   "dificuldade": 2,
+   "enunciado": "\"Defendo que o transporte público deve ser gratuito aos domingos, pois a medida estimularia o uso do sistema e reduziria o trânsito. Logo, a Prefeitura deveria adotá-la.\"\n\nO trecho é predominantemente",
+   "alternativas": {
+    "A": "narrativo, pois conta uma sequência de fatos.",
+    "B": "descritivo, pois retrata características do transporte público.",
+    "C": "argumentativo, pois apresenta tese, argumentos e conclusão.",
+    "D": "injuntivo, pois dá ordens ao leitor."
+   },
+   "gabarito": "C",
+   "explicacao": "Há tese (\"defendo que\"), argumento (\"pois\") e conclusão (\"logo\"): argumentação."
+  },
+  {
+   "id": "portugues-generos-q01",
+   "topico": "portugues-generos",
+   "dificuldade": 1,
+   "enunciado": "Um cidadão deseja solicitar à Secretaria de Fazenda a segunda via de um documento, com base em direito que lhe cabe, e termina o texto com \"Nestes termos, pede deferimento\". O gênero é",
+   "alternativas": {
+    "A": "requerimento.",
+    "B": "ata.",
+    "C": "ofício circular.",
+    "D": "notícia."
+   },
+   "gabarito": "A",
+   "explicacao": "O pedido formal a uma autoridade, com o fecho \"pede deferimento\", caracteriza o requerimento."
+  },
+  {
+   "id": "portugues-generos-q02",
+   "topico": "portugues-generos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que traz a característica correta da ata.",
+   "alternativas": {
+    "A": "Solicita benefício a uma autoridade, com fecho \"pede deferimento\".",
+    "B": "Registra fielmente o que ocorreu em reunião, com verbos no passado e sem rasuras.",
+    "C": "Expressa a opinião do jornal sobre assunto polêmico.",
+    "D": "É comunicação interna entre setores, sempre numerada."
+   },
+   "gabarito": "B",
+   "explicacao": "A ata é o registro fiel de reunião/assembleia, em passado e texto corrido. As demais descrevem requerimento, editorial e memorando."
+  },
+  {
+   "id": "portugues-generos-q03",
+   "topico": "portugues-generos",
+   "dificuldade": 2,
+   "enunciado": "Quanto aos gêneros jornalísticos, é INCORRETO afirmar que",
+   "alternativas": {
+    "A": "a notícia relata fato recente com linguagem predominantemente objetiva.",
+    "B": "o artigo de opinião é assinado e defende ponto de vista do autor.",
+    "C": "a reportagem aprofunda um tema, com fontes e contexto.",
+    "D": "o editorial é assinado pelo autor e expressa apenas a opinião pessoal dele."
+   },
+   "gabarito": "D",
+   "explicacao": "O editorial expressa a opinião do veículo, em geral sem assinatura individual. As demais estão corretas."
+  },
+  {
+   "id": "portugues-generos-q04",
+   "topico": "portugues-generos",
+   "dificuldade": 2,
+   "enunciado": "Texto curto sobre o cotidiano, de linguagem leve e subjetiva, que parte de um fato banal para provocar humor ou reflexão, publicado em jornal. Trata-se de",
+   "alternativas": {
+    "A": "crônica.",
+    "B": "edital.",
+    "C": "resenha técnica.",
+    "D": "ata."
+   },
+   "gabarito": "A",
+   "explicacao": "Brevidade, cotidiano, subjetividade e leveza são marcas da crônica."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q01",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 1,
+   "enunciado": "Leia: \"Maria encontrou o prefeito no corredor. Ela lhe entregou o relatório.\"\n\nO termo \"lhe\" refere-se a",
+   "alternativas": {
+    "A": "Maria, e a retomada constitui catáfora.",
+    "B": "prefeito, e a retomada constitui coesão referencial anafórica.",
+    "C": "relatório, e a retomada constitui elipse.",
+    "D": "corredor, e a retomada constitui hiperonímia."
+   },
+   "gabarito": "B",
+   "explicacao": "\"Lhe\" retoma \"o prefeito\", já mencionado antes: anáfora. \"Ela\" é Maria (sujeito); \"lhe\" é complemento indireto."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q02",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 2,
+   "enunciado": "Em \"Só quero isto: um pouco de paz\", o pronome \"isto\" estabelece coesão por",
+   "alternativas": {
+    "A": "anáfora, pois retoma um termo já mencionado.",
+    "B": "elipse, pois omite um termo recuperável.",
+    "C": "catáfora, pois antecipa o termo que será mencionado a seguir.",
+    "D": "sinonímia, pois substitui termo de mesmo sentido."
+   },
+   "gabarito": "C",
+   "explicacao": "\"Isto\" aponta para frente (\"um pouco de paz\"): catáfora."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q03",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que há problema de ambiguidade que compromete a coesão.",
+   "alternativas": {
+    "A": "\"Carlos avisou a Paulo que ele seria promovido.\"",
+    "B": "\"Carlos avisou a Paulo que a promoção seria divulgada.\"",
+    "C": "\"Carlos, que é gerente, avisou a Paulo.\"",
+    "D": "\"Carlos avisou Paulo e saiu.\""
+   },
+   "gabarito": "A",
+   "explicacao": "\"Ele\" pode ser Carlos ou Paulo: referente ambíguo. As outras frases não deixam dúvida sobre os referentes."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q04",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 2,
+   "enunciado": "Em \"Os alunos chegaram cedo. Os estudantes aguardaram em silêncio.\", a expressão \"Os estudantes\" é um recurso de coesão por",
+   "alternativas": {
+    "A": "catáfora, que antecipa informação posterior.",
+    "B": "elipse, que omite um termo.",
+    "C": "conectivo, que indica oposição.",
+    "D": "substituição por sinônimo, que evita repetição do termo."
+   },
+   "gabarito": "D",
+   "explicacao": "\"Estudantes\" retoma \"alunos\" por sinonímia (coesão lexical), evitando repetição."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q05",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta INCOERÊNCIA (contradição) lógica.",
+   "alternativas": {
+    "A": "\"Estudou o dia inteiro, por isso foi aprovado.\"",
+    "B": "\"Estudou o dia inteiro, por isso foi reprovado por não ter aberto um livro.\"",
+    "C": "\"Embora tenha estudado pouco, foi aprovado.\"",
+    "D": "\"Como não estudou, foi reprovado.\""
+   },
+   "gabarito": "B",
+   "explicacao": "A primeira frase se contradiz (estudou o dia inteiro, mas não abriu um livro) e a relação de consequência não se sustenta. As demais são coerentes."
+  },
+  {
+   "id": "portugues-coesao-coerencia-q06",
+   "topico": "portugues-coesao-coerencia",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que a mudança do conectivo ALTERA o sentido da frase original: \"Embora estivesse cansado, concluiu o trabalho.\"",
+   "alternativas": {
+    "A": "\"Apesar de estar cansado, concluiu o trabalho.\"",
+    "B": "\"Ainda que estivesse cansado, concluiu o trabalho.\"",
+    "C": "\"Porque estava cansado, concluiu o trabalho.\"",
+    "D": "\"Mesmo cansado, concluiu o trabalho.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"Embora\", \"apesar de\", \"ainda que\" e \"mesmo\" indicam concessão; \"porque\" cria relação de causa, alterando o sentido."
+  },
+  {
+   "id": "portugues-relacoes-partes-q01",
+   "topico": "portugues-relacoes-partes",
+   "dificuldade": 2,
+   "enunciado": "Em \"Choveu tanto que as ruas alagaram\", a relação entre as orações é de",
+   "alternativas": {
+    "A": "causa.",
+    "B": "comparação.",
+    "C": "condição.",
+    "D": "consequência."
+   },
+   "gabarito": "D",
+   "explicacao": "\"Tanto... que\" introduz consequência da intensidade da chuva."
+  },
+  {
+   "id": "portugues-relacoes-partes-q02",
+   "topico": "portugues-relacoes-partes",
+   "dificuldade": 2,
+   "enunciado": "\"Frutas cítricas, como a laranja e o limão, são ricas em vitamina C.\" A expressão \"como a laranja e o limão\" estabelece relação de",
+   "alternativas": {
+    "A": "comparação.",
+    "B": "causa.",
+    "C": "exemplificação.",
+    "D": "conclusão."
+   },
+   "gabarito": "C",
+   "explicacao": "\"Como\" introduz exemplos de frutas cítricas."
+  },
+  {
+   "id": "portugues-relacoes-partes-q03",
+   "topico": "portugues-relacoes-partes",
+   "dificuldade": 3,
+   "enunciado": "Em \"Em geral, o brasileiro gosta de futebol; em especial, de seu time do coração\", os termos destacados indicam, respectivamente,",
+   "alternativas": {
+    "A": "generalização e particularização.",
+    "B": "particularização e generalização.",
+    "C": "causa e consequência.",
+    "D": "comparação e conclusão."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Em geral\" amplia (todo); \"em especial\" restringe (parte)."
+  },
+  {
+   "id": "portugues-relacoes-partes-q04",
+   "topico": "portugues-relacoes-partes",
+   "dificuldade": 3,
+   "enunciado": "Em \"Todos os convidados chegaram; logo, a reunião pode começar\", a segunda oração expressa",
+   "alternativas": {
+    "A": "causa.",
+    "B": "conclusão.",
+    "C": "comparação.",
+    "D": "oposição."
+   },
+   "gabarito": "B",
+   "explicacao": "\"Logo\" inicia dedução a partir da primeira oração: conclusão."
+  },
+  {
+   "id": "portugues-conectivos-q01",
+   "topico": "portugues-conectivos",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que a conjunção destacada estabelece relação de CONCESSÃO.",
+   "alternativas": {
+    "A": "\"Compareceu à reunião, pois estava interessado no assunto.\"",
+    "B": "\"Posto que estivesse doente, compareceu à reunião.\"",
+    "C": "\"Se estivesse doente, não compareceria à reunião.\"",
+    "D": "\"Estudou muito, de modo que passou na prova.\""
+   },
+   "gabarito": "B",
+   "explicacao": "\"Posto que\" = \"embora\" (concessiva). \"Pois\" = explicativa; \"se\" = condicional; \"de modo que\" = consecutiva."
+  },
+  {
+   "id": "portugues-conectivos-q02",
+   "topico": "portugues-conectivos",
+   "dificuldade": 1,
+   "enunciado": "Em qual alternativa a conjunção \"pois\" tem valor CONCLUSIVO?",
+   "alternativas": {
+    "A": "\"Venha logo, pois é tarde.\"",
+    "B": "\"Não saí, pois chovia.\"",
+    "C": "\"O prazo terminou; devemos, pois, encerrar o processo.\"",
+    "D": "\"Pois bem, vou aceitar o convite.\""
+   },
+   "gabarito": "C",
+   "explicacao": "\"Pois\" deslocado, entre vírgulas, depois do verbo, é conclusivo. Nas demais, introduz explicação/causa ou é expressão de continuidade."
+  },
+  {
+   "id": "portugues-conectivos-q03",
+   "topico": "portugues-conectivos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Embora fosse cedo, o comércio já estava aberto\", a oração subordinada é",
+   "alternativas": {
+    "A": "concessiva.",
+    "B": "causal.",
+    "C": "condicional.",
+    "D": "final."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Embora\" é a conjunção concessiva típica (exige subjuntivo: \"fosse\")."
+  },
+  {
+   "id": "portugues-conectivos-q04",
+   "topico": "portugues-conectivos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que classifica CORRETAMENTE a conjunção destacada: \"Saiu, MAS deixou o recado.\"",
+   "alternativas": {
+    "A": "Coordenativa conclusiva.",
+    "B": "Subordinativa concessiva.",
+    "C": "Coordenativa explicativa.",
+    "D": "Coordenativa adversativa."
+   },
+   "gabarito": "D",
+   "explicacao": "\"Mas\" é a adversativa por excelência e liga orações independentes."
+  },
+  {
+   "id": "portugues-conectivos-q05",
+   "topico": "portugues-conectivos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Quanto mais estudava, mais aprendia\", a conjunção expressa relação de",
+   "alternativas": {
+    "A": "causa.",
+    "B": "proporção.",
+    "C": "finalidade.",
+    "D": "conformidade."
+   },
+   "gabarito": "B",
+   "explicacao": "\"Quanto mais... mais\" é proporcional: aumenta uma coisa em proporção à outra."
+  },
+  {
+   "id": "portugues-conectivos-q06",
+   "topico": "portugues-conectivos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que a substituição do conectivo MANTÉM o sentido: \"Compareça cedo, para que possamos começar a reunião.\"",
+   "alternativas": {
+    "A": "\"Compareça cedo, porque possamos começar a reunião.\"",
+    "B": "\"Compareça cedo, embora possamos começar a reunião.\"",
+    "C": "\"Compareça cedo, caso possamos começar a reunião.\"",
+    "D": "\"Compareça cedo, a fim de que possamos começar a reunião.\""
+   },
+   "gabarito": "D",
+   "explicacao": "\"Para que\" e \"a fim de que\" são finais. As demais alterariam o sentido (causa, concessão, condição)."
+  },
+  {
+   "id": "portugues-conectivos-q07",
+   "topico": "portugues-conectivos",
+   "dificuldade": 3,
+   "enunciado": "Em \"Conforme estabelece o edital, as inscrições se encerram em outubro\", a conjunção \"conforme\" expressa",
+   "alternativas": {
+    "A": "proporção.",
+    "B": "causa.",
+    "C": "conformidade.",
+    "D": "comparação."
+   },
+   "gabarito": "C",
+   "explicacao": "\"Conforme\" = de acordo com: conformativa."
+  },
+  {
+   "id": "portugues-conectivos-q08",
+   "topico": "portugues-conectivos",
+   "dificuldade": 2,
+   "enunciado": "Em \"Não sei se ele virá\", a palavra \"se\" é",
+   "alternativas": {
+    "A": "conjunção subordinativa integrante.",
+    "B": "conjunção subordinativa condicional.",
+    "C": "conjunção coordenativa alternativa.",
+    "D": "pronome reflexivo."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Se\" completa o sentido do verbo \"saber\" (oração subjetiva/objetiva direta): integrante. Não é condição (\"se ele vier\") nem alternativa."
+  }
+ ]
+}

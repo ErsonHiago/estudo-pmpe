@@ -1,0 +1,483 @@
+{
+ "id": "redacao",
+ "topicos": [
+  {
+   "id": "redacao-modelo-01",
+   "titulo": "Modelo 01: Policiamento comunitário e confiança da população",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **A aproximação entre polícia e comunidade como estratégia de segurança pública no Brasil**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: A Constituição Federal afirma que a segurança pública é dever do Estado, direito e responsabilidade de todos (art. 144).\n\n**Texto II**: Em bairros onde moradores não confiam na polícia, muitos crimes deixam de ser denunciados e o policiamento age quase sempre depois do fato.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: A aproximação com a comunidade torna a polícia mais preventiva e legítima; falta continuidade e preparo para o diálogo.\n- **Argumento 1**: Confiança gera denúncia e informação, permitindo atuação preventiva.\n- **Argumento 2**: Diálogo com lideranças revela problemas locais (iluminação, conflitos recorrentes).\n- **Repertório disponível**: CF, art. 144, caput; ideia de polícia como serviço público (ONU: Código de Conduta para Encarregados da Aplicação da Lei, 1979).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (179 palavras, cerca de 17 linhas com 9-12 palavras por linha)\n\n**Introdução.** A Constituição Federal estabelece, em seu artigo 144, que a segurança pública é dever do Estado, mas também responsabilidade de todos. Nesse contexto, a aproximação entre a polícia e a população surge como caminho promissor, embora ainda esbarre na desconfiança mútua e na falta de planejamento contínuo.\n\n**Desenvolvimento 1.** Em primeiro lugar, a confiança é condição para o trabalho policial eficiente. Quando o cidadão se sente seguro para denunciar e colaborar, a polícia recebe informações precisas e age de modo preventivo, e não apenas reativo. O policiamento comunitário, por conseguinte, reduz o tempo de resposta e fortalece vínculos.\n\n**Desenvolvimento 2.** Além disso, o diálogo com lideranças locais permite identificar problemas específicos de cada bairro, como pontos mal iluminados ou conflitos recorrentes. Sem esse conhecimento, as ações tendem a ser genéricas e pouco eficazes, o que alimenta a descrença da comunidade na instituição.\n\n**Conclusão.** Portanto, cabe à Secretaria de Defesa Social, em parceria com as prefeituras, manter equipes fixas nos bairros, com treinamento em mediação de conflitos e reuniões periódicas com moradores. Dessa forma, a segurança deixará de ser imposição e se tornará construção coletiva.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 47 | 5 |\n| Desenvolvimento 1 | 49 | 5 |\n| Desenvolvimento 2 | 42 | 4 |\n| Conclusão | 41 | 4 |\n\n## O que a banca valoriza\n\nAbre com a Constituição (repertório legitimado e pertinente ao concurso), tese clara na introdução, dois argumentos distintos (confiança e conhecimento local) e proposta de intervenção com agente, ação e finalidade. Evite generalizar com 'todos os policiais'.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 01: Policiamento comunitário e confiança da população",
+     "a": "A aproximação entre polícia e comunidade como estratégia de segurança pública no Brasil"
+    },
+    {
+     "q": "Tese do modelo 01",
+     "a": "A aproximação com a comunidade torna a polícia mais preventiva e legítima; falta continuidade e preparo para o diálogo."
+    },
+    {
+     "q": "Argumento 1 (modelo 01)",
+     "a": "Confiança gera denúncia e informação, permitindo atuação preventiva."
+    },
+    {
+     "q": "Argumento 2 (modelo 01)",
+     "a": "Diálogo com lideranças revela problemas locais (iluminação, conflitos recorrentes)."
+    },
+    {
+     "q": "Repertório útil no tema 'Policiamento comunitário e confiança da população'",
+     "a": "CF, art. 144, caput; ideia de polícia como serviço público (ONU: Código de Conduta para Encarregados da Aplicação da Lei, 1979)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 01?",
+     "a": "A Constituição Federal estabelece, em seu artigo 144, que a segurança pública é dever do Estado, mas também responsabilidade de todos."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 01",
+     "a": "Portanto, cabe à Secretaria de Defesa Social, em parceria com as prefeituras, manter equipes fixas nos bairros, com treinamento em mediação de conflitos e reuniões periódicas com moradores. Dessa forma, a segurança deixará de ser imposição e se tornará construção coletiva."
+    },
+    {
+     "q": "Quantas linhas o modelo 01 ocupa?",
+     "a": "Cerca de 17 (179 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-02",
+   "titulo": "Modelo 02: Violência contra a mulher e rede de proteção",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **Os desafios para o enfrentamento da violência doméstica no Brasil**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: A Lei Maria da Penha (Lei 11.340/2006) criou mecanismos para coibir a violência doméstica e familiar contra a mulher.\n\n**Texto II**: Muitas vítimas permanecem em silêncio por dependência econômica, medo do agressor e dúvida sobre a eficácia da denúncia.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: A lei é avançada, mas sua eficácia depende de acolhimento, rapidez nas medidas protetivas e mudança cultural.\n- **Argumento 1**: Dependência econômica e medo impedem a denúncia.\n- **Argumento 2**: Machismo estrutural naturaliza a agressão; educação e fiscalização são necessárias.\n- **Repertório disponível**: Lei 11.340/2006 (Maria da Penha); medidas protetivas de urgência; Ligue 180 (Central de Atendimento à Mulher).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (162 palavras, cerca de 15 linhas com 9-12 palavras por linha)\n\n**Introdução.** A Lei Maria da Penha, sancionada em 2006, representou um marco no combate à violência doméstica no Brasil. Contudo, mesmo com esse avanço legal, muitas mulheres continuam sendo agredidas dentro de casa, o que revela que a norma, isoladamente, não basta para garantir proteção efetiva.\n\n**Desenvolvimento 1.** Em primeiro plano, a dependência econômica e o medo do agressor mantêm vítimas em silêncio. Sem renda própria nem rede de apoio, a mulher hesita em denunciar, especialmente quando teme que as medidas protetivas demorem a ser cumpridas e a deixem ainda mais vulnerável.\n\n**Desenvolvimento 2.** Ademais, o machismo estrutural naturaliza condutas violentas e transfere à vítima a culpa pela agressão. Enquanto essa mentalidade persistir nas famílias e até nos atendimentos institucionais, a lei será aplicada com lentidão e os índices continuarão alarmantes.\n\n**Conclusão.** Logo, compete ao Estado ampliar delegacias especializadas e patrulhas de acompanhamento das medidas protetivas, além de promover campanhas escolares sobre igualdade de gênero. Assim, a proteção legal será acompanhada de acolhimento real e de transformação cultural.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 45 | 5 |\n| Desenvolvimento 1 | 44 | 4 |\n| Desenvolvimento 2 | 37 | 4 |\n| Conclusão | 36 | 4 |\n\n## O que a banca valoriza\n\nA banca valoriza o repertório legal correto (Lei 11.340/2006) e a articulação entre norma e realidade. Atenção: não cite estatísticas que você não domina; use 'índices alarmantes' em vez de números inventados.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 02: Violência contra a mulher e rede de proteção",
+     "a": "Os desafios para o enfrentamento da violência doméstica no Brasil"
+    },
+    {
+     "q": "Tese do modelo 02",
+     "a": "A lei é avançada, mas sua eficácia depende de acolhimento, rapidez nas medidas protetivas e mudança cultural."
+    },
+    {
+     "q": "Argumento 1 (modelo 02)",
+     "a": "Dependência econômica e medo impedem a denúncia."
+    },
+    {
+     "q": "Argumento 2 (modelo 02)",
+     "a": "Machismo estrutural naturaliza a agressão; educação e fiscalização são necessárias."
+    },
+    {
+     "q": "Repertório útil no tema 'Violência contra a mulher e rede de proteção'",
+     "a": "Lei 11.340/2006 (Maria da Penha); medidas protetivas de urgência; Ligue 180 (Central de Atendimento à Mulher)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 02?",
+     "a": "A Lei Maria da Penha, sancionada em 2006, representou um marco no combate à violência doméstica no Brasil."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 02",
+     "a": "Logo, compete ao Estado ampliar delegacias especializadas e patrulhas de acompanhamento das medidas protetivas, além de promover campanhas escolares sobre igualdade de gênero. Assim, a proteção legal será acompanhada de acolhimento real e de transformação cultural."
+    },
+    {
+     "q": "Quantas linhas o modelo 02 ocupa?",
+     "a": "Cerca de 15 (162 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-03",
+   "titulo": "Modelo 03: Crimes virtuais e golpes digitais",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **O avanço dos crimes cibernéticos e o papel do Estado e do cidadão na prevenção**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: A Lei 12.737/2012 tipificou delitos informáticos, como a invasão de dispositivo alheio, e foi apelidada de Lei Carolina Dieckmann.\n\n**Texto II**: Golpes por aplicativos de mensagem e falsas centrais bancárias atingem pessoas de todas as idades, muitas vezes por falta de informação.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: O crime migrou para o ambiente digital; a resposta exige educação digital do cidadão e especialização policial.\n- **Argumento 1**: Falta de educação digital torna o cidadão vulnerável à engenharia social.\n- **Argumento 2**: Polícias precisam de estrutura e capacitação para investigar crimes sem fronteira física.\n- **Repertório disponível**: Lei 12.737/2012; Marco Civil da Internet (Lei 12.965/2014); LGPD (Lei 13.709/2018).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (167 palavras, cerca de 16 linhas com 9-12 palavras por linha)\n\n**Introdução.** Com a popularização da internet, o crime também migrou para o ambiente digital. Golpes por mensagens, invasões de contas e fraudes bancárias fazem milhares de vítimas, o que evidencia que a legislação, a exemplo da Lei 12.737/2012, precisa caminhar junto com a prevenção e a investigação especializada.\n\n**Desenvolvimento 1.** Primeiramente, a falta de educação digital torna o cidadão presa fácil de criminosos que utilizam a engenharia social, isto é, a manipulação psicológica para obter senhas e dinheiro. Idosos e jovens desatentos são os mais atingidos, pois confiam em contatos aparentemente legítimos.\n\n**Desenvolvimento 2.** Por outro lado, a investigação desses delitos exige peritos, equipamentos e cooperação com empresas de tecnologia. Quando as polícias carecem desses recursos, os criminosos agem com sensação de impunidade, já que o rastreamento é lento e a recuperação do prejuízo, rara.\n\n**Conclusão.** Dessa maneira, o poder público deve criar delegacias cibernéticas bem estruturadas e promover campanhas permanentes de segurança digital nas escolas e nos meios de comunicação. Somente assim a população se protegerá e o Estado responderá com eficiência.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 47 | 5 |\n| Desenvolvimento 1 | 42 | 4 |\n| Desenvolvimento 2 | 41 | 4 |\n| Conclusão | 37 | 4 |\n\n## O que a banca valoriza\n\nMostra conceito (engenharia social) explicado em poucas palavras, o que a banca aprecia como informatividade. Dois argumentos complementares: lado do cidadão e lado do Estado.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 03: Crimes virtuais e golpes digitais",
+     "a": "O avanço dos crimes cibernéticos e o papel do Estado e do cidadão na prevenção"
+    },
+    {
+     "q": "Tese do modelo 03",
+     "a": "O crime migrou para o ambiente digital; a resposta exige educação digital do cidadão e especialização policial."
+    },
+    {
+     "q": "Argumento 1 (modelo 03)",
+     "a": "Falta de educação digital torna o cidadão vulnerável à engenharia social."
+    },
+    {
+     "q": "Argumento 2 (modelo 03)",
+     "a": "Polícias precisam de estrutura e capacitação para investigar crimes sem fronteira física."
+    },
+    {
+     "q": "Repertório útil no tema 'Crimes virtuais e golpes digitais'",
+     "a": "Lei 12.737/2012; Marco Civil da Internet (Lei 12.965/2014); LGPD (Lei 13.709/2018)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 03?",
+     "a": "Com a popularização da internet, o crime também migrou para o ambiente digital."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 03",
+     "a": "Dessa maneira, o poder público deve criar delegacias cibernéticas bem estruturadas e promover campanhas permanentes de segurança digital nas escolas e nos meios de comunicação. Somente assim a população se protegerá e o Estado responderá com eficiência."
+    },
+    {
+     "q": "Quantas linhas o modelo 03 ocupa?",
+     "a": "Cerca de 16 (167 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-04",
+   "titulo": "Modelo 04: Drogas e dependência química",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **O enfrentamento do uso de drogas: repressão, saúde e prevenção**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: A Lei 11.343/2006 instituiu o Sistema Nacional de Políticas Públicas sobre Drogas e distingue o usuário do traficante.\n\n**Texto II**: O comércio ilegal de entorpecentes alimenta a violência em diversos bairros e atrai jovens para o crime.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: Combater o tráfico é necessário, mas sem prevenção e tratamento o ciclo de dependência e violência se mantém.\n- **Argumento 1**: O tráfico recruta jovens e financia a violência.\n- **Argumento 2**: O dependente precisa de tratamento em rede de saúde, não só de punição.\n- **Repertório disponível**: Lei 11.343/2006 (distingue usuário de traficante; prevê prevenção e reinserção social).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (172 palavras, cerca de 16 linhas com 9-12 palavras por linha)\n\n**Introdução.** O consumo e o comércio de drogas ilícitas constituem um dos maiores desafios da segurança pública brasileira. A Lei 11.343/2006 distingue usuário de traficante e prevê prevenção e reinserção social, mas a prática mostra que repressão isolada não rompe o ciclo de dependência e violência.\n\n**Desenvolvimento 1.** Em um primeiro momento, o tráfico ocupa territórios e recruta jovens sem perspectiva, oferecendo dinheiro rápido e sensação de pertencimento. Esse recrutamento alimenta disputas armadas e coloca em risco moradores que nada têm a ver com o crime, o que justifica a atuação firme da polícia.\n\n**Desenvolvimento 2.** Em contrapartida, o dependente químico é, antes de tudo, uma pessoa que necessita de cuidado. Sem vagas em centros de atenção psicossocial e sem apoio familiar, ele retorna ao consumo e, não raro, a pequenos delitos para sustentar o vício.\n\n**Conclusão.** Assim, o Estado deve conciliar o combate ao tráfico com a ampliação de programas de prevenção nas escolas e da rede de tratamento pelo Sistema Único de Saúde. Dessa forma, será possível reduzir tanto a oferta quanto a procura por entorpecentes.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 45 | 5 |\n| Desenvolvimento 1 | 46 | 5 |\n| Desenvolvimento 2 | 40 | 4 |\n| Conclusão | 41 | 4 |\n\n## O que a banca valoriza\n\nEquilibra segurança e saúde, postura que a banca costuma ver como madura. Evite tomar partido radical (legalização ou 'guerra') sem sustentar; o foco é a argumentação, não a ideologia.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 04: Drogas e dependência química",
+     "a": "O enfrentamento do uso de drogas: repressão, saúde e prevenção"
+    },
+    {
+     "q": "Tese do modelo 04",
+     "a": "Combater o tráfico é necessário, mas sem prevenção e tratamento o ciclo de dependência e violência se mantém."
+    },
+    {
+     "q": "Argumento 1 (modelo 04)",
+     "a": "O tráfico recruta jovens e financia a violência."
+    },
+    {
+     "q": "Argumento 2 (modelo 04)",
+     "a": "O dependente precisa de tratamento em rede de saúde, não só de punição."
+    },
+    {
+     "q": "Repertório útil no tema 'Drogas e dependência química'",
+     "a": "Lei 11.343/2006 (distingue usuário de traficante; prevê prevenção e reinserção social)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 04?",
+     "a": "O consumo e o comércio de drogas ilícitas constituem um dos maiores desafios da segurança pública brasileira."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 04",
+     "a": "Assim, o Estado deve conciliar o combate ao tráfico com a ampliação de programas de prevenção nas escolas e da rede de tratamento pelo Sistema Único de Saúde. Dessa forma, será possível reduzir tanto a oferta quanto a procura por entorpecentes."
+    },
+    {
+     "q": "Quantas linhas o modelo 04 ocupa?",
+     "a": "Cerca de 16 (172 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-05",
+   "titulo": "Modelo 05: Juventude e criminalidade",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **Como evitar que jovens ingressem na criminalidade**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: O Estatuto da Criança e do Adolescente (Lei 8.069/1990) estabelece a proteção integral e a prioridade absoluta aos direitos de crianças e adolescentes.\n\n**Texto II**: Jovens fora da escola e sem trabalho figuram entre os mais expostos ao aliciamento por grupos criminosos.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: A prevenção, por meio de escola, esporte e oportunidades, é mais eficaz e barata que o encarceramento posterior.\n- **Argumento 1**: Evasão escolar e falta de oportunidade favorecem o aliciamento.\n- **Argumento 2**: Esporte, cultura e qualificação criam vínculos e perspectivas.\n- **Repertório disponível**: ECA (Lei 8.069/1990); CF, art. 227 (prioridade absoluta à criança e ao adolescente).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (167 palavras, cerca de 16 linhas com 9-12 palavras por linha)\n\n**Introdução.** A Constituição Federal, em seu artigo 227, determina que crianças e adolescentes recebam prioridade absoluta do Estado, da família e da sociedade. Entretanto, muitos jovens brasileiros ainda ingressam no mundo do crime, fato que evidencia falhas na garantia desses direitos e exige respostas preventivas.\n\n**Desenvolvimento 1.** Primeiramente, a evasão escolar e a ausência de oportunidades de trabalho tornam o jovem vulnerável ao aliciamento por grupos criminosos. Sem perspectiva de futuro, ele enxerga no tráfico ou no furto uma renda imediata e uma forma de reconhecimento que a sociedade não lhe oferece.\n\n**Desenvolvimento 2.** Ademais, a falta de espaços de convivência saudável agrava esse quadro. Projetos esportivos, culturais e de qualificação profissional criam vínculos, ocupam o tempo e despertam talentos, funcionando como barreira social contra a violência e custando menos que o encarceramento.\n\n**Conclusão.** Portanto, os governos estadual e municipal devem manter escolas em tempo integral e ampliar parcerias entre a polícia e projetos sociais, como atividades esportivas conduzidas por policiais. Dessa forma, a juventude será protegida antes que o crime a alcance.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 44 | 4 |\n| Desenvolvimento 1 | 45 | 5 |\n| Desenvolvimento 2 | 39 | 4 |\n| Conclusão | 39 | 4 |\n\n## O que a banca valoriza\n\nRepertório constitucional (art. 227) adequado ao tema. A conclusão menciona atuação da própria polícia, o que aproxima o texto do universo do cargo. Cuidado com 'bandidos' e termos pejorativos.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 05: Juventude e criminalidade",
+     "a": "Como evitar que jovens ingressem na criminalidade"
+    },
+    {
+     "q": "Tese do modelo 05",
+     "a": "A prevenção, por meio de escola, esporte e oportunidades, é mais eficaz e barata que o encarceramento posterior."
+    },
+    {
+     "q": "Argumento 1 (modelo 05)",
+     "a": "Evasão escolar e falta de oportunidade favorecem o aliciamento."
+    },
+    {
+     "q": "Argumento 2 (modelo 05)",
+     "a": "Esporte, cultura e qualificação criam vínculos e perspectivas."
+    },
+    {
+     "q": "Repertório útil no tema 'Juventude e criminalidade'",
+     "a": "ECA (Lei 8.069/1990); CF, art. 227 (prioridade absoluta à criança e ao adolescente)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 05?",
+     "a": "A Constituição Federal, em seu artigo 227, determina que crianças e adolescentes recebam prioridade absoluta do Estado, da família e da sociedade."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 05",
+     "a": "Portanto, os governos estadual e municipal devem manter escolas em tempo integral e ampliar parcerias entre a polícia e projetos sociais, como atividades esportivas conduzidas por policiais. Dessa forma, a juventude será protegida antes que o crime a alcance."
+    },
+    {
+     "q": "Quantas linhas o modelo 05 ocupa?",
+     "a": "Cerca de 16 (167 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-06",
+   "titulo": "Modelo 06: Sistema prisional e ressocialização",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **A ressocialização de presos como instrumento de redução da violência**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: A Lei de Execução Penal (Lei 7.210/1984) prevê assistência ao preso e condições para sua integração social.\n\n**Texto II**: Presídios superlotados costumam ser dominados por facções, o que dificulta a recuperação dos detentos.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: Sem condições dignas e oportunidades de trabalho e estudo, a prisão tende a reproduzir o crime, e não a reduzi-lo.\n- **Argumento 1**: Superlotação e domínio de facções inviabilizam a recuperação.\n- **Argumento 2**: Trabalho e estudo reduzem a reincidência quando há apoio após a soltura.\n- **Repertório disponível**: Lei 7.210/1984 (LEP); CF, art. 5º, XLIX (respeito à integridade física e moral do preso); Foucault, Vigiar e Punir (1975).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (173 palavras, cerca de 16 linhas com 9-12 palavras por linha)\n\n**Introdução.** A Lei de Execução Penal, de 1984, determina que a pena deve proporcionar condições para a harmônica integração social do condenado. Na prática, porém, o sistema prisional brasileiro ainda se mostra incapaz de cumprir esse objetivo, o que compromete a própria segurança da sociedade.\n\n**Desenvolvimento 1.** Em primeiro lugar, a superlotação e o domínio de facções dentro dos presídios transformam as unidades em ambientes de risco e de recrutamento. O detento, sem proteção do Estado, acaba dependendo do grupo criminoso, e a pena perde o caráter de recuperação.\n\n**Desenvolvimento 2.** Além disso, a ausência de estudo, de trabalho e de apoio após a soltura favorece a reincidência. O egresso, estigmatizado e sem renda, encontra poucas portas abertas e tende a retornar ao crime, o que mantém o ciclo de violência e sobrecarrega as forças de segurança.\n\n**Conclusão.** Dessa forma, cabe ao poder público ampliar vagas em unidades com oficinas de trabalho e escolarização, bem como firmar parcerias com empresas que contratem egressos. Assim, a punição caminhará lado a lado com a reinserção e a sociedade será mais segura.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 44 | 4 |\n| Desenvolvimento 1 | 42 | 4 |\n| Desenvolvimento 2 | 46 | 5 |\n| Conclusão | 41 | 4 |\n\n## O que a banca valoriza\n\nMostra equilíbrio: reconhece a pena, mas defende que ela cumpra sua finalidade legal. A proposta é concreta (oficinas, escolarização, contratação de egressos).\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 06: Sistema prisional e ressocialização",
+     "a": "A ressocialização de presos como instrumento de redução da violência"
+    },
+    {
+     "q": "Tese do modelo 06",
+     "a": "Sem condições dignas e oportunidades de trabalho e estudo, a prisão tende a reproduzir o crime, e não a reduzi-lo."
+    },
+    {
+     "q": "Argumento 1 (modelo 06)",
+     "a": "Superlotação e domínio de facções inviabilizam a recuperação."
+    },
+    {
+     "q": "Argumento 2 (modelo 06)",
+     "a": "Trabalho e estudo reduzem a reincidência quando há apoio após a soltura."
+    },
+    {
+     "q": "Repertório útil no tema 'Sistema prisional e ressocialização'",
+     "a": "Lei 7.210/1984 (LEP); CF, art. 5º, XLIX (respeito à integridade física e moral do preso); Foucault, Vigiar e Punir (1975)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 06?",
+     "a": "A Lei de Execução Penal, de 1984, determina que a pena deve proporcionar condições para a harmônica integração social do condenado."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 06",
+     "a": "Dessa forma, cabe ao poder público ampliar vagas em unidades com oficinas de trabalho e escolarização, bem como firmar parcerias com empresas que contratem egressos. Assim, a punição caminhará lado a lado com a reinserção e a sociedade será mais segura."
+    },
+    {
+     "q": "Quantas linhas o modelo 06 ocupa?",
+     "a": "Cerca de 16 (173 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-07",
+   "titulo": "Modelo 07: Uso da força, direitos humanos e atuação policial",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **O uso progressivo da força e o respeito aos direitos humanos na atividade policial**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: Os Princípios Básicos da ONU sobre o Uso da Força e Armas de Fogo (1990) orientam que a força seja proporcional e usada apenas quando necessária.\n\n**Texto II**: Abordagens truculentas, ainda que isoladas, abalam a imagem da corporação e afastam a população.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: Direitos humanos e eficiência policial caminham juntos: a legalidade protege o cidadão e também o próprio policial.\n- **Argumento 1**: Uso proporcional da força aumenta a legitimidade e reduz processos e riscos.\n- **Argumento 2**: Treinamento contínuo e protocolos claros tornam a decisão mais segura.\n- **Repertório disponível**: ONU, Princípios Básicos sobre o Uso da Força e Armas de Fogo (1990); Lei 13.060/2014 (instrumentos de menor potencial ofensivo); CF, art. 1º, III.\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (165 palavras, cerca de 16 linhas com 9-12 palavras por linha)\n\n**Introdução.** A atividade policial envolve, por natureza, o uso legítimo da força, mas esse poder encontra limites na lei e na dignidade da pessoa humana, fundamento da República. Equilibrar eficiência e respeito aos direitos humanos é, portanto, condição para uma polícia confiável e respeitada.\n\n**Desenvolvimento 1.** Em primeiro lugar, o uso proporcional da força aumenta a legitimidade da corporação. Quando o cidadão percebe que a abordagem é técnica e respeitosa, tende a colaborar; já excessos, ainda que pontuais, geram desconfiança e expõem o próprio policial a processos e a riscos desnecessários.\n\n**Desenvolvimento 2.** Ademais, a decisão correta em segundos de tensão depende de treinamento. Simulações realistas, técnicas de menor potencial ofensivo e protocolos claros, como prevê a Lei 13.060/2014, ajudam o agente a avaliar a ameaça e a escolher o nível adequado de resposta.\n\n**Conclusão.** Logo, as corporações devem investir em formação continuada, com ênfase em tiro defensivo, mediação e direitos humanos, além de acompanhar psicologicamente os agentes. Dessa forma, a força será instrumento de proteção, e não motivo de temor.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 43 | 4 |\n| Desenvolvimento 1 | 45 | 5 |\n| Desenvolvimento 2 | 41 | 4 |\n| Conclusão | 36 | 4 |\n\n## O que a banca valoriza\n\nTema sensível, tratado com neutralidade técnica. Note que o texto defende o policial e o cidadão ao mesmo tempo: evita tanto o 'policiamento violento' quanto a crítica genérica à instituição.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 07: Uso da força, direitos humanos e atuação policial",
+     "a": "O uso progressivo da força e o respeito aos direitos humanos na atividade policial"
+    },
+    {
+     "q": "Tese do modelo 07",
+     "a": "Direitos humanos e eficiência policial caminham juntos: a legalidade protege o cidadão e também o próprio policial."
+    },
+    {
+     "q": "Argumento 1 (modelo 07)",
+     "a": "Uso proporcional da força aumenta a legitimidade e reduz processos e riscos."
+    },
+    {
+     "q": "Argumento 2 (modelo 07)",
+     "a": "Treinamento contínuo e protocolos claros tornam a decisão mais segura."
+    },
+    {
+     "q": "Repertório útil no tema 'Uso da força, direitos humanos e atuação policial'",
+     "a": "ONU, Princípios Básicos sobre o Uso da Força e Armas de Fogo (1990); Lei 13.060/2014 (instrumentos de menor potencial ofensivo); CF, art. 1º, III."
+    },
+    {
+     "q": "Como abre a introdução do modelo 07?",
+     "a": "A atividade policial envolve, por natureza, o uso legítimo da força, mas esse poder encontra limites na lei e na dignidade da pessoa humana, fundamento da República."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 07",
+     "a": "Logo, as corporações devem investir em formação continuada, com ênfase em tiro defensivo, mediação e direitos humanos, além de acompanhar psicologicamente os agentes. Dessa forma, a força será instrumento de proteção, e não motivo de temor."
+    },
+    {
+     "q": "Quantas linhas o modelo 07 ocupa?",
+     "a": "Cerca de 16 (165 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-08",
+   "titulo": "Modelo 08: Saúde mental do profissional de segurança",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **A saúde mental dos policiais e seus reflexos na qualidade do serviço**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: A Lei 13.819/2019 instituiu a Política Nacional de Prevenção da Automutilação e do Suicídio.\n\n**Texto II**: Plantões longos, exposição à violência e baixa valorização profissional figuram entre os fatores de estresse na rotina policial.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: Cuidar da saúde mental do policial é questão de segurança pública, pois o agente adoecido atende pior a população.\n- **Argumento 1**: Estresse e trauma sem acompanhamento geram adoecimento e erros operacionais.\n- **Argumento 2**: Estigma e medo de represália impedem a procura por ajuda.\n- **Repertório disponível**: Lei 13.819/2019; Setembro Amarelo (campanha de prevenção ao suicídio); definição de saúde da OMS (bem-estar físico, mental e social).\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (167 palavras, cerca de 16 linhas com 9-12 palavras por linha)\n\n**Introdução.** A rotina de um policial inclui exposição constante a ocorrências violentas, plantões extensos e cobrança social intensa. Apesar disso, a saúde mental desse profissional ainda recebe pouca atenção, o que afeta não só o agente, mas também a qualidade do serviço prestado à população.\n\n**Desenvolvimento 1.** Em primeiro lugar, o estresse acumulado e o trauma sem acompanhamento favorecem quadros de ansiedade, depressão e abuso de álcool. O agente adoecido tem a atenção comprometida e pode tomar decisões precipitadas, o que aumenta o risco de erros em abordagens e em ocorrências.\n\n**Desenvolvimento 2.** Além disso, o estigma dentro das corporações impede muitos policiais de procurar ajuda, por receio de serem vistos como frágeis ou de sofrerem prejuízo na carreira. Essa cultura do silêncio agrava o sofrimento e dificulta a prevenção de casos extremos, como o suicídio.\n\n**Conclusão.** Portanto, as instituições devem manter equipes de psicólogos acessíveis, com sigilo garantido, e realizar avaliações periódicas e campanhas educativas. Dessa forma, cuidar de quem protege deixará de ser exceção e se tornará política permanente de segurança.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 44 | 4 |\n| Desenvolvimento 1 | 44 | 4 |\n| Desenvolvimento 2 | 43 | 4 |\n| Conclusão | 36 | 4 |\n\n## O que a banca valoriza\n\nTema muito provável em prova de PM. Note a articulação: saúde do agente leva a segurança do cidadão. Mantém tom respeitoso e propõe ação institucional (psicólogos, sigilo, avaliações).\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 08: Saúde mental do profissional de segurança",
+     "a": "A saúde mental dos policiais e seus reflexos na qualidade do serviço"
+    },
+    {
+     "q": "Tese do modelo 08",
+     "a": "Cuidar da saúde mental do policial é questão de segurança pública, pois o agente adoecido atende pior a população."
+    },
+    {
+     "q": "Argumento 1 (modelo 08)",
+     "a": "Estresse e trauma sem acompanhamento geram adoecimento e erros operacionais."
+    },
+    {
+     "q": "Argumento 2 (modelo 08)",
+     "a": "Estigma e medo de represália impedem a procura por ajuda."
+    },
+    {
+     "q": "Repertório útil no tema 'Saúde mental do profissional de segurança'",
+     "a": "Lei 13.819/2019; Setembro Amarelo (campanha de prevenção ao suicídio); definição de saúde da OMS (bem-estar físico, mental e social)."
+    },
+    {
+     "q": "Como abre a introdução do modelo 08?",
+     "a": "A rotina de um policial inclui exposição constante a ocorrências violentas, plantões extensos e cobrança social intensa."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 08",
+     "a": "Portanto, as instituições devem manter equipes de psicólogos acessíveis, com sigilo garantido, e realizar avaliações periódicas e campanhas educativas. Dessa forma, cuidar de quem protege deixará de ser exceção e se tornará política permanente de segurança."
+    },
+    {
+     "q": "Quantas linhas o modelo 08 ocupa?",
+     "a": "Cerca de 16 (167 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-modelo-09",
+   "titulo": "Modelo 09: Violência no trânsito",
+   "prioridade": 2,
+   "horas": 1,
+   "resumo_md": "## Proposta de redação (estilo AOCP)\n\nCom base nos textos motivadores a seguir e em seus conhecimentos, redija um **texto dissertativo-argumentativo**, de **15 a 20 linhas**, sobre o tema: **A imprudência no trânsito e a responsabilidade compartilhada pela segurança viária**. Apresente tese, argumentos e uma proposta de solução. Não identifique o texto.\n\n**Texto I**: O Código de Trânsito Brasileiro (Lei 9.503/1997) estabelece que o trânsito, em condições seguras, é direito de todos.\n\n**Texto II**: Mistura de álcool e direção, excesso de velocidade e uso do celular ao volante estão entre as principais causas de acidentes.\n\n## Esboço (como planejar em 3 minutos)\n\n- **Tese**: A violência no trânsito decorre de condutas evitáveis; só fiscalização aliada à educação reduzirá as mortes.\n- **Argumento 1**: Imprudências (álcool, velocidade, celular) causam a maioria dos acidentes.\n- **Argumento 2**: Fiscalização constante e educação para o trânsito alteram o comportamento.\n- **Repertório disponível**: CTB (Lei 9.503/1997); Lei 11.705/2008, conhecida como Lei Seca [VERIFICAR alterações posteriores]; Década de Ação pela Segurança no Trânsito da ONU.\n- **Proposta**: agente + ação + meio + finalidade (veja o último parágrafo).\n\n## Texto-modelo (162 palavras, cerca de 15 linhas com 9-12 palavras por linha)\n\n**Introdução.** O Código de Trânsito Brasileiro assegura que o trânsito, em condições seguras, é direito de todos. Contudo, a realidade das vias mostra o contrário: acidentes graves e mortes se repetem diariamente, na maioria das vezes por condutas que poderiam ser evitadas.\n\n**Desenvolvimento 1.** Em primeiro lugar, a imprudência dos condutores permanece como principal causa das tragédias. Dirigir após beber, exceder a velocidade e usar o celular ao volante revelam desprezo pela vida alheia, e a sensação de impunidade estimula a repetição dessas infrações.\n\n**Desenvolvimento 2.** Por outro lado, a fiscalização e a educação são ferramentas complementares. Blitze frequentes e radares bem distribuídos inibem o infrator, enquanto o ensino de noções de trânsito nas escolas forma motoristas e pedestres conscientes desde cedo, o que produz efeitos duradouros.\n\n**Conclusão.** Dessa maneira, os órgãos de trânsito e a Polícia Militar devem ampliar operações de fiscalização e campanhas educativas, com foco nos horários e locais de maior risco. Assim, o direito a um trânsito seguro deixará de ser apenas promessa legal.\n\n## Divisão de linhas estimada\n\n| Parágrafo | Palavras | Linhas aprox. (10 pal./linha) |\n|---|---|---|\n| Introdução | 41 | 4 |\n| Desenvolvimento 1 | 40 | 4 |\n| Desenvolvimento 2 | 41 | 4 |\n| Conclusão | 40 | 4 |\n\n## O que a banca valoriza\n\nMostra boa progressão 'problema-causa-solução'. A banca valoriza a ligação com a atuação da PM (blitze, fiscalização). Sinalize [VERIFICAR] mentalmente a Lei Seca: use só o nome popular se não tiver certeza do número.\n\n**Aplicando os 4 critérios**: (1) tema e informatividade: tese clara com repertório pertinente; (2) coesão: conectivos variados e retomadas por sinônimo; (3) estrutura: 4 parágrafos proporcionais, com proposta completa; (4) gramática: pontuação e regência corretas, sem crase ou concordância duvidosas. Treino: reescreva este texto com **outro repertório** e **outro argumento 2**, mantendo as 17-19 linhas.",
+   "dicas": [
+    "Leia a proposta, cubra o texto-modelo e escreva seu próprio esboço antes de comparar.",
+    "Conte as linhas do seu texto: meta de 17 a 19.",
+    "Observe o conectivo de abertura de cada parágrafo.",
+    "Marque o repertório e veja se cabe em 1-2 linhas."
+   ],
+   "pegadinhas": [
+    "Copiar o modelo: a prova exige texto seu, sobre o tema da prova.",
+    "Usar o repertório sem ligar ao argumento (citação decorativa).",
+    "Ultrapassar 20 linhas ao tentar acrescentar exemplos.",
+    "Esquecer agente, ação, meio e finalidade na conclusão."
+   ],
+   "flashcards": [
+    {
+     "q": "Tema do modelo 09: Violência no trânsito",
+     "a": "A imprudência no trânsito e a responsabilidade compartilhada pela segurança viária"
+    },
+    {
+     "q": "Tese do modelo 09",
+     "a": "A violência no trânsito decorre de condutas evitáveis; só fiscalização aliada à educação reduzirá as mortes."
+    },
+    {
+     "q": "Argumento 1 (modelo 09)",
+     "a": "Imprudências (álcool, velocidade, celular) causam a maioria dos acidentes."
+    },
+    {
+     "q": "Argumento 2 (modelo 09)",
+     "a": "Fiscalização constante e educação para o trânsito alteram o comportamento."
+    },
+    {
+     "q": "Repertório útil no tema 'Violência no trânsito'",
+     "a": "CTB (Lei 9.503/1997); Lei 11.705/2008, conhecida como Lei Seca [VERIFICAR alterações posteriores]; Década de Ação pela Segurança no Trânsito da ONU."
+    },
+    {
+     "q": "Como abre a introdução do modelo 09?",
+     "a": "O Código de Trânsito Brasileiro assegura que o trânsito, em condições seguras, é direito de todos."
+    },
+    {
+     "q": "Proposta de intervenção do modelo 09",
+     "a": "Dessa maneira, os órgãos de trânsito e a Polícia Militar devem ampliar operações de fiscalização e campanhas educativas, com foco nos horários e locais de maior risco. Assim, o direito a um trânsito seguro deixará de ser apenas promessa legal."
+    },
+    {
+     "q": "Quantas linhas o modelo 09 ocupa?",
+     "a": "Cerca de 15 (162 palavras); dentro das 15-20 exigidas."
+    }
+   ]
+  }
+ ],
+ "questoes": []
+}

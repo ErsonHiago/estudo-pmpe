@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q061",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 2,
+   "enunciado": "Frei Caneca foi",
+   "alternativas": {
+    "A": "o principal ideólogo da Confederação, autor do jornal Typhis Pernambucano, fuzilado em 13 de janeiro de 1825.",
+    "B": "o presidente da Confederação, que fugiu para o exterior.",
+    "C": "o almirante enviado por D. Pedro I para reprimir o movimento.",
+    "D": "o comerciante executado em 1824 por seu apoio financeiro.",
+    "E": "o jornalista baiano que apoiava os liberais."
+   },
+   "gabarito": "A",
+   "explicacao": "Ideólogo fuzilado em 1825.",
+   "resolucao_md": "**O que a questão pede**\nAssociar o personagem.\n\n**Conceito/Regra rápida**\n**Caneca** = ideólogo, Typhis, fuzilado. **Carvalho** = presidente. **Cochrane** = repressão. **Ratcliff** = executado. **Barata** = jornalista.\n\n**Passo a passo**\n1. Quem escreveu o jornal? Caneca.\n2. Elimine pelos outros papéis.\n\n**Pegadinha**\nConfundir Caneca com Carvalho.\n\n**Macete**\nCaneca = Typhis.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q062",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre a Confederação do Equador.",
+   "alternativas": {
+    "A": "Teve adesão de Pernambuco, Paraíba, Rio Grande do Norte e Ceará.",
+    "B": "Teve adesão de Pernambuco, Bahia, Maranhão e Rio de Janeiro.",
+    "C": "Pretendia adotar a Constituição da Colômbia como modelo federativo.",
+    "D": "Contrapunha-se ao autoritarismo de D. Pedro I.",
+    "E": "Foi reprimida por tropas por terra e por mar."
+   },
+   "gabarito": "B",
+   "explicacao": "A incorreta é B.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nProvíncias: **PE, PB, RN, CE**.\n\n**Passo a passo**\n1. Memorize as quatro.\n2. B é incorreta por listar províncias que não aderiram.\n\n**Pegadinha**\nColocar províncias erradas.\n\n**Macete**\nPE-PB-RN-CE.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q063",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 2,
+   "enunciado": "Na repressão à Confederação, D. Pedro I enviou tropas e esquadra sob o comando de",
+   "alternativas": {
+    "A": "Maurício de Nassau e Matias de Albuquerque.",
+    "B": "Domingos Jorge Velho e Pedro de Almeida.",
+    "C": "Francisco de Lima e Silva e do almirante Lord Cochrane.",
+    "D": "André Vidal de Negreiros e Henrique Dias.",
+    "E": "Caetano Pinto e Barbosa de Castro."
+   },
+   "gabarito": "C",
+   "explicacao": "Lima e Silva e Cochrane.",
+   "resolucao_md": "**O que a questão pede**\nAssociar repressores.\n\n**Conceito/Regra rápida**\n**Cochrane** (mercenário britânico) e **Lima e Silva**; Recife retomado em setembro de 1824.\n\n**Passo a passo**\n1. Repressão = Império.\n2. Os demais nomes são de outros períodos.\n\n**Pegadinha**\nMisturar com a repressão a 1817.\n\n**Macete**\nCochrane = 1824.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q064",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 3,
+   "enunciado": "Sobre a Confederação do Equador, analise as afirmativas.\n\nI. As províncias confederadas pretendiam adotar a Constituição da Colômbia como modelo.\nII. João Guilherme Ratcliff, comerciante, foi executado.\nIII. Cipriano Barata foi o presidente da Confederação.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas I.",
+    "B": "Apenas II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e II.",
+    "E": "Apenas I e III."
+   },
+   "gabarito": "D",
+   "explicacao": "Itens corretos: I, II. O item III é falso.",
+   "resolucao_md": "**O que a questão pede**\nVerificar fatos e personagens.\n\n**Conceito/Regra rápida**\nO presidente foi **Manuel de Carvalho**; Cipriano Barata foi jornalista apoiador.\n\n**Passo a passo**\n1. I e II: corretos.\n2. III: errado, pois Barata não presidiu.\n3. Resposta: I e II.\n\n**Pegadinha**\nConfundir apoiador com presidente.\n\n**Macete**\nPresidente = Carvalho.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q065",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que diferencia corretamente 1817 e 1824.",
+   "alternativas": {
+    "A": "1817: contra D. Pedro I; 1824: contra D. João VI.",
+    "B": "1817: federalista; 1824: restauracionista.",
+    "C": "1817: contra holandeses; 1824: contra a Regência.",
+    "D": "Ambas visavam restaurar a monarquia absoluta.",
+    "E": "1817: república separatista contra D. João VI; 1824: república federalista contra D. Pedro I e o Império."
+   },
+   "gabarito": "E",
+   "explicacao": "Alternativa E.",
+   "resolucao_md": "**O que a questão pede**\nDistinguir os dois movimentos.\n\n**Conceito/Regra rápida**\n1817 = Reino Unido, corte no Rio; 1824 = Império, Constituição outorgada.\n\n**Passo a passo**\n1. Contra quem? Quando?\n2. As opções erradas trocam imperadores ou séculos.\n\n**Pegadinha**\nTrocar D. João VI e D. Pedro I.\n\n**Macete**\nJoão VI = 1817; Pedro I = 1824.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q066",
+   "topico": "historia-pe-confederacao",
+   "dificuldade": 2,
+   "enunciado": "A nomeação de Francisco Paes Barreto, o Morgado do Cabo, para presidente da província, em 1824, desagradou aos pernambucanos porque",
+   "alternativas": {
+    "A": "eles queriam Manuel de Carvalho e viam a escolha como imposição centralizadora.",
+    "B": "ele era holandês.",
+    "C": "era acusado de apoiar a Praieira.",
+    "D": "apoiava a república.",
+    "E": "era filho de D. João VI."
+   },
+   "gabarito": "A",
+   "explicacao": "Preferiam Manuel de Carvalho.",
+   "resolucao_md": "**O que a questão pede**\nEntender a causa imediata.\n\n**Conceito/Regra rápida**\nImposição de D. Pedro I contra a vontade local = estopim.\n\n**Passo a passo**\n1. Pergunte: quem queriam? Manuel de Carvalho.\n2. Elimine as demais.\n\n**Pegadinha**\nEsquecer que a nomeação foi a causa imediata.\n\n**Macete**\nPaes Barreto = imposto.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q067",
+   "topico": "historia-pe-cabanos",
+   "dificuldade": 1,
+   "enunciado": "A Guerra dos Cabanos (1832-1835) ocorreu",
+   "alternativas": {
+    "A": "no Pará, durante o Segundo Reinado.",
+    "B": "na Zona da Mata Sul de Pernambuco e no norte de Alagoas, durante o Período Regencial.",
+    "C": "no Sertão do São Francisco, durante a República Velha.",
+    "D": "no Recife, durante a ocupação holandesa.",
+    "E": "no Ceará, durante a Confederação do Equador."
+   },
+   "gabarito": "B",
+   "explicacao": "Zona da Mata Sul.",
+   "resolucao_md": "**O que a questão pede**\nLocalizar e datar.\n\n**Conceito/Regra rápida**\nCabanos: **1832-35**, **Regência**, mata sul. A **Cabanagem** é no Pará (1835-40).\n\n**Passo a passo**\n1. Cuidado com o nome parecido.\n2. Elimine as outras.\n\n**Pegadinha**\nConfundir Cabanos com Cabanagem.\n\n**Macete**\nCabanos = PE/AL; Cabanagem = PA.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q068",
+   "topico": "historia-pe-cabanos",
+   "dificuldade": 2,
+   "enunciado": "O principal chefe dos cabanos foi",
+   "alternativas": {
+    "A": "Frei Caneca.",
+    "B": "Antônio Borges da Fonseca.",
+    "C": "Vicente Ferreira de Paula.",
+    "D": "Gregório Bezerra.",
+    "E": "Zumbi."
+   },
+   "gabarito": "C",
+   "explicacao": "Vicente Ferreira de Paula.",
+   "resolucao_md": "**O que a questão pede**\nAssociar personagem.\n\n**Conceito/Regra rápida**\n**Vicente de Paula** = cabanos; **Borges da Fonseca** = Praieira; **Caneca** = 1824; **Bezerra** = 1935/1964; **Zumbi** = Palmares.\n\n**Passo a passo**\n1. Associe movimento a líder.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar por líderes de outros movimentos.\n\n**Macete**\nVicente = Cabanos.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q069",
+   "topico": "historia-pe-cabanos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre os cabanos.",
+   "alternativas": {
+    "A": "Eram lavradores, ex-soldados, indígenas, escravizados fugidos e mestiços.",
+    "B": "Viviam em cabanas nas matas.",
+    "C": "Usavam guerrilha nas matas de Panelas de Miranda e Jacuípe.",
+    "D": "Eram grandes senhores de engenho que lideravam tropas regulares.",
+    "E": "Parte deles defendia a volta de D. Pedro I."
+   },
+   "gabarito": "D",
+   "explicacao": "A incorreta é D.",
+   "resolucao_md": "**O que a questão pede**\nAchar o item falso.\n\n**Conceito/Regra rápida**\nCabanos = **pobres da mata**, não a elite.\n\n**Passo a passo**\n1. Eram uma revolta popular.\n2. D contradiz isso.\n\n**Pegadinha**\nAssociar toda revolta a elites.\n\n**Macete**\nCabano = cabana, pobre.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q070",
+   "topico": "historia-pe-cabanos",
+   "dificuldade": 2,
+   "enunciado": "Sobre o contexto da Cabanada, é correto afirmar que",
+   "alternativas": {
+    "A": "ocorreu durante o Primeiro Reinado.",
+    "B": "combateu os holandeses.",
+    "C": "proclamou a república em 1817.",
+    "D": "teve como líder Frei Caneca.",
+    "E": "ocorreu após a abdicação de D. Pedro I e teve caráter parcialmente restauracionista."
+   },
+   "gabarito": "E",
+   "explicacao": "Pós-abdicação.",
+   "resolucao_md": "**O que a questão pede**\nContextualizar.\n\n**Conceito/Regra rápida**\nAbdicação (1831) → Regência → Cabanos (1832-35).\n\n**Passo a passo**\n1. Ligue com a ordem dos períodos.\n2. As demais estão fora do contexto.\n\n**Pegadinha**\nDatar no Primeiro Reinado.\n\n**Macete**\nRegência = Cabanos.\n\n**Gabarito:** letra E."
+  }
+ ]
+}

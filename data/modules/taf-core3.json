@@ -1,0 +1,75 @@
+{
+  "id": "taf",
+  "titulo": "TAF – Exames de Aptidão Física (Soldado PMPE)",
+  "disciplina": "fisico",
+  "descricao": "Preparação para os Exames de Aptidão Física (item 14 do edital).",
+  "topicos": [
+    {
+      "id": "taf-abdominal",
+      "titulo": "14.12 – Flexão abdominal remador",
+      "prioridade": 1,
+      "horas": 5,
+      "resumo_md": "> **Aviso:** orientação geral; não substitui médico ou educador físico. Cuide da lombar e do pescoço; pare se houver dor.\n\n## Índices\n| Sexo | Mínimo em 1 minuto |\n|---|---|\n| Masculino | **40 repetições** (1 a cada 1,5 s) |\n| Feminino | **36 repetições** (1 a cada ~1,67 s) |\nTeste do **2º dia**, ambos os sexos, **uma tentativa**, tempo de **1 minuto** (apito inicia e encerra).\n\n## Execução (14.12)\n**Posição inicial:** deitado de costas (decúbito dorsal), **pernas completamente estendidas** no prolongamento do corpo e **dorso das mãos tocando o solo acima da cabeça**.\n**Movimento:** ao sinal, flexionar **tronco e quadril simultaneamente com a flexão dos joelhos**, chegando à posição sentada com **cotovelos estendidos à frente e paralelos ao solo**, de modo que os **cotovelos fiquem alinhados aos joelhos**. Em seguida retornar à posição inicial, com **dorso das mãos tocando o solo** acima da cabeça (cotovelos flexionados ou não) e pés no solo. Só então se registra **uma execução**.\n**Colchonete** opcional.\n\n## O que a banca conta e não conta\n- Só contam **execuções corretas**; incorretas ou incompletas: o avaliador diz **não contei**.\n- Flexão e extensão de **quadril, tronco e joelhos devem ser simultâneas**.\n- **Proibido** qualquer auxílio: abraçar ou apoiar-se nos joelhos ou na parte posterior das pernas; **apoiar os cotovelos no solo**.\n- **Pés no solo:** calcanhar na posição inicial, **planta** na posição sentada e calcanhar após a extensão.\n- **Não pode interromper**: se parar, o teste é encerrado para o candidato.\n\n## Técnica\n1. Inspire na posição deitada, braços estendidos acima da cabeça.\n2. Expire ao subir, puxando joelhos ao peito e levando braços à frente.\n3. Cotovelos paralelos ao solo na altura dos joelhos.\n4. Desça controlando, mãos tocam o solo, calcanhares no chão.\n5. Mantenha ritmo constante, sem pausas.\n\n## Ritmo e estratégia\n| Meta | Ritmo |\n|---|---|\n| 40 em 60 s | 1 repetição a cada 1,5 s (ou 10 em 15 s) |\n| 36 em 60 s | 1 a cada 1,67 s (9 em 15 s) |\nTreine com margem: buscar 44 a 45 (masc.) e 40 a 41 (fem.) em treino, pois a banca anula repetições.\n\n## Progressão\n- **Base:** prancha abdominal (3x30 a 60 s), elevação de pernas, abdominal curto.\n- **Técnica:** remador lento, 3x10, com checagem de alinhamento.\n- **Volume:** 4 a 5 séries de 20 a 30 s no ritmo-alvo, descanso de 30 a 45 s.\n- **Simulado:** 1 minuto completo, uma vez por semana.\nFrequência: 3 sessões por semana.\n\n## Erros comuns\n- Não tocar o dorso das mãos no solo ao voltar.\n- Cotovelos abaixo da linha dos joelhos ou não alinhados.\n- Abraçar os joelhos ou puxar as pernas.\n- Subir sem dobrar os joelhos (movimentos não simultâneos).\n- Começar muito rápido e perder o ritmo no fim.",
+      "dicas": [
+        "Treine filmado: o 'não contei' vem de falhas de alinhamento ou de toque das mãos.",
+        "Divida 60 s em quatro blocos de 15 s: 10 reps (masc.) ou 9 reps (fem.) por bloco.",
+        "Respire em ritmo: sobe expirando, desce inspirando.",
+        "Treine o simulado de 1 minuto após aquecer, em ritmo constante.",
+        "Faça margem de 4 repetições acima do índice nos treinos."
+      ],
+      "pegadinhas": [
+        "Cotovelos no chão para ajudar: proibido.",
+        "Abraçar os joelhos ao sentar: proibido.",
+        "Parar um pouco para respirar e depois continuar: o teste é encerrado.",
+        "Tronco e joelhos podem se mover em momentos diferentes: FALSO, devem ser simultâneos.",
+        "Repetição só conta se o dorso das mãos tocar o solo acima da cabeça ao voltar."
+      ],
+      "flashcards": [
+        {"q": "Índice masculino do abdominal remador?", "a": "40 repetições em 1 minuto."},
+        {"q": "Índice feminino?", "a": "36 repetições em 1 minuto."},
+        {"q": "Tentativas?", "a": "Uma."},
+        {"q": "Posição inicial?", "a": "Deitado de costas, pernas estendidas, dorso das mãos no solo acima da cabeça."},
+        {"q": "Posição na subida?", "a": "Sentado, cotovelos estendidos e paralelos ao solo, alinhados aos joelhos."},
+        {"q": "O que a banca diz quando a repetição é inválida?", "a": "Não contei."},
+        {"q": "Pode apoiar cotovelos no solo?", "a": "Não."},
+        {"q": "Pode haver interrupção?", "a": "Não; se interromper, o teste é encerrado."},
+        {"q": "Qual parte do pé toca o solo na posição sentada?", "a": "A planta."},
+        {"q": "Colchonete é obrigatório?", "a": "Não, é opcional."}
+      ]
+    },
+    {
+      "id": "taf-corrida",
+      "titulo": "14.13 – Corrida de 2.400 metros",
+      "prioridade": 1,
+      "horas": 14,
+      "resumo_md": "> **Aviso:** orientação geral; não substitui médico ou educador físico. Evolua o volume gradualmente, hidrate-se e pare diante de sinais de alerta (dor no peito, tontura, falta de ar anormal).\n\n## Índices e regras\n| Sexo | Tempo máximo |\n|---|---|\n| Masculino | **11min30s** |\n| Feminino | **13min30s** |\nTeste do **2º dia**, **uma tentativa**, **após o abdominal**. Pista de **300 m (8 voltas)** ou **400 m (6 voltas)**.\n- Pode correr ou **caminhar** em qualquer ritmo.\n- Início e término por **apito**; o cronômetro da coordenação é o **único oficial**.\n- Pode usar **relógio** para monitorar; **proibido celular e fones de ouvido**.\n- Ao passar pelo início da volta, dizer **o nome ou número de peito** em voz alta; se pedir, informam as voltas completas.\n- Proibido: ajuda física (puxar, empurrar, carregar, segurar a mão), **parar**, **sair da pista**.\n- Após o apito final, **não parar bruscamente**: continuar correndo ou caminhando.\n\n## Ritmo-alvo\n| | Masculino (11:30) | Feminino (13:30) |\n|---|---|---|\n| Tempo total | 690 s | 810 s |\n| Por km | **4min47s** (287,5 s) | **5min37s** (337,5 s) |\n| Volta de 400 m | **1min55s** (115 s) | **2min15s** (135 s) |\n| Volta de 300 m | **1min26s** (86,25 s) | **1min41s** (101,25 s) |\n| Por 100 m | 28,75 s | 33,75 s |\nMeta de treino com folga: masculino **11min00s** (4min35s/km; 110 s por 400 m) e feminino **13min00s** (5min25s/km; 130 s por 400 m).\n\n## Pacing (estratégia)\n1. **Voltas regulares**: confira o tempo a cada volta; o erro mais comum é largar rápido e quebrar depois.\n2. **Primeiros 400 m** no ritmo-alvo ou 2 a 3 s mais lentos; não dispare.\n3. Meio da prova: manter, respiração controlada.\n4. **Última volta**: acelere se tiver reserva.\n\n## Estrutura de treino (3 a 4 sessões por semana)\n| Tipo | Exemplo | Objetivo |\n|---|---|---|\n| Contínuo leve | 20 a 40 min em ritmo de conversa | Base aeróbica |\n| Ritmo de prova | 2x1.200 m no ritmo-alvo, 3 min de pausa | Conhecer o ritmo |\n| Intervalado | 5 a 6x400 m a 1min50s (masc.), 2min10s (fem.), 90 s de trote | Capacidade aeróbica |\n| Tiros curtos | 8x200 m rápidos, 60 s de pausa | Velocidade e economia |\n| Longo | 5 a 8 km lento, 1x/semana | Resistência |\n| Simulado | 2.400 m cronometrado a cada 2 a 3 semanas | Avaliar |\n\n## Do zero\n- **Semanas 1 a 4:** caminhada/corrida alternada (ex.: 1 min correndo, 2 min caminhando, 8 a 10 ciclos).\n- **Semanas 5 a 8:** 10 a 20 min contínuos.\n- **Depois:** introduzir intervalados e ritmo de prova.\nAumente o tempo semanal em até 10%.\n\n## Dicas de execução\nTênis adequado e confortável; hidratação e alimentação leve antes; aquecimento de 10 min; não arrancar nos primeiros 200 m.",
+      "dicas": [
+        "Decore os parciais: 1min55 por volta de 400 m (masc.) e 2min15 (fem.).",
+        "Treine com folga de 20 a 30 s sobre o índice.",
+        "Corrida de ritmo constante é mais eficiente do que arranque e queda.",
+        "Use relógio comum com cronômetro; celular e fones são proibidos.",
+        "Após o apito final, continue caminhando para voltar à calma."
+      ],
+      "pegadinhas": [
+        "Em pista de 300 m são 6 voltas: FALSO. São 8 voltas; 6 voltas são na pista de 400 m.",
+        "Caminhar é proibido: FALSO. Pode correr ou caminhar, mas não pode parar nem sair da pista.",
+        "Tempo marcado no relógio do candidato é o oficial: FALSO. Só o cronômetro da coordenação.",
+        "Fones de ouvido são permitidos para ritmo: FALSO.",
+        "Pode receber ajuda de acompanhante correndo junto: proibido (14.20)."
+      ],
+      "flashcards": [
+        {"q": "Tempo máximo masculino na corrida?", "a": "11min30s."},
+        {"q": "Tempo máximo feminino na corrida?", "a": "13min30s."},
+        {"q": "Ritmo masculino por km?", "a": "Cerca de 4min47s."},
+        {"q": "Ritmo feminino por km?", "a": "Cerca de 5min37s."},
+        {"q": "Parcial por volta de 400 m (masc.)?", "a": "1min55s."},
+        {"q": "Parcial por volta de 400 m (fem.)?", "a": "2min15s."},
+        {"q": "Voltas na pista de 300 m?", "a": "8 voltas."},
+        {"q": "Voltas na pista de 400 m?", "a": "6 voltas."},
+        {"q": "O que é proibido durante a corrida?", "a": "Ajuda física, parar, sair da pista, celular e fones."},
+        {"q": "O que fazer ao passar pelo início da volta?", "a": "Dizer o nome ou número de peito em voz alta."}
+      ]
+    }
+  ],
+  "questoes": []
+}

@@ -1,0 +1,136 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q111",
+   "topico": "historia-pe-linha-tempo",
+   "dificuldade": 2,
+   "enunciado": "Qual alternativa apresenta a ordem correta: Faculdade de Direito (Olinda); Abolição; República?",
+   "alternativas": {
+    "A": "1827; 1888; 1889.",
+    "B": "1888; 1827; 1889.",
+    "C": "1889; 1888; 1827.",
+    "D": "1827; 1889; 1888.",
+    "E": "1888; 1889; 1827."
+   },
+   "gabarito": "A",
+   "explicacao": "1827, 1888, 1889.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar.\n\n**Conceito/Regra rápida**\n1827, 1888, 1889.\n\n**Passo a passo**\n1. Datas.\n2. Só uma respeita.\n\n**Pegadinha**\nTrocar 1888 e 1889.\n\n**Macete**\n88 antes de 89.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q112",
+   "topico": "historia-pe-linha-tempo",
+   "dificuldade": 2,
+   "enunciado": "Assinale a sequência correta: golpe contra Arraes; Revolução de 1930; Intentona de 1935; Estado Novo.",
+   "alternativas": {
+    "A": "Intentona; 1930; golpe; Estado Novo.",
+    "B": "Revolução de 1930; Intentona de 1935; Estado Novo; golpe de 1964.",
+    "C": "Estado Novo; Intentona; 1930; golpe.",
+    "D": "1930; Estado Novo; Intentona; golpe.",
+    "E": "Golpe; 1930; Intentona; Estado Novo."
+   },
+   "gabarito": "B",
+   "explicacao": "A ordem é 1930, 1935, 1937, 1964.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar.\n\n**Conceito/Regra rápida**\n1930 → 1935 → 1937 → 1964.\n\n**Passo a passo**\n1. Datas.\n2. Só uma respeita.\n\n**Pegadinha**\nTrocar 1935 e 1937.\n\n**Macete**\n30, 35, 37, 64.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q113",
+   "topico": "historia-pe-linha-tempo",
+   "dificuldade": 1,
+   "enunciado": "Em 1709-1711 ocorreram",
+   "alternativas": {
+    "A": "o Acordo de Ganga Zumba e a destruição de Palmares.",
+    "B": "a invasão holandesa e a saída de Nassau.",
+    "C": "a elevação do Recife a vila e a Guerra dos Mascates.",
+    "D": "a Revolução de 1817 e a Confederação.",
+    "E": "a Praieira e a Abolição."
+   },
+   "gabarito": "C",
+   "explicacao": "Mascates.",
+   "resolucao_md": "**O que a questão pede**\nAssociar período.\n\n**Conceito/Regra rápida**\n1709-11 = Mascates.\n\n**Passo a passo**\n1. Datas.\n2. Elimine as demais.\n\n**Pegadinha**\nConfundir com 1694.\n\n**Macete**\n1709 = vila.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q114",
+   "topico": "historia-pe-linha-tempo",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA.",
+   "alternativas": {
+    "A": "A Guerra dos Cabanos ocorreu entre 1832 e 1835.",
+    "B": "A Praieira ocorreu em 1848-1849.",
+    "C": "A Confederação do Equador foi em 1824.",
+    "D": "A Insurreição Pernambucana ocorreu de 1645 a 1654, e o Tratado de Haia foi assinado em 1630.",
+    "E": "As Ligas Camponesas surgiram em 1955."
+   },
+   "gabarito": "D",
+   "explicacao": "A incorreta é D.",
+   "resolucao_md": "**O que a questão pede**\nAchar o erro.\n\n**Conceito/Regra rápida**\nHaia = 1661.\n\n**Passo a passo**\n1. Datas.\n2. D é incorreta.\n\n**Pegadinha**\nTrocar datas.\n\n**Macete**\nHaia = 1661.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q115",
+   "topico": "historia-pe-geografia-simbolos",
+   "dificuldade": 2,
+   "enunciado": "Pernambuco possui",
+   "alternativas": {
+    "A": "284 municípios, além de Itamaracá.",
+    "B": "150 municípios, além de Noronha.",
+    "C": "184 municípios, além de Petrolina.",
+    "D": "300 municípios, além do Recife.",
+    "E": "184 municípios, além do Distrito Estadual de Fernando de Noronha."
+   },
+   "gabarito": "E",
+   "explicacao": "184.",
+   "resolucao_md": "**O que a questão pede**\nMemorizar.\n\n**Conceito/Regra rápida**\n184 + Noronha.\n\n**Passo a passo**\n1. Número.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar o número.\n\n**Macete**\n184.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q116",
+   "topico": "historia-pe-geografia-simbolos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre os limites de Pernambuco.",
+   "alternativas": {
+    "A": "Faz divisa com Sergipe e com o Maranhão.",
+    "B": "Faz divisa com Paraíba e Ceará, ao norte.",
+    "C": "Faz divisa com Alagoas, ao sul/sudeste.",
+    "D": "Faz divisa com a Bahia e o Piauí.",
+    "E": "Banhado pelo Oceano Atlântico, a leste."
+   },
+   "gabarito": "A",
+   "explicacao": "A incorreta é A.",
+   "resolucao_md": "**O que a questão pede**\nAchar o erro.\n\n**Conceito/Regra rápida**\nLimites: PB, CE, AL, BA, PI.\n\n**Passo a passo**\n1. Liste os vizinhos.\n2. A é incorreta.\n\n**Pegadinha**\nTrocar vizinhos.\n\n**Macete**\n5 vizinhos.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q117",
+   "topico": "historia-pe-geografia-simbolos",
+   "dificuldade": 1,
+   "enunciado": "A data magna de Pernambuco e o epíteto do Estado são, respectivamente,",
+   "alternativas": {
+    "A": "2 de julho e «Terra do Sol».",
+    "B": "6 de março e «Leão do Norte».",
+    "C": "7 de setembro e «Veneza».",
+    "D": "13 de janeiro e «Cidade Maurícia».",
+    "E": "19 de abril e «Cidade Alta»."
+   },
+   "gabarito": "B",
+   "explicacao": "Leão do Norte.",
+   "resolucao_md": "**O que a questão pede**\nAssociar.\n\n**Conceito/Regra rápida**\n6 de março, Leão do Norte.\n\n**Passo a passo**\n1. Data e epíteto.\n2. Elimine as demais.\n\n**Pegadinha**\nTrocar datas.\n\n**Macete**\n6/3 = leão.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q118",
+   "topico": "historia-pe-geografia-simbolos",
+   "dificuldade": 2,
+   "enunciado": "As mesorregiões de Pernambuco são",
+   "alternativas": {
+    "A": "Litoral, Mata, Cerrado, Pampa e Pantanal.",
+    "B": "Recife, Olinda, Caruaru, Petrolina e Garanhuns.",
+    "C": "Metropolitana do Recife, Zona da Mata, Agreste, Sertão e São Francisco Pernambucano.",
+    "D": "Norte, Sul, Leste, Oeste e Centro.",
+    "E": "Mata Atlântica, Caatinga, Cerrado, Amazônia e Pampa."
+   },
+   "gabarito": "C",
+   "explicacao": "C é correta.",
+   "resolucao_md": "**O que a questão pede**\nListar.\n\n**Conceito/Regra rápida**\nCinco mesorregiões.\n\n**Passo a passo**\n1. Liste.\n2. Elimine as demais.\n\n**Pegadinha**\nConfundir com biomas.\n\n**Macete**\n5 mesorregiões.\n\n**Gabarito:** letra C."
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "constitucional",
+  "titulo": "Direito Constitucional – CF/88: direitos e garantias fundamentais e temas correlatos",
+  "disciplina": "constitucional",
+  "descricao": "Princípios fundamentais, direitos e garantias individuais (art. 5º), direitos sociais, nacionalidade, direitos políticos e remédios constitucionais. A AOCP costuma cobrar o texto literal da CF com trocas sutis de palavras, e questões de itens (I, II, III) e de INCORRETA.",
+  "topicos": [
+    {
+      "id": "const-a-art5-g3",
+      "titulo": "Art. 5º, grupo 3: garantias processuais e penais, prisão, flagrante, direitos do preso, identificação criminal, extradição e asilo",
+      "prioridade": 1,
+      "horas": 6,
+      "resumo_md": "## Garantias processuais (art. 5º, XXXV a LX, LXXIV a LXXVIII)\n| Inciso | Garantia | Ideia central |\n|---|---|---|\n| XXXV | **inafastabilidade da jurisdição** | a lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito |\n| XXXVI | segurança jurídica | a lei não prejudicará **direito adquirido, ato jurídico perfeito e coisa julgada** |\n| XXXVII | **juiz natural** (1) | não haverá juízo ou tribunal de **exceção** |\n| LIII | **juiz natural** (2) | ninguém será processado nem sentenciado senão pela **autoridade competente** |\n| XXXVIII | **júri** | plenitude de defesa; sigilo das votações; soberania dos veredictos; competência para crimes **dolosos contra a vida** |\n| LIV | **devido processo legal** | ninguém será privado da liberdade ou de seus bens sem ele |\n| LV | **contraditório e ampla defesa** | aos litigantes, em processo judicial ou administrativo, e aos acusados em geral, com os meios e recursos a ela inerentes |\n| LVI | **provas ilícitas** | são inadmissíveis, no processo, as obtidas por meios ilícitos |\n| LVII | **presunção de inocência** | ninguém será considerado culpado até o **trânsito em julgado** de sentença penal condenatória |\n| LX | publicidade | atos processuais públicos, salvo defesa da intimidade ou interesse social |\n| LXXIV | assistência jurídica | integral e gratuita aos que comprovarem **insuficiência de recursos** |\n| LXXV | erro judiciário | o Estado indenizará o condenado por erro judiciário e quem ficar preso além do tempo fixado na sentença |\n| LXXVIII | duração razoável do processo | e meios que garantam a celeridade de sua tramitação |\nSobre a presunção de inocência, o STF, nas ações declaratórias de constitucionalidade sobre o tema (2019), reafirmou a exigência do trânsito em julgado para o início do cumprimento da pena [VERIFICAR numeração das ADCs].\n\n## Princípios penais (art. 5º, XXXIX a XLVIII)\n- **XXXIX (legalidade e anterioridade penal):** não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal.\n- **XL:** a lei penal **não retroagirá, salvo para beneficiar o réu**.\n- **XLII:** racismo = crime **inafiançável e imprescritível**, com pena de reclusão.\n- **XLIII:** **tortura, tráfico ilícito de entorpecentes e drogas afins, terrorismo e crimes hediondos** = **inafiançáveis e insuscetíveis de graça ou anistia** (mnemônico **TTTH**: Tortura, Tráfico, Terrorismo, Hediondos). Respondem os mandantes, os executores e os que, podendo evitá-los, se omitirem.\n- **XLIV:** ação de **grupos armados**, civis ou militares, contra a ordem constitucional e o Estado Democrático = inafiançável e **imprescritível**.\n- **XLV:** nenhuma pena passará da pessoa do condenado (a obrigação de reparar o dano e o perdimento de bens podem atingir sucessores, até o limite do patrimônio transferido).\n- **XLVI:** **individualização da pena** (privação ou restrição de liberdade, perda de bens, multa, prestação social alternativa, suspensão ou interdição de direitos).\n- **XLVII:** **não haverá penas** de **morte** (salvo guerra declarada), **caráter perpétuo, trabalhos forçados, banimento e cruéis**. Mnemônico: \"M-P-T-B-C\".\n- **XLVIII:** cumprimento em estabelecimentos distintos, conforme natureza do delito, idade e sexo.\n- **XLIX e L:** respeito à integridade física e moral do preso; condições para presidiárias permanecerem com seus filhos na amamentação.\n**Imprescritíveis** (só dois): racismo e grupos armados. **Inafiançáveis**: racismo, TTTH e grupos armados.\n\n## Prisão, flagrante e direitos do preso (art. 5º, LXI a LXVII)\n- **LXI:** só se prende em **flagrante delito** ou por **ordem escrita e fundamentada de autoridade judiciária competente**, salvo **transgressão militar ou crime propriamente militar** (nesses, dispensa-se a ordem judicial).\n- **LXII:** a prisão e o local onde o preso se encontre serão comunicados **imediatamente** ao juiz competente e à família ou pessoa indicada.\n- **LXIII:** o preso será informado de seus direitos, entre eles o de **permanecer calado**, com assistência da família e de **advogado**.\n- **LXIV:** direito à identificação dos responsáveis por sua prisão ou interrogatório policial.\n- **LXV:** prisão ilegal será **imediatamente relaxada** pela autoridade judiciária.\n- **LXVI:** ninguém será levado à prisão ou nela mantido quando a lei admitir liberdade provisória, com ou sem fiança.\n- **LXVII:** não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento **voluntário e inescusável de obrigação alimentícia**; a do depositário infiel é **ilícita** segundo a **Súmula Vinculante 25**.\n**Algemas (SV 11):** só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, com justificativa **por escrito**, sob pena de responsabilidade e nulidade do ato. **Flagrante (CPP, art. 302):** próprio, impróprio e presumido; após a prisão, há a **audiência de custódia** em até 24 horas (CPP, art. 310, na redação da Lei 13.964/2019) [VERIFICAR a redação atual].\n\n## Identificação criminal, extradição e asilo\n- **LVIII:** o **civilmente identificado** não será submetido a **identificação criminal**, **salvo nas hipóteses previstas em lei** (hoje, Lei 12.037/2009).\n- **LI (extradição de brasileiro):** nenhum brasileiro será extraditado, **salvo o naturalizado**, em caso de **crime comum praticado antes da naturalização** ou de comprovado envolvimento em **tráfico ilícito de entorpecentes** e drogas afins, na forma da lei. O **nato nunca** é extraditado.\n- **LII:** não será concedida extradição de estrangeiro por **crime político ou de opinião**.\n- **Asilo político:** princípio do art. 4º, X (concessão), ao contrário da extradição, que é pedido de outro Estado.\n\n## Macetes\n- Presunção de inocência: \"trânsito em julgado\" (não \"segunda instância\").\n- Prisão sem ordem judicial: flagrante + transgressão/crime propriamente militar.\n- Imprescritível: RA-GA (RAcismo e GAgrupos armados).",
+      "dicas": [
+        "Presunção de inocência: só até o trânsito em julgado.",
+        "TTTH (Tortura, Tráfico, Terrorismo, Hediondos): inafiançáveis e insuscetíveis de graça ou anistia.",
+        "Imprescritíveis: racismo e grupos armados contra o Estado Democrático (RA-GA).",
+        "Prisão sem ordem judicial: flagrante, transgressão militar e crime propriamente militar.",
+        "SV 11: algemas só com resistência, fundado receio de fuga ou perigo, e justificativa por escrito.",
+        "Brasileiro nato nunca é extraditado; naturalizado só em crime comum anterior à naturalização ou tráfico."
+      ],
+      "pegadinhas": [
+        "Dizer que a presunção de inocência vai até a condenação em segunda instância: a CF diz trânsito em julgado.",
+        "Dizer que o racismo é insuscetível de graça ou anistia (inciso XLIII): o racismo é inafiançável e imprescritível (XLII); o XLIII cobre tortura, tráfico, terrorismo e crimes hediondos.",
+        "Dizer que a transgressão militar exige ordem escrita de autoridade judiciária: é exceção, dispensa-a.",
+        "Dizer que a prisão é comunicada ao juiz \"em 24 ou 48 horas\" no texto constitucional: o inciso LXII diz \"imediatamente\".",
+        "Dizer que a lei penal pode retroagir para prejudicar o réu: só para beneficiá-lo.",
+        "Dizer que o brasileiro naturalizado é extraditável por qualquer crime: só comum anterior à naturalização ou tráfico.",
+        "Dizer que o civilmente identificado nunca sofre identificação criminal: há hipóteses previstas em lei.",
+        "Dizer que as algemas dispensam justificativa por escrito em prisão em flagrante: a SV 11 exige."
+      ],
+      "flashcards": [
+        {
+          "q": "O que é inafastabilidade da jurisdição?",
+          "a": "A lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito (art. 5º, XXXV)."
+        },
+        {
+          "q": "Quais as duas faces do juiz natural?",
+          "a": "Vedação a juízo ou tribunal de exceção (XXXVII) e processo e sentença só pela autoridade competente (LIII)."
+        },
+        {
+          "q": "Qual o marco da presunção de inocência?",
+          "a": "O trânsito em julgado de sentença penal condenatória (art. 5º, LVII)."
+        },
+        {
+          "q": "O que a CF diz sobre provas obtidas por meio ilícito?",
+          "a": "São inadmissíveis no processo (art. 5º, LVI)."
+        },
+        {
+          "q": "Quais crimes são inafiançáveis e insuscetíveis de graça ou anistia?",
+          "a": "Tortura, tráfico ilícito de entorpecentes, terrorismo e crimes hediondos (XLIII)."
+        },
+        {
+          "q": "Quais crimes são inafiançáveis e imprescritíveis?",
+          "a": "Racismo (XLII) e ação de grupos armados contra a ordem constitucional e o Estado Democrático (XLIV)."
+        },
+        {
+          "q": "Há pena de morte na CF/88?",
+          "a": "Só em caso de guerra declarada (art. 5º, XLVII, a); também vedadas penas perpétuas, de trabalhos forçados, banimento e cruéis."
+        },
+        {
+          "q": "Quando se pode prender sem ordem judicial?",
+          "a": "Em flagrante delito, e nos casos de transgressão militar ou crime propriamente militar (LXI)."
+        },
+        {
+          "q": "A quem se comunica a prisão e quando?",
+          "a": "Ao juiz competente e à família ou pessoa indicada, imediatamente (LXII)."
+        },
+        {
+          "q": "Quais direitos o preso deve ser informado?",
+          "a": "Entre outros, o de permanecer calado, com assistência da família e de advogado (LXIII)."
+        },
+        {
+          "q": "O que fazer com prisão ilegal?",
+          "a": "A autoridade judiciária a relaxa imediatamente (LXV)."
+        },
+        {
+          "q": "O que diz a Súmula Vinculante 11?",
+          "a": "Algemas só em caso de resistência, fundado receio de fuga ou perigo, com justificativa por escrito."
+        },
+        {
+          "q": "O que diz a Súmula Vinculante 25?",
+          "a": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito."
+        },
+        {
+          "q": "Quando o civilmente identificado sofre identificação criminal?",
+          "a": "Só nas hipóteses previstas em lei (LVIII)."
+        },
+        {
+          "q": "Quem pode ser extraditado: brasileiro nato? naturalizado?",
+          "a": "Nato, nunca; naturalizado, só por crime comum anterior à naturalização ou tráfico de drogas (LI)."
+        },
+        {
+          "q": "Pode extraditar estrangeiro por crime político?",
+          "a": "Não: crime político ou de opinião não gera extradição (LII)."
+        }
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "const-a-art5-g3-q01",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Acerca do princípio do juiz natural, na CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "é permitida a criação de tribunal de exceção por lei, para julgar crimes graves ocorridos antes de sua instituição.",
+        "B": "juiz natural é aquele escolhido pelas partes de comum acordo antes do início do processo.",
+        "C": "não haverá juízo ou tribunal de exceção, e ninguém será processado nem sentenciado senão pela autoridade competente.",
+        "D": "a autoridade competente pode ser designada após o fato, por ato do tribunal, desde que fundamentado.",
+        "E": "o princípio aplica-se apenas ao processo civil, não ao penal."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: combina os incisos XXXVII e LIII do art. 5º. Demais: A) tribunal de exceção é vedado. B) o juiz natural é o previamente definido em lei, não escolhido pelas partes. D) a competência deve ser anterior ao fato. E) aplica-se a qualquer processo, inclusive penal.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar o conteúdo do juiz natural.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXXVII e LIII**: sem juízo ou tribunal de exceção; processo e sentença apenas pela autoridade competente (definida previamente em lei).\n\n**Passo a passo**\n1. Fixe os dois incisos: XXXVII (sem exceção) e LIII (autoridade competente).\n2. Elimine a que permite tribunal de exceção.\n3. Elimine \"escolhido pelas partes\" e \"designado depois do fato\".\n4. Elimine \"só civil\".\n5. Alternativa C.\n\n**Pegadinha**\nEscolher o juiz após o fato (tribunal de exceção) é a negação do princípio.\n\n**Macete**\nJuiz natural = competência anterior, nunca de encomenda."
+    },
+    {
+      "id": "const-a-art5-g3-q02",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 1,
+      "enunciado": "Em conformidade com o art. 5º, LVII, da Constituição Federal, a presunção de inocência perdura",
+      "alternativas": {
+        "A": "até a condenação em segunda instância.",
+        "B": "até a sentença condenatória de primeiro grau.",
+        "C": "até o recebimento da denúncia pelo juiz.",
+        "D": "até o trânsito em julgado de sentença penal condenatória.",
+        "E": "até a conclusão do inquérito policial."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: é a redação literal do inciso LVII. Demais: A) a CF exige trânsito em julgado, que vai além da segunda instância. B) sentença de primeiro grau cabe recurso. C) o recebimento da denúncia apenas inicia a ação penal. E) o inquérito é fase pré-processual e não gera culpa.",
+      "resolucao_md": "**O que a questão pede**\nMarcar o marco final da presunção de inocência.\n\n**Conceito/Regra rápida**\n**Art. 5º, LVII**: \"ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória\". Trânsito em julgado = não cabe mais recurso.\n\n**Passo a passo**\n1. Procure a expressão \"trânsito em julgado\".\n2. Descarte as demais etapas processuais (inquérito, denúncia, 1º e 2º graus), todas anteriores ao trânsito em julgado.\n3. Alternativa D.\n\n**Pegadinha**\nO tema da execução da pena em segunda instância gerou debate no STF; em 2019, nas ADCs 43, 44 e 54 [VERIFICAR numeração], prevaleceu o trânsito em julgado.\n\n**Macete**\nCulpado só depois do último recurso."
+    },
+    {
+      "id": "const-a-art5-g3-q03",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Em relação às regras de prisão previstas no art. 5º, LXI a LXV, da CF/88, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "A prisão em flagrante delito dispensa ordem escrita de autoridade judiciária.",
+        "B": "A prisão por crime propriamente militar, definido em lei, dispensa ordem de autoridade judiciária.",
+        "C": "A prisão ilegal será imediatamente relaxada pela autoridade judiciária.",
+        "D": "A prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada.",
+        "E": "A prisão por transgressão militar exige ordem escrita e fundamentada de autoridade judiciária competente."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: a transgressão militar é exceção que dispensa ordem judicial (LXI). Demais: A) o flagrante é exceção expressa do inciso LXI. B) é a outra exceção do inciso LXI. C) é o inciso LXV. D) é o inciso LXII.",
+      "resolucao_md": "**O que a questão pede**\nAchar a alternativa falsa (INCORRETA).\n\n**Conceito/Regra rápida**\n**Art. 5º, LXI**: regra = flagrante ou ordem judicial escrita e fundamentada; exceção = transgressão militar ou crime propriamente militar. **LXII**: comunicação imediata. **LXV**: relaxamento imediato.\n\n**Passo a passo**\n1. Questão pede a INCORRETA.\n2. Flagrante: dispensa ordem. Verdadeiro.\n3. Crime propriamente militar: dispensa ordem. Verdadeiro.\n4. Relaxamento e comunicação imediatos: verdadeiros.\n5. A afirmação sobre transgressão militar inverte a exceção: falsa. Alternativa E.\n\n**Pegadinha**\nPara um policial militar este é tema central: transgressão militar permite prisão administrativa sem ordem judicial (e o habeas corpus não cabe quanto ao mérito das punições disciplinares, art. 142, § 2º).\n\n**Macete**\nSem ordem judicial: flagrante, transgressão, crime propriamente militar."
+    },
+    {
+      "id": "const-a-art5-g3-q04",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Sobre os direitos do preso, analise as afirmativas.\n\nI. O preso será informado de seus direitos, entre os quais o de permanecer calado.\nII. É assegurada ao preso a assistência da família e de advogado.\nIII. O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.\nIV. A prisão e o local onde se encontre o preso serão comunicados ao juiz competente em até 48 horas.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I, II e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I, II e IV, apenas.",
+        "E": "I, II, III e IV."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: os itens I, II e III correspondem aos incisos LXIII e LXIV; o item IV contraria o inciso LXII. Demais: B) o item III também é verdadeiro. C) o item I também é verdadeiro. D) o item IV é falso: a CF diz \"imediatamente\". E) o item IV é falso.",
+      "resolucao_md": "**O que a questão pede**\nCombinar os itens verdadeiros sobre direitos do preso.\n\n**Conceito/Regra rápida**\n**Art. 5º, LXII a LXIV**: comunicação **imediata**; informação dos direitos (calar, família, advogado); identificação dos responsáveis.\n\n**Passo a passo**\n1. Item I: LXIII. Verdadeiro.\n2. Item II: LXIII (parte final). Verdadeiro.\n3. Item III: LXIV. Verdadeiro.\n4. Item IV: a CF não fala em 48 horas; diz \"imediatamente\". Falso.\n5. Combinação: I, II e III. Alternativa A.\n\n**Pegadinha**\nPrazos numéricos que não estão na CF são a armadilha.\n\n**Macete**\nCF: \"imediatamente\". Prazos de horas vêm da lei processual."
+    },
+    {
+      "id": "const-a-art5-g3-q05",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "De acordo com o art. 5º, LVIII, da CF/88, em relação à identificação criminal, é correto afirmar que",
+      "alternativas": {
+        "A": "o civilmente identificado não será submetido a identificação criminal em hipótese alguma.",
+        "B": "o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei.",
+        "C": "o civilmente identificado será sempre submetido a identificação criminal quando preso em flagrante.",
+        "D": "a identificação criminal pode ser determinada pelo delegado em qualquer caso, a seu critério.",
+        "E": "a identificação criminal só é admitida para reincidentes, nos termos da Constituição."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o texto do inciso LVIII. Demais: A) a CF admite as hipóteses previstas em lei. C) a regra é a não submissão. D) as hipóteses são as previstas em lei, não a critério. E) a CF não traz tal condição; remete à lei.",
+      "resolucao_md": "**O que a questão pede**\nEntender a regra e a exceção da identificação criminal.\n\n**Conceito/Regra rápida**\n**Art. 5º, LVIII**: regra = civilmente identificado não passa por identificação criminal; exceção = hipóteses **previstas em lei** (Lei 12.037/2009).\n\n**Passo a passo**\n1. Fixe: regra + exceção legal.\n2. Elimine \"em hipótese alguma\" (sem exceção).\n3. Elimine \"sempre\" e \"a critério do delegado\".\n4. Elimine \"só reincidentes\" (criação sem base).\n5. Alternativa B.\n\n**Pegadinha**\n\"Hipótese alguma\" e \"sempre\" são absolutos suspeitos.\n\n**Macete**\nCivil identificado: regra é não; exceção só por lei."
+    },
+    {
+      "id": "const-a-art5-g3-q06",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Uma lei penal nova, mais severa, foi publicada depois da prática de determinado crime. Nos termos do art. 5º, XL, da CF/88, essa lei",
+      "alternativas": {
+        "A": "aplica-se ao fato anterior, por ser lei processual de aplicação imediata.",
+        "B": "aplica-se ao fato anterior, se o juiz entender que o interesse social assim exige.",
+        "C": "não se aplica ao fato anterior, pois a lei penal não retroagirá, salvo para beneficiar o réu.",
+        "D": "aplica-se ao fato anterior, se o crime for hediondo.",
+        "E": "aplica-se ao fato anterior, desde que o réu seja reincidente."
+      },
+      "gabarito": "C",
+      "explicacao": "Gabarito C: é o texto do inciso XL. Demais: A) a lei é penal material e mais gravosa; não retroage. B) a CF não admite essa discricionariedade. D) não há exceção para hediondos. E) reincidência não altera a vedação.",
+      "resolucao_md": "**O que a questão pede**\nAplicar a irretroatividade da lei penal.\n\n**Conceito/Regra rápida**\n**Art. 5º, XXXIX e XL**: sem crime sem lei anterior; lei penal só retroage para **beneficiar** o réu.\n\n**Passo a passo**\n1. Fato: lei mais severa, posterior ao crime.\n2. Regra: não retroage.\n3. A retroatividade só ocorreria se a lei fosse mais benéfica.\n4. Elimine as alternativas que criam exceções (processo, interesse social, hediondo, reincidência).\n5. Alternativa C.\n\n**Pegadinha**\nA banca troca \"para beneficiar\" por \"para prejudicar\" ou cria exceções inventadas.\n\n**Macete**\nRetroage só para o réu ganhar."
+    },
+    {
+      "id": "const-a-art5-g3-q07",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Nos termos do art. 5º, XLIII, da CF/88, são considerados inafiançáveis e insuscetíveis de graça ou anistia:",
+      "alternativas": {
+        "A": "o racismo e a ação de grupos armados contra a ordem constitucional e o Estado Democrático.",
+        "B": "o racismo, a tortura e o terrorismo.",
+        "C": "o homicídio simples, o roubo e o terrorismo.",
+        "D": "a tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os crimes definidos como hediondos.",
+        "E": "o tráfico de drogas, o terrorismo e o racismo, apenas."
+      },
+      "gabarito": "D",
+      "explicacao": "Gabarito D: reproduz o inciso XLIII (TTTH). Demais: A) esses são inafiançáveis e imprescritíveis (XLII e XLIV). B) o racismo está no XLII, que não fala em graça ou anistia. C) homicídio simples e roubo simples não constam do inciso XLIII. E) omite tortura e hediondos e inclui o racismo, que não consta do XLIII.",
+      "resolucao_md": "**O que a questão pede**\nReconhecer a lista do inciso XLIII.\n\n**Conceito/Regra rápida**\n**XLIII (TTTH)**: Tortura, Tráfico, Terrorismo, Hediondos = inafiançáveis e insuscetíveis de graça ou anistia. **XLII e XLIV**: racismo e grupos armados = inafiançáveis e imprescritíveis.\n\n**Passo a passo**\n1. Separe as duas listas: TTTH (graça/anistia) e RA-GA (imprescritíveis).\n2. Quem fala em racismo ou grupos armados está misturando as listas.\n3. Quem traz homicídio simples ou roubo inventa itens.\n4. Sobra D.\n\n**Pegadinha**\nO racismo não está no inciso XLIII.\n\n**Macete**\nTTTH = sem fiança, sem graça, sem anistia."
+    },
+    {
+      "id": "const-a-art5-g3-q08",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Segundo a CF/88, são crimes inafiançáveis e imprescritíveis:",
+      "alternativas": {
+        "A": "a tortura e o terrorismo.",
+        "B": "o tráfico ilícito de entorpecentes e os crimes hediondos.",
+        "C": "o racismo e a tortura.",
+        "D": "o terrorismo e a ação de grupos armados.",
+        "E": "a prática do racismo e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático."
+      },
+      "gabarito": "E",
+      "explicacao": "Gabarito E: são os incisos XLII e XLIV. Demais: A) inafiançáveis e insuscetíveis de graça ou anistia, mas não declarados imprescritíveis pela CF. B) idem: inciso XLIII, sem imprescritibilidade. C) a tortura não é declarada imprescritível. D) o terrorismo não é declarado imprescritível pela CF.",
+      "resolucao_md": "**O que a questão pede**\nIdentificar os crimes imprescritíveis.\n\n**Conceito/Regra rápida**\n**Imprescritíveis na CF: apenas dois** — racismo (XLII) e ação de grupos armados contra a ordem constitucional e o Estado Democrático (XLIV). Ambos também inafiançáveis.\n\n**Passo a passo**\n1. Lembre RA-GA: RAcismo e GAgrupos armados.\n2. Elimine todas as alternativas com tortura, tráfico, terrorismo ou hediondos.\n3. Alternativa E.\n\n**Pegadinha**\nInafiançável não significa imprescritível: a lista de imprescritíveis é bem menor.\n\n**Macete**\nRA-GA = imprescritíveis."
+    },
+    {
+      "id": "const-a-art5-g3-q09",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Acerca da extradição, prevista no art. 5º, LI e LII, da CF/88, é correto afirmar que",
+      "alternativas": {
+        "A": "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum praticado antes da naturalização ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+        "B": "o brasileiro naturalizado pode ser extraditado por qualquer crime, comum ou político.",
+        "C": "o brasileiro nato pode ser extraditado em caso de comprovado envolvimento em tráfico ilícito de entorpecentes.",
+        "D": "o estrangeiro pode ser extraditado por crime político, se for de extrema gravidade.",
+        "E": "o brasileiro naturalizado pode ser extraditado por crime comum praticado após a naturalização."
+      },
+      "gabarito": "A",
+      "explicacao": "Gabarito A: é a redação do inciso LI. Demais: B) só crime comum anterior à naturalização ou tráfico de drogas. C) o nato jamais é extraditado. D) extradição por crime político ou de opinião é vedada. E) a CF fala em crime comum praticado antes da naturalização.",
+      "resolucao_md": "**O que a questão pede**\nAplicar as regras de extradição.\n\n**Conceito/Regra rápida**\n**Art. 5º, LI**: nato nunca; naturalizado só em (a) crime comum anterior à naturalização, ou (b) tráfico ilícito de entorpecentes na forma da lei. **LII**: nada de extradição por crime político ou de opinião.\n\n**Passo a passo**\n1. Elimine a que extradita o nato.\n2. Elimine a que extradita o naturalizado por qualquer crime ou por crime comum posterior.\n3. Elimine a que permite extradição por crime político.\n4. Alternativa A.\n\n**Pegadinha**\nAntes x depois da naturalização é o detalhe mais trocado.\n\n**Macete**\nNaturalizado: comum de antes ou tráfico."
+    },
+    {
+      "id": "const-a-art5-g3-q10",
+      "topico": "const-a-art5-g3",
+      "dificuldade": 2,
+      "enunciado": "Em uma abordagem policial, o policial militar precisa algemar um preso. Segundo a Súmula Vinculante 11 do STF, que trata do uso de algemas,",
+      "alternativas": {
+        "A": "o uso de algemas é obrigatório em todas as prisões, para garantir a segurança da equipe.",
+        "B": "só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, justificada a excepcionalidade por escrito.",
+        "C": "o uso de algemas é permitido como regra, sem necessidade de justificativa, na prisão em flagrante.",
+        "D": "o uso de algemas só pode ser feito mediante ordem judicial prévia.",
+        "E": "o uso de algemas só é vedado em relação a presos primários."
+      },
+      "gabarito": "B",
+      "explicacao": "Gabarito B: é o enunciado da SV 11. Demais: A) a SV 11 trata o uso como excepcional, não obrigatório. C) a justificativa por escrito é exigida. D) a SV não exige ordem judicial prévia; exige justificativa da excepcionalidade. E) a SV não distingue primário e reincidente.",
+      "resolucao_md": "**O que a questão pede**\nLembrar a regra da SV 11.\n\n**Conceito/Regra rápida**\n**Súmula Vinculante 11**: algemas são excepcionais; exigem (a) resistência, fundado receio de fuga ou perigo, e (b) justificativa escrita. Descumprir gera responsabilidade disciplinar, civil e penal e nulidade do ato.\n\n**Passo a passo**\n1. Fixe a palavra \"excepcionalidade\".\n2. Elimine \"obrigatório\" e \"regra sem justificativa\".\n3. Elimine \"ordem judicial prévia\" (não exigida).\n4. Elimine \"primários\" (distinção inexistente).\n5. Alternativa B.\n\n**Pegadinha**\nO erro típico é achar que algema é praxe obrigatória na PM.\n\n**Macete**\nAlgema = exceção justificada por escrito."
+    }
+  ]
+}

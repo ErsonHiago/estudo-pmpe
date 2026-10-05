@@ -1,0 +1,168 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-idoso-juventude",
+   "titulo": "Estatuto da Pessoa Idosa (Lei 10.741/2003) e Estatuto da Juventude (Lei 12.852/2013)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Estatuto da Pessoa Idosa (Lei 10.741/2003)\nRegula os direitos das pessoas com **idade igual ou superior a 60 anos** (art. 1º). A Lei 14.423/2022 substituiu \"idoso\" por \"**pessoa idosa**\" em todo o texto. **Envelhecimento é direito personalíssimo** (art. 8º). É dever da **família, comunidade, sociedade e Poder Público** assegurar, com **absoluta prioridade**, os direitos (art. 3º). Entre os idosos, há **prioridade especial para os maiores de 80 anos**. A prioridade inclui atendimento preferencial imediato e individualizado, preferência em políticas públicas, destinação privilegiada de recursos e **priorização do atendimento pela própria família**, em detrimento do asilar (art. 3º, §1º). Nenhum idoso será objeto de **negligência, discriminação, violência, crueldade ou opressão** (art. 4º). **Todo cidadão** tem o dever de comunicar à autoridade competente qualquer violação de que tenha conhecimento (art. 6º).\n\n### Benefícios e transportes\n| Tema | Regra |\n|---|---|\n| Transporte coletivo urbano e semiurbano | **gratuito** aos maiores de **65 anos** (art. 39; CF, art. 230, §2º) |\n| Transporte interestadual (art. 40) | **2 vagas gratuitas por veículo** para idosos com renda até **2 salários mínimos**; **50% de desconto** nas passagens excedentes |\n| Estacionamentos (art. 41) | **5% das vagas** reservadas |\n| BPC (art. 34 e LOAS) | idoso a partir de **65 anos** sem meios de subsistência |\n\n### Violência e atuação policial\nOs casos de suspeita ou confirmação de **violência** contra idosos são de **notificação compulsória** pelos serviços de saúde (art. 19), com **comunicação obrigatória** à **autoridade policial**, ao **Ministério Público** e aos **Conselhos do Idoso**. Os crimes são de **ação penal pública incondicionada** (art. 95). Se a pena máxima **não ultrapassa 4 anos**, aplica-se o **procedimento** da Lei 9.099 (art. 94; ADI 3096: só o rito, não as medidas despenalizadoras).\n\n### Crimes e penas\n| Art. | Conduta | Pena |\n|---|---|---|\n| 96 | **discriminar** a pessoa idosa, impedindo ou dificultando acesso a operações bancárias, transportes etc.; **desdenhar, humilhar, menosprezar** (+1/3 se sob cuidados do agente) | reclusão **6 meses a 1 ano** e multa |\n| 97 | **deixar de prestar assistência** (sem risco pessoal) em perigo; recusar ou retardar assistência à saúde | detenção 6 meses a 1 ano e multa (+1/2 lesão grave; triplicada se morte) |\n| 98 | **abandonar** em hospitais ou entidades de longa permanência; não prover necessidades básicas | detenção **6 meses a 3 anos** e multa |\n| 99 | expor a perigo a integridade e a saúde (condições desumanas, privação de alimentos e cuidados, trabalho excessivo) | detenção 2 meses a 1 ano (lesão grave: reclusão 1 a 4; morte: reclusão **4 a 12**) |\n| 102 | **apropriar-se ou desviar** bens, proventos, pensão | reclusão **1 a 4 anos** e multa |\n| 104 | **reter cartão magnético** de benefícios, proventos ou pensão | detenção 6 meses a 2 anos e multa |\n| 105 | exibir ou veicular informações ou imagens depreciativas ou injuriosas | detenção **1 a 3 anos** e multa |\n| 106 | induzir pessoa idosa sem discernimento a outorgar procuração | reclusão **2 a 4 anos** |\n| 107 | **coagir** a doar, contratar, testar ou outorgar procuração | reclusão **2 a 5 anos** |\n\nOs arts. 181 e 182 do CP (imunidades patrimoniais entre parentes) **não** se aplicam a esses crimes (art. 95).\n\n## Estatuto da Juventude (Lei 12.852/2013)\n**Jovens**: pessoas com idade entre **15 e 29 anos** (art. 1º, §1º). Aos adolescentes de **15 a 18 anos** aplica-se **subsidiariamente o ECA** e, excepcionalmente, este Estatuto, quando não conflitar com a proteção integral. Princípios (art. 2º): autonomia e emancipação, participação social e política, criatividade, reconhecimento do jovem como **sujeito de direitos**, bem-estar, respeito à diversidade, vida saudável e segurança. Os direitos estão organizados em seções: **cidadania e participação**; **educação**; **profissionalização, trabalho e renda**; **diversidade e igualdade**; **saúde**; **cultura**; **comunicação e liberdade de expressão**; **desporto e lazer**; **território e mobilidade**; **sustentabilidade e meio ambiente**; e **segurança pública e acesso à justiça**. Direito ao **transporte interestadual**: 2 vagas gratuitas por veículo e 50% de desconto aos jovens de **baixa renda** **[VERIFICAR artigo e critério de renda]**. Cria o **Sistema Nacional de Juventude (SINAJUVE)**. Na segurança pública, o jovem tem direito a **viver em ambiente seguro**, sem violência, com incolumidade física e mental, **vedada a discriminação e a abordagem baseada em estereótipos** **[VERIFICAR artigo]**.",
+   "dicas": [
+    "Idoso: 60 anos (estatuto); 65 anos (transporte urbano gratuito e BPC); prioridade especial: 80 anos.",
+    "Penas dos crimes contra idoso: máximo de 4 anos; na maioria, rito da Lei 9.099.",
+    "Jovem: 15 a 29 anos. Adolescente de 15 a 18: ECA primeiro.",
+    "Desviar proventos = 1 a 4 anos; coagir a doar/testar = 2 a 5."
+   ],
+   "pegadinhas": [
+    "Dizer que a gratuidade do transporte urbano começa aos 60 anos: é aos 65.",
+    "Dizer que o Estatuto da Juventude vale para jovens de 18 a 29: é 15 a 29.",
+    "Dizer que os crimes contra o idoso são de ação penal condicionada: são incondicionadas.",
+    "Dizer que aplicam-se as imunidades dos arts. 181 e 182 do CP: não se aplicam.",
+    "Dizer que a prioridade especial é para maiores de 75 anos: é para maiores de 80."
+   ],
+   "flashcards": [
+    {
+     "q": "A partir de que idade se é pessoa idosa pelo Estatuto?",
+     "a": "60 anos."
+    },
+    {
+     "q": "A partir de que idade há gratuidade no transporte coletivo urbano?",
+     "a": "65 anos."
+    },
+    {
+     "q": "Quantas vagas gratuitas por veículo no transporte interestadual?",
+     "a": "2 vagas gratuitas, para renda até 2 salários mínimos."
+    },
+    {
+     "q": "Quanto de desconto nas passagens excedentes?",
+     "a": "50%."
+    },
+    {
+     "q": "Percentual de vagas de estacionamento para idosos?",
+     "a": "5%."
+    },
+    {
+     "q": "Pena do abandono de idoso (art. 98)?",
+     "a": "Detenção de 6 meses a 3 anos e multa."
+    },
+    {
+     "q": "Pena de apropriar-se de proventos do idoso (art. 102)?",
+     "a": "Reclusão de 1 a 4 anos e multa."
+    },
+    {
+     "q": "Natureza da ação penal dos crimes do Estatuto?",
+     "a": "Pública incondicionada."
+    },
+    {
+     "q": "Quem é jovem para o Estatuto da Juventude?",
+     "a": "Pessoa de 15 a 29 anos."
+    },
+    {
+     "q": "O que cria o Estatuto da Juventude para articular políticas?",
+     "a": "O SINAJUVE (Sistema Nacional de Juventude)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-idoso-q01",
+   "topico": "dh-c-idoso-juventude",
+   "dificuldade": 1,
+   "enunciado": "De acordo com o Estatuto da Pessoa Idosa (Lei nº 10.741/2003), considera-se pessoa idosa aquela com idade",
+   "alternativas": {
+    "A": "igual ou superior a sessenta anos.",
+    "B": "igual ou superior a sessenta e cinco anos.",
+    "C": "superior a setenta anos.",
+    "D": "igual ou superior a cinquenta e cinco anos.",
+    "E": "superior a oitenta anos."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 1º. O transporte urbano gratuito (65) e a prioridade especial (80) têm outros marcos.",
+   "resolucao_md": "**O que a questão pede:** a idade do Estatuto.\n\n**Regra rápida:** 60 anos.\n\n**Passo a passo:**\n1. 65: gratuidade no transporte e BPC.\n2. 70: sem relevância aqui.\n3. 55: inferior.\n4. 80: prioridade especial.\n\n**Pegadinha:** Confundir 60 com 65.\n\n**Macete:** 60 define, 65 transporta, 80 prioriza."
+  },
+  {
+   "id": "dh-c-idoso-q02",
+   "topico": "dh-c-idoso-juventude",
+   "dificuldade": 2,
+   "enunciado": "Nos termos do Estatuto da Pessoa Idosa, sobre o transporte coletivo, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "A gratuidade urbana é assegurada a partir dos sessenta anos.",
+    "B": "Aos maiores de sessenta e cinco anos é assegurada a gratuidade nos transportes coletivos públicos urbanos e semiurbanos.",
+    "C": "No transporte interestadual, reservam-se cinco vagas gratuitas por veículo.",
+    "D": "O desconto nas passagens excedentes é de vinte por cento.",
+    "E": "Não há reserva de vagas no transporte interestadual."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 39 e art. 40: 2 vagas gratuitas por veículo e 50% de desconto, renda até 2 salários mínimos.",
+   "resolucao_md": "**O que a questão pede:** a gratuidade.\n\n**Regra rápida:** 65 anos no urbano; no interestadual, 2 vagas gratuitas e 50%.\n\n**Passo a passo:**\n1. 60: errado.\n2. 5 vagas: errado, são 2.\n3. 20%: errado, são 50%.\n4. Nega a reserva: errado.\n\n**Pegadinha:** Trocar 60 por 65.\n\n**Macete:** 65 no ônibus."
+  },
+  {
+   "id": "dh-c-idoso-q03",
+   "topico": "dh-c-idoso-juventude",
+   "dificuldade": 2,
+   "enunciado": "Constitui crime previsto no Estatuto da Pessoa Idosa apropriar-se de ou desviar bens, proventos, pensão ou qualquer outro rendimento da pessoa idosa, dando-lhes aplicação diversa da sua finalidade. A pena é de",
+   "alternativas": {
+    "A": "detenção de seis meses a um ano.",
+    "B": "reclusão de dois a cinco anos.",
+    "C": "reclusão de um a quatro anos e multa.",
+    "D": "detenção de dois meses a um ano.",
+    "E": "reclusão de quatro a doze anos."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 102. Coagir a doar: 2 a 5 (art. 107); expor a perigo: 2 meses a 1 ano (art. 99).",
+   "resolucao_md": "**O que a questão pede:** a pena do art. 102.\n\n**Regra rápida:** apropriar-se de rendimentos = 1 a 4 anos.\n\n**Passo a passo:**\n1. 6 meses a 1 ano: art. 97, 103.\n2. 2 a 5 anos: coagir (art. 107).\n3. 2 meses a 1 ano: art. 99.\n4. 4 a 12: art. 99, §2º (morte).\n\n**Pegadinha:** Trocar com o art. 107.\n\n**Macete:** Desvio 1 a 4; coação 2 a 5."
+  },
+  {
+   "id": "dh-c-idoso-q04",
+   "topico": "dh-c-idoso-juventude",
+   "dificuldade": 2,
+   "enunciado": "Em relação à persecução penal dos crimes previstos no Estatuto da Pessoa Idosa, é correto afirmar que",
+   "alternativas": {
+    "A": "dependem de representação da pessoa idosa.",
+    "B": "são de ação penal privada.",
+    "C": "aplicam-se integralmente os arts. 181 e 182 do CP, isentando familiares de pena.",
+    "D": "são de ação penal pública incondicionada, não se aplicando os arts. 181 e 182 do Código Penal.",
+    "E": "são sempre de competência do Tribunal do Júri."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 95.",
+   "resolucao_md": "**O que a questão pede:** a ação penal.\n\n**Regra rápida:** incondicionada, sem as imunidades patrimoniais do CP.\n\n**Passo a passo:**\n1. Representação: errado.\n2. Privada: errado.\n3. Imunidade: afastada pelo art. 95.\n4. Júri: só crime doloso contra a vida.\n\n**Pegadinha:** Esquecer o art. 95.\n\n**Macete:** Idoso: ação pública."
+  },
+  {
+   "id": "dh-c-idoso-q05",
+   "topico": "dh-c-idoso-juventude",
+   "dificuldade": 2,
+   "enunciado": "Segundo o Estatuto da Juventude (Lei nº 12.852/2013), são considerados jovens as pessoas com idade entre",
+   "alternativas": {
+    "A": "dezoito e vinte e nove anos.",
+    "B": "doze e vinte anos.",
+    "C": "catorze e vinte e quatro anos.",
+    "D": "dezesseis e trinta e cinco anos.",
+    "E": "quinze e vinte e nove anos."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 1º, §1º. O ECA se aplica de forma subsidiária aos adolescentes de 15 a 18 anos.",
+   "resolucao_md": "**O que a questão pede:** a faixa etária.\n\n**Regra rápida:** 15 a 29 anos.\n\n**Passo a passo:**\n1. 18 a 29: o ECA protege os adolescentes, mas o Estatuto vale desde 15.\n2. 12 a 20: ECA/OMS.\n3. 14 a 24: critério da ONU.\n4. 16 a 35: sem base.\n\n**Pegadinha:** Trocar 15 por 18.\n\n**Macete:** 15-29."
+  },
+  {
+   "id": "dh-c-idoso-q06",
+   "topico": "dh-c-idoso-juventude",
+   "dificuldade": 3,
+   "enunciado": "Segundo o Estatuto da Pessoa Idosa, em caso de suspeita ou confirmação de violência contra pessoa idosa, os serviços de saúde devem",
+   "alternativas": {
+    "A": "fazer a notificação compulsória à autoridade sanitária e a comunicação obrigatória à autoridade policial, ao Ministério Público e aos Conselhos do Idoso.",
+    "B": "aguardar a representação da vítima antes de qualquer comunicação.",
+    "C": "comunicar apenas ao Poder Executivo municipal.",
+    "D": "registrar o fato internamente, sem comunicação externa.",
+    "E": "comunicar somente à família do idoso."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 19. Todo cidadão também tem o dever de comunicar a violação (art. 6º).",
+   "resolucao_md": "**O que a questão pede:** o dever de notificação.\n\n**Regra rápida:** notificação compulsória e comunicação obrigatória à polícia, MP e conselhos.\n\n**Passo a passo:**\n1. Aguardar representação: errado.\n2. Só ao Executivo: errado.\n3. Só registro interno: errado.\n4. Só à família: errado.\n\n**Pegadinha:** Achar que é opcional.\n\n**Macete:** Violência contra idoso: notifica e comunica."
+  }
+ ]
+}

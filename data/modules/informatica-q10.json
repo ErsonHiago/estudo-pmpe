@@ -1,0 +1,168 @@
+{
+  "id": "informatica",
+  "titulo": "Informática",
+  "disciplina": "informatica",
+  "topicos": [],
+  "questoes": [
+    {
+      "id": "informatica-q191",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 1,
+      "enunciado": "O formato de arquivo padrão de apresentações do LibreOffice Impress 7 é",
+      "alternativas": {
+        "A": ".pptx",
+        "B": ".ods",
+        "C": ".odt",
+        "D": ".otp",
+        "E": ".odp"
+      },
+      "gabarito": "E",
+      "explicacao": "Impress salva por padrão em .odp. .otp é o modelo de apresentação; .pptx é do PowerPoint; .ods é planilha; .odt é texto.",
+      "resolucao_md": "**O que a questão pede**\nExtensão padrão do Impress.\n\n**Conceito/Regra rápida**\nODF: odt (texto), ods (planilha), odp (apresentação). Modelo: ott, ots, otp.\n\n**Passo a passo**\n1. Impress = apresentação (p).\\n2. .odp.\\n3. .otp existe, mas é o modelo.\n\n**Pegadinha**\nO Impress abre .pptx, mas o padrão é .odp.\n\n**Macete**\nodP = apresentação (Presentation)."
+    },
+    {
+      "id": "informatica-q192",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "Em uma apresentação do PowerPoint, o usuário está no slide 5 de 12. Para iniciar a apresentação exatamente a partir do slide em que se encontra, ele deve pressionar",
+      "alternativas": {
+        "A": "F5.",
+        "B": "Shift+F5.",
+        "C": "Ctrl+M.",
+        "D": "Esc.",
+        "E": "F7."
+      },
+      "gabarito": "B",
+      "explicacao": "Shift+F5 inicia a partir do slide atual. F5 inicia do primeiro slide; Ctrl+M insere novo slide; Esc encerra; F7 é ortografia.",
+      "resolucao_md": "**O que a questão pede**\nAtalho para iniciar do slide atual.\n\n**Conceito/Regra rápida**\nF5 = do começo. Shift+F5 = do slide atual.\n\n**Passo a passo**\n```\\nSlide atual: 5\\nF5        -> começa no slide 1\\nShift+F5  -> começa no slide 5\\n```\n\n**Pegadinha**\nF5 puro volta ao slide 1.\n\n**Macete**\nShift = a partir de \"aqui\"."
+    },
+    {
+      "id": "informatica-q193",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "Durante a exibição de uma apresentação no PowerPoint, pressionar a tecla W (ou a vírgula) tem o efeito de",
+      "alternativas": {
+        "A": "tornar a tela branca; ao pressionar novamente, a apresentação continua.",
+        "B": "encerrar a apresentação.",
+        "C": "avançar para o último slide.",
+        "D": "tornar a tela preta definitivamente, sem retorno.",
+        "E": "abrir as notas do orador para o público."
+      },
+      "gabarito": "A",
+      "explicacao": "W (ou ,) deixa a tela branca (White); B (ou .) deixa a tela preta (Black). Pressionar a tecla novamente ou qualquer outra retorna aos slides.",
+      "resolucao_md": "**O que a questão pede**\nEfeito da tecla W durante a apresentação.\n\n**Conceito/Regra rápida**\n**B** = tela preta (Black). **W** = tela branca (White). Esc = encerrar.\n\n**Passo a passo**\n1. Durante a apresentação, W -> tela branca.\\n2. Pressione de novo -> volta ao slide.\n\n**Pegadinha**\nNão é definitivo: pode-se retornar.\n\n**Macete**\nW = White, B = Black."
+    },
+    {
+      "id": "informatica-q194",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "No PowerPoint e no Impress, as notas do orador (anotações do apresentador)",
+      "alternativas": {
+        "A": "são exibidas obrigatoriamente em tela cheia junto com os slides.",
+        "B": "só podem ser criadas no Slide Mestre.",
+        "C": "servem de apoio ao apresentador e não aparecem para o público na apresentação.",
+        "D": "são o mesmo que a animação dos objetos.",
+        "E": "impedem a exportação da apresentação para PDF."
+      },
+      "gabarito": "C",
+      "explicacao": "As notas são texto de apoio para o apresentador, visíveis na visão do apresentador/ao imprimir páginas de anotações, mas não aparecem ao público.",
+      "resolucao_md": "**O que a questão pede**\nQuem vê as notas do orador.\n\n**Conceito/Regra rápida**\nNotas = \"cola\" do apresentador, não vão para a tela do público.\n\n**Passo a passo**\n1. O público vê os slides projetados.\\n2. O apresentador vê, no computador dele, os slides, o relógio e as notas.\n\n**Pegadinha**\nDizer que o público vê as notas é a afirmação falsa.\n\n**Macete**\nNotas = só para o orador."
+    },
+    {
+      "id": "informatica-q195",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 1,
+      "enunciado": "No PowerPoint, o atalho Ctrl+M é utilizado para",
+      "alternativas": {
+        "A": "duplicar o slide atual.",
+        "B": "iniciar a apresentação.",
+        "C": "salvar a apresentação.",
+        "D": "inserir um novo slide.",
+        "E": "excluir o slide atual."
+      },
+      "gabarito": "D",
+      "explicacao": "Ctrl+M insere novo slide; Ctrl+D duplica; F5 inicia a apresentação; Delete exclui o slide selecionado.",
+      "resolucao_md": "**O que a questão pede**\nFunção de Ctrl+M.\n\n**Conceito/Regra rápida**\nCtrl+M = **M**ais um slide (novo). Ctrl+D = **D**uplicar.\n\n**Passo a passo**\n1. Ctrl+M -> slide em branco com o mesmo layout (ou o padrão).\\n2. Ctrl+D -> cópia do slide selecionado.\n\n**Pegadinha**\nNão confundir novo com duplicar.\n\n**Macete**\nM = Mais um; D = Duplicar."
+    },
+    {
+      "id": "informatica-q196",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "O modo de exibição do PowerPoint que apresenta as miniaturas de todos os slides, facilitando a reorganização da ordem e a exclusão de slides, é o modo",
+      "alternativas": {
+        "A": "Anotações.",
+        "B": "Modo de Leitura.",
+        "C": "Estrutura de Tópicos.",
+        "D": "Classificação de Slides.",
+        "E": "Apresentação de Slides."
+      },
+      "gabarito": "D",
+      "explicacao": "Classificação de Slides mostra miniaturas lado a lado para reordenar. Estrutura de Tópicos mostra o texto em tópicos; Anotações mostra o slide com as notas; Modo de Leitura exibe em janela; Apresentação de Slides é a exibição em tela cheia.",
+      "resolucao_md": "**O que a questão pede**\nO modo que mostra miniaturas para reordenar.\n\n**Conceito/Regra rápida**\nModos do PowerPoint: Normal, Estrutura de Tópicos, **Classificação de Slides**, Anotações, Modo de Leitura, Apresentação de Slides.\n\n**Passo a passo**\n```\\nNormal ................ editar um slide por vez\\nClassificação ......... miniaturas -> reordenar\\nEstrutura de Tópicos ... só texto\\nAnotações .............. slide + notas\\nLeitura ................ visualizar em janela\\nApresentação ........... tela cheia\\n```\n\n**Pegadinha**\nEstrutura de Tópicos mostra texto, não miniaturas.\n\n**Macete**\nClassificar = pôr em ordem as miniaturas."
+    },
+    {
+      "id": "informatica-q197",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 3,
+      "enunciado": "O recurso Ensaiar Intervalos do PowerPoint permite",
+      "alternativas": {
+        "A": "gravar o tempo de exibição de cada slide durante um ensaio, para uso na apresentação automática.",
+        "B": "corrigir a ortografia dos slides.",
+        "C": "inserir o logotipo em todos os slides.",
+        "D": "converter a apresentação em planilha.",
+        "E": "proteger a apresentação com senha de abertura."
+      },
+      "gabarito": "A",
+      "explicacao": "Ensaiar intervalos cronometra cada slide; os tempos gravados podem ser usados para avançar os slides automaticamente.",
+      "resolucao_md": "**O que a questão pede**\nO que faz Ensaiar Intervalos.\n\n**Conceito/Regra rápida**\nEnsaiar = treinar a apresentação enquanto o PowerPoint **registra o tempo** de cada slide.\n\n**Passo a passo**\n1. Inicie o ensaio.\\n2. Avance os slides no tempo desejado.\\n3. O PowerPoint grava a duração de cada um.\\n4. Na apresentação, os slides passam sozinhos nesses tempos.\n\n**Pegadinha**\nNão confundir com transição (efeito visual).\n\n**Macete**\nEnsaio = cronômetro."
+    },
+    {
+      "id": "informatica-q198",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "Para salvar uma apresentação do LibreOffice Impress 7 em PDF, o caminho de menu correto é",
+      "alternativas": {
+        "A": "Inserir > Exportar > PDF.",
+        "B": "Arquivo > Exportar como > Exportar como PDF.",
+        "C": "Apresentação de slides > Exportar como PDF.",
+        "D": "Exibir > Exportar como PDF.",
+        "E": "Ferramentas > Salvar em PDF."
+      },
+      "gabarito": "B",
+      "explicacao": "No Impress (como no Writer e no Calc), a exportação em PDF está em Arquivo > Exportar como > Exportar como PDF. No PowerPoint: Arquivo > Exportar > Criar documento PDF/XPS (ou Salvar como > PDF).",
+      "resolucao_md": "**O que a questão pede**\nMenu da exportação em PDF do Impress.\n\n**Conceito/Regra rápida**\nExportar fica sempre no menu **Arquivo**.\n\n**Passo a passo**\n1. Arquivo.\\n2. Exportar como.\\n3. Exportar como PDF.\n\n**Pegadinha**\nNão está em Inserir, Exibir ou Ferramentas.\n\n**Macete**\nExportar = menu Arquivo."
+    },
+    {
+      "id": "informatica-q199",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 1,
+      "enunciado": "Um tema (ou design) de uma apresentação no PowerPoint define",
+      "alternativas": {
+        "A": "o tempo de exibição de cada slide.",
+        "B": "o endereço de uma página da internet.",
+        "C": "a ordem de execução das animações.",
+        "D": "o formato de exportação do arquivo.",
+        "E": "um conjunto de cores, fontes e efeitos aplicados a todos os slides."
+      },
+      "gabarito": "E",
+      "explicacao": "O tema padroniza cores, fontes e efeitos, mantendo o visual consistente. Tempo de slide é ensaio; endereço é hiperlink; ordem de animação é painel de animação.",
+      "resolucao_md": "**O que a questão pede**\nO que é um tema.\n\n**Conceito/Regra rápida**\nTema = identidade visual: cores + fontes + efeitos.\n\n**Passo a passo**\n1. Aplicar um tema muda o visual de todos os slides.\\n2. Ele é aplicado pela guia Design.\\n3. Não altera o conteúdo.\n\n**Pegadinha**\nTema não é o mesmo que slide mestre, embora andem juntos.\n\n**Macete**\nTema = \"roupa\" da apresentação."
+    },
+    {
+      "id": "informatica-q200",
+      "topico": "informatica-apresentacoes",
+      "dificuldade": 2,
+      "enunciado": "O recurso SmartArt, disponível no PowerPoint, permite",
+      "alternativas": {
+        "A": "criar planilhas com fórmulas dentro do slide.",
+        "B": "gravar a tela do computador automaticamente.",
+        "C": "criar diagramas gráficos (listas, processos, hierarquias, ciclos) a partir de um texto.",
+        "D": "corrigir o alinhamento de parágrafos do documento.",
+        "E": "proteger a apresentação com senha."
+      },
+      "gabarito": "C",
+      "explicacao": "SmartArt cria diagramas (organogramas, ciclos, processos, hierarquias) de forma visual e editável.",
+      "resolucao_md": "**O que a questão pede**\nO que faz o SmartArt.\n\n**Conceito/Regra rápida**\nSmartArt = diagrama inteligente (organograma, ciclo, processo, hierarquia).\n\n**Passo a passo**\n1. Inserir > SmartArt.\\n2. Escolha um tipo (lista, processo, hierarquia...).\\n3. Digite os textos.\n\n**Pegadinha**\nNão cria planilhas.\n\n**Macete**\nSmart = inteligente; Art = arte: diagrama."
+    }
+  ]
+}

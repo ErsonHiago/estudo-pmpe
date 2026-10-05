@@ -1,0 +1,425 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa",
+ "disciplina": "portugues",
+ "descricao": "Complemento para o programa do Soldado PMPE (AOCP): funções do QUE e do SE, variação linguística, significação das palavras e bateria de questões de 5 alternativas nos 18 itens do edital.",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "portugues-pm-qi01",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 1,
+   "enunciado": "Leia o texto.\n\n“Desde que os policiais de um batalhão passaram a usar câmeras corporais, as reclamações contra abordagens caíram pela metade. Para o comandante, o equipamento protege tanto o cidadão quanto o agente, pois registra o que de fato ocorreu. Ainda assim, ele reconhece que a tecnologia, sozinha, não substitui o treinamento.”\n\nA ideia central do texto é que",
+   "alternativas": {
+    "A": "as câmeras corporais tornaram desnecessário o treinamento dos policiais.",
+    "B": "as câmeras corporais trouxeram benefícios, mas não dispensam a formação do policial.",
+    "C": "todas as reclamações contra policiais desapareceram com a tecnologia.",
+    "D": "o comandante é contrário ao uso de câmeras nas abordagens.",
+    "E": "o cidadão é o único beneficiado pelo uso das câmeras corporais."
+   },
+   "gabarito": "B",
+   "explicacao": "O texto traz o benefício (queda de reclamações, proteção a ambos) e a ressalva final (não substitui o treinamento). As demais invertem ou exageram.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a ideia central.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “protege tanto o cidadão quanto o agente” + “a tecnologia, sozinha, não substitui o treinamento”.\n2. O texto tem duas partes: benefício e ressalva.\n3. A alternativa certa une as duas: benefício sem dispensar o treinamento.\n\n**Como eliminar as outras**\n- “Tornou desnecessário o treinamento”: **inversão** (o texto diz que não substitui).\n- “Todas as reclamações desapareceram”: **generalização** (caíram pela metade).\n- “Contrário ao uso”: **inversão** (ele defende o equipamento).\n- “Único beneficiado”: **meia-verdade** (protege também o agente).\n\n**Macete**\nIdeia central costuma estar no “Ainda assim/porém” do final."
+  },
+  {
+   "id": "portugues-pm-qi02",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Em um bairro da periferia, moradores criaram uma associação para cobrar a iluminação das ruas. Em seis meses, enviaram quinze ofícios à prefeitura e só obtiveram resposta depois de uma reunião pública com a imprensa presente, quando os postes foram trocados. O episódio mostra que a participação organizada pode acelerar respostas do poder público.”\n\nÉ correto inferir do texto que",
+   "alternativas": {
+    "A": "os ofícios enviados à prefeitura foram totalmente inúteis.",
+    "B": "a prefeitura sempre atende a pedidos que cheguem à imprensa.",
+    "C": "os moradores desistiram da associação após a troca dos postes.",
+    "D": "a iluminação pública é responsabilidade exclusiva dos moradores.",
+    "E": "os ofícios, isoladamente, não bastaram para que o problema fosse resolvido."
+   },
+   "gabarito": "E",
+   "explicacao": "A resposta só veio “depois de uma reunião pública com a imprensa”: os ofícios, sozinhos, não bastaram. As demais extrapolam (“totalmente inúteis”, “sempre”, “desistiram”, “exclusiva”).",
+   "resolucao_md": "**O que a questão pede**\nFazer inferência segura.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “só obtiveram resposta depois de uma reunião pública com a imprensa presente”.\n2. Quinze ofícios sem resposta; resposta só após a reunião pública.\n3. Logo, os ofícios sozinhos não resolveram — inferência direta.\n\n**Como eliminar as outras**\n- “Totalmente inúteis”: **extrapolação** (o texto não diz que não tiveram efeito algum).\n- “Sempre atende”: **generalização** de um único episódio.\n- “Desistiram”: **fuga do tema** (nada diz isso).\n- “Exclusiva dos moradores”: **inversão** (eles cobram o poder público).\n\n**Macete**\nCuidado com “totalmente”, “sempre”, “exclusiva”."
+  },
+  {
+   "id": "portugues-pm-qi03",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Aplicativos de mapas indicam o caminho mais rápido, mas há um preço: motoristas que seguem cegamente as instruções já foram parar em ruas sem saída, estradas de terra e até em rios. A tecnologia orienta, mas não pensa pelo usuário.”\n\nO trecho final (“A tecnologia orienta, mas não pensa pelo usuário”) sugere que",
+   "alternativas": {
+    "A": "os aplicativos de mapas devem ser abandonados.",
+    "B": "os aplicativos de mapas sempre levam o motorista ao caminho errado.",
+    "C": "o usuário deve avaliar criticamente as indicações dos aplicativos.",
+    "D": "a tecnologia tem consciência própria e decide pelo motorista.",
+    "E": "os motoristas estão proibidos de usar mapas digitais em estradas."
+   },
+   "gabarito": "C",
+   "explicacao": "A ressalva “não pensa pelo usuário” aponta a necessidade de julgamento crítico. As demais extrapolam ou invertem.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar a conclusão.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “motoristas que seguem cegamente as instruções” + “não pensa pelo usuário”.\n2. O problema está em seguir “cegamente”.\n3. A solução implícita é usar a tecnologia com senso crítico.\n\n**Como eliminar as outras**\n- “Devem ser abandonados”: **extrapolação** (o texto critica o uso cego, não o app).\n- “Sempre levam ao caminho errado”: **generalização** (“indicam o caminho mais rápido”).\n- “Tem consciência”: **inversão** (o texto diz que não pensa).\n- “Proibidos”: **fuga do tema**.\n\n**Macete**\nProcure o “mas” e a ressalva: ela guarda a tese."
+  },
+  {
+   "id": "portugues-pm-qi04",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“O descarte incorreto de pilhas e baterias contamina o solo e a água com metais pesados. Por isso, muitos mercados e farmácias mantêm pontos de coleta. Cabe ao consumidor, porém, levar o material usado até esses locais.”\n\nNo texto, a expressão “Por isso” estabelece relação de",
+   "alternativas": {
+    "A": "conclusão ou consequência entre a contaminação e a existência dos pontos de coleta.",
+    "B": "oposição entre o descarte e a coleta.",
+    "C": "concessão entre os metais pesados e o solo.",
+    "D": "adição de uma informação sem relação com a anterior.",
+    "E": "comparação entre mercados e farmácias."
+   },
+   "gabarito": "A",
+   "explicacao": "“Por isso” introduz a consequência/conclusão do que foi dito antes: a contaminação explica a criação dos pontos. Oposição só viria com “porém” (que aparece depois).",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a relação entre as ideias.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “contamina o solo e a água… Por isso, muitos mercados… mantêm pontos de coleta”.\n2. “Por isso” = “por essa razão”: explica a consequência.\n3. A causa é a contaminação; a consequência, os pontos de coleta.\n\n**Como eliminar as outras**\n- “Oposição”: **troca de relação** — o “porém” da última frase é que opõe.\n- “Concessão”: não há “embora/apesar de”.\n- “Adição sem relação”: **fuga** — há causa e consequência claras.\n- “Comparação”: não há “mais/menos que”.\n\n**Macete**\nPor isso / portanto / logo = conclusão."
+  },
+  {
+   "id": "portugues-pm-qi05",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Nosso síndico, sempre tão discreto, avisou pelo grupo do prédio, às 23h50 e em letras maiúsculas, que ‘o silêncio é um direito de todos’.”\n\nO efeito de sentido de “sempre tão discreto” é",
+   "alternativas": {
+    "A": "elogioso, pois destaca a boa conduta do síndico.",
+    "B": "descritivo, pois informa a personalidade do síndico.",
+    "C": "científico, pois apresenta dado objetivo.",
+    "D": "irônico, pois o comportamento descrito contradiz o adjetivo.",
+    "E": "injuntivo, pois dá uma ordem ao leitor."
+   },
+   "gabarito": "D",
+   "explicacao": "Um síndico “discreto” não mandaria mensagem às 23h50 em maiúsculas pedindo silêncio: o contraste cria ironia.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer a ironia.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “às 23h50 e em letras maiúsculas” contradiz “discreto” (o aviso é barulhento e inoportuno).\n2. Ironia: dizer algo para sugerir o contrário.\n3. O adjetivo “discreto” é desmentido pelos detalhes seguintes.\n\n**Como eliminar as outras**\n- “Elogioso”: **inversão** (o tom é crítico).\n- “Descritivo”: **meia-verdade** — informa, mas com intenção crítica.\n- “Científico”: **fuga do tema**.\n- “Injuntivo”: **fuga** — o trecho não ordena nada ao leitor.\n\n**Macete**\nQuando elogio e fato não combinam, é ironia."
+  },
+  {
+   "id": "portugues-pm-qi06",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Em cidades onde a polícia mantém contato regular com associações de moradores, a confiança da população tende a aumentar, o que favorece a denúncia de crimes. Isso não dispensa o patrulhamento ostensivo, mas o complementa.”\n\nAnalise as afirmações.\n\nI. A aproximação com moradores pode estimular denúncias.\nII. O patrulhamento ostensivo deve ser abandonado em favor do contato comunitário.\nIII. A confiança da população depende exclusivamente do contato com associações.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "A",
+   "explicacao": "Só I é sustentada (“favorece a denúncia”). II inverte (“não dispensa o patrulhamento”). III generaliza (“tende a aumentar”, não “exclusivamente”).",
+   "resolucao_md": "**O que a questão pede**\nJulgar três afirmações.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “a confiança… tende a aumentar, o que favorece a denúncia de crimes. Isso não dispensa o patrulhamento ostensivo, mas o complementa.”\n2. I: confirmada por “favorece a denúncia”. Correta.\n3. II: o texto diz que o patrulhamento é complementado, não abandonado. Incorreta.\n4. III: “tende a” indica tendência, não exclusividade. Incorreta.\n5. Combinação: apenas I.\n\n**Como eliminar as outras**\n- II = **inversão**.\n- III = **generalização** (“exclusivamente”).\n\n**Macete**\nEm itens I-II-III, risque os que têm advérbios absolutos."
+  },
+  {
+   "id": "portugues-pm-qi07",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Os vizinhos criaram um grupo de mensagens para avisar sobre assaltos. Nele, cada morador relata o que viu, e isso reduziu a sensação de abandono.”\n\nO termo “isso” retoma",
+   "alternativas": {
+    "A": "a ocorrência de assaltos no bairro.",
+    "B": "o hábito de cada morador relatar o que viu no grupo.",
+    "C": "o próprio grupo de mensagens, em sentido físico.",
+    "D": "a sensação de abandono dos moradores.",
+    "E": "a ausência de policiais na região."
+   },
+   "gabarito": "B",
+   "explicacao": "“Isso” retoma a oração anterior: “cada morador relata o que viu”. A sensação de abandono é o que foi reduzido, não o antecedente.",
+   "resolucao_md": "**O que a questão pede**\nAchar o referente do pronome.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Nele, cada morador relata o que viu, e isso reduziu a sensação de abandono.”\n2. Pronome demonstrativo “isso” retoma uma ideia já dita (anáfora).\n3. Pergunte: o que reduziu a sensação de abandono? O relato coletivo.\n\n**Como eliminar as outras**\n- “Assaltos”: o texto não diz que eles reduziram a sensação de abandono.\n- “Grupo”: retomado por “Nele”, não por “isso”.\n- “Sensação de abandono”: é o objeto da redução, não o sujeito.\n- “Ausência de policiais”: **extrapolação** (não mencionada).\n\n**Macete**\nIsso/isto = a ideia inteira que vem antes."
+  },
+  {
+   "id": "portugues-pm-qi08",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 1,
+   "enunciado": "Leia o texto.\n\n“O projeto de lei foi engavetado pela comissão, isto é, deixado de lado sem previsão de votação.”\n\nNo contexto, “engavetado” significa",
+   "alternativas": {
+    "A": "aprovado com urgência.",
+    "B": "rejeitado em votação.",
+    "C": "guardado em móvel de escritório.",
+    "D": "revisado e corrigido.",
+    "E": "paralisado ou abandonado, sem seguimento."
+   },
+   "gabarito": "E",
+   "explicacao": "O próprio texto define: “deixado de lado sem previsão de votação”. Sentido figurado de “engavetar”.",
+   "resolucao_md": "**O que a questão pede**\nDescobrir o sentido pelo contexto.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “isto é, deixado de lado sem previsão de votação”.\n2. A expressão “isto é” introduz a definição.\n3. Substitua: “foi paralisado” — mantém o sentido.\n\n**Como eliminar as outras**\n- “Aprovado”: **inversão**.\n- “Rejeitado em votação”: **meia-verdade** — não houve votação.\n- “Guardado em móvel”: **sentido literal** descartado pelo contexto.\n- “Revisado”: **fuga**.\n\n**Macete**\nProcure o “isto é” e o “ou seja”: eles entregam o sentido."
+  },
+  {
+   "id": "portugues-pm-qi09",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Escolas públicas que instalaram painéis solares reduziram a conta de energia e passaram a usar a economia para comprar material didático. Os alunos também participam de oficinas sobre energia limpa.”\n\nO título mais adequado ao texto é",
+   "alternativas": {
+    "A": "“A crise energética nas escolas brasileiras”.",
+    "B": "“Painéis solares: um investimento arriscado”.",
+    "C": "“Energia solar nas escolas: economia e educação”.",
+    "D": "“Oficinas escolares que eliminaram a conta de luz”.",
+    "E": "“Por que os alunos devem escolher a energia solar”."
+   },
+   "gabarito": "C",
+   "explicacao": "O texto trata de painéis solares em escolas, economia (conta) e educação (oficinas). Os demais mudam o foco, exageram ou criam tese ausente.",
+   "resolucao_md": "**O que a questão pede**\nEscolher o título.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “reduziram a conta de energia… comprar material didático… oficinas sobre energia limpa”.\n2. Título deve abranger as duas ideias: economia e educação.\n3. Descarte títulos com tom ou dado que não aparecem.\n\n**Como eliminar as outras**\n- “Crise energética”: **fuga do tema**.\n- “Arriscado”: **inversão** (o texto mostra benefícios).\n- “Eliminaram a conta”: **extrapolação** (só reduziram).\n- “Por que os alunos devem escolher”: **fuga** — o texto não argumenta.\n\n**Macete**\nBom título cobre o texto todo, sem exagerar."
+  },
+  {
+   "id": "portugues-pm-qi10",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“A cidade registrou 12% menos roubos no último trimestre, o que, na minha opinião, comprova que o novo policiamento é um sucesso absoluto.”\n\nAssinale a alternativa correta quanto à distinção entre fato e opinião.",
+   "alternativas": {
+    "A": "O percentual de queda dos roubos é um fato; “sucesso absoluto” é opinião do autor.",
+    "B": "Todo o trecho apresenta apenas fatos comprovados.",
+    "C": "O percentual de 12% é opinião do autor, e “sucesso absoluto” é fato.",
+    "D": "O trecho não contém nenhuma opinião, pois cita dado numérico.",
+    "E": "A expressão “na minha opinião” indica que o dado numérico é falso."
+   },
+   "gabarito": "A",
+   "explicacao": "“12% menos roubos” é dado verificável (fato). “Na minha opinião… sucesso absoluto” é julgamento pessoal.",
+   "resolucao_md": "**O que a questão pede**\nSeparar fato de opinião.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “12% menos roubos” (dado) x “na minha opinião… sucesso absoluto” (juízo de valor).\n2. Fato = verificável; opinião = juízo (marcado por “na minha opinião”, “absoluto”).\n3. O autor usa o fato para sustentar sua opinião.\n\n**Como eliminar as outras**\n- “Apenas fatos”: **inversão** — há opinião marcada.\n- “12% é opinião”: **inversão**.\n- “Nenhuma opinião”: **negação do óbvio** (“na minha opinião”).\n- “Dado falso”: **extrapolação** sem apoio.\n\n**Macete**\nMarcas de opinião: “na minha opinião”, adjetivos fortes, “absoluto”."
+  },
+  {
+   "id": "portugues-pm-qi11",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Depois que a loja passou a aceitar pagamento por aproximação, as filas do caixa diminuíram.”\n\nO trecho pressupõe que",
+   "alternativas": {
+    "A": "a loja deixou de aceitar dinheiro.",
+    "B": "os clientes passaram a gastar mais na loja.",
+    "C": "nenhuma fila existe mais na loja.",
+    "D": "antes da mudança, as filas do caixa eram maiores.",
+    "E": "o pagamento por aproximação é obrigatório."
+   },
+   "gabarito": "D",
+   "explicacao": "“Diminuíram” e “depois que” pressupõem situação anterior com filas maiores. As demais extrapolam.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o pressuposto.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “as filas do caixa diminuíram” (diminuir pressupõe que eram maiores).\n2. Verbos de mudança (diminuir, passar a) revelam um estado anterior.\n3. Pressuposto é o que precisa ser verdade para a frase fazer sentido.\n\n**Como eliminar as outras**\n- “Deixou de aceitar dinheiro”: **extrapolação**.\n- “Gastar mais”: **fuga**.\n- “Nenhuma fila existe mais”: **generalização** (diminuíram, não acabaram).\n- “Obrigatório”: **extrapolação**.\n\n**Macete**\nDiminuiu/aumentou/passou a = havia um antes."
+  },
+  {
+   "id": "portugues-pm-qi12",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“O rio que corta a cidade recebe, todos os dias, toneladas de lixo. A limpeza mensal feita pela prefeitura retira boa parte dos resíduos, mas não resolve a origem do problema: o descarte irregular nas margens. Sem mudança de hábito, o rio voltará a se encher.”\n\nAnalise as afirmações.\n\nI. A limpeza mensal elimina por completo o problema do rio.\nII. O texto atribui a recorrência do problema ao descarte irregular nas margens.\nIII. O texto sugere que a limpeza, isoladamente, é insuficiente.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "II e III sustentadas. I inverte: a limpeza “não resolve a origem do problema”.",
+   "resolucao_md": "**O que a questão pede**\nJulgar as afirmações.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “retira boa parte… mas não resolve a origem do problema: o descarte irregular”.\n2. I: o texto diz que não resolve a origem. Incorreta (**inversão**).\n3. II: “origem do problema: o descarte irregular”. Correta.\n4. III: “Sem mudança de hábito, o rio voltará a se encher” — a limpeza sozinha não basta. Correta.\n5. Combinação: II e III.\n\n**Como eliminar as outras**\n- I = **inversão** (“por completo” vs “boa parte”).\n\n**Macete**\nItem que contradiz o “mas” do texto é falso."
+  },
+  {
+   "id": "portugues-pm-qi13",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Proibir o celular na sala de aula é uma solução simples, mas incompleta: o aparelho continua no bolso e na cabeça dos alunos. Melhor seria ensinar quando e como usá-lo.”\n\nA posição do autor é",
+   "alternativas": {
+    "A": "a de que o celular deve ser liberado sem regras em sala.",
+    "B": "a de que a proibição isolada é insuficiente, sendo preferível educar para o uso.",
+    "C": "a de que a proibição total é a melhor solução possível.",
+    "D": "a de que o celular é irrelevante para a aprendizagem.",
+    "E": "a de que os professores devem confiscar os aparelhos."
+   },
+   "gabarito": "B",
+   "explicacao": "“Simples, mas incompleta” + “Melhor seria ensinar quando e como usá-lo” mostram crítica à proibição isolada e defesa da educação para o uso.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a tese do autor.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “solução simples, mas incompleta… Melhor seria ensinar quando e como usá-lo”.\n2. “Mas” introduz a ressalva à proibição.\n3. “Melhor seria” mostra a proposta do autor.\n\n**Como eliminar as outras**\n- “Liberar sem regras”: **extrapolação** (ele fala em ensinar “quando e como”).\n- “Proibição total é a melhor”: **inversão**.\n- “Irrelevante”: **fuga** (ele reconhece o aparelho como presente na cabeça dos alunos).\n- “Confiscar”: **extrapolação**.\n\n**Macete**\nA tese vem depois do “mas” e do “melhor seria”."
+  },
+  {
+   "id": "portugues-pm-qi14",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Embora o número de ocorrências de furto tenha caído no bairro, a sensação de insegurança permanece entre os moradores.”\n\nDo trecho, depreende-se que",
+   "alternativas": {
+    "A": "a insegurança dos moradores é injustificada.",
+    "B": "os furtos aumentaram no bairro.",
+    "C": "os moradores desconhecem os números oficiais.",
+    "D": "a sensação de insegurança causou a queda dos furtos.",
+    "E": "a redução dos furtos não eliminou a percepção de insegurança."
+   },
+   "gabarito": "E",
+   "explicacao": "“Embora” expressa concessão: a queda dos furtos não bastou para acabar com a sensação. O restante é extrapolação ou inversão.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar a concessão.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Embora o número… tenha caído… a sensação de insegurança permanece”.\n2. “Embora” = apesar de: reconhece um fato e opõe outro.\n3. Fato 1: furtos caíram. Fato 2: sensação permanece.\n\n**Como eliminar as outras**\n- “Injustificada”: **extrapolação** (o texto não julga).\n- “Aumentaram”: **inversão**.\n- “Desconhecem os números”: **extrapolação**.\n- “Sensação causou a queda”: **inversão causal**.\n\n**Macete**\n“Embora/apesar” sempre opõe um fato que não impede o outro."
+  },
+  {
+   "id": "portugues-pm-qi15",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 1,
+   "enunciado": "Leia o texto.\n\n“Atenção, moradores: a coleta seletiva passa às terças e sextas. Deixe os recicláveis limpos e secos na calçada após as 18h.”\n\nA finalidade comunicativa predominante do texto é",
+   "alternativas": {
+    "A": "narrar um fato ocorrido no bairro.",
+    "B": "defender uma tese sobre reciclagem.",
+    "C": "orientar o leitor sobre como proceder.",
+    "D": "descrever as características do lixo reciclável.",
+    "E": "criticar a coleta de lixo do município."
+   },
+   "gabarito": "C",
+   "explicacao": "O texto traz comando (“Deixe”) e informações práticas: função de orientar/instruir.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a finalidade.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Deixe os recicláveis limpos e secos na calçada após as 18h”.\n2. Verbo no imperativo = instrução.\n3. Não há narração, tese nem crítica.\n\n**Como eliminar as outras**\n- “Narrar”: **fuga** (sem eventos).\n- “Defender uma tese”: **fuga**.\n- “Descrever”: **meia-verdade** — só traz condições práticas.\n- “Criticar”: **fuga**.\n\n**Macete**\nImperativo + dados práticos = texto injuntivo."
+  },
+  {
+   "id": "portugues-pm-qi16",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Após a instalação de postes de iluminação em LED na praça, os roubos a pedestres à noite diminuíram. Os comerciantes, porém, afirmam que o movimento de clientes ainda não voltou ao nível anterior.”\n\nÉ correto concluir do texto que",
+   "alternativas": {
+    "A": "a melhoria na iluminação coincidiu com a queda dos roubos, mas o comércio ainda não se recuperou totalmente.",
+    "B": "a iluminação foi inútil para o comércio local.",
+    "C": "os roubos acabaram por completo na praça.",
+    "D": "os comerciantes são contra a iluminação em LED.",
+    "E": "o movimento de clientes aumentou além do nível anterior."
+   },
+   "gabarito": "A",
+   "explicacao": "Os dois fatos aparecem ligados por “porém”: queda de roubos e movimento ainda abaixo do anterior. As demais exageram ou invertem.",
+   "resolucao_md": "**O que a questão pede**\nConcluir sem extrapolar.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “os roubos… diminuíram. Os comerciantes, porém… movimento… ainda não voltou ao nível anterior”.\n2. Informação 1: roubos diminuíram. Informação 2: movimento ainda não recuperado.\n3. A resposta correta apenas une as duas.\n\n**Como eliminar as outras**\n- “Inútil”: **extrapolação**.\n- “Acabaram por completo”: **generalização**.\n- “Contra a iluminação”: **fuga**.\n- “Além do nível anterior”: **inversão**.\n\n**Macete**\nEscolha a alternativa mais “modesta”; a banca premia a fidelidade ao texto."
+  },
+  {
+   "id": "portugues-pm-qi17",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Segundo especialistas, o uso de senhas repetidas é o principal fator de invasão de contas. ‘Quem usa a mesma senha em tudo entrega a chave da casa inteira’, alerta um analista.”\n\nA expressão “a chave da casa inteira” é empregada para",
+   "alternativas": {
+    "A": "indicar que as senhas devem ser guardadas em chaveiros.",
+    "B": "afirmar que as casas são invadidas por falhas de senha.",
+    "C": "sugerir que o analista é proprietário de várias casas.",
+    "D": "ilustrar que uma única senha comprometida pode dar acesso a diversas contas.",
+    "E": "informar que as contas bancárias estão sempre protegidas."
+   },
+   "gabarito": "D",
+   "explicacao": "Metáfora: a senha repetida é como uma chave que abre tudo. Foco no risco de uma só senha dar acesso a várias contas.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar a metáfora.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Quem usa a mesma senha em tudo entrega a chave da casa inteira”.\n2. A comparação: senha = chave; contas = cômodos da casa.\n3. Efeito: ressaltar a gravidade do risco.\n\n**Como eliminar as outras**\n- “Chaveiros”: **leitura literal**.\n- “Casas invadidas”: **leitura literal**.\n- “Proprietário”: **fuga**.\n- “Sempre protegidas”: **inversão**.\n\n**Macete**\nAspas em fala + imagem concreta = quase sempre metáfora."
+  },
+  {
+   "id": "portugues-pm-qi18",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Ao devolver a carteira encontrada na rua, o jovem recusou a recompensa: ‘Fiz o que qualquer um deveria fazer’.”\n\nA fala do jovem revela que",
+   "alternativas": {
+    "A": "ele desprezou o valor do dinheiro encontrado.",
+    "B": "ele entende a honestidade como dever, e não como motivo para premiação.",
+    "C": "ele acredita que a maioria das pessoas devolve objetos achados.",
+    "D": "ele considera a recompensa um ato desonesto.",
+    "E": "ele pretende ser reconhecido publicamente pelo gesto."
+   },
+   "gabarito": "B",
+   "explicacao": "“Fiz o que qualquer um deveria fazer” = dever. O “deveria” indica obrigação moral, não constatação de que todos fazem.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar a fala.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “qualquer um deveria fazer”.\n2. O verbo “deveria” expressa dever ser (norma), não o que acontece.\n3. Recusar recompensa mostra que não vê a ação como algo extraordinário.\n\n**Como eliminar as outras**\n- “Desprezou o dinheiro”: **extrapolação** (a carteira foi devolvida, não se fala em desprezo).\n- “A maioria devolve”: **inversão** (deveria ≠ devolve).\n- “Recompensa desonesta”: **extrapolação**.\n- “Quer reconhecimento”: **inversão**.\n\n**Macete**\nDeveria = obrigação; faz = fato. Não confunda."
+  },
+  {
+   "id": "portugues-pm-qi19",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Sistemas de reconhecimento facial vêm sendo testados em estádios para identificar foragidos. Defensores afirmam que a medida agiliza prisões; críticos lembram que erros de identificação podem levar à abordagem injusta de inocentes. Ambos concordam que a tecnologia exige regras claras.”\n\nAnalise as afirmações.\n\nI. Há divergência quanto aos efeitos do sistema.\nII. Defensores e críticos concordam quanto à necessidade de regras claras.\nIII. O texto afirma que o sistema é totalmente confiável.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "I e II são sustentadas. III é falsa: os críticos apontam “erros de identificação”.",
+   "resolucao_md": "**O que a questão pede**\nJulgar as afirmações.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Defensores… críticos…” e “Ambos concordam que a tecnologia exige regras claras”.\n2. I: posições opostas sobre efeitos. Correta.\n3. II: “Ambos concordam”. Correta.\n4. III: contradiz “erros de identificação”. Incorreta.\n5. Combinação: I e II.\n\n**Como eliminar as outras**\n- III = **inversão**/**extrapolação** (“totalmente confiável”).\n\n**Macete**\n“Totalmente” em item de interpretação = alerta vermelho."
+  },
+  {
+   "id": "portugues-pm-qi20",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Parabéns à prefeitura: depois de três meses, o buraco da minha rua ganhou uma placa de ‘cuidado’. Resta agora esperar o asfalto, previsto para as próximas décadas.”\n\nO tom do trecho é",
+   "alternativas": {
+    "A": "elogioso, pois reconhece a eficiência da prefeitura.",
+    "B": "neutro, pois apenas informa a existência da placa.",
+    "C": "otimista, pois prevê solução imediata.",
+    "D": "técnico, pois descreve procedimentos de obra.",
+    "E": "crítico e irônico, pois elogia aparentemente enquanto aponta a lentidão do serviço."
+   },
+   "gabarito": "E",
+   "explicacao": "O “parabéns” é irônico: o gesto da prefeitura (apenas placa) e o prazo de “décadas” mostram crítica.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer o tom.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “ganhou uma placa de ‘cuidado’… asfalto, previsto para as próximas décadas”.\n2. Elogio por algo mínimo (placa) e prazo exagerado = ironia.\n3. O autor critica a lentidão.\n\n**Como eliminar as outras**\n- “Elogioso”: **inversão** (leitura literal).\n- “Neutro”: **fuga** (há adjetivação e sarcasmo).\n- “Otimista”: **inversão**.\n- “Técnico”: **fuga**.\n\n**Macete**\nElogio exagerado a algo ruim = ironia."
+  },
+  {
+   "id": "portugues-pm-qi21",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 1,
+   "enunciado": "Leia o texto.\n\n“A seca prolongada reduziu o nível do reservatório, e a companhia de água passou a adotar rodízio no abastecimento. Moradores de bairros altos são os mais afetados, já que a água demora mais a chegar.”\n\nSegundo o texto, os moradores de bairros altos são os mais afetados porque",
+   "alternativas": {
+    "A": "a companhia suspendeu o abastecimento nessas áreas.",
+    "B": "o reservatório fica nos bairros baixos.",
+    "C": "a água leva mais tempo para chegar até eles.",
+    "D": "eles consomem mais água que os demais moradores.",
+    "E": "a seca atinge apenas os bairros altos."
+   },
+   "gabarito": "C",
+   "explicacao": "A explicação é literal: “já que a água demora mais a chegar”.",
+   "resolucao_md": "**O que a questão pede**\nLocalizar informação explícita.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “já que a água demora mais a chegar”.\n2. “Já que” introduz a causa.\n3. Cite o trecho e confira a alternativa palavra por palavra.\n\n**Como eliminar as outras**\n- “Suspendeu”: **extrapolação** (adotou rodízio).\n- “Reservatório nos bairros baixos”: **extrapolação** (não há localização).\n- “Consomem mais”: **fuga**.\n- “Apenas os bairros altos”: **generalização** (“os mais afetados”).\n\n**Macete**\nQuestão literal: resposta quase copiada do texto."
+  },
+  {
+   "id": "portugues-pm-qi22",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“A comunidade passou a abrir o jogo com a polícia, relatando o que antes ficava no silêncio.”\n\nNo contexto, a expressão “abrir o jogo” significa",
+   "alternativas": {
+    "A": "falar com franqueza, revelando o que era omitido.",
+    "B": "praticar jogos com os policiais.",
+    "C": "recusar-se a conversar com a polícia.",
+    "D": "organizar torneios esportivos.",
+    "E": "esconder informações importantes."
+   },
+   "gabarito": "A",
+   "explicacao": "A oração seguinte esclarece: “relatando o que antes ficava no silêncio”. Expressão idiomática.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar expressão idiomática.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “relatando o que antes ficava no silêncio”.\n2. O complemento explica o sentido: falar abertamente.\n3. Não é sentido literal (jogo esportivo).\n\n**Como eliminar as outras**\n- “Praticar jogos”: **leitura literal**.\n- “Recusar-se”: **inversão**.\n- “Torneios”: **leitura literal**.\n- “Esconder”: **inversão**.\n\n**Macete**\nExpressão idiomática: procure o contexto que a explica."
+  },
+  {
+   "id": "portugues-pm-qi23",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“A cidade tem regras claras de trânsito. Mesmo assim, motoristas ainda avançam o sinal e usam o celular ao volante. A lei, portanto, não basta: é preciso fiscalização constante e educação desde a escola.”\n\nNo último período, o conectivo “portanto” introduz",
+   "alternativas": {
+    "A": "uma oposição à ideia do primeiro período.",
+    "B": "um exemplo que ilustra o segundo período.",
+    "C": "uma explicação para o uso do celular.",
+    "D": "a conclusão do raciocínio desenvolvido nos períodos anteriores.",
+    "E": "uma pergunta retórica dirigida ao leitor."
+   },
+   "gabarito": "D",
+   "explicacao": "“Portanto” conclui: se há regras e mesmo assim há infrações, a lei não basta.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar a função do conectivo.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Mesmo assim, motoristas ainda avançam o sinal… A lei, portanto, não basta”.\n2. Premissa 1: há regras claras. Premissa 2: infrações continuam.\n3. Conclusão: a lei não basta.\n\n**Como eliminar as outras**\n- “Oposição”: **troca de relação** — oposição estaria em “mesmo assim”.\n- “Exemplo”: sem “por exemplo”.\n- “Explicação do celular”: **fuga**.\n- “Pergunta retórica”: **fuga** — não há pergunta.\n\n**Macete**\nPortanto/logo/então = conclusão."
+  },
+  {
+   "id": "portugues-pm-qi24",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o texto.\n\n“Votar é um direito, mas a cidadania não termina na urna. Acompanhar a execução de obras, ler os relatórios de gastos e cobrar respostas dos eleitos também fazem parte do exercício cidadão.”\n\nAnalise as afirmações.\n\nI. Para o autor, a cidadania se limita ao voto.\nII. Fiscalizar a gestão pública faz parte da cidadania, segundo o texto.\nIII. O texto classifica o voto como um direito.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "II e III corretas. I é falsa: “a cidadania não termina na urna”.",
+   "resolucao_md": "**O que a questão pede**\nJulgar as afirmações.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “Votar é um direito, mas a cidadania não termina na urna. Acompanhar… cobrar respostas… fazem parte do exercício cidadão.”\n2. I: o texto nega exatamente isso. Incorreta (**inversão**).\n3. II: fiscalizar (acompanhar obras, ler relatórios) está citado. Correta.\n4. III: “Votar é um direito”. Correta.\n5. Combinação: II e III.\n\n**Como eliminar as outras**\n- I = **inversão** (“não termina na urna”).\n\n**Macete**\nO “mas” dá a tese: cidadania vai além do voto."
+  },
+  {
+   "id": "portugues-pm-qi25",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 3,
+   "enunciado": "Leia os dois trechos.\n\nTexto I: “A presença constante da polícia nas ruas inibe a ação de criminosos.”\nTexto II: “Só a presença policial não basta: iluminação, escolas e emprego também reduzem a violência.”\n\nA relação entre os textos é de",
+   "alternativas": {
+    "A": "contradição total: o Texto II nega que a polícia iniba crimes.",
+    "B": "complementaridade parcial: o Texto II não nega o I, mas afirma que a presença policial, isoladamente, é insuficiente.",
+    "C": "repetição: o Texto II apenas reforça o que diz o Texto I.",
+    "D": "irrelevância: os textos tratam de assuntos sem relação.",
+    "E": "inversão: o Texto I defende a ausência de policiamento."
+   },
+   "gabarito": "B",
+   "explicacao": "O Texto II usa “só… não basta”, o que reconhece o papel da polícia e acrescenta outros fatores.",
+   "resolucao_md": "**O que a questão pede**\nComparar dois textos.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** Texto II: “Só a presença policial não basta: iluminação, escolas e emprego também reduzem a violência”.\n2. “Só… não basta” = insuficiente, não inútil.\n3. O Texto II amplia o Texto I com outros fatores.\n\n**Como eliminar as outras**\n- “Nega que a polícia iniba”: **inversão**/exagero.\n- “Apenas reforça”: **meia-verdade** (acrescenta outros fatores).\n- “Irrelevância”: **fuga**.\n- “Ausência de policiamento”: **inversão**.\n\n**Macete**\n“Não basta” ≠ “não serve”."
+  },
+  {
+   "id": "portugues-pm-qi26",
+   "topico": "portugues-interpretacao",
+   "dificuldade": 2,
+   "enunciado": "Leia o texto.\n\n“Quem nunca prometeu que começaria a poupar dinheiro ‘na segunda-feira’? O problema é que a segunda-feira costuma ser a mais distante de todas as datas do calendário.”\n\nO efeito de humor do texto decorre de",
+   "alternativas": {
+    "A": "provar que a segunda-feira é distante, em termos de quilometragem.",
+    "B": "criticar a prática de poupar dinheiro.",
+    "C": "afirmar que ninguém no mundo faz promessas.",
+    "D": "informar o calendário oficial de poupança.",
+    "E": "sugerir que a promessa de poupar é sempre adiada."
+   },
+   "gabarito": "E",
+   "explicacao": "A afirmação de que a segunda-feira é “a mais distante” é uma hipérbole que sugere que o prazo nunca chega.",
+   "resolucao_md": "**O que a questão pede**\nExplicar o humor.\n\n**Conceito/Regra rápida**\nEm interpretação, a resposta correta é a que o texto **sustenta com um trecho** (literal ou por inferência segura). Alternativas erradas costumam ser: **extrapolação** (vai além do texto), **inversão** (diz o contrário), **generalização** (“todos”, “sempre”, “nunca”), **meia-verdade** (parte certa, parte inventada) ou **fuga do tema**.\n\n**Passo a passo**\n1. Leia o texto e sublinhe a ideia central.\n2. **Trecho que sustenta o gabarito:** “a segunda-feira costuma ser a mais distante de todas as datas do calendário”.\n2. Ninguém mede segunda-feira em distância: é figura.\n3. Efeito: promessa adiada indefinidamente.\n\n**Como eliminar as outras**\n- “Quilometragem”: **leitura literal**.\n- “Criticar poupar”: **inversão**.\n- “Ninguém faz promessas”: **generalização** (a pergunta retórica sugere que todos fazem).\n- “Calendário oficial”: **fuga**.\n\n**Macete**\nExagero com tom leve = hipérbole humorística."
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "historia-pe",
+  "titulo": "História de Pernambuco",
+  "disciplina": "historia",
+  "descricao": "Cobre todo o Anexo II de História de Pernambuco (10 questões na prova): colonização, açúcar, Olinda e Recife, holandeses, movimentos de resistência, período republicano, cultura popular e aspectos afro-brasileiros. A AOCP cobra sobretudo datas, personagens e causas trocados entre os movimentos (1654 x 1710 x 1817 x 1824 x 1848).",
+  "topicos": [
+    {
+      "id": "historia-pe-rev-1817",
+      "titulo": "5.4 Revolução Pernambucana de 1817",
+      "prioridade": 1,
+      "horas": 4,
+      "resumo_md": "## O que foi\nMovimento **republicano e separatista** deflagrado em **6 de março de 1817** no Recife, contra a monarquia de **D. João VI** (então Reino Unido de Portugal, Brasil e Algarves, com a corte no Rio de Janeiro desde 1808). Proclamou uma **república** que durou cerca de **75 dias** (6 de março a 20 de maio de 1817). Atenção: é diferente da Insurreição de 1654 (contra holandeses) e da Confederação do Equador (1824).\n\n## Causas\n- **Crise econômica**: queda dos preços do açúcar e do algodão; seca; impostos altos para sustentar a corte e as guerras no Prata;\n- **Privilégios aos portugueses** (cargos civis e militares) e ressentimento antilusitano;\n- **Ideias iluministas**, influência da Independência dos EUA e da Revolução Francesa, difundidas por **lojas maçônicas** (Areópago de Itambé, Academia do Paraíso) e pelo **Seminário de Olinda**;\n- Sensação de que a corte no Rio drenava a riqueza do Nordeste.\n\n## Fatos\n- **6 de março**: o capitão **José de Barros Lima** (o «Leão Coroado») mata o brigadeiro português **Manuel Joaquim Barbosa de Castro**, que o prendia por ordem do governador; a tropa se sublevou. O governador **Caetano Pinto de Miranda Montenegro** rendeu-se no Forte do Brum.\n- **Governo Provisório** de cinco membros, representando clero, magistratura, militares, agricultura e comércio: **Padre João Ribeiro** (clero), **José Luís de Mendonça** (magistratura), **Domingos Teotônio Jorge** (militares), **Manuel Correia de Araújo** (agricultura) e **Domingos José Martins** (comércio).\n- Medidas: **república**, liberdade de imprensa e de culto (tolerância), **abolição de impostos** extras, aumento do soldo militar; **manteve a escravidão** (receio de perder apoio dos proprietários).\n- Emissários ao exterior (**Cruz Cabugá** aos EUA); pedidos de apoio sem êxito.\n- **Bloqueio naval** e envio de tropas por terra pela Coroa; em **maio de 1817** a república caiu. **Luís do Rego Barreto** assumiu o governo.\n- Repressão: **Domingos José Martins, José Luís de Mendonça, Domingos Teotônio Jorge, Padre Miguelinho** e outros foram **executados**; **padre João Ribeiro** suicidou-se; **Frei Caneca** preso (até 1821).\n\n## Símbolos\nA **bandeira de 1817** (azul, branca, arco-íris, sol, estrela e cruz) foi adotada em 1917 como **bandeira do Estado de Pernambuco**. A **data magna** do Estado é **6 de março**.\n\n## Consequências\n- Reforçou a imagem de Pernambuco como «**Leão do Norte**», de vanguarda libertária;\n- Prenúncio da Independência (1822) e da Confederação do Equador (1824);\n- Aumento do controle da Coroa.\n\n## Comparação rápida\n| Movimento | Ano | Contra quem | Forma de governo |\n|---|---|---|---|\n| Insurreição | 1645-54 | Holandeses | Monarquia portuguesa (restauração) |\n| 1817 | 1817 | D. João VI (Portugal) | República |\n| Confed. do Equador | 1824 | D. Pedro I | República (Confederação) |",
+      "dicas": [
+        "1817 = 6 de março = data magna = bandeira de Pernambuco = república de 75 dias.",
+        "Cinco do governo: clero, magistratura, militares, agricultura, comércio.",
+        "Seminário de Olinda e maçonaria = difusão das ideias.",
+        "Mantiveram a escravidão: movimento elitista e republicano, não abolicionista."
+      ],
+      "pegadinhas": [
+        "Dizer que 1817 foi contra os holandeses ou aconteceu em 1654.",
+        "Atribuir a 1817 a abolição da escravidão (falso: foi mantida).",
+        "Trocar Domingos José Martins (1817, comércio, executado) por Frei Caneca (1824, executado em 1825).",
+        "Dizer que o movimento foi contra D. Pedro I (em 1817 o rei era D. João VI; Pedro I só em 1822).",
+        "Afirmar que a república durou anos; foram cerca de 75 dias."
+      ],
+      "flashcards": [
+        {"q": "Data de início da Revolução de 1817?", "a": "6 de março de 1817."},
+        {"q": "Quem governava Portugal em 1817?", "a": "D. João VI (corte no Rio de Janeiro)."},
+        {"q": "Quem matou o brigadeiro Barbosa de Castro?", "a": "Capitão José de Barros Lima, o Leão Coroado."},
+        {"q": "Quantos membros tinha o governo provisório?", "a": "Cinco (clero, magistratura, militares, agricultura, comércio)."},
+        {"q": "Representante do comércio no governo?", "a": "Domingos José Martins."},
+        {"q": "Que medida a revolução NÃO tomou?", "a": "Abolição da escravidão."},
+        {"q": "Quanto durou a república de 1817?", "a": "Cerca de 75 dias (até maio)."},
+        {"q": "Onde circulavam as ideias iluministas?", "a": "Seminário de Olinda e lojas maçônicas."},
+        {"q": "Emissário enviado aos EUA?", "a": "Cruz Cabugá."},
+        {"q": "Bandeira de 1817 serve a quem hoje?", "a": "É a bandeira do Estado de Pernambuco."}
+      ]
+    },
+    {
+      "id": "historia-pe-confederacao",
+      "titulo": "5.5 Confederação do Equador (1824)",
+      "prioridade": 1,
+      "horas": 3,
+      "resumo_md": "## O que foi\nMovimento **republicano e federalista** de **1824**, deflagrado em Pernambuco e com adesão de **Paraíba, Rio Grande do Norte e Ceará**, contra o autoritarismo de **D. Pedro I**. Foi proclamado em **2 de julho de 1824** por **Manuel de Carvalho Pais de Andrade**.\n\n## Causas\n- **Dissolução da Assembleia Constituinte** (novembro de 1823) por D. Pedro I e **outorga** da **Constituição de 1824** (centralizadora, com Poder Moderador);\n- **Nomeação de Francisco Paes Barreto** (Morgado do Cabo) para presidente da província, contrariando os pernambucanos, que queriam **Manuel de Carvalho**;\n- Descontentamento com a **centralização**, a **crise econômica** e o **favorecimento aos portugueses**;\n- Ideias liberais e republicanas, já presentes em 1817.\n\n## Líderes\n| Personagem | Papel |\n|---|---|\n| **Manuel de Carvalho Pais de Andrade** | Presidente da Confederação |\n| **Frei Caneca** (Joaquim do Amor Divino Rabelo) | Principal ideólogo; jornal **Typhis Pernambucano**; **fuzilado em 13 de janeiro de 1825** |\n| **Cipriano Barata** | Jornalista liberal, apoiador |\n| **João Guilherme Ratcliff** | Comerciante, executado |\n\nAs províncias confederadas pretendiam adotar a **Constituição da Colômbia** como modelo (federação).\n\n## Repressão\nD. Pedro I enviou tropas por terra e esquadra por mar, sob comando do almirante **Lord Cochrane** (mercenário britânico a serviço do Império) e do general **Francisco de Lima e Silva**. O Recife foi retomado em **setembro de 1824**. A **Comissão Militar** julgou os líderes: **Frei Caneca** foi condenado à forca e, como os carrascos se recusaram a executá-lo, **foi fuzilado** em **1825**.\n\n## Consequências\n- Derrota militar, mas consolidação do ideário federalista;\n- Fortalecimento do centralismo imperial no curto prazo;\n- Pernambuco perde comarca (São Francisco) transferida à Bahia **[VERIFICAR]**.\n\n## Memória\nNo Estado de Pernambuco, a luta de Frei Caneca é símbolo de liberdade e do espírito republicano, que reaparece em 1848.",
+      "dicas": [
+        "Pedro I fecha a Constituinte (1823) e outorga a Constituição (1824): isso é a causa.",
+        "Frei Caneca = Typhis Pernambucano = fuzilado 1825.",
+        "Cochrane = repressão naval.",
+        "Federação + república + contra D. Pedro I (diferente de 1817: D. João VI)."
+      ],
+      "pegadinhas": [
+        "Atribuir a Confederação a D. João VI ou a 1817.",
+        "Trocar Manuel de Carvalho (presidente) por Frei Caneca (ideólogo).",
+        "Dizer que Frei Caneca morreu enforcado (foi fuzilado).",
+        "Esquecer que o movimento envolveu outras províncias (Paraíba, RN, Ceará).",
+        "Dizer que a Constituição de 1824 foi promulgada pela Constituinte; foi outorgada por D. Pedro I."
+      ],
+      "flashcards": [
+        {"q": "Ano da Confederação do Equador?", "a": "1824 (proclamada em 2 de julho)."},
+        {"q": "Contra quem foi?", "a": "D. Pedro I (centralismo e Constituição outorgada)."},
+        {"q": "Presidente da Confederação?", "a": "Manuel de Carvalho Pais de Andrade."},
+        {"q": "Jornal de Frei Caneca?", "a": "Typhis Pernambucano."},
+        {"q": "Como morreu Frei Caneca?", "a": "Fuzilado, em 13 de janeiro de 1825."},
+        {"q": "Quem comandou a esquadra imperial?", "a": "Lord Cochrane."},
+        {"q": "Que presidente imposto foi rejeitado?", "a": "Francisco Paes Barreto."},
+        {"q": "Que províncias aderiram além de PE?", "a": "Paraíba, Rio Grande do Norte e Ceará."},
+        {"q": "Modelo de constituição citado pelos confederados?", "a": "Constituição da Colômbia."},
+        {"q": "Evento que gerou o estopim em 1823?", "a": "Dissolução da Assembleia Constituinte."}
+      ]
+    },
+    {
+      "id": "historia-pe-cabanos",
+      "titulo": "5.6 Guerra dos Cabanos (1832-1835)",
+      "prioridade": 2,
+      "horas": 2,
+      "resumo_md": "## O que foi\nA **Guerra dos Cabanos** (ou **Cabanada**) foi uma revolta popular na **Zona da Mata Sul de Pernambuco** e no norte de **Alagoas**, entre **1832 e 1835**, durante o **Período Regencial**. Não confundir com a **Cabanagem** (Pará, 1835-1840).\n\n## Quem eram os cabanos\nPequenos **lavradores, ex-soldados, escravizados fugidos, indígenas** e mestiços que viviam nas matas em **cabanas** (daí o nome). Combatiam as forças do governo atuando de forma de **guerrilha** nas florestas de **Panelas de Miranda** e **Jacuípe**.\n\n## Causas\n- Descontentamento com a **Regência** e com a perda de espaço político após a **abdicação de D. Pedro I (1831)**;\n- Movimento **restauracionista**: parte dos cabanos defendia a volta de **D. Pedro I** (apoio de grupos políticos e de padres), além de religiosidade popular («Rei D. Sebastião», entre outros elementos) **[VERIFICAR]**;\n- **Pobreza**, concentração de terras e crise econômica na Zona da Mata;\n- Perseguição a ex-soldados e a escravizados fugitivos.\n\n## Liderança\n**Vicente Ferreira de Paula** foi o principal chefe cabano (mestre-escola/lavrador). Os cabanos contaram com o apoio de grupos indígenas e quilombolas; a rebelião foi duramente reprimida e terminou por meio de operações militares em **1835**; Vicente de Paula foi preso e **deportado para Fernando de Noronha** **[VERIFICAR]**.\n\n## Consequências\n- Derrota dos cabanos, mas demonstra a força de camadas pobres no interior;\n- Exemplo de que as revoltas regenciais foram mais **populares** que as de 1817/1824 (de elite);\n- Coincide com o contexto do Período Regencial (Cabanagem, Farroupilha, Sabinada, Balaiada).\n\n## Resumo\n| Item | Cabanos |\n|---|---|\n| Data | 1832-1835 |\n| Local | Zona da Mata Sul (PE) e AL |\n| Perfil | Populares: lavradores, indígenas, escravizados fugidos |\n| Líder | Vicente Ferreira de Paula |\n| Momento | Regência (após abdicação de Pedro I) |",
+      "dicas": [
+        "Cabanos (PE/AL, 1832-35) x Cabanagem (PA, 1835-40).",
+        "Perfil popular, floresta, guerrilha: nada de república elitista.",
+        "Período Regencial = depois de 1831 (abdicação) até 1840."
+      ],
+      "pegadinhas": [
+        "Confundir Cabanada (PE) com Cabanagem (Pará).",
+        "Atribuir aos cabanos objetivo republicano (parte defendia restauração de Pedro I).",
+        "Colocar o movimento no Sertão — foi na Zona da Mata Sul.",
+        "Dizer que o movimento foi de elite agrária (eram pobres)."
+      ],
+      "flashcards": [
+        {"q": "Período da Guerra dos Cabanos?", "a": "1832-1835."},
+        {"q": "Onde ocorreu?", "a": "Zona da Mata Sul de Pernambuco e norte de Alagoas."},
+        {"q": "Por que o nome cabanos?", "a": "Moravam em cabanas nas matas."},
+        {"q": "Principal líder?", "a": "Vicente Ferreira de Paula."},
+        {"q": "Em que período do Império?", "a": "Período Regencial."},
+        {"q": "Cabanada (PE) e Cabanagem (PA) são o mesmo movimento?", "a": "Não."},
+        {"q": "Perfil dos cabanos?", "a": "Lavradores pobres, indígenas, ex-soldados e escravizados fugidos."},
+        {"q": "Parte dos cabanos defendia o quê?", "a": "A volta de D. Pedro I (restauração)."}
+      ]
+    },
+    {
+      "id": "historia-pe-praieira",
+      "titulo": "5.7 Revolução Praieira (1848-1849)",
+      "prioridade": 2,
+      "horas": 3,
+      "resumo_md": "## O que foi\nA **Revolução Praieira** foi a última grande revolta provincial do **Segundo Reinado**, em Pernambuco (**1848-1849**), liderada pelo **Partido Liberal («Praieiros»)**, nome ligado à **Rua da Praia**, no Recife, onde ficava o jornal **Diário Novo**. O Partido Conservador era chamado de «**guabirus**» (ratos de cana).\n\n## Contexto e causas\n- Domínio das oligarquias conservadoras (**família Cavalcanti**), que controlavam cargos, terras e polícia;\n- Em **1848**, D. Pedro II **demitiu o gabinete liberal** e chamou os conservadores ao governo; o presidente praieiro da província foi substituído;\n- **Antilusitanismo**: o comércio a retalho estava nas mãos de portugueses; a população pobre reivindicava **nacionalização do comércio**;\n- Influência da **Revolução de 1848 na Europa** (liberal-social) e de ideias democráticas.\n\n## Líderes\n| Personagem | Papel |\n|---|---|\n| **Antônio Borges da Fonseca** | Jornalista radical, redator do **Manifesto ao Mundo** e do «Repúblico» |\n| **Joaquim Nunes Machado** | Deputado liberal, ideólogo e líder; **morto em 2 de fevereiro de 1849** no ataque ao Recife |\n| **Pedro Ivo Veloso da Silveira** | Capitão, chefe militar |\n| **Chichorro da Gama** | Praieiro que governou a província antes da queda **[VERIFICAR]** |\n\n## Reivindicações do «Manifesto ao Mundo» (1849)\n- **Voto livre e universal** (para brasileiros);\n- **Liberdade de imprensa**;\n- **Trabalho como garantia de vida** ao cidadão;\n- **Extinção do Poder Moderador**;\n- **Independência dos poderes** e federalismo;\n- **Comércio a retalho para brasileiros** (nacionalização).\n\n## Desfecho\nOs praieiros iniciaram o levante em **novembro de 1848** (Olinda, Recife). Em **fevereiro de 1849** o ataque ao Recife fracassou e Nunes Machado foi morto. A rebelião foi derrotada por tropas imperiais ainda em **1849-1850**; seus principais líderes foram presos (Pedro Ivo e Borges da Fonseca) e anistiados em **1852** **[VERIFICAR]**.\n\n## Importância\nÚltima rebelião armada do Segundo Reinado; reforçou o poder central de D. Pedro II, que consolidou a política de **conciliação** e de alternância dos dois partidos.\n\n## Memória\nPraieira = **liberais** x **conservadores** (guabirus), Rua da Praia, Diário Novo, Manifesto ao Mundo, 1848-49.",
+      "dicas": [
+        "Praieira = liberais (Rua da Praia); conservadores = guabirus.",
+        "Último grande levante do Império em PE: 1848-49.",
+        "Nunes Machado morre em 2/2/1849; Borges da Fonseca escreve o Manifesto ao Mundo.",
+        "Antilusitanismo e voto universal estão no manifesto."
+      ],
+      "pegadinhas": [
+        "Dizer que os praieiros eram conservadores ou monarquistas absolutistas.",
+        "Trocar Praieira (1848) por Confederação do Equador (1824).",
+        "Afirmar que a revolta pedia o fim da escravidão (não era pauta central).",
+        "Dizer que Borges da Fonseca morreu no ataque ao Recife — quem morreu foi Nunes Machado.",
+        "Confundir Rua da Praia (Recife) com praia no sentido litoral."
+      ],
+      "flashcards": [
+        {"q": "Ano da Praieira?", "a": "1848-1849."},
+        {"q": "Origem do nome Praieira?", "a": "Rua da Praia, no Recife (Diário Novo)."},
+        {"q": "Como eram chamados os conservadores?", "a": "Guabirus."},
+        {"q": "Quem redigiu o Manifesto ao Mundo?", "a": "Antônio Borges da Fonseca."},
+        {"q": "Líder morto em 2/2/1849?", "a": "Joaquim Nunes Machado."},
+        {"q": "Chefe militar da Praieira?", "a": "Pedro Ivo Veloso da Silveira."},
+        {"q": "Uma reivindicação do manifesto?", "a": "Voto universal, liberdade de imprensa, nacionalização do comércio a retalho."},
+        {"q": "Significado histórico?", "a": "Última grande revolta provincial do Segundo Reinado."}
+      ]
+    },
+    {
+      "id": "historia-pe-republica-velha",
+      "titulo": "6.1 Pernambuco na Primeira República e o coronelismo",
+      "prioridade": 2,
+      "horas": 3,
+      "resumo_md": "## Pernambuco e a República (1889-1930)\nA **Proclamação da República** (1889) foi recebida em Pernambuco sem grandes confrontos. A economia ainda girava em torno do **açúcar** (agora com **usinas**, em substituição aos engenhos) e do **algodão**, além do porto do Recife.\n\n## Coronelismo e oligarquias\n- No **interior**, o **coronel** (grande proprietário) controlava o **voto de cabresto** (eleitores dependentes), trocando favores por apoio político: o **coronelismo**.\n- A **Política dos Governadores** (Campos Sales, 1898-1902) ligava os governos estaduais ao presidente, sustentada pelas oligarquias locais.\n- Em Pernambuco, a figura central foi **Francisco de Assis Rosa e Silva** (**vice-presidente da República**, 1898-1902), chefe do poderoso grupo político até o início do século XX.\n- Houve disputas (**Salvação**, 1911): **General Dantas Barreto** governou o Estado (**1911-1915**) após derrotar a oligarquia rosista.\n- Outro nome: **Estácio Coimbra**, governador (1926-1930) e depois vice-presidente de Washington Luís **[VERIFICAR]**.\n\n## Contexto social\n- Forte **desigualdade rural**, com usineiros e trabalhadores sem terra;\n- Conflitos como **Canudos** (BA) tiveram reflexos no Nordeste; em PE, o **cangaço** (Lampião e seu bando) atuou no sertão (**Virgulino Ferreira da Silva**, o Lampião, nasceu em Serra Talhada, PE, 1898); morreu em 1938 em Angicos (SE).\n- **Padre Cícero** (Juazeiro, CE) também influenciava a região.\n- Cultura: consolidação do **frevo** e dos clubes carnavalescos; surgimento do **Regionalismo** (**Gilberto Freyre**, Manifesto Regionalista, 1926).\n\n## Fim da Primeira República\nA crise de **1929**, as divergências sobre a sucessão de Washington Luís e o **assassinato de João Pessoa** (**26 de julho de 1930**, na Confeitaria Glória, no **Recife**, por João Dantas) levaram à **Revolução de 1930**.\n\n## Para guardar\n| Tema | O que lembrar |\n|---|---|\n| Coronelismo | Coronel + voto de cabresto + favores |\n| Rosa e Silva | Chefe político de PE; vice-presidente (1898-1902) |\n| Dantas Barreto | Salvação (1911-1915) |\n| Lampião | Cangaceiro nascido em Serra Talhada |\n| João Pessoa | Assassinado no Recife (1930) |",
+      "dicas": [
+        "Coronel = poder local; voto de cabresto = controle do voto.",
+        "Rosa e Silva = chefe das oligarquias em PE; Dantas Barreto derrubou a hegemonia dele.",
+        "João Pessoa morreu no Recife, em 26/07/1930."
+      ],
+      "pegadinhas": [
+        "Dizer que o coronelismo era a escolha livre do eleitor.",
+        "Trocar a cidade do assassinato de João Pessoa (Recife, não João Pessoa/PB).",
+        "Afirmar que Lampião era de Alagoas ou Bahia (nasceu em Serra Talhada, PE).",
+        "Colocar Rosa e Silva como presidente da República (foi vice)."
+      ],
+      "flashcards": [
+        {"q": "O que é coronelismo?", "a": "Sistema de poder local de grandes proprietários que controlavam o voto."},
+        {"q": "O que é voto de cabresto?", "a": "Voto controlado pelo coronel."},
+        {"q": "Chefe político de PE e vice-presidente (1898-1902)?", "a": "Rosa e Silva."},
+        {"q": "Governador do 'Salvação' em PE (1911-1915)?", "a": "General Dantas Barreto."},
+        {"q": "Onde nasceu Lampião?", "a": "Serra Talhada (PE)."},
+        {"q": "Onde foi assassinado João Pessoa?", "a": "Recife (Confeitaria Glória), 26/07/1930."},
+        {"q": "Autor do Manifesto Regionalista (1926)?", "a": "Gilberto Freyre."},
+        {"q": "Economia da época?", "a": "Açúcar (usinas), algodão e porto do Recife."}
+      ]
+    },
+    {
+      "id": "historia-pe-vargas",
+      "titulo": "6.2 Pernambuco na Era Vargas: 1930, 1935 e Estado Novo",
+      "prioridade": 2,
+      "horas": 3,
+      "resumo_md": "## Revolução de 1930 em Pernambuco\nO assassinato de **João Pessoa** (26/07/1930, Recife) acelerou a articulação da **Aliança Liberal**. Em **outubro de 1930**, houve levante e deposição do governador **Estácio Coimbra**; **Carlos de Lima Cavalcanti** foi nomeado **interventor** (1930-1935, depois governador eleito).\n\n## 1935: Intentona Comunista no Recife\nEm **novembro de 1935**, a **Aliança Nacional Libertadora (ANL)** e o **Partido Comunista** lideraram levantes militares em **Natal (RN)**, **Recife (PE)** e **Rio de Janeiro**. No Recife, o levante ocorreu em **23-27 de novembro**; sargentos e soldados, com apoio popular, enfrentaram a repressão. **Gregório Bezerra**, comunista pernambucano, foi preso, torturado e condenado (anistiado em 1945; **preso novamente em 1964**). O fracasso da Intentona serviu de pretexto para **estado de sítio e repressão** no governo Vargas **[VERIFICAR]** datas locais.\n\n## Estado Novo (1937-1945)\n- Golpe de Vargas em **10/11/1937**; a Constituição de 1937 fechou o Congresso.\n- **Agamenon Magalhães**, **interventor** em Pernambuco (**1937-1945**), controlou o Estado com autoritarismo e **modernização urbana**: **Liga Social Contra o Mocambo** (substituir mocambos por casas populares), obras e saneamento, **Departamento de Propaganda**.\n- Perseguição a **comunistas** e aos **terreiros de Xangô**; fechamento de **jornais** e **censura**.\n\n## Cultura e pensamento\n- **Gilberto Freyre**: **Casa-Grande & Senzala** (1933), ensaio sobre a formação da sociedade brasileira; **Sobrados e Mucambos** (1936).\n- **Josué de Castro** (pernambucano): **Geografia da Fome** (1946); pioneiro na discussão da fome.\n- **Capiba**, **Nelson Ferreira** (frevo) e **Luiz Gonzaga** (baião, Exu-PE) projetam a cultura nordestina.\n\n## Quadro-resumo\n| Ano | Fato |\n|---|---|\n| 1930 | Revolução; interventor Carlos de Lima Cavalcanti |\n| 1933 | Casa-Grande & Senzala |\n| 1935 | Intentona Comunista (Recife) |\n| 1937 | Estado Novo; Agamenon Magalhães interventor (1937-45) |\n| 1945 | Fim do Estado Novo |",
+      "dicas": [
+        "Agamenon Magalhães = Estado Novo em PE = Liga Social Contra o Mocambo.",
+        "Intentona = 1935 (Natal, Recife, Rio); Gregório Bezerra = comunista de PE.",
+        "Casa-Grande & Senzala = 1933 (Gilberto Freyre)."
+      ],
+      "pegadinhas": [
+        "Dizer que Agamenon foi interventor de 1930 a 1935 (esse foi Lima Cavalcanti).",
+        "Colocar a Intentona em 1937 (1935 é a Intentona; 1937 é o Estado Novo).",
+        "Dizer que 1935 foi levante integralista (foi comunista/ANL).",
+        "Atribuir Geografia da Fome a Gilberto Freyre (é de Josué de Castro)."
+      ],
+      "flashcards": [
+        {"q": "Interventor de PE após 1930?", "a": "Carlos de Lima Cavalcanti."},
+        {"q": "Interventor de PE no Estado Novo?", "a": "Agamenon Magalhães (1937-1945)."},
+        {"q": "Ano da Intentona Comunista?", "a": "1935."},
+        {"q": "Cidades dos levantes de 1935?", "a": "Natal, Recife e Rio de Janeiro."},
+        {"q": "Programa de Agamenon para a habitação?", "a": "Liga Social Contra o Mocambo."},
+        {"q": "Autor de Geografia da Fome?", "a": "Josué de Castro."},
+        {"q": "Comunista pernambucano preso em 1935 e em 1964?", "a": "Gregório Bezerra."},
+        {"q": "Ano da Constituição do Estado Novo?", "a": "1937."}
+      ]
+    }
+  ],
+  "questoes": []
+}

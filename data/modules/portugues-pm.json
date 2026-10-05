@@ -1,0 +1,754 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa",
+ "disciplina": "portugues",
+ "descricao": "Complemento para o programa do Soldado PMPE (AOCP): funções do QUE e do SE, variação linguística, significação das palavras e bateria de questões de 5 alternativas nos 18 itens do edital.",
+ "topicos": [
+  {
+   "id": "portugues-pm-que",
+   "titulo": "Anexo II, item 10 — Funções do “QUE” (relativo, conjunção, advérbio, expletivo…)",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Por que cai tanto\nO **QUE** é a palavra mais versátil do português. A AOCP adora pedir “a classificação do que” porque ele pode ser de classes diferentes sem mudar de aparência. A solução é **testar por substituição**, nunca “pelo olhômetro”.\n\n## As funções principais\n| Função | Como reconhecer | Exemplo |\n|---|---|---|\n| **Pronome relativo** | Retoma um termo anterior (antecedente) e pode ser trocado por **o qual / a qual / os quais / as quais**. Inicia oração **subordinada adjetiva**. | O policial **que** chegou (o qual) elaborou o relatório. |\n| **Conjunção integrante** | Introduz oração **subordinada substantiva**; pode ser trocada por **“isto”** (o “que” vira o objeto da frase). | Espero **que** todos cheguem. (Espero isto.) |\n| **Conjunção subordinativa causal** | Equivale a “porque/pois”. | Corra, **que** a viatura já saiu. |\n| **Conjunção subordinativa consecutiva** | Vem após **tão, tanto, tal, tamanho**: causa + consequência. | Estava **tão** cansado **que** dormiu. |\n| **Conjunção subordinativa comparativa** | Vem após **mais, menos, maior, menor, melhor, pior**. | O prazo é **maior que** o previsto. |\n| **Locuções conjuntivas com que** | **para que, a fim de que** (final); **embora/ainda que** (concessiva); **desde que, contanto que** (condicional); **à medida que, ao passo que** (proporcional) etc. | Estudou **para que** passasse. |\n| **Advérbio de intensidade** | Antes de adjetivo/advérbio, em exclamações; = “quão”. | **Que** perigoso! |\n| **Pronome interrogativo/exclamativo (adjetivo)** | Acompanha substantivo. | **Que** cidade perigosa! |\n| **Substantivo** | Vem com artigo/acentuado (**o quê**), = “algo”. | Ele tem um **quê** de mistério. |\n| **Partícula expletiva (de realce)** | Faz parte da expressão “é que / foi que / era que”; **retirando-a a frase continua correta**. | Foi o delegado **que** decidiu → O delegado decidiu. |\n\n## Teste prático em 3 passos\n1. Troque por **“o qual”**: funcionou → **relativo**.\n2. Troque por **“isto”**: funcionou → **integrante**.\n3. Olhe a palavra anterior: **tão/tanto/tal** → consecutiva; **mais/menos/maior/menor** → comparativa; **“que” = porque** → causal/explicativa; **Que + adjetivo!** → advérbio de intensidade.\n\n## “Que” x “quê”\nTônico (fim de frase ou isolado) leva acento: **“Fez isso por quê?”**, **“Não há de quê.”**. Átono não leva.",
+   "dicas": [
+    "Relativo = “o qual”; integrante = “isto”. Dois testes resolvem 80% das questões.",
+    "Depois de “tão/tanto/tal” + que = consecutiva; depois de “mais/menos/maior/menor” + que = comparativa.",
+    "Se dá para tirar “é que/foi que” sem estragar a frase, o “que” é expletivo.",
+    "“Que” antes de adjetivo em exclamação = advérbio de intensidade (Que lindo!)."
+   ],
+   "pegadinhas": [
+    "“Que” depois de substantivo NÃO é sempre relativo: em “A notícia de que ele foi preso” é integrante (completa o nome “notícia”, oração substantiva completiva nominal).",
+    "Corra, que ele vem: não é relativo nem integrante; é conjunção causal/explicativa (= pois).",
+    "“Que” com “mais” é comparativo, mas “Não fez mais que a obrigação” (= apenas) tem valor de exclusão; na prova, ele costuma ser tratado como conjunção comparativa.",
+    "Pronome interrogativo/exclamativo “que” acompanha substantivo (Que dia!), enquanto o advérbio de intensidade acompanha adjetivo (Que bonito!).",
+    "O “que” de “Foi ontem que ele chegou” é expletivo; já em “O dia em que ele chegou” é relativo."
+   ],
+   "flashcards": [
+    {
+     "q": "Teste do “que” relativo",
+     "a": "Trocar por “o qual/a qual”."
+    },
+    {
+     "q": "Teste do “que” integrante",
+     "a": "Trocar por “isto”."
+    },
+    {
+     "q": "Que + oração depois de “tão/tanto/tal”",
+     "a": "Conjunção subordinativa consecutiva."
+    },
+    {
+     "q": "Que depois de “mais/menos/maior/menor”",
+     "a": "Conjunção subordinativa comparativa."
+    },
+    {
+     "q": "Que = porque (Corra, que ele vem)",
+     "a": "Conjunção causal/explicativa."
+    },
+    {
+     "q": "“Que lindo!” — função do que",
+     "a": "Advérbio de intensidade (modifica adjetivo)."
+    },
+    {
+     "q": "“Que dia lindo!” — função do que",
+     "a": "Pronome adjetivo exclamativo (acompanha substantivo)."
+    },
+    {
+     "q": "Partícula expletiva de realce",
+     "a": "Faz parte de “é que/foi que”; pode ser suprimida sem alterar a correção da frase."
+    },
+    {
+     "q": "Quando o que leva acento (quê)?",
+     "a": "Quando é tônico: fim de frase/isolado ou substantivo (o quê, um quê)."
+    }
+   ]
+  },
+  {
+   "id": "portugues-pm-se",
+   "titulo": "Anexo II, item 10 — Funções do “SE” (pronome, partícula apassivadora, índice de indeterminação, conjunção…)",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Visão geral\nO **SE** pode ser **pronome** (reflexivo, recíproco, apassivador, indeterminador), **parte do verbo**, **expletivo** ou **conjunção** (integrante, condicional etc.). A AOCP cobra classificação e também a **concordância** decorrente (“Vendem-se casas” x “Precisa-se de casas”).\n\n## Quadro de funções\n| Função | Teste | Exemplo |\n|---|---|---|\n| **Pronome reflexivo** | Sujeito pratica e sofre a ação; dá para acrescentar **“a si mesmo”**. | O suspeito **se** feriu (feriu a si mesmo). |\n| **Pronome recíproco** | Sujeito **plural**, ação mútua; dá para acrescentar **“um ao outro”**. | Os irmãos **se** abraçaram. |\n| **Partícula apassivadora** | **Verbo transitivo direto** + se + **sujeito paciente**; transforma-se em passiva analítica; **o verbo concorda com o sujeito**. | Vendem-**se** casas (Casas são vendidas). |\n| **Índice de indeterminação do sujeito** | Verbo **intransitivo, transitivo indireto ou de ligação** + se; **verbo na 3ª pessoa do singular**; sujeito indeterminado. | Precisa-**se** de policiais. Vive-**se** bem aqui. É-**se** feliz. |\n| **Parte integrante do verbo** (verbo pronominal) | O verbo só existe com o pronome: queixar-se, arrepender-se, suicidar-se, arrepender-se, ater-se, apiedar-se. **Não exerce função sintática.** | Ele arrependeu-**se**. |\n| **Partícula expletiva (de realce)** | Pode ser retirada sem prejuízo; dá ênfase. | Foi-**se** embora. |\n| **Pronome com valor de objeto indireto** | “a si”/“para si”: reflexivo indireto. | Ele **se** concedeu uma folga. |\n| **Conjunção integrante** | Introduz oração substantiva (objeto); troca por “isto”; ideia de dúvida/pergunta indireta. | Não sei **se** ele virá. |\n| **Conjunção subordinativa condicional** | = “caso”. | **Se** chover, cancelamos. |\n\n## Regra de ouro da concordância\n- **Apassivadora** (VTD): o verbo **vai ao plural** se o sujeito é plural: *Alugam-se salas.*\n- **Indeterminação** (VTI/VI/VL): o verbo fica **sempre no singular**: *Precisa-se de vigilantes. Trata-se de crimes graves.*\n- Se houver preposição depois do verbo (de, em, a…), o termo é objeto indireto: **indeterminação → singular**.\n\n## Teste prático\n1. Dá para passar para voz passiva (casas são vendidas)? → **apassivadora**.\n2. O verbo é transitivo direto sem objeto direto expresso e a preposição aparece antes do complemento? → **indeterminação**.\n3. Troca por “a si mesmo / um ao outro”? → **reflexivo / recíproco**.\n4. Verbo sem o “se” perde o sentido (queixar, arrepender)? → **parte do verbo**.\n5. Troca por “caso” → **condicional**; troca por “isto” → **integrante**.",
+   "dicas": [
+    "Preposição depois do verbo + se = indeterminação = verbo no singular (Precisa-se de; Trata-se de; Necessita-se de).",
+    "Verbo transitivo direto + se + substantivo = apassivadora = concordância com o substantivo.",
+    "Reflexivo: “a si mesmo”. Recíproco: “um ao outro” (sujeito plural).",
+    "Verbos pronominais (queixar-se, arrepender-se, suicidar-se…) → SE parte do verbo, sem função sintática."
+   ],
+   "pegadinhas": [
+    "“Vende-se casas” é erro; o certo é “Vendem-se casas”. Mas “Precisa-se de casas” (singular) está correto — o “de” muda tudo.",
+    "“Trata-se de assuntos sigilosos”: verbo SEMPRE no singular (indeterminação), ainda que o termo seguinte esteja no plural.",
+    "“Eles se cumprimentaram” pode ser recíproco; só será reflexivo se cada um cumprimentar a si mesmo; a AOCP tende a dar o contexto.",
+    "Não confunda “se” conjunção integrante (Não sei se ele vem) com “se” condicional (Se ele vier…).",
+    "Em “Alugam-se casas”, “casas” é SUJEITO (paciente), não objeto direto."
+   ],
+   "flashcards": [
+    {
+     "q": "SE apassivador: com que verbo?",
+     "a": "Transitivo direto (e às vezes transitivo direto e indireto); o verbo concorda com o sujeito paciente."
+    },
+    {
+     "q": "SE indeterminador: com que verbos?",
+     "a": "Intransitivo, transitivo indireto e de ligação; verbo sempre no singular."
+    },
+    {
+     "q": "Vendem-se casas. Classifique o se.",
+     "a": "Partícula apassivadora."
+    },
+    {
+     "q": "Precisa-se de vigilantes. Classifique o se.",
+     "a": "Índice de indeterminação do sujeito."
+    },
+    {
+     "q": "Teste do se reflexivo",
+     "a": "Acrescentar “a si mesmo”."
+    },
+    {
+     "q": "Teste do se recíproco",
+     "a": "Acrescentar “um ao outro”; sujeito plural."
+    },
+    {
+     "q": "O se em “queixar-se”",
+     "a": "Parte integrante do verbo pronominal (sem função sintática)."
+    },
+    {
+     "q": "Não sei se ele virá. Classifique o se.",
+     "a": "Conjunção subordinativa integrante."
+    },
+    {
+     "q": "Se chover, não sairemos. Classifique o se.",
+     "a": "Conjunção subordinativa condicional."
+    }
+   ]
+  },
+  {
+   "id": "portugues-pm-variacao",
+   "titulo": "Anexo II, item 18 — Variação linguística (histórica, regional, social, situacional; registro; gíria e jargão)",
+   "prioridade": 1,
+   "horas": 3,
+   "resumo_md": "## Ideia central\nToda língua viva **varia**. Variação não é “erro”: é diferença de uso conforme o tempo, o lugar, o grupo social e a situação. A **norma-padrão** (a gramática normativa) é o modelo prestigiado; a **norma culta** é o uso real dos falantes escolarizados em situações monitoradas. Ambas são variedades.\n\n## Tipos de variação\n| Tipo | Nome técnico | Fator | Exemplo |\n|---|---|---|---|\n| **Histórica** | diacrônica | **tempo** | “vosmecê → você → cê”; “farmácia” antiga: “botica”; “pharmacia”. |\n| **Regional** | diatópica | **lugar** | macaxeira / aipim / mandioca; “oxente”, “uai”, “bah”; “mainha”. |\n| **Social** | diastrática | **grupo social** (escolaridade, renda, idade, profissão) | “Nós vai” x “Nós vamos”; fala de jovens x idosos. |\n| **Situacional/estilística** | diafásica | **contexto comunicativo** (interlocutor, assunto, grau de formalidade) | “Prezado Senhor” x “E aí, chefe?”. |\n| **Modalidade** | diamésica | **oral x escrita** | “tá, né, pra” na fala; texto escrito mais planejado. |\n\n## Registro: formal x informal\n- **Formal (monitorado)**: ofícios, boletins, depoimentos, provas; vocabulário e gramática da norma-padrão.\n- **Informal (coloquial)**: conversa entre amigos; contrações (“tá”, “pra”), gírias, frases curtas.\n- Um mesmo falante **alterna** registros: isso é **adequação linguística**, não erro.\n\n## Termos que a banca confunde\n- **Gíria**: vocabulário de **grupo** (jovens, torcida, presídio), geralmente informal e **efêmero**. (“da hora”, “mano”).\n- **Jargão**: vocabulário **técnico-profissional** (jurídico, médico, policial): *flagrante delito, diligência, autuar, lavrar auto*.\n- **Regionalismo**: palavra/expressão de uma região.\n- **Arcaísmo**: palavra em desuso (vosmecê, outrora).\n- **Neologismo**: palavra nova (deletar, selfie).\n- **Estrangeirismo**: palavra de outra língua (delivery, shopping).\n- **Preconceito linguístico**: julgar a fala de alguém como “errada/feia” por causa da classe social ou região.\n\n## Como a AOCP cobra\nTrechos com fala marcada (“Nóis foi…”) e pergunta sobre **a que tipo de variação** corresponde, ou **o efeito** (caracterizar personagem, marcar oralidade); e afirmações sobre “única forma correta” (**falsas**). Em ofícios, a adequação é ao **registro formal**.",
+   "dicas": [
+    "Tempo = histórica; lugar = regional; grupo = social; situação = situacional; fala x escrita = modalidade.",
+    "Gíria = grupo + informal + efêmera. Jargão = profissão + técnico.",
+    "Afirmações do tipo “só existe uma forma correta de falar” são falsas.",
+    "Registro formal é exigido em documentos oficiais; não é “melhor”, é adequado."
+   ],
+   "pegadinhas": [
+    "Variação regional x social: “oxente” é regional; “Nós vai” é social (escolaridade) — e pode ocorrer em qualquer região.",
+    "Jargão policial não é gíria: é vocabulário técnico de uma profissão.",
+    "Variação situacional não depende da região nem da escolaridade: um mesmo falante usa “Prezado Senhor” no ofício e “fala, chefe” com o colega.",
+    "Norma-padrão não é sinônimo de “língua portuguesa”: é uma das variedades, a prestigiada.",
+    "Uma construção ser “informal” não a torna “errada” — o erro é inadequação à situação."
+   ],
+   "flashcards": [
+    {
+     "q": "Variação diacrônica",
+     "a": "Histórica: muda com o tempo."
+    },
+    {
+     "q": "Variação diatópica",
+     "a": "Regional/geográfica."
+    },
+    {
+     "q": "Variação diastrática",
+     "a": "Social: classe, escolaridade, idade, profissão."
+    },
+    {
+     "q": "Variação diafásica",
+     "a": "Situacional/estilística: contexto, interlocutor, formalidade."
+    },
+    {
+     "q": "Gíria",
+     "a": "Vocabulário de um grupo social, informal e geralmente efêmero."
+    },
+    {
+     "q": "Jargão",
+     "a": "Vocabulário técnico de uma profissão ou área."
+    },
+    {
+     "q": "Arcaísmo x neologismo",
+     "a": "Arcaísmo: palavra em desuso; neologismo: palavra nova."
+    },
+    {
+     "q": "Preconceito linguístico",
+     "a": "Discriminar uma variedade da língua (e seus falantes) como “errada”."
+    },
+    {
+     "q": "Registro adequado ao ofício policial",
+     "a": "Formal, impessoal, objetivo, norma-padrão."
+    }
+   ]
+  },
+  {
+   "id": "portugues-pm-significacao",
+   "titulo": "Anexo II, item 17 — Significação das palavras (denotação, conotação, polissemia, ambiguidade, hiperonímia…)",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## Conceitos-base\n- **Denotação (sentido literal)**: significado “de dicionário”, objetivo. *O leão fugiu do zoológico.*\n- **Conotação (sentido figurado)**: significado ampliado pelo contexto. *Ele é um leão no tribunal.*\n- **Polissemia**: **uma** palavra com **vários sentidos** ligados. *Pé da mesa, pé do atleta, pé de alface.* O contexto decide.\n- **Homonímia**: palavras **diferentes** de mesma grafia e/ou som e origem distinta. **Homógrafas** (grafia igual: *colher* verbo/substantivo), **homófonas** (som igual: *sessão, seção, cessão*), **perfeitas** (ambos: *manga* fruta/roupa).\n- **Paronímia**: palavras **parecidas** em grafia/som, sentidos distintos: *eminente/iminente, descrição/discrição, infligir/infringir*.\n- **Sinonímia**: sentidos próximos (*óbito/falecimento*). Sinônimo perfeito é raro; o contexto restringe.\n- **Antonímia**: sentidos opostos (*honesto/desonesto, subir/descer*).\n- **Hiperonímia/hiponímia**: relação de inclusão. **Hiperônimo** = termo geral (*veículo*); **hipônimo** = termo específico (*viatura, moto*).\n- **Campo semântico/lexical**: conjunto de palavras ligadas a um tema (*delegacia, inquérito, boletim, flagrante*).\n- **Ambiguidade (anfibologia)**: frase com dois sentidos possíveis por estrutura ou polissemia. *O policial viu o ladrão com binóculos.* (quem tinha os binóculos?)\n\n## Como a AOCP cobra\n1. **Substituição**: “o termo X poderia ser substituído, sem alterar o sentido, por…”. Teste: releia a frase com a troca; se mudar a ideia, errou.\n2. **Sentido no contexto** (*mitigar* = atenuar; *corroborar* = confirmar; *dirimir* = resolver/esclarecer).\n3. **Denotativo x conotativo** em frases soltas.\n4. **Parônimos/homônimos** em lacunas.\n\n## Estratégia\n- Nunca responda pelo dicionário isolado: **releia o parágrafo**.\n- Em substituição, confira também a **regência** (o sinônimo pede a mesma preposição?).\n- Em ambiguidade, identifique **qual termo** admite duas ligações.",
+   "dicas": [
+    "Denotação = dicionário; conotação = figura/contexto.",
+    "Sinônimos de dicionário nem sempre servem no contexto — teste a troca.",
+    "Hiperônimo = mais geral; hipônimo = mais específico.",
+    "Homônimos têm origens diferentes; polissemia é uma só palavra com sentidos relacionados."
+   ],
+   "pegadinhas": [
+    "Parônimos (eminente/iminente) NÃO são sinônimos; a banca os põe como par de sinônimos.",
+    "“Descrição” e “discrição” são parônimos; “sessão/seção/cessão” são homófonos heterográficos.",
+    "Palavra usada em sentido figurado não é “erro”: é conotação.",
+    "Antônimo depende do contexto: “quente” opõe-se a “frio”, mas em “cena quente” opõe-se a “cena fraca”.",
+    "Ambiguidade pode ser defeito (em ofício) ou recurso (humor, publicidade)."
+   ],
+   "flashcards": [
+    {
+     "q": "Denotação",
+     "a": "Sentido literal, objetivo, de dicionário."
+    },
+    {
+     "q": "Conotação",
+     "a": "Sentido figurado, subjetivo, dependente do contexto."
+    },
+    {
+     "q": "Polissemia",
+     "a": "Uma palavra com vários sentidos relacionados."
+    },
+    {
+     "q": "Homônimos homófonos (exemplo)",
+     "a": "Sessão, seção, cessão."
+    },
+    {
+     "q": "Parônimos (exemplo)",
+     "a": "Eminente x iminente; descrição x discrição; infligir x infringir."
+    },
+    {
+     "q": "Hiperônimo",
+     "a": "Palavra de sentido geral que inclui outras (veículo → viatura)."
+    },
+    {
+     "q": "Ambiguidade",
+     "a": "Frase com duplo sentido por estrutura ou polissemia."
+    },
+    {
+     "q": "Mitigar significa",
+     "a": "Atenuar, suavizar."
+    },
+    {
+     "q": "Corroborar significa",
+     "a": "Confirmar, reforçar."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "portugues-pm-q01",
+   "topico": "portugues-pm-que",
+   "dificuldade": 1,
+   "enunciado": "Em “O policial que atendeu a ocorrência elaborou o relatório”, o termo “que” classifica-se como",
+   "alternativas": {
+    "A": "conjunção integrante, pois introduz oração subordinada substantiva.",
+    "B": "pronome relativo, pois retoma “policial” e inicia oração subordinada adjetiva.",
+    "C": "conjunção causal, pois indica o motivo de o policial elaborar o relatório.",
+    "D": "advérbio de intensidade, pois reforça o verbo “atender”.",
+    "E": "partícula expletiva, pois pode ser retirada sem prejuízo."
+   },
+   "gabarito": "B",
+   "explicacao": "O “que” retoma o antecedente “policial” e equivale a “o qual”: relativo. As demais classificações não passam pelo teste de substituição.",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “que”.\n\n**Conceito/Regra rápida**\nRelativo retoma um termo anterior e se troca por “o qual/a qual”. Inicia oração adjetiva (que funciona como adjetivo do antecedente).\n\n**Passo a passo**\n1. Troque por “o qual”: “O policial o qual atendeu a ocorrência…” — a frase se mantém.\n2. O antecedente é “policial”: o “que” é ponte entre ele e a oração “atendeu a ocorrência”.\n3. Integrante exigiria troca por “isto”: “O policial isto atendeu…” não faz sentido.\n4. Causal exigiria “porque”: a oração não explica motivo nenhum.\n5. Intensidade exigiria adjetivo/advérbio ao lado; aqui há verbo e substantivo.\n\n**Pegadinha**\nNão confunda o relativo (antes dele há substantivo) com o integrante (antes dele há verbo: espero que, disse que).\n\n**Macete**\nTroque por “o qual”: serve? É relativo."
+  },
+  {
+   "id": "portugues-pm-q02",
+   "topico": "portugues-pm-que",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que o termo “que” é uma conjunção subordinativa integrante.",
+   "alternativas": {
+    "A": "O documento que você pediu está pronto.",
+    "B": "Não saí de casa, que chovia muito.",
+    "C": "O prazo é maior que o previsto.",
+    "D": "Que susto ele levou!",
+    "E": "É necessário que todos cheguem cedo ao plantão."
+   },
+   "gabarito": "E",
+   "explicacao": "“É necessário que todos cheguem” = “É necessário isto”: integrante (oração subjetiva). “Que você pediu” é relativo; “que chovia” é causal; “maior que” é comparativo; “Que susto” é pronome exclamativo.",
+   "resolucao_md": "**O que a questão pede**\nAchar o “que” integrante.\n\n**Conceito/Regra rápida**\nA integrante introduz oração substantiva (sujeito, objeto, predicativo, complemento nominal, aposto). Teste: trocar a oração inteira por “isto”.\n\n**Passo a passo**\n1. “É necessário [que todos cheguem cedo]” → “É necessário isto.” Funciona: integrante.\n2. “O documento que você pediu” → “o documento o qual…”: relativo.\n3. “Não saí, que chovia” → “porque chovia”: causal.\n4. “maior que o previsto” → ideia de comparação: comparativo.\n5. “Que susto!”: acompanha substantivo em exclamação: pronome adjetivo.\n\n**Macete**\nIntegrante = “isto”; relativo = “o qual”."
+  },
+  {
+   "id": "portugues-pm-q03",
+   "topico": "portugues-pm-que",
+   "dificuldade": 2,
+   "enunciado": "Em “Estava tão cansado que dormiu na própria viatura”, a oração iniciada por “que” expressa",
+   "alternativas": {
+    "A": "causa, pois o cansaço é o motivo declarado em oração subordinada causal.",
+    "B": "finalidade, pois indica o objetivo de ele dormir.",
+    "C": "consequência, pois o “que” é conjunção subordinativa consecutiva ligada a “tão”.",
+    "D": "comparação, pois confronta o cansaço com o sono.",
+    "E": "concessão, pois apresenta fato contrário ao cansaço."
+   },
+   "gabarito": "C",
+   "explicacao": "A estrutura “tão… que” é típica da consecutiva: o cansaço (causa) gerou o sono (consequência). A oração iniciada pelo “que” é a consequência.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o valor da oração iniciada por “que” depois de “tão”.\n\n**Conceito/Regra rápida**\nTão/tanto/tal/tamanho + que = **consecutiva** (a oração com “que” traz a consequência).\n\n**Passo a passo**\n1. Procure a palavra intensificadora: “tão”.\n2. A oração com “que” (“dormiu na própria viatura”) é o resultado do cansaço intenso.\n3. Causal inverteria: a oração subordinada traria o motivo (“porque estava cansado”), mas o motivo está na principal.\n4. Final pede “para que”; concessiva pede “embora”; comparativa pede “mais/menos… que”.\n\n**Pegadinha**\nA consecutiva traz a CONSEQUÊNCIA; a causal, o MOTIVO.\n\n**Macete**\nTão… que → consequência."
+  },
+  {
+   "id": "portugues-pm-q04",
+   "topico": "portugues-pm-que",
+   "dificuldade": 3,
+   "enunciado": "Considere as afirmações sobre o emprego do “que”.\n\nI. Em “Que cidade perigosa!”, o “que” é pronome adjetivo exclamativo, pois acompanha o substantivo “cidade”.\nII. Em “Que perigoso!”, o “que” é advérbio de intensidade, pois modifica o adjetivo “perigoso”.\nIII. Em “Foi o delegado que decidiu”, o “que” é conjunção integrante, pois introduz oração substantiva.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "I e II corretas. III errada: em “Foi o delegado que decidiu” o “que” faz parte da expressão de realce “foi… que” (expletivo): retirando, “O delegado decidiu” permanece correta.",
+   "resolucao_md": "**O que a questão pede**\nJulgar três classificações do “que”.\n\n**Conceito/Regra rápida**\nQue + substantivo (exclamação/interrogação) = pronome adjetivo; que + adjetivo/advérbio = advérbio de intensidade; “é/foi… que” = realce.\n\n**Passo a passo**\n1. Item I: “cidade” é substantivo → pronome adjetivo exclamativo. Correto.\n2. Item II: “perigoso” é adjetivo → advérbio de intensidade (= quão). Correto.\n3. Item III: retire “Foi… que”: “O delegado decidiu.” fica perfeita → expletivo. Integrante exigiria “isto”: “Foi o delegado isto decidiu” é absurdo. Incorreto.\n4. Combinação: I e II corretos.\n\n**Pegadinha**\nA frase com “foi/é … que” parece ter oração subordinada, mas é só realce.\n\n**Macete**\nDá para tirar “é que/foi que”? Então é expletivo."
+  },
+  {
+   "id": "portugues-pm-q05",
+   "topico": "portugues-pm-que",
+   "dificuldade": 2,
+   "enunciado": "Em “O relatório de hoje é mais detalhado que o de ontem”, o “que” introduz",
+   "alternativas": {
+    "A": "o segundo termo de uma comparação e é conjunção subordinativa comparativa.",
+    "B": "oração adjetiva e é pronome relativo.",
+    "C": "oração substantiva e é conjunção integrante.",
+    "D": "ideia de consequência e é conjunção consecutiva.",
+    "E": "valor de realce e é partícula expletiva."
+   },
+   "gabarito": "A",
+   "explicacao": "O “que” vem depois de “mais” e liga os termos comparados (o de hoje x o de ontem): comparativa.",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “que” após “mais”.\n\n**Conceito/Regra rápida**\nMais/menos/maior/menor/melhor/pior + que = comparativa.\n\n**Passo a passo**\n1. Localize o comparativo: “mais detalhado”.\n2. O “que” introduz o termo de comparação (“o de ontem”).\n3. Relativo? “o qual o de ontem” — impossível. Integrante? “isto o de ontem” — impossível.\n4. Resposta: comparativa.\n\n**Macete**\nMais/menos… que = comparação."
+  },
+  {
+   "id": "portugues-pm-q06",
+   "topico": "portugues-pm-que",
+   "dificuldade": 1,
+   "enunciado": "Em “Estudou muito para que fosse aprovado”, a locução “para que” expressa",
+   "alternativas": {
+    "A": "causa.",
+    "B": "concessão.",
+    "C": "condição.",
+    "D": "finalidade.",
+    "E": "consequência."
+   },
+   "gabarito": "D",
+   "explicacao": "“Para que” = “a fim de que”: oração subordinada adverbial final. Mostra o objetivo do estudo.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o valor de “para que”.\n\n**Conceito/Regra rápida**\nPara que / a fim de que = finalidade.\n\n**Passo a passo**\n1. Pergunte: “estudou para quê?” — para ser aprovado = objetivo.\n2. Causa seria “porque”; concessão, “embora”; condição, “se/caso”; consequência, “tão… que”.\n\n**Macete**\nPara que = finalidade."
+  },
+  {
+   "id": "portugues-pm-q07",
+   "topico": "portugues-pm-que",
+   "dificuldade": 3,
+   "enunciado": "Na frase “Foi o delegado que determinou a prisão”, retirando-se a expressão “foi… que”, o período permanece correto (“O delegado determinou a prisão”). Isso comprova que o “que” é",
+   "alternativas": {
+    "A": "pronome relativo, pois retoma “delegado”.",
+    "B": "partícula expletiva ou de realce.",
+    "C": "conjunção integrante, pois introduz oração substantiva.",
+    "D": "conjunção causal, pois indica o motivo da prisão.",
+    "E": "advérbio de intensidade, pois reforça o verbo."
+   },
+   "gabarito": "B",
+   "explicacao": "A possibilidade de supressão sem alterar a estrutura caracteriza o realce (expletivo). O relativo não pode ser suprimido sem que a oração adjetiva desapareça.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer o “que” de realce.\n\n**Conceito/Regra rápida**\nA expressão “é que / foi que / era que” é de realce: o “que” é expletivo, e retirá-la mantém a frase correta.\n\n**Passo a passo**\n1. Reescreva sem “foi… que”: “O delegado determinou a prisão.” — correta.\n2. Se fosse relativo, retirar o “que” deixaria “o delegado determinou” sem o antecedente ligado à oração (e o sentido cairia).\n3. Logo, expletivo.\n\n**Pegadinha**\nA diferença entre “Foi o delegado que determinou” (realce) e “O delegado que determinou a prisão estava presente” (relativo) é a possibilidade de supressão.\n\n**Macete**\nDá pra tirar? É expletivo."
+  },
+  {
+   "id": "portugues-pm-q08",
+   "topico": "portugues-pm-que",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o “que” NÃO é pronome relativo.",
+   "alternativas": {
+    "A": "O relatório que foi entregue ontem estava incompleto.",
+    "B": "A cidade em que nasci é tranquila.",
+    "C": "Os fatos de que falamos são graves.",
+    "D": "Eis a lei que vigora hoje.",
+    "E": "Esperamos que o relatório seja entregue hoje."
+   },
+   "gabarito": "E",
+   "explicacao": "Em “Esperamos que o relatório seja entregue” o “que” é integrante (Esperamos isto). Nas demais, o “que” retoma um substantivo (relatório, cidade, fatos, lei).",
+   "resolucao_md": "**O que a questão pede**\nAchar o “que” não relativo.\n\n**Conceito/Regra rápida**\nRelativo retoma antecedente; integrante vem depois de verbo e introduz a oração que o completa.\n\n**Passo a passo**\n1. “relatório que foi entregue” → “o qual”: relativo.\n2. “cidade em que nasci” → “na qual”: relativo.\n3. “fatos de que falamos” → “dos quais”: relativo.\n4. “lei que vigora” → “a qual”: relativo.\n5. “Esperamos que…” → “Esperamos isto”: integrante.\n\n**Pegadinha**\nPreposição antes do “que” (em que, de que) indica relativo, não integrante — salvo em “notícia de que” (completiva nominal).\n\n**Macete**\nO verbo veio antes? Integrante."
+  },
+  {
+   "id": "portugues-pm-q09",
+   "topico": "portugues-pm-se",
+   "dificuldade": 1,
+   "enunciado": "Em “Vendem-se casas na orla”, o “se” é",
+   "alternativas": {
+    "A": "índice de indeterminação do sujeito, pois não se sabe quem vende.",
+    "B": "pronome reflexivo, pois as casas vendem a si mesmas.",
+    "C": "partícula apassivadora, pois o verbo é transitivo direto e “casas” é o sujeito paciente.",
+    "D": "parte integrante do verbo pronominal “vender-se”.",
+    "E": "conjunção condicional, pois introduz uma hipótese."
+   },
+   "gabarito": "C",
+   "explicacao": "Passando para a voz passiva analítica, “Casas são vendidas”, o que prova a apassivadora; o verbo concorda com o sujeito (“vendem-se casas”).",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “se”.\n\n**Conceito/Regra rápida**\nApassivadora = VTD + se + sujeito paciente; o verbo concorda com o sujeito.\n\n**Passo a passo**\n1. “Vender” é transitivo direto (vende algo).\n2. Passe para a passiva: “Casas são vendidas na orla.” Funciona.\n3. O verbo está no plural porque “casas” é o sujeito.\n4. Indeterminação exigiria verbo singular e preposição/verbo intransitivo.\n\n**Macete**\nPassou para a passiva? Apassivadora."
+  },
+  {
+   "id": "portugues-pm-q10",
+   "topico": "portugues-pm-se",
+   "dificuldade": 2,
+   "enunciado": "Em “Precisa-se de policiais para o plantão noturno”, o “se” é",
+   "alternativas": {
+    "A": "índice de indeterminação do sujeito, e o verbo permanece no singular por ser transitivo indireto.",
+    "B": "partícula apassivadora, e o verbo deveria estar no plural: “Precisam-se”.",
+    "C": "pronome reflexivo, pois “precisar” exige o pronome.",
+    "D": "conjunção integrante, pois introduz oração substantiva.",
+    "E": "partícula expletiva, pois pode ser retirada sem prejuízo."
+   },
+   "gabarito": "A",
+   "explicacao": "O verbo “precisar” rege preposição “de” (VTI): não há sujeito paciente nem passiva possível; logo, o “se” indetermina o sujeito, verbo no singular.",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “se” e a concordância.\n\n**Conceito/Regra rápida**\nVTI/VI/VL + se = indeterminação; verbo sempre na 3ª pessoa do singular.\n\n**Passo a passo**\n1. “Precisar de algo”: verbo transitivo indireto.\n2. Não se transforma em passiva (não existe “policiais são precisados”).\n3. Logo, “se” = índice de indeterminação do sujeito; sujeito indeterminado.\n4. A concordância é com o singular, e “de policiais” é objeto indireto.\n\n**Pegadinha**\nEscrever “Precisam-se de policiais” é erro clássico.\n\n**Macete**\nPreposição depois do verbo? Singular."
+  },
+  {
+   "id": "portugues-pm-q11",
+   "topico": "portugues-pm-se",
+   "dificuldade": 2,
+   "enunciado": "Em “Os dois irmãos se abraçaram ao final da cerimônia”, o “se” é",
+   "alternativas": {
+    "A": "partícula apassivadora, pois o verbo é transitivo direto.",
+    "B": "índice de indeterminação do sujeito.",
+    "C": "parte integrante de verbo pronominal.",
+    "D": "pronome reflexivo recíproco, indicando ação mútua (um abraçou o outro).",
+    "E": "conjunção integrante."
+   },
+   "gabarito": "D",
+   "explicacao": "O sujeito é plural e a ação é mútua: pode-se acrescentar “um ao outro”. Não há voz passiva (“irmãos foram abraçados” mudaria o sentido) nem sujeito indeterminado (o sujeito é “os dois irmãos”).",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “se”.\n\n**Conceito/Regra rápida**\nRecíproco: sujeito plural + ação mútua (“um ao outro”). Reflexivo: ação sobre si (“a si mesmo”).\n\n**Passo a passo**\n1. Sujeito: “os dois irmãos” (plural).\n2. Teste: “abraçaram-se um ao outro” — faz sentido.\n3. Apassivadora? O sentido “foram abraçados” alteraria a ideia (e o sujeito é agente).\n4. Resposta: recíproco.\n\n**Pegadinha**\nSe o sujeito é singular, o “se” não é recíproco.\n\n**Macete**\nTroque por “um ao outro”."
+  },
+  {
+   "id": "portugues-pm-q12",
+   "topico": "portugues-pm-se",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa correta quanto ao uso do pronome “se” e à concordância.",
+   "alternativas": {
+    "A": "Conserta-se computadores e impressoras.",
+    "B": "Consertam-se computadores e impressoras.",
+    "C": "Precisam-se de vigilantes noturnos.",
+    "D": "Vende-se casas e apartamentos.",
+    "E": "Trata-se de problemas sérios; por isso, tratam-se de medidas urgentes."
+   },
+   "gabarito": "B",
+   "explicacao": "“Consertar” é VTD: apassivadora, verbo no plural. “Precisa-se de”, “Trata-se de” são indeterminação (singular). “Vende-se casas” e “conserta-se computadores” exigem plural.",
+   "resolucao_md": "**O que a questão pede**\nEscolher a concordância correta.\n\n**Conceito/Regra rápida**\nVTD + se → concorda com o sujeito paciente. VTI + se → singular.\n\n**Passo a passo**\n1. “Consertam-se computadores”: computadores são consertados → plural, correto.\n2. “Precisam-se de vigilantes”: VTI → deveria ser “Precisa-se”.\n3. “Vende-se casas”: VTD → “Vendem-se casas”.\n4. “tratam-se de medidas”: “tratar-se de” é sempre singular → “trata-se de”.\n5. “Conserta-se computadores”: VTD → “Consertam-se”.\n\n**Pegadinha**\nSempre olhe se há preposição depois do verbo.\n\n**Macete**\nPreposição → singular; sem preposição → concorda."
+  },
+  {
+   "id": "portugues-pm-q13",
+   "topico": "portugues-pm-se",
+   "dificuldade": 2,
+   "enunciado": "Em “Não sei se o prazo foi prorrogado”, o “se” é",
+   "alternativas": {
+    "A": "conjunção condicional, equivalente a “caso”.",
+    "B": "pronome reflexivo, pois o prazo prorrogou a si mesmo.",
+    "C": "partícula apassivadora, pois o verbo é transitivo direto.",
+    "D": "parte integrante do verbo pronominal “saber-se”.",
+    "E": "conjunção subordinativa integrante, que introduz oração substantiva objetiva direta."
+   },
+   "gabarito": "E",
+   "explicacao": "Teste: “Não sei isto”. A oração “se o prazo foi prorrogado” completa o verbo “saber”: integrante. Condicional indicaria hipótese (“caso o prazo seja…”).",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “se”.\n\n**Conceito/Regra rápida**\nIntegrante: introduz oração substantiva e pode ser trocado por “isto” (muitas vezes pergunta indireta).\n\n**Passo a passo**\n1. Troque a oração por “isto”: “Não sei isto.” Funciona.\n2. Condicional: “Não sei caso o prazo foi prorrogado” — absurdo.\n3. Não há pronome (“foi prorrogado” já traz o verbo na passiva).\n4. Resposta: integrante.\n\n**Pegadinha**\nEm perguntas indiretas (“pergunte se…”, “não sei se…”), o se é integrante.\n\n**Macete**\nPergunta indireta → integrante."
+  },
+  {
+   "id": "portugues-pm-q14",
+   "topico": "portugues-pm-se",
+   "dificuldade": 1,
+   "enunciado": "Em “Se chover, o treino de tiro será cancelado”, o “se” é conjunção subordinativa",
+   "alternativas": {
+    "A": "integrante.",
+    "B": "causal.",
+    "C": "condicional.",
+    "D": "concessiva.",
+    "E": "comparativa."
+   },
+   "gabarito": "C",
+   "explicacao": "Equivale a “caso”: a oração expressa a condição para o cancelamento.",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “se”.\n\n**Conceito/Regra rápida**\nCondicional = “caso”. Integrante = “isto”.\n\n**Passo a passo**\n1. Troque por “caso”: “Caso chova, o treino…” — mantém o sentido.\n2. Integrante exigiria “isto” — não cabe.\n\n**Macete**\nSe = caso → condicional."
+  },
+  {
+   "id": "portugues-pm-q15",
+   "topico": "portugues-pm-se",
+   "dificuldade": 2,
+   "enunciado": "Em “O réu arrependeu-se do crime”, o “se” é",
+   "alternativas": {
+    "A": "parte integrante do verbo pronominal “arrepender-se”, sem função sintática.",
+    "B": "pronome reflexivo com função de objeto direto.",
+    "C": "partícula apassivadora.",
+    "D": "índice de indeterminação do sujeito.",
+    "E": "conjunção condicional."
+   },
+   "gabarito": "A",
+   "explicacao": "“Arrepender” só existe como pronominal (não se diz “arrepender alguém a si”): o “se” integra o verbo e não é objeto.",
+   "resolucao_md": "**O que a questão pede**\nClassificar o “se”.\n\n**Conceito/Regra rápida**\nVerbos essencialmente pronominais: queixar-se, arrepender-se, suicidar-se, ater-se, abster-se, apiedar-se.\n\n**Passo a passo**\n1. Tente usar o verbo sem o “se”: “O réu arrependeu do crime” — incorreto.\n2. Não dá para trocar por “a si mesmo” sem forçar.\n3. O sujeito é “o réu” (determinado), então não é indeterminação.\n4. Resposta: parte integrante do verbo.\n\n**Pegadinha**\nO reflexivo verdadeiro permite “a si mesmo” (ferir-se).\n\n**Macete**\nVerbo só existe com “se”? Parte do verbo."
+  },
+  {
+   "id": "portugues-pm-q16",
+   "topico": "portugues-pm-se",
+   "dificuldade": 3,
+   "enunciado": "Analise as classificações do “se”.\n\nI. Em “Trata-se de um caso grave”, é índice de indeterminação do sujeito.\nII. Em “Aprovaram-se as novas medidas”, é partícula apassivadora.\nIII. Em “Não sei se ele virá”, é conjunção condicional.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "I e II corretos. III errado: “se” é integrante (Não sei isto), não condicional.",
+   "resolucao_md": "**O que a questão pede**\nJulgar três classificações do “se”.\n\n**Conceito/Regra rápida**\nVTI + se = indeterminação; VTD + se + sujeito paciente = apassivadora; “não sei se” = integrante.\n\n**Passo a passo**\n1. I: “tratar de” é VTI → indeterminação. Correto.\n2. II: “aprovar” é VTD, “medidas” é sujeito, verbo no plural → apassivadora. Correto.\n3. III: Não sei [isto] → integrante. A condicional exigiria “caso”. Incorreto.\n4. Combinação: I e II.\n\n**Macete**\nSer “se” de dúvida/pergunta indireta → integrante."
+  },
+  {
+   "id": "portugues-pm-q17",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 1,
+   "enunciado": "A transformação de “vossa mercê” em “vosmecê” e, depois, em “você” e “cê” é exemplo de variação linguística",
+   "alternativas": {
+    "A": "regional (diatópica), pois depende do lugar onde se fala.",
+    "B": "social (diastrática), pois depende da classe social.",
+    "C": "situacional (diafásica), pois depende do interlocutor.",
+    "D": "histórica (diacrônica), pois a forma mudou ao longo do tempo.",
+    "E": "de modalidade, pois separa a fala da escrita."
+   },
+   "gabarito": "D",
+   "explicacao": "O fator central é o tempo: a forma antiga foi se reduzindo ao longo de séculos. Isso é variação histórica ou diacrônica.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o tipo de variação.\n\n**Conceito/Regra rápida**\nHistórica = tempo; regional = lugar; social = grupo; situacional = contexto; modalidade = fala x escrita.\n\n**Passo a passo**\n1. Qual fator explica a diferença entre “vossa mercê” e “você”? O tempo.\n2. Não se menciona região, grupo social ou situação.\n3. Resposta: histórica.\n\n**Macete**\nMudou ao longo do tempo → histórica."
+  },
+  {
+   "id": "portugues-pm-q18",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 1,
+   "enunciado": "As palavras “macaxeira”, “aipim” e “mandioca” designam a mesma raiz e se distribuem por diferentes regiões do país. Esse fenômeno exemplifica variação",
+   "alternativas": {
+    "A": "histórica (diacrônica).",
+    "B": "regional (diatópica).",
+    "C": "social (diastrática).",
+    "D": "situacional (diafásica).",
+    "E": "estilística, própria de registros formais."
+   },
+   "gabarito": "B",
+   "explicacao": "O que muda é o lugar de uso, caracterizando variação geográfica ou regional.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer variação regional.\n\n**Conceito/Regra rápida**\nDiatópica = lugar (regionalismos).\n\n**Passo a passo**\n1. Fator: região. Sinônimos regionais para a mesma coisa.\n2. Não se fala de épocas, escolaridade ou grau de formalidade.\n\n**Macete**\nMudou o lugar → regional."
+  },
+  {
+   "id": "portugues-pm-q19",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 2,
+   "enunciado": "A frase “Nós vai na delegacia amanhã” difere de “Nós vamos à delegacia amanhã” principalmente por marcas de variação",
+   "alternativas": {
+    "A": "histórica, pois a primeira forma é um arcaísmo.",
+    "B": "regional, pois só existe em uma região específica.",
+    "C": "de gíria, pois o vocabulário é típico de um grupo restrito.",
+    "D": "de jargão, pois a forma é técnica.",
+    "E": "social, associada a fatores como escolaridade e acesso à norma-padrão."
+   },
+   "gabarito": "E",
+   "explicacao": "A ausência de concordância “nós vai” é traço típico de variedades populares: a diferença está no grupo social/escolaridade. Não é arcaísmo, nem restrita a uma região, nem gíria ou jargão.",
+   "resolucao_md": "**O que a questão pede**\nClassificar a variação.\n\n**Conceito/Regra rápida**\nVariação social (diastrática) liga-se a escolaridade, renda, idade, profissão.\n\n**Passo a passo**\n1. Diferença: concordância verbal (vai x vamos), fenômeno ligado a variedades populares x norma culta.\n2. Não é arcaísmo (a forma “vai” não é antiga).\n3. Não é regional (ocorre em várias regiões).\n4. Gíria e jargão são vocabulário, não concordância.\n\n**Pegadinha**\nNenhuma variedade é “erro” em si: o erro é inadequação à situação.\n\n**Macete**\nMudança de gramática por grupo → social."
+  },
+  {
+   "id": "portugues-pm-q20",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 2,
+   "enunciado": "Um soldado escreve “Prezado Senhor Comandante, solicito autorização…” em um ofício, mas diz “Fala, chefe!” ao encontrar um colega. A mudança de linguagem evidencia variação",
+   "alternativas": {
+    "A": "histórica, pois o soldado usa formas antigas no ofício.",
+    "B": "regional, pois o soldado mudou de região.",
+    "C": "situacional, determinada pelo contexto e pelo interlocutor (registro formal x informal).",
+    "D": "social, pois o soldado trocou de classe social.",
+    "E": "diacrônica, pois a fala evoluiu entre uma frase e outra."
+   },
+   "gabarito": "C",
+   "explicacao": "Mesmo falante, mesmo tempo e mesmo lugar: muda apenas a situação comunicativa e o interlocutor, o que define variação situacional ou de registro.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer variação situacional.\n\n**Conceito/Regra rápida**\nDiafásica: um mesmo falante alterna registros conforme assunto, interlocutor e contexto.\n\n**Passo a passo**\n1. O falante é o mesmo → não é social.\n2. Não mudou tempo nem lugar → não é histórica nem regional.\n3. Mudou o contexto (documento oficial x conversa de colegas) → situacional.\n\n**Pegadinha**\nAlternar registro é qualidade (adequação), não erro.\n\n**Macete**\nMesmo falante, contextos diferentes → situacional."
+  },
+  {
+   "id": "portugues-pm-q21",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 2,
+   "enunciado": "As expressões “lavrar auto de prisão em flagrante”, “autuar” e “diligência” são características de",
+   "alternativas": {
+    "A": "jargão técnico-profissional, vocabulário próprio da área jurídico-policial.",
+    "B": "gíria juvenil, linguagem informal e efêmera de um grupo.",
+    "C": "regionalismo nordestino.",
+    "D": "arcaísmo, palavras em desuso.",
+    "E": "neologismo, palavras recém-criadas."
+   },
+   "gabarito": "A",
+   "explicacao": "São termos técnicos usados por profissionais de uma área: jargão. Gíria é informal e de grupo; regionalismo é geográfico; arcaísmo é desuso; neologismo é palavra nova.",
+   "resolucao_md": "**O que a questão pede**\nDistinguir jargão de gíria.\n\n**Conceito/Regra rápida**\nJargão = vocabulário técnico de uma profissão; gíria = vocabulário informal de um grupo, efêmero.\n\n**Passo a passo**\n1. Os termos são técnicos e jurídicos.\n2. Têm uso profissional contínuo → jargão.\n3. Gíria seria “da hora”, “mano”; arcaísmo seria “vosmecê”.\n\n**Pegadinha**\nGíria e jargão podem ser “de grupo”, mas jargão é técnico e formal.\n\n**Macete**\nProfissão técnica → jargão; grupo informal → gíria."
+  },
+  {
+   "id": "portugues-pm-q22",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 3,
+   "enunciado": "Leia o trecho.\n\n“Na patrulha, o soldado explicou ao rapaz: ‘Tá tranquilo, mano, a gente só tá conferindo’. Minutos depois, no quartel, relatou ao tenente: ‘Senhor, procedemos à abordagem de um cidadão, sem intercorrências’.”\n\nO trecho ilustra principalmente",
+   "alternativas": {
+    "A": "o desconhecimento da norma-padrão por parte do soldado.",
+    "B": "a superioridade da linguagem formal sobre a coloquial.",
+    "C": "a variação histórica da língua portuguesa.",
+    "D": "a adequação da linguagem ao interlocutor e à situação, evidenciando variação situacional e de registro.",
+    "E": "a impossibilidade de um falante usar mais de uma variedade."
+   },
+   "gabarito": "D",
+   "explicacao": "O soldado ajusta o registro a cada situação (informal com o rapaz; formal com o tenente): adequação. Não há erro, nem hierarquia, nem variação histórica.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar o contraste entre as falas.\n\n**Conceito/Regra rápida**\nVariação situacional: o falante escolhe o registro conforme interlocutor e contexto.\n\n**Passo a passo**\n1. Fala 1: informal (“Tá tranquilo, mano”) → interlocutor jovem, abordagem em campo.\n2. Fala 2: formal (“procedemos à abordagem… intercorrências”) → relatório ao superior.\n3. O soldado domina os dois registros: não “desconhece a norma”.\n4. A ideia de “superioridade” é extrapolação: o texto não hierarquiza.\n5. Variação histórica não aparece.\n\n**Pegadinha**\nExtrapolação: afirmar superioridade de uma variedade; generalização: dizer que “impossibilita” o uso de mais de uma.\n\n**Macete**\nMesmo falante, dois registros → adequação."
+  },
+  {
+   "id": "portugues-pm-q23",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 3,
+   "enunciado": "Sobre variação linguística, considere as afirmações.\n\nI. A variação é fenômeno natural, presente em toda língua viva.\nII. A norma-padrão é a única forma correta de falar; as demais são erros.\nIII. Um mesmo falante pode alternar entre registro formal e informal conforme a situação.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "explicacao": "I e III corretas. II é falsa: as variedades são legítimas e a norma-padrão é um modelo de prestígio, não a “única correta”.",
+   "resolucao_md": "**O que a questão pede**\nJulgar afirmações sobre variação.\n\n**Conceito/Regra rápida**\nLínguas vivas variam; nenhuma variedade é errada em si; o que existe é adequação.\n\n**Passo a passo**\n1. I: variação é natural → Correto.\n2. II: “única forma correta” é o preconceito linguístico → Incorreto.\n3. III: alternância de registros é comum e desejável → Correto.\n4. Combinação: I e III.\n\n**Pegadinha**\nAfirmações com “única”, “somente”, “toda e qualquer” costumam ser falsas.\n\n**Macete**\nSe a frase hierarquiza as variedades, desconfie."
+  },
+  {
+   "id": "portugues-pm-q24",
+   "topico": "portugues-pm-variacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que NÃO apresenta exemplo de variação regional.",
+   "alternativas": {
+    "A": "“Oxente, que calor danado hoje!”, dito por um pernambucano.",
+    "B": "“Prezado Senhor, solicitamos a gentileza de apreciar o presente requerimento”, em ofício dirigido a autoridade.",
+    "C": "“Bah, tchê, que frio!”, dito por um gaúcho.",
+    "D": "“Uai, sô, que trem bom!”, dito por um mineiro.",
+    "E": "“Mainha chegou do trabalho.”, dito por um nordestino."
+   },
+   "gabarito": "B",
+   "explicacao": "O ofício exemplifica variação situacional/registro formal, não regional. As demais contêm regionalismos (oxente, bah/tchê, uai/sô, mainha).",
+   "resolucao_md": "**O que a questão pede**\nAchar o exemplo que não é regional.\n\n**Conceito/Regra rápida**\nRegionalismo = palavra/expressão típica de uma região.\n\n**Passo a passo**\n1. “Oxente” → Nordeste.\n2. “Bah/tchê” → Sul.\n3. “Uai/sô/trem” → Minas.\n4. “Mainha” → Nordeste.\n5. “Prezado Senhor…” → fórmula de registro formal, usada em qualquer região.\n\n**Macete**\nQual exemplo não aponta lugar? É o alvo."
+  },
+  {
+   "id": "portugues-pm-q25",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que a expressão em destaque está empregada em sentido conotativo.",
+   "alternativas": {
+    "A": "O cão farejador encontrou a pedra escondida no porta-malas.",
+    "B": "O coração bombeia sangue para todo o corpo.",
+    "C": "A pedra foi apreendida pela perícia.",
+    "D": "O soldado bebeu um copo de água.",
+    "E": "O sargento tem coração de pedra e não se emociona com nada."
+   },
+   "gabarito": "E",
+   "explicacao": "“Coração de pedra” é figura: pessoa insensível. As demais frases usam as palavras em sentido literal.",
+   "resolucao_md": "**O que a questão pede**\nDistinguir sentido conotativo.\n\n**Conceito/Regra rápida**\nConotação = figurado; denotação = literal.\n\n**Passo a passo**\n1. “Coração de pedra” não indica órgão de pedra, mas insensibilidade → figurado.\n2. As outras citam objetos e ações reais.\n\n**Macete**\nDá para entender ao pé da letra? Se não, é conotativo."
+  },
+  {
+   "id": "portugues-pm-q26",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 2,
+   "enunciado": "Nas frases “O pé da mesa quebrou”, “O soldado machucou o pé” e “Plantei um pé de alface”, a palavra “pé” exemplifica",
+   "alternativas": {
+    "A": "paronímia, pois há palavras semelhantes com sentidos distintos.",
+    "B": "antonímia, pois os sentidos se opõem.",
+    "C": "polissemia, pois uma mesma palavra assume sentidos diferentes e relacionados.",
+    "D": "hiperonímia, pois “pé” é termo mais geral que “mesa”.",
+    "E": "homonímia perfeita, pois há três palavras de origens diferentes."
+   },
+   "gabarito": "C",
+   "explicacao": "É uma só palavra com vários sentidos ligados por analogia (parte inferior, base): polissemia.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer polissemia.\n\n**Conceito/Regra rápida**\nPolissemia: uma palavra, vários sentidos relacionados. Homonímia: palavras distintas (origens diferentes) com mesma forma.\n\n**Passo a passo**\n1. Há uma única palavra “pé”.\n2. Os sentidos têm relação (base/apoio/unidade vegetal).\n3. Homonímia seria, por exemplo, “manga” (fruta) e “manga” (roupa).\n\n**Pegadinha**\nPolissemia e homonímia parecem iguais: pergunte se há uma ou duas palavras.\n\n**Macete**\nUma palavra com sentidos ligados → polissemia."
+  },
+  {
+   "id": "portugues-pm-q27",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 2,
+   "enunciado": "A frase “O policial viu o ladrão com binóculos” apresenta ambiguidade porque",
+   "alternativas": {
+    "A": "o termo “com binóculos” pode referir-se tanto ao policial quanto ao ladrão.",
+    "B": "há uso de sentido figurado em “viu”.",
+    "C": "o verbo “ver” é polissêmico e admite vários sinônimos.",
+    "D": "há erro de concordância entre sujeito e verbo.",
+    "E": "o termo “ladrão” é um hiperônimo de “policial”."
+   },
+   "gabarito": "A",
+   "explicacao": "A ambiguidade é estrutural: não se sabe a quem o adjunto se liga. Não há figura, erro de concordância ou relação hiperonímia.",
+   "resolucao_md": "**O que a questão pede**\nExplicar a causa da ambiguidade.\n\n**Conceito/Regra rápida**\nAmbiguidade (anfibologia): construção que admite dois sentidos.\n\n**Passo a passo**\n1. Leitura 1: o policial usou binóculos para ver o ladrão.\n2. Leitura 2: o ladrão portava binóculos.\n3. A causa é a ligação do adjunto “com binóculos”.\n\n**Macete**\nPergunte: a quem se refere o termo solto? Dois candidatos → ambiguidade."
+  },
+  {
+   "id": "portugues-pm-q28",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 2,
+   "enunciado": "Em “viatura”, “motocicleta” e “caminhão”, a palavra “veículo” funciona, em relação a elas, como",
+   "alternativas": {
+    "A": "hipônimo, pois é mais específico que as demais.",
+    "B": "antônimo, pois tem sentido oposto.",
+    "C": "parônimo, pois é parecido em grafia.",
+    "D": "hiperônimo, pois é termo de sentido mais geral que abrange os demais.",
+    "E": "homônimo, pois tem a mesma grafia."
+   },
+   "gabarito": "D",
+   "explicacao": "“Veículo” inclui viatura, motocicleta e caminhão: hiperônimo. Estes são hipônimos de “veículo”.",
+   "resolucao_md": "**O que a questão pede**\nRelacionar hiperônimo e hipônimo.\n\n**Conceito/Regra rápida**\nHiperônimo = termo geral (inclui); hipônimo = termo específico (está incluído).\n\n**Passo a passo**\n1. “Viatura é um veículo”; “moto é um veículo” → a relação é de inclusão.\n2. Logo, “veículo” é o geral → hiperônimo.\n\n**Pegadinha**\nMacete visual: Hiper = “acima” (mais amplo); Hipo = “abaixo” (mais específico).\n\n**Macete**\nHiper = grande; hipo = pequeno."
+  },
+  {
+   "id": "portugues-pm-q29",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que os termos NÃO são sinônimos.",
+   "alternativas": {
+    "A": "óbito e falecimento.",
+    "B": "eminente e iminente.",
+    "C": "tácito e implícito.",
+    "D": "mendigo e pedinte.",
+    "E": "cessar e parar."
+   },
+   "gabarito": "B",
+   "explicacao": "“Eminente” = elevado, notável; “iminente” = prestes a acontecer. São parônimos, não sinônimos. Os demais pares são sinônimos.",
+   "resolucao_md": "**O que a questão pede**\nAchar o par que não são sinônimos.\n\n**Conceito/Regra rápida**\nParônimos parecem, mas têm sentidos diferentes.\n\n**Passo a passo**\n1. óbito = falecimento. Sinônimos.\n2. tácito (não dito) = implícito. Sinônimos.\n3. mendigo = pedinte. Sinônimos.\n4. cessar = parar. Sinônimos.\n5. eminente (importante) x iminente (próximo de acontecer): parônimos.\n\n**Pegadinha**\nParônimos aparecem com ar de sinônimos.\n\n**Macete**\nPalavras parecidas ≠ palavras equivalentes."
+  },
+  {
+   "id": "portugues-pm-q30",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que completa corretamente as lacunas: “A _____ do terreno foi aprovada na _____ de ontem, realizada na _____ de licitações.”",
+   "alternativas": {
+    "A": "sessão — cessão — seção",
+    "B": "seção — sessão — cessão",
+    "C": "cessão — seção — sessão",
+    "D": "sessão — seção — cessão",
+    "E": "cessão — sessão — seção"
+   },
+   "gabarito": "E",
+   "explicacao": "Cessão = ato de ceder; sessão = reunião; seção = divisão/setor. São homófonas heterográficas.",
+   "resolucao_md": "**O que a questão pede**\nCompletar com homófonas.\n\n**Conceito/Regra rápida**\nCessão (ceder), sessão (reunião/espetáculo), seção (parte, divisão: “seccionar”).\n\n**Passo a passo**\n1. 1ª lacuna: ato de ceder o terreno → cessão.\n2. 2ª lacuna: reunião de ontem → sessão.\n3. 3ª lacuna: setor/departamento → seção.\n4. Combinação: cessão – sessão – seção.\n\n**Macete**\nCeder → cessão; sentar → sessão; cortar → seção."
+  },
+  {
+   "id": "portugues-pm-q31",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 2,
+   "enunciado": "No trecho “O comando busca mitigar os efeitos da escassez de efetivo”, o termo “mitigar” pode ser substituído, sem prejuízo ao sentido, por",
+   "alternativas": {
+    "A": "agravar.",
+    "B": "ignorar.",
+    "C": "atenuar.",
+    "D": "ampliar.",
+    "E": "confirmar."
+   },
+   "gabarito": "C",
+   "explicacao": "“Mitigar” = suavizar, reduzir. “Agravar” e “ampliar” seriam o oposto; “ignorar” e “confirmar” alteram o sentido.",
+   "resolucao_md": "**O que a questão pede**\nSubstituir termo por sinônimo contextual.\n\n**Conceito/Regra rápida**\nMitigar = atenuar, aliviar, suavizar.\n\n**Passo a passo**\n1. O comando quer lidar com um problema (escassez), então busca reduzir o efeito.\n2. Teste: “busca atenuar os efeitos” → faz sentido.\n3. As demais invertem ou desviam o sentido.\n\n**Macete**\nMitigar = amenizar."
+  },
+  {
+   "id": "portugues-pm-q32",
+   "topico": "portugues-pm-significacao",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que a palavra em destaque está em sentido denotativo.",
+   "alternativas": {
+    "A": "O leão fugiu do zoológico e foi capturado pela equipe de resgate.",
+    "B": "Ele é um leão no tribunal.",
+    "C": "Meu chefe é uma raposa.",
+    "D": "Ela tem memória de elefante.",
+    "E": "O candidato é um tubarão da política."
+   },
+   "gabarito": "A",
+   "explicacao": "Só na primeira frase “leão” designa o animal real. As demais usam nomes de animais em sentido figurado (metáforas).",
+   "resolucao_md": "**O que a questão pede**\nEscolher a frase de sentido literal.\n\n**Conceito/Regra rápida**\nDenotação = significado de dicionário; conotação = metáfora, sentido extra.\n\n**Passo a passo**\n1. “leão fugiu do zoológico” → animal real → denotativo.\n2. Nas outras, não se fala do animal, mas de qualidades humanas → conotativo.\n\n**Macete**\nLiteral x figurado: quem seria o animal de verdade?"
+  }
+ ]
+}

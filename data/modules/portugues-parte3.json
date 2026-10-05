@@ -1,0 +1,913 @@
+{
+ "id": "portugues",
+ "titulo": "Língua Portuguesa (IBAM) — do zero ao avançado",
+ "disciplina": "portugues",
+ "descricao": "Continuação do módulo de Língua Portuguesa.",
+ "topicos": [
+  {
+   "id": "portugues-pronomes",
+   "titulo": "8.1 Pronomes: emprego e formas de tratamento",
+   "prioridade": 2,
+   "horas": 4,
+   "resumo_md": "## O que é pronome\nPalavra que **substitui ou acompanha** o substantivo, indicando a **pessoa do discurso**.\n\n## Pronomes pessoais\n| Pessoa | Reto (sujeito) | Oblíquo átono | Oblíquo tônico (com preposição) |\n|---|---|---|---|\n| 1ª sing. | eu | me | **mim**, comigo |\n| 2ª sing. | tu | te | **ti**, contigo |\n| 3ª sing. | ele/ela | **o, a, lhe**, se | ele/ela, **si**, consigo |\n| 1ª pl. | nós | nos | nós, conosco |\n| 2ª pl. | vós | vos | vós, convosco |\n| 3ª pl. | eles/elas | **os, as, lhes**, se | eles/elas, **si**, consigo |\n\n### Regras de ouro\n1. **\"Eu\" é sujeito; \"mim\" vem depois de preposição e não conjuga verbo.**\n   - Errado: \"Isso é para **mim** fazer.\" → Certo: \"Isso é para **eu** fazer.\" (eu é sujeito de \"fazer\")\n   - Certo: \"Isso é para **mim**.\" / \"Entre **mim** e você não há segredos.\" (entre + oblíquo tônico) / \"Não há nada entre **mim** e ti.\"\n   - Macete: troque por \"nós\": \"para **nós** fazermos\" → \"para **eu** fazer\".\n2. **Objeto direto**: **o, a, os, as** (verbo sem preposição): \"Vi-**o**.\" Nunca \"Vi **ele**\" (na norma culta).\n3. **Objeto indireto**: **lhe, lhes** (pessoa): \"Entreguei-**lhe** o documento.\"\n4. **\"O\" após verbos em -r, -s, -z** → **-lo, -la**: \"Fazer + o = fazê-**lo**\"; \"Fiz + o = fi-**lo**\"; \"Pomos + o = pomo-**lo**\".\n5. **Após terminação nasal** (-m, -ão, -õe): **-no, -na**: \"Põem-**no**\", \"Dão-**no**\".\n6. **Si/consigo** são reflexivos (3ª pessoa): \"Ele falou **consigo** mesmo.\"\n7. **Comigo, contigo, conosco, convosco**: \"Venha **comigo**.\" (nunca \"com eu\").\n\n## Pronomes demonstrativos\n| | Espaço | Tempo | No texto |\n|---|---|---|---|\n| **Este/esta/isto** | perto de **quem fala** | presente | o que **vem a seguir** (ou o mais próximo no texto) |\n| **Esse/essa/isso** | perto de **quem ouve** | passado próximo/futuro próximo | o que **já foi dito** |\n| **Aquele/aquela/aquilo** | longe de ambos | passado distante | o **mais distante** no texto |\n- Em enumeração: \"Estudei Física e Química; **aquela** (a primeira) me agrada, **esta** (a última) me cansa.\"\n\n## Mesmo, próprio\n- Como reforço: \"Ele **mesmo** redigiu\"; \"Elas **mesmas** resolveram\" (concordam).\n- **Evite \"o mesmo\" como substituto do substantivo**: \"O diretor assinou o ofício e **o mesmo** foi enviado\" (condenado). Use \"ele\" ou omita.\n\n## Formas de tratamento (cobradas em concursos públicos)\n| Tratamento | Para quem (Manual de Redação) |\n|---|---|\n| **Vossa Excelência (V. Exa.)** | Chefes de Poder, ministros, governadores, **prefeitos**, parlamentares, magistrados, oficiais-generais |\n| **Vossa Senhoria (V. Sa.)** | Autoridades de nível intermediário e particulares (Ilustríssimo Senhor) |\n| **Vossa Magnificência** | **Reitores** de universidade |\n| **Vossa Santidade** | Papa |\n| **Vossa Eminência (Reverendíssima)** | Cardeais |\n| **Vossa Reverendíssima** | Sacerdotes |\n| **Vossa Alteza** | Príncipes/duques |\n\n### Concordância\n- **Todas as formas de tratamento levam o verbo na 3ª pessoa**: \"Vossa Excelência **está** ciente\".\n- **Vossa** (a quem se fala): \"Vossa Excelência cumpriu o prazo?\" **Sua** (de quem se fala): \"**Sua** Excelência, o Prefeito, anunciou as obras.\"\n- Possessivo: \"**Seu** relatório\" (com V. Exa.), nunca \"vosso\".\n- O **adjetivo** concorda com o **sexo** da pessoa: \"Vossa Excelência está **atento**\" (homem) / \"atenta\" (mulher).\n\n## Passo a passo\n1. Quem é sujeito do verbo? Se o pronome faz a ação do verbo, use **eu/tu/ele**.\n2. Se vem depois de preposição, use **mim/ti** (exceto quando sujeito de verbo).\n3. Em tratamento, escolha o pronome pelo **cargo** e use verbo na **3ª pessoa**.",
+   "dicas": [
+    "Para mim fazer: nunca! Quando há verbo depois, use \"para EU fazer\".",
+    "Entre mim e você; entre eu e você é erro (entre exige tônico).",
+    "Vossa = com quem falo; Sua = de quem falo. Verbo sempre na 3ª pessoa.",
+    "Reitor = Magnificência; prefeito/parlamentar = Excelência; particular = Senhoria.",
+    "Mesmo como reforço concorda; \"o mesmo\" como substituto é desaconselhado."
+   ],
+   "pegadinhas": [
+    "\"Para mim fazer\", \"entre eu e ti\": erros clássicos.",
+    "\"Vi ele\", \"convidei ele\": na norma culta, \"vi-o\", \"convidei-o\".",
+    "\"Vossa Excelência, estais ocupado?\": tratamento exige verbo na 3ª pessoa.",
+    "Confundir \"Vossa\" (interlocutor) e \"Sua\" (assunto).",
+    "Usar \"o mesmo\" para substituir substantivo: \"o ministro e o mesmo\" (evitar).",
+    "\"Fazer-lo\", \"fazê-no\": a forma certa é fazê-lo."
+   ],
+   "flashcards": [
+    {
+     "q": "Para mim ou para eu fazer?",
+     "a": "Para eu fazer (eu é sujeito de fazer)."
+    },
+    {
+     "q": "Entre eu e você ou entre mim e você?",
+     "a": "Entre mim e você (preposição exige oblíquo tônico)."
+    },
+    {
+     "q": "Forma correta de substituir \"fazer o trabalho\"?",
+     "a": "Fazê-lo."
+    },
+    {
+     "q": "Tratamento para reitores?",
+     "a": "Vossa Magnificência."
+    },
+    {
+     "q": "Tratamento para prefeitos?",
+     "a": "Vossa Excelência."
+    },
+    {
+     "q": "Tratamento para particulares e autoridades intermediárias?",
+     "a": "Vossa Senhoria."
+    },
+    {
+     "q": "Verbo concorda em qual pessoa com formas de tratamento?",
+     "a": "3ª pessoa."
+    },
+    {
+     "q": "Diferença Vossa x Sua?",
+     "a": "Vossa = com quem se fala; Sua = de quem se fala."
+    },
+    {
+     "q": "Este x esse no texto?",
+     "a": "Este = o que vem a seguir/mais próximo; esse = o que já foi dito."
+    }
+   ]
+  },
+  {
+   "id": "portugues-colocacao-pronominal",
+   "titulo": "8.2 Colocação pronominal: próclise, ênclise e mesóclise",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## Conceito\nPosição do **pronome oblíquo átono** (me, te, se, o, a, lhe, nos, vos, os, as, lhes) em relação ao verbo.\n- **Próclise**: pronome **antes** do verbo (**Não** me disse).\n- **Ênclise**: **depois** do verbo, com hífen (Disse-me).\n- **Mesóclise**: **no meio** do verbo (Dir-**me**-ia).\n\n## Regra básica\nNa norma culta **não se inicia frase com pronome átono**. O padrão é a **ênclise**, **a não ser que haja um fator de atração** (palavra atrativa) → **próclise**.\n\n## PRÓCLISE (palavras atrativas)\n| Fator | Exemplo |\n|---|---|\n| **Palavras negativas** (não, nunca, jamais, ninguém, nada, nenhum, nem) | **Não me** disse a verdade. / Nada **lhe** agrada. |\n| **Conjunções subordinativas** (que, se, quando, embora, porque, como, caso, conforme) | Espero **que o** entreguem. / Se **me** disser... |\n| **Pronomes relativos** (que, quem, o qual, cujo, onde) | O livro **que lhe** dei... |\n| **Pronomes indefinidos** (tudo, todos, alguém, poucos, alguns, ninguém, quem) | Tudo **me** lembra você. / Alguém **o** viu. |\n| **Pronomes interrogativos** | Quem **lhe** contou isso? |\n| **Advérbios** (sem pausa): talvez, aqui, ali, sempre, já, bem, mal, também, ontem, logo | Talvez **nos** avise. / **Sempre** o vejo. |\n| **Frases exclamativas e optativas** (desejo) | Deus **lhe** pague! / Que **te** vá bem! |\n| **Preposição \"em\" + gerúndio** | Em **se** tratando de... |\n| **\"Só\", \"somente\", \"apenas\"** | Só **me** resta... |\n\n## ÊNCLISE (a regra geral)\n| Fator | Exemplo |\n|---|---|\n| **Verbo no início da oração** | **Entregaram-me** o relatório. / **Diga-me**. |\n| **Imperativo afirmativo** | **Faça-o** hoje. |\n| **Infinitivo impessoal e gerúndio** | Vou **fazê-lo**. / Chegou **cumprimentando-nos**. |\n| **Após vírgula/pausa** (sem atrativo) | Chegou cedo, **sentou-se**. |\n\n## MESÓCLISE\nSó com **futuro do presente** ou **futuro do pretérito**, **quando o verbo está no início da frase** (sem palavra atrativa):\n- \"**Entregar-lhe-ei** o documento.\" / \"**Dir-se-ia** que...\" / \"**Fá-lo-ei**.\"\n- Com atrativo → **próclise**: \"**Não lhe** entregarei\" (e **nunca** \"Não entregar-lhe-ei\").\n- **Nunca** ênclise com futuro do presente/pretérito: \"Entregarei-lhe\" (errado).\n\n## Locuções verbais (auxiliar + principal)\n| Verbo principal | Posições aceitas |\n|---|---|\n| **Infinitivo ou gerúndio** | enclítico ao **auxiliar** (Vou-**lhe** entregar?) ou ao **principal** (Vou entregá-**lo**). Com atrativo: **Não o** vou entregar / Não vou entregá-**lo**. |\n| **Particípio** | só **antes do auxiliar** ou **depois do auxiliar**, nunca depois do particípio: \"Tinha-**me** dito\" / \"Não **me** tinha dito\"; **errado**: \"Tinha dito-me\". |\n\n## Contrações com \"o/a\"\n- Verbos terminados em **r, s, z**: **-lo/-la** (fazê-lo; vendemo-lo).\n- Terminação **nasal** (-m, -ão, -õe): **-no/-na** (põem-no).\n\n## Passo a passo\n1. A frase **começa** pelo verbo? → ênclise (ou mesóclise no futuro).\n2. Há **palavra atrativa** antes do verbo? → **próclise**.\n3. Verbo no **futuro** (do presente/pretérito) e **sem atrativo** → **mesóclise** (ou próclise se houver atrativo).\n4. Imperativo afirmativo → ênclise; negativo → próclise (\"**Não me** diga\").\n5. Locução: ache onde está o atrativo; **particípio** nunca leva pronome enclítico.",
+   "dicas": [
+    "Nunca comece frase com pronome átono: \"Dê-me\", não \"Me dê\" (norma culta).",
+    "Palavras atrativas: negação, conjunção subordinativa, relativo, indefinido, interrogativo, advérbio (macete: NÃO, QUE, SE, TALVEZ).",
+    "Mesóclise: só futuro, sem atrativo. Com atrativo, vira próclise.",
+    "Particípio nunca recebe pronome enclítico (nunca \"tinha dito-me\").",
+    "Verbo terminado em r/s/z + o = -lo; terminação nasal + o = -no."
+   ],
+   "pegadinhas": [
+    "\"Me entregaram o documento\": iniciar frase com pronome átono (na norma).",
+    "\"Entregarei-lhe o documento\": ênclise com futuro do presente é incorreta.",
+    "\"Não entregar-lhe-ei\": a negação atrai o pronome (Não lhe entregarei).",
+    "\"Tinha dito-me a verdade\": particípio não aceita ênclise.",
+    "\"Quem disse-lhe isso?\": o pronome interrogativo atrai a próclise (Quem lhe disse isso?).",
+    "\"Fazer-lo\", \"põem-o\": formas corretas são fazê-lo e põem-no."
+   ],
+   "flashcards": [
+    {
+     "q": "O que é próclise?",
+     "a": "Pronome átono antes do verbo."
+    },
+    {
+     "q": "O que é ênclise?",
+     "a": "Pronome átono depois do verbo, ligado por hífen."
+    },
+    {
+     "q": "O que é mesóclise?",
+     "a": "Pronome átono no meio do verbo (futuro do presente ou do pretérito), ex.: dir-se-ia."
+    },
+    {
+     "q": "Imperativo afirmativo: próclise ou ênclise?",
+     "a": "Ênclise (Faça-o). No negativo, próclise (Não o faça)."
+    },
+    {
+     "q": "Palavras atrativas?",
+     "a": "Negação, conjunção subordinativa, relativo, indefinido, interrogativo, advérbio, exclamativas/optativas."
+    },
+    {
+     "q": "Posso iniciar frase com pronome átono?",
+     "a": "Não, na norma culta; usa-se ênclise."
+    },
+    {
+     "q": "Quando usar mesóclise?",
+     "a": "Futuro do presente/pretérito sem palavra atrativa."
+    },
+    {
+     "q": "Pronome com particípio?",
+     "a": "Nunca enclítico ao particípio: tinha-me dito, não tinha dito-me."
+    },
+    {
+     "q": "Fazer + o?",
+     "a": "Fazê-lo."
+    },
+    {
+     "q": "Põem + o?",
+     "a": "Põem-no."
+    }
+   ]
+  },
+  {
+   "id": "portugues-figuras-linguagem",
+   "titulo": "9. Figuras de linguagem",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Conceito\nRecursos expressivos que **afastam a linguagem do sentido literal** (denotativo) para criar **efeitos de sentido**: ênfase, humor, crítica, beleza. A banca dá a frase e pede o nome da figura (ou o inverso).\n\n## Figuras de PALAVRA (semânticas)\n| Figura | O que é | Exemplo |\n|---|---|---|\n| **Comparação (símile)** | compara com **conectivo** (como, tal qual) | Ele é rápido **como** um raio. |\n| **Metáfora** | comparação **implícita** (sem conectivo) | Aquele político é uma **raposa**. |\n| **Metonímia** | troca por **relação de proximidade**: autor/obra, continente/conteúdo, parte/todo (sinédoque), efeito/causa, marca/produto | Li **Machado** nas férias. / Tomei um **copo**. / Pedi uma **gillette** (marca pelo produto) |\n| **Sinédoque** | parte pelo todo (ou o inverso) | Passou **fome** sem ter um **teto**. (teto = casa) |\n| **Catacrese** | metáfora **desgastada**, sem nome alternativo | **pé** da mesa, **braço** da cadeira, **boca** do rio |\n| **Antonomásia (perífrase)** | substituir nome por qualidade/característica | O **Rei do Futebol** (Pelé); a **Cidade Maravilhosa** |\n| **Sinestesia** | mistura de **sensações** | voz **aveludada** (audição + tato) |\n| **Personificação (prosopopeia)** | atribui ação/qualidade humana a ser inanimado/irracional | O vento **sussurrava** segredos. |\n| **Eufemismo** | **suaviza** ideia desagradável | Ele **partiu desta para melhor** (morreu). |\n| **Hipérbole** | **exagero** | Já te falei **mil vezes**. |\n| **Ironia** | diz o **contrário** do que pensa | Que **bela** organização! (diante da bagunça) |\n| **Antítese** | **oposição** de ideias | Havia riso e choro, luz e sombra. |\n| **Paradoxo/oxímoro** | ideias **contraditórias** na mesma expressão | Silêncio **ensurdecedor**; **doce** amargura. |\n| **Gradação (clímax/anticlímax)** | sequência progressiva | Chorou, gritou, esperneou. |\n\n## Figuras de SINTAXE (construção)\n| Figura | O que é | Exemplo |\n|---|---|---|\n| **Elipse** | omissão de termo recuperável | Na sala, só silêncio. (havia) |\n| **Zeugma** | omissão de termo já citado | Ele pediu vinho; ela, água. |\n| **Pleonasmo** | repetição enfática | **Subir para cima** (vicioso) x \"**Vi** com os meus **olhos**\" (literário) |\n| **Polissíndeto** | repetição de **conectivo** | E ri, **e** chora, **e** canta. |\n| **Assíndeto** | **ausência** de conectivo | Cheguei, vi, venci. |\n| **Anáfora** | repetição da palavra no **início** de frases/versos | **Sem** teto, **sem** pão, **sem** voz. |\n| **Hipérbato (inversão)** | alteração da **ordem** direta | **Verdes** são os campos. |\n| **Anacoluto** | **quebra** da construção sintática | **Eu**, parece-me que ele não virá. |\n| **Silepse** (concordância ideológica): de gênero, número, pessoa | **Vossa Excelência** está **atento** / **A gente** fomos / **Os brasileiros** somos... |\n\n## Figuras de SOM\n- **Aliteração**: repetição de **consoantes** (\"O rato roeu a roupa do rei de Roma\").\n- **Assonância**: repetição de **vogais**.\n- **Onomatopeia**: imita som (tique-taque, zum-zum).\n- **Paronomásia**: palavras de **som semelhante**, com sentido diferente (conserto/concerto).\n\n## Passo a passo\n1. **Troque** a expressão pelo sentido literal; se mudar, é figurada.\n2. Pergunte o **efeito**: ofender (ironia)? exagerar (hipérbole)? humanizar (personificação)? suavizar (eufemismo)? opor (antítese)?\n3. Para a **metáfora x comparação**: conectivo presente → comparação.\n4. Para **metonímia**: há uma **relação real** (autor/obra) → metonímia; se há **semelhança**, é metáfora.\n\n## Pegadinhas\n- **Metáfora** (semelhança) x **metonímia** (proximidade).\n- **Ironia** x **antítese** (ironia diz o contrário **do que pensa**).\n- **Hipérbole** x **eufemismo**: exagero para mais x suavização.\n- **Pleonasmo vicioso** (subir para cima) é erro de estilo, **não** figura.",
+   "dicas": [
+    "Comparação tem \"como\"; metáfora não tem.",
+    "Metonímia = relação real (Machado = obra); metáfora = semelhança (raposa = esperto).",
+    "Eufemismo suaviza; hipérbole exagera; ironia diz o contrário.",
+    "Prosopopeia/personificação: coisa age como gente.",
+    "Antítese opõe duas ideias; paradoxo mistura em uma só expressão.",
+    "Aliteração = consoantes; assonância = vogais."
+   ],
+   "pegadinhas": [
+    "Confundir metáfora com comparação (existência do conectivo).",
+    "Confundir metonímia (proximidade) com metáfora (semelhança).",
+    "Tratar pleonasmo vicioso (\"entrar para dentro\") como figura de linguagem aceitável.",
+    "Confundir antítese (oposição entre termos) com paradoxo (contradição aparente na mesma ideia).",
+    "Chamar de hipérbole toda frase intensa; vale quando há exagero deliberado.",
+    "Confundir ironia com sarcasmo ou crítica direta: a ironia afirma o contrário do que se pensa."
+   ],
+   "flashcards": [
+    {
+     "q": "Metáfora?",
+     "a": "Comparação implícita, sem conectivo (ele é uma raposa)."
+    },
+    {
+     "q": "Comparação?",
+     "a": "Comparação explícita com conectivo (rápido como um raio)."
+    },
+    {
+     "q": "Metonímia?",
+     "a": "Troca por proximidade (autor pela obra, parte pelo todo)."
+    },
+    {
+     "q": "Catacrese?",
+     "a": "Metáfora desgastada sem sinônimo (pé da mesa)."
+    },
+    {
+     "q": "Eufemismo?",
+     "a": "Suavização de ideia desagradável (partiu desta para melhor)."
+    },
+    {
+     "q": "Hipérbole?",
+     "a": "Exagero (já te falei mil vezes)."
+    },
+    {
+     "q": "Ironia?",
+     "a": "Dizer o contrário do que se pensa, com intenção crítica."
+    },
+    {
+     "q": "Antítese?",
+     "a": "Oposição de ideias (riso e choro)."
+    },
+    {
+     "q": "Paradoxo/oxímoro?",
+     "a": "Contradição aparente (silêncio ensurdecedor)."
+    },
+    {
+     "q": "Sinestesia?",
+     "a": "Mistura de sensações (voz aveludada)."
+    },
+    {
+     "q": "Personificação?",
+     "a": "Atribuir ação/qualidade humana a ser não humano."
+    },
+    {
+     "q": "Aliteração?",
+     "a": "Repetição de sons consonantais."
+    }
+   ]
+  },
+  {
+   "id": "portugues-funcoes-linguagem",
+   "titulo": "10. Funções da linguagem (Jakobson)",
+   "prioridade": 2,
+   "horas": 3,
+   "resumo_md": "## Elementos da comunicação\n**Emissor** (quem fala) → **Mensagem** → **Receptor**; **Código** (língua), **Canal** (meio), **Referente/contexto** (assunto).\nCada função **destaca um desses elementos**.\n\n## As 6 funções\n| Função | Elemento em foco | Característica | Exemplo |\n|---|---|---|---|\n| **Referencial (denotativa)** | **Referente** (assunto) | **3ª pessoa**, objetiva, informa | \"O Brasil tem 26 estados e um Distrito Federal.\" |\n| **Emotiva (expressiva)** | **Emissor** | **1ª pessoa**, subjetiva, emoções, interjeições, exclamações | \"Que saudade eu sinto de casa!\" |\n| **Conativa (apelativa)** | **Receptor** | **2ª pessoa**, **imperativo**, vocativo; **persuadir** (publicidade, discurso) | \"Compre já! Aproveite!\" |\n| **Fática** | **Canal** | Testar/manter o **contato** | \"Alô? Está me ouvindo?\" / \"Entendeu?\" / \"Tá?\" / \"Oi, tudo bem?\" |\n| **Metalinguística** | **Código** | **Língua explicando língua** | Dicionário, gramática, poema sobre poesia |\n| **Poética** | **Mensagem (forma)** | Cuidado com a **forma**: ritmo, rima, figuras, sons | \"Tanta tinta, tanto texto, tantas vezes\" |\n\n## Passo a passo\n1. Pergunte \"**o que o texto destaca?**\" (o assunto, o emissor, o receptor, o canal, o código, ou a própria forma?).\n2. **Pistas rápidas**: informar = referencial; \"eu\" + emoção = emotiva; imperativo/\"você\" = conativa; \"alô/ok?\" = fática; explicar a língua = metalinguística; linguagem trabalhada/beleza = poética.\n3. Um texto pode ter **várias funções**; marque a **predominante**.\n\n## Exemplos clássicos\n- **Publicidade**: conativa (apelo) com toque poético.\n- **Notícia/relatório científico**: referencial.\n- **Poema que fala do fazer poético**: metalinguística + poética.\n- **Verbete de dicionário**: metalinguística.\n- **Diário íntimo/ carta de amor**: emotiva.\n\n## Pegadinhas\n- **Fática**: não é \"informar\", é **checar o canal** (\"Alô?\", \"Está me ouvindo?\").\n- **Metalinguística** não é \"falar sobre qualquer coisa\"; é **língua falando de língua/código**.\n- **Conativa x emotiva**: imperativo para o interlocutor = conativa; sentimento do emissor = emotiva.\n- Uso de **figuras** não torna o texto automaticamente poético (depende do **foco na forma**).",
+   "dicas": [
+    "Referencial = referente = informa (3ª pessoa).",
+    "Emotiva = emissor = 1ª pessoa.",
+    "Conativa = receptor = imperativo/vocativo.",
+    "Fática = canal = alô, entendeu, né?",
+    "Metalinguística = código falando de código.",
+    "Poética = mensagem trabalhada na forma."
+   ],
+   "pegadinhas": [
+    "Achar que a função fática é \"dar informação\" (ela só testa o canal).",
+    "Chamar de metalinguístico qualquer texto sobre arte; é preciso o código explicando o código.",
+    "Confundir emotiva (emissor) com poética (forma da mensagem).",
+    "Esquecer que publicidade é predominantemente conativa.",
+    "Marcar a presença de adjetivos como emotiva sem observar o foco."
+   ],
+   "flashcards": [
+    {
+     "q": "Função centrada no receptor?",
+     "a": "Conativa (apelativa)."
+    },
+    {
+     "q": "Função centrada no emissor?",
+     "a": "Emotiva (expressiva)."
+    },
+    {
+     "q": "Função centrada no referente?",
+     "a": "Referencial (denotativa)."
+    },
+    {
+     "q": "Função centrada no canal?",
+     "a": "Fática."
+    },
+    {
+     "q": "Função centrada no código?",
+     "a": "Metalinguística."
+    },
+    {
+     "q": "Função centrada na mensagem?",
+     "a": "Poética."
+    },
+    {
+     "q": "Função típica da publicidade?",
+     "a": "Conativa."
+    },
+    {
+     "q": "Verbete de dicionário?",
+     "a": "Metalinguística."
+    },
+    {
+     "q": "Alô, está me ouvindo?",
+     "a": "Fática."
+    }
+   ]
+  },
+  {
+   "id": "portugues-sinonimos-paronimos",
+   "titulo": "11. Sinônimos, antônimos, parônimos e homônimos (pares mais cobrados)",
+   "prioridade": 2,
+   "horas": 5,
+   "resumo_md": "## Conceitos\n- **Sinônimos**: significados **semelhantes** (belo/bonito). Quase nunca são idênticos; dependem do **contexto**.\n- **Antônimos**: significados **opostos** (prolixo/conciso).\n- **Homônimos**: **mesma grafia e/ou som**, sentido diferente. **Homógrafos** (mesma escrita: \"gosto\" verbo/ substantivo), **homófonos** (mesmo som: cela/sela, cessão/sessão/seção), **perfeitos** (iguais em tudo: \"são\" = santo/saudável/verbo ser).\n- **Parônimos**: palavras **parecidas** na escrita/pronúncia, **sentido diferente** (cumprimento/comprimento). **Pegadinha do concurso**.\n\n## Parônimos e homônimos mais cobrados\n| Par | Significados |\n|---|---|\n| **acento / assento** | sinal gráfico, ênfase / lugar de sentar |\n| **cumprimento / comprimento** | saudação, ato de cumprir / extensão |\n| **descrição / discrição** | ato de descrever / qualidade de discreto |\n| **despensa / dispensa** | local de mantimentos / ato de dispensar |\n| **eminente / iminente** | elevado, ilustre / prestes a ocorrer |\n| **emergir / imergir** | vir à tona / mergulhar |\n| **infligir / infringir** | aplicar (pena) / violar (lei) |\n| **ratificar / retificar** | confirmar / corrigir |\n| **mandado / mandato** | ordem judicial / período de exercício de cargo |\n| **flagrante / fragrante** | evidente / perfumado |\n| **deferir / diferir** | conceder / adiar, diferenciar-se |\n| **tráfego / tráfico** | movimento de veículos / comércio ilegal |\n| **soar / suar** | produzir som / transpirar |\n| **vultoso / vultuoso** | de grande volume (quantia) / inchado (rosto) |\n| **absolver / absorver** | inocentar / sugar |\n| **aprender / apreender** | adquirir conhecimento / capturar, compreender |\n| **arriar / arrear** | baixar / pôr arreios |\n| **cavaleiro / cavalheiro** | que cavalga / homem gentil |\n| **cheque / xeque** | ordem de pagamento / lance do xadrez |\n| **concerto / conserto** | espetáculo musical / reparo |\n| **coser / cozer** | costurar / cozinhar |\n| **espiar / expiar** | olhar / pagar pena |\n| **estrato / extrato** | camada / resumo, trecho |\n| **ótico / óptico** | do ouvido / da visão |\n| **incipiente / insipiente** | iniciante / ignorante |\n| **sessão / seção / cessão** | reunião, período / divisão, repartição / ato de ceder |\n| **sede / cede** | substantivo (de beber; local) / verbo ceder |\n| **tacha / taxa** | prego pequeno, defeito / tributo, percentual |\n| **vão / vã** | espaço vazio / inútil (fem.) |\n| **pleito / preito** | disputa/eleição / homenagem |\n\n## Passo a passo\n1. **Contexto**: leia a frase e descubra a ideia (\"violar a lei\" → infringir).\n2. **Troque** pela definição do par; se encaixa, é a palavra certa.\n3. Em **sinônimos** (substituição), verifique **registro** e **regência** (a troca não pode mudar o sentido).\n4. Em **antônimos**, procure o **oposto exato** (não apenas \"diferente\").\n\n## Macetes\n- **Infringir** = infração (violar a regra); **infligir** = aplicar castigo.\n- **Ratificar = confirmar; retificar = corrigir** (retificar tem \"reto\", deixar reto/certo).\n- **Mandado** = ordem (judicial); **mandato** = tempo no cargo.\n- **Eminente** = notável; **iminente** = imediato.\n- **Sessão** = reunião; **seção/secção** = divisão; **cessão** = ato de ceder.",
+   "dicas": [
+    "Infringir (violar) x infligir (aplicar pena).",
+    "Ratificar (confirmar) x retificar (corrigir).",
+    "Mandado (ordem judicial) x mandato (tempo no cargo).",
+    "Eminente (ilustre) x iminente (prestes a acontecer).",
+    "Sessão (reunião) x seção (divisão) x cessão (ceder).",
+    "Em antônimos, procure oposição exata."
+   ],
+   "pegadinhas": [
+    "Trocar infringir por infligir (e vice-versa).",
+    "Usar \"retificar\" quando o sentido é confirmar (ratificar).",
+    "Confundir mandado com mandato.",
+    "Considerar sinônimos \"perfeitos\" palavras que mudam o sentido no contexto.",
+    "Marcar como antônimos pares apenas diferentes (e não opostos).",
+    "Usar \"eminente\" para algo que está prestes a acontecer."
+   ],
+   "flashcards": [
+    {
+     "q": "Infringir x infligir?",
+     "a": "Infringir = violar; infligir = aplicar (pena)."
+    },
+    {
+     "q": "Ratificar x retificar?",
+     "a": "Ratificar = confirmar; retificar = corrigir."
+    },
+    {
+     "q": "Mandado x mandato?",
+     "a": "Mandado = ordem judicial; mandato = período de exercício do cargo."
+    },
+    {
+     "q": "Eminente x iminente?",
+     "a": "Eminente = ilustre; iminente = prestes a ocorrer."
+    },
+    {
+     "q": "Cumprimento x comprimento?",
+     "a": "Cumprimento = saudação/ato de cumprir; comprimento = extensão."
+    },
+    {
+     "q": "Despensa x dispensa?",
+     "a": "Despensa = local de mantimentos; dispensa = ato de dispensar."
+    },
+    {
+     "q": "Sessão x seção x cessão?",
+     "a": "Reunião; divisão; ato de ceder."
+    },
+    {
+     "q": "Tráfego x tráfico?",
+     "a": "Movimento de veículos; comércio ilegal."
+    },
+    {
+     "q": "Concerto x conserto?",
+     "a": "Espetáculo musical; reparo."
+    },
+    {
+     "q": "Absolver x absorver?",
+     "a": "Inocentar; sugar/assimilar."
+    },
+    {
+     "q": "Aprender x apreender?",
+     "a": "Adquirir conhecimento; capturar."
+    },
+    {
+     "q": "O que são homônimos?",
+     "a": "Palavras com mesma grafia e/ou som e sentidos diferentes."
+    }
+   ]
+  },
+  {
+   "id": "portugues-acentuacao",
+   "titulo": "12. Acentuação gráfica (regras e Novo Acordo Ortográfico)",
+   "prioridade": 1,
+   "horas": 6,
+   "resumo_md": "## Base: sílaba tônica\n- **Oxítona**: última sílaba tônica (ca-**fé**).\n- **Paroxítona**: penúltima (**fá**-cil).\n- **Proparoxítona**: antepenúltima (**lâm**-pa-da).\n- **Monossílabos tônicos/átonos**.\n\n## Regras gerais\n### 1) Oxítonas\nAcentuam-se as terminadas em **a(s), e(s), o(s), em, ens**: café, jacaré, cipó, sofá, **também, parabéns**, armazém.\n(Não acentua: aqui, urubu, papel, atriz, ritual.)\n\n### 2) Paroxítonas\n**Acentuam-se** as terminadas em: **L, N, R, X, PS; I, IS, US, UM, UNS; Ã, ÃS, ÃO, ÃOS; ditongo oral** (ia, ie, io, ua, ue, uo; ei, ou...).\n> Macete: **\"L N R X PS, I/IS, US, UM/UNS, Ã/ÃO, DITONGO\"**.\nExemplos: **fácil, hífen, mártir, tórax, bíceps, táxi, lápis, vírus, álbum, órfão, ímã, jóquei, história, série, mágoa**.\n(Não acentua: casa, sapato, **jovem, homem, item, origem** — paroxítonas terminadas em **em/ens** não levam acento; **hifens, jovens**.)\n\n### 3) Proparoxítonas\n**Todas** são acentuadas: **lâmpada, único, público, ânimo, médico, estômago**.\n\n### 4) Monossílabos tônicos\nAcentuam-se os terminados em **a(s), e(s), o(s)**: **já, pá, fé, pé, só, nós, mês, três, dê, lê, pôs**.\n(Não acentuam átonos: mas, com, em, se, de, que.)\n\n### 5) Hiatos (i/u tônicos)\n**I e U tônicos**, formando hiato com a vogal anterior e **sozinhos na sílaba (ou seguidos de S)**: **saída, saúde, país, baú, balaústre, juízo, egoísta**.\n- **Não acentua** se vier **seguido de consoante diferente de S** na mesma sílaba: ju-**iz**, ra-**iz**, ru-**im**, ca-**ir**, para-**ib**a.\n- **Não acentua** se vier **antes de NH**: ra-**i**nha, ven-to-**i**nha.\n- **Não acentua** quando vem depois de ditongo (paroxítona): fe-**iu**ra, bai-**uca**.\n\n### 6) Ditongos abertos éi, éu, ói\nAcentuam-se em **oxítonas e monossílabos tônicos**: papéis, chapéu, herói, céu, dói, troféu.\n**Em paroxítonas**, após o Novo Acordo, **perdem o acento**: **ideia, assembleia, plateia, joia, heroico, jiboia, paranoia, estreia**.\n\n## Novo Acordo Ortográfico (o que mudou)\n| Mudou | Exemplos |\n|---|---|\n| **Trema** acabou (exceto nomes próprios e derivados) | linguiça, frequente; Müller |\n| **Hiato \"oo\" e \"ee\"**: sem acento | **voo, enjoo, perdoo; leem, veem, creem, deem** |\n| **Ditongos abertos éi/ói em paroxítonas**: sem acento | ideia, joia, heroico |\n| **Acento diferencial**: removido em **pára, pêlo, pólo, pêra, péla** | para, pelo, polo |\n| **Permanecem** os diferenciais | **pôr** (verbo) x por (prep.); **pôde** (pretérito) x pode (presente); **têm/vêm** (pl.) x tem/vem (sing.); **mantêm/detêm** (pl.) x mantém/detém (sing.); **fôrma/forma** (facultativo) |\n| **Hífen** | mudou bastante: ver tópico de Ortografia |\n\n## Passo a passo\n1. **Separe as sílabas** e descubra a **tônica**.\n2. **Classifique** (oxítona/paroxítona/proparoxítona/monossílabo).\n3. **Aplique a regra** específica (terminação).\n4. **Cuidado** com hiato (**i/u tônicos**), ditongos abertos, os \"ee/oo\" e o acento diferencial.",
+   "dicas": [
+    "Proparoxítona: sempre acento. Pense em \"lâmpada, público, único\".",
+    "Paroxítonas: macete L-N-R-X-PS, I/IS, US, UM/UNS, Ã/ÃO, ditongo.",
+    "Oxítonas: A(S), E(S), O(S), EM/ENS.",
+    "Leem, veem, creem, deem, voo, enjoo: sem acento (Novo Acordo). Vêm/têm no plural continuam com circunflexo.",
+    "Ideia, joia, assembleia, heroico, plateia, jiboia: sem acento.",
+    "Hiato com i/u tônicos: sa-ú-de, pa-ís, ba-ú. Mas ju-iz, ra-iz, ru-im: sem acento (consoante diferente de S)."
+   ],
+   "pegadinhas": [
+    "Acentuar \"gratuito\", \"circuito\", \"fluido\", \"intuito\": paroxítonas com ditongo \"ui\", sem acento.",
+    "Acentuar \"ideia\", \"joia\", \"heroico\" (perdeu o acento no Novo Acordo).",
+    "Escrever \"vêem\", \"lêem\", \"crêem\" (agora: veem, leem, creem).",
+    "Esquecer o acento de \"têm/vêm\" no plural.",
+    "Acentuar \"juiz\", \"raiz\", \"ruim\": o i é seguido de consoante.",
+    "Acentuar \"para\" (verbo) e \"pelo\" (substantivo): sem acento diferencial."
+   ],
+   "flashcards": [
+    {
+     "q": "Todas as proparoxítonas são...?",
+     "a": "Acentuadas."
+    },
+    {
+     "q": "Oxítonas acentuam-se quando terminadas em?",
+     "a": "A(s), e(s), o(s), em, ens."
+    },
+    {
+     "q": "Paroxítonas acentuam-se quando terminadas em?",
+     "a": "L, N, R, X, PS, I(S), US, UM(UNS), Ã(S), ÃO(S) e ditongos."
+    },
+    {
+     "q": "Monossílabos tônicos acentuados?",
+     "a": "Terminados em a, e, o (s): já, pé, só, mês."
+    },
+    {
+     "q": "Hiato i/u tônicos: regra?",
+     "a": "Acentua-se quando sozinhos na sílaba ou seguidos de s (saída, país)."
+    },
+    {
+     "q": "Ideia, joia, heroico: acento?",
+     "a": "Sem acento (Novo Acordo, paroxítonas com ditongo aberto)."
+    },
+    {
+     "q": "Papéis, chapéu, herói?",
+     "a": "Com acento (oxítonas com ditongo aberto)."
+    },
+    {
+     "q": "Plural de ele tem/vem?",
+     "a": "Eles têm/vêm."
+    },
+    {
+     "q": "Voo, enjoo: acento?",
+     "a": "Sem acento (Novo Acordo)."
+    },
+    {
+     "q": "Leem, veem, creem?",
+     "a": "Sem acento."
+    },
+    {
+     "q": "Acentos diferenciais que permanecem?",
+     "a": "Pôr/por, pôde/pode, têm/tem, vêm/vem (e fôrma/forma facultativo)."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "portugues-pronomes-q01",
+   "topico": "portugues-pronomes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o emprego do pronome está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Para mim terminar o relatório, preciso de silêncio.\"",
+    "B": "\"Entre eu e você não há segredos.\"",
+    "C": "\"Vi ele na reunião ontem.\"",
+    "D": "\"Para eu terminar o relatório, preciso de silêncio.\""
+   },
+   "gabarito": "D",
+   "explicacao": "\"Eu\" é sujeito de \"terminar\", logo \"para eu terminar\". Após \"entre\" usa-se oblíquo tônico (entre mim e você), e \"vi ele\" não é norma (vi-o)."
+  },
+  {
+   "id": "portugues-pronomes-q02",
+   "topico": "portugues-pronomes",
+   "dificuldade": 2,
+   "enunciado": "Ao dirigir-se, em ofício, a um Prefeito, o tratamento adequado e o verbo são",
+   "alternativas": {
+    "A": "Vossa Senhoria, com verbo na 2ª pessoa do plural.",
+    "B": "Vossa Magnificência, com verbo na 3ª pessoa.",
+    "C": "Vossa Excelência, com verbo na 3ª pessoa.",
+    "D": "Vossa Excelência, com verbo na 2ª pessoa do plural."
+   },
+   "gabarito": "C",
+   "explicacao": "Prefeitos recebem \"Vossa Excelência\"; as formas de tratamento exigem verbo na 3ª pessoa."
+  },
+  {
+   "id": "portugues-pronomes-q03",
+   "topico": "portugues-pronomes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto às formas de tratamento.",
+   "alternativas": {
+    "A": "\"Vossa Excelência está ciente do prazo.\"",
+    "B": "\"Sua Excelência, o Prefeito, anunciou as obras.\"",
+    "C": "\"Vossa Senhoria compareceu à reunião?\"",
+    "D": "\"Vossa Excelência cumpristes o prazo estabelecido.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Formas de tratamento levam verbo na 3ª pessoa (\"cumpriu\"); \"cumpristes\" é 2ª pessoa do plural."
+  },
+  {
+   "id": "portugues-pronomes-q04",
+   "topico": "portugues-pronomes",
+   "dificuldade": 3,
+   "enunciado": "Leia: \"O candidato estudou Física e Química; aquela lhe agradava, esta o cansava.\" Os pronomes \"aquela\" e \"esta\" referem-se, respectivamente, a",
+   "alternativas": {
+    "A": "Física e Química.",
+    "B": "Química e Física.",
+    "C": "Física e Física.",
+    "D": "Química e Química."
+   },
+   "gabarito": "A",
+   "explicacao": "\"Aquele\" retoma o termo mais distante (Física); \"este\", o mais próximo (Química)."
+  },
+  {
+   "id": "portugues-pronomes-q05",
+   "topico": "portugues-pronomes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o termo \"mesmo\" está empregado de forma INADEQUADA, segundo a norma culta.",
+   "alternativas": {
+    "A": "\"Ele mesmo redigiu o relatório.\"",
+    "B": "\"O Secretário enviou o relatório e o mesmo foi aprovado.\"",
+    "C": "\"Elas mesmas resolveram a questão.\"",
+    "D": "\"Chegamos à mesma conclusão.\""
+   },
+   "gabarito": "B",
+   "explicacao": "O uso de \"o mesmo\" como substituto de substantivo é condenado; nos demais casos há reforço ou adjetivo (concordam)."
+  },
+  {
+   "id": "portugues-pronomes-q06",
+   "topico": "portugues-pronomes",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o pronome oblíquo foi empregado de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Convidei-lhe para a reunião.\"",
+    "B": "\"Convidei ele para a reunião.\"",
+    "C": "\"Convidei-o para a reunião.\"",
+    "D": "\"Convidei a ele para a reunião.\""
+   },
+   "gabarito": "C",
+   "explicacao": "Convidar é VTD: usa-se \"o\". \"Lhe\" é complemento indireto; \"ele\" não se emprega como objeto direto na norma culta."
+  },
+  {
+   "id": "portugues-colocacao-pronominal-q01",
+   "topico": "portugues-colocacao-pronominal",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Me entregaram o relatório ontem.\"",
+    "B": "\"Nunca vi-o tão cansado.\"",
+    "C": "\"Entregaram-me o relatório ontem.\"",
+    "D": "\"Quem disse-lhe isso?\""
+   },
+   "gabarito": "C",
+   "explicacao": "Não se inicia frase com pronome átono. \"Nunca\" atrai o pronome (Nunca o vi), assim como o interrogativo \"quem\" (Quem lhe disse isso?)."
+  },
+  {
+   "id": "portugues-colocacao-pronominal-q02",
+   "topico": "portugues-colocacao-pronominal",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto à colocação pronominal.",
+   "alternativas": {
+    "A": "\"Dê-me o livro.\"",
+    "B": "\"Talvez diga-nos a verdade.\"",
+    "C": "\"Não se esqueça do prazo.\"",
+    "D": "\"Espero que o chefe me atenda.\""
+   },
+   "gabarito": "B",
+   "explicacao": "O advérbio \"talvez\" atrai a próclise: \"Talvez nos diga\". As demais estão corretas: imperativo afirmativo (ênclise), negação e \"que\" (próclise)."
+  },
+  {
+   "id": "portugues-colocacao-pronominal-q03",
+   "topico": "portugues-colocacao-pronominal",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que apresenta mesóclise de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Entregarei-lhe o documento amanhã.\"",
+    "B": "\"Entregar-ei-lhe o documento amanhã.\"",
+    "C": "\"Não entregar-lhe-ei o documento amanhã.\"",
+    "D": "\"Entregar-lhe-ei o documento amanhã.\""
+   },
+   "gabarito": "D",
+   "explicacao": "A mesóclise ocorre no futuro quando o verbo inicia a oração, com o pronome entre radical e desinência. Com a negação, usa-se a próclise (\"Não lhe entregarei\")."
+  },
+  {
+   "id": "portugues-colocacao-pronominal-q04",
+   "topico": "portugues-colocacao-pronominal",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA quanto à colocação pronominal em locuções verbais.",
+   "alternativas": {
+    "A": "\"Ele tinha dito-me a verdade.\"",
+    "B": "\"Vou entregá-lo amanhã.\"",
+    "C": "\"Não o vou entregar hoje.\"",
+    "D": "\"Estou dizendo-lhe a verdade.\""
+   },
+   "gabarito": "A",
+   "explicacao": "Com particípio, o pronome nunca é enclítico ao particípio: \"tinha-me dito\" ou \"me tinha dito\" (esta última, só quando há atrativo). As demais estão adequadas."
+  },
+  {
+   "id": "portugues-colocacao-pronominal-q05",
+   "topico": "portugues-colocacao-pronominal",
+   "dificuldade": 2,
+   "enunciado": "Ao substituir o termo destacado por pronome em \"Preciso fazer o relatório hoje\", obtém-se, de acordo com a norma culta:",
+   "alternativas": {
+    "A": "\"Preciso fazer-lo hoje.\"",
+    "B": "\"Preciso fazê-lo hoje.\"",
+    "C": "\"Preciso fazê-no hoje.\"",
+    "D": "\"Preciso fazer-o hoje.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Infinitivo (terminado em r) + o: o \"r\" cai e o pronome assume a forma \"lo\": fazê-lo."
+  },
+  {
+   "id": "portugues-colocacao-pronominal-q06",
+   "topico": "portugues-colocacao-pronominal",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que a colocação do pronome está de acordo com a norma-padrão.",
+   "alternativas": {
+    "A": "\"Em se tratando de prazos, o fiscal foi rigoroso.\"",
+    "B": "\"Em tratando-se de prazos, o fiscal foi rigoroso.\"",
+    "C": "\"Em se tratar de prazos, o fiscal foi rigoroso.\"",
+    "D": "\"Em trata-se de prazos, o fiscal foi rigoroso.\""
+   },
+   "gabarito": "A",
+   "explicacao": "A preposição \"em\" antes do gerúndio atrai o pronome (próclise): \"em se tratando\"."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q01",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 1,
+   "enunciado": "\"Aquele político é uma raposa.\" A figura de linguagem presente é",
+   "alternativas": {
+    "A": "comparação.",
+    "B": "metonímia.",
+    "C": "metáfora.",
+    "D": "eufemismo."
+   },
+   "gabarito": "C",
+   "explicacao": "Relação de semelhança implícita (sem conectivo): metáfora."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q02",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 2,
+   "enunciado": "Em \"Li Machado de Assis durante as férias\", ocorre",
+   "alternativas": {
+    "A": "metáfora.",
+    "B": "ironia.",
+    "C": "catacrese.",
+    "D": "metonímia (autor pela obra)."
+   },
+   "gabarito": "D",
+   "explicacao": "O nome do autor substitui a obra: relação de proximidade (metonímia)."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q03",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 1,
+   "enunciado": "\"O vento sussurrava segredos pelas janelas.\" A figura é",
+   "alternativas": {
+    "A": "hipérbole.",
+    "B": "antítese.",
+    "C": "personificação (prosopopeia).",
+    "D": "pleonasmo."
+   },
+   "gabarito": "C",
+   "explicacao": "Atribui-se ação humana (sussurrar segredos) a um elemento da natureza."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q04",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que a figura de linguagem NÃO corresponde ao exemplo.",
+   "alternativas": {
+    "A": "\"Ele é rápido como um raio.\" (metáfora)",
+    "B": "\"Que bela organização!\", dito diante de uma sala bagunçada. (ironia)",
+    "C": "\"Já te falei mil vezes.\" (hipérbole)",
+    "D": "\"Havia riso e choro, luz e sombra.\" (antítese)"
+   },
+   "gabarito": "A",
+   "explicacao": "Com o conectivo \"como\", trata-se de comparação, não de metáfora."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q05",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 2,
+   "enunciado": "\"Ele partiu desta para melhor.\" Com essa expressão, o emissor emprega",
+   "alternativas": {
+    "A": "hipérbole, para exagerar a ideia de morte.",
+    "B": "eufemismo, para suavizar a ideia de morte.",
+    "C": "ironia, para criticar o morto.",
+    "D": "gradação, para intensificar progressivamente."
+   },
+   "gabarito": "B",
+   "explicacao": "O eufemismo atenua ideia desagradável."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q06",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 2,
+   "enunciado": "Em \"O pé da mesa quebrou\", a expressão \"pé da mesa\" é exemplo de",
+   "alternativas": {
+    "A": "personificação.",
+    "B": "antonomásia.",
+    "C": "sinestesia.",
+    "D": "catacrese."
+   },
+   "gabarito": "D",
+   "explicacao": "Catacrese: metáfora já desgastada, sem outro nome (pé da mesa, braço da cadeira)."
+  },
+  {
+   "id": "portugues-figuras-linguagem-q07",
+   "topico": "portugues-figuras-linguagem",
+   "dificuldade": 3,
+   "enunciado": "\"Aquela voz aveludada acalmou a plateia.\" A expressão \"voz aveludada\" constitui",
+   "alternativas": {
+    "A": "antítese, pois opõe duas ideias.",
+    "B": "metonímia, pois troca o todo pela parte.",
+    "C": "sinestesia, pois mistura sensações auditivas e táteis.",
+    "D": "pleonasmo, pois repete a ideia."
+   },
+   "gabarito": "C",
+   "explicacao": "Sinestesia: mistura de sensações (audição + tato)."
+  },
+  {
+   "id": "portugues-funcoes-linguagem-q01",
+   "topico": "portugues-funcoes-linguagem",
+   "dificuldade": 1,
+   "enunciado": "\"Alô? Está me ouvindo?\" Nesse enunciado, predomina a função",
+   "alternativas": {
+    "A": "fática.",
+    "B": "referencial.",
+    "C": "poética.",
+    "D": "metalinguística."
+   },
+   "gabarito": "A",
+   "explicacao": "Testa o canal de comunicação: função fática."
+  },
+  {
+   "id": "portugues-funcoes-linguagem-q02",
+   "topico": "portugues-funcoes-linguagem",
+   "dificuldade": 2,
+   "enunciado": "\"Compre já! Aproveite a promoção e leve o segundo por metade do preço.\" Predomina a função",
+   "alternativas": {
+    "A": "emotiva.",
+    "B": "conativa.",
+    "C": "referencial.",
+    "D": "metalinguística."
+   },
+   "gabarito": "B",
+   "explicacao": "Imperativos dirigidos ao receptor com intenção persuasiva: função conativa (apelativa)."
+  },
+  {
+   "id": "portugues-funcoes-linguagem-q03",
+   "topico": "portugues-funcoes-linguagem",
+   "dificuldade": 2,
+   "enunciado": "\"Casa: s.f. Construção destinada à moradia.\" O trecho exemplifica a função",
+   "alternativas": {
+    "A": "referencial, pois informa sobre um tema.",
+    "B": "emotiva, pois expressa sentimento.",
+    "C": "fática, pois testa o canal.",
+    "D": "metalinguística, pois a língua explica a própria língua."
+   },
+   "gabarito": "D",
+   "explicacao": "Verbete de dicionário é código explicando código: metalinguagem."
+  },
+  {
+   "id": "portugues-funcoes-linguagem-q04",
+   "topico": "portugues-funcoes-linguagem",
+   "dificuldade": 2,
+   "enunciado": "\"O Brasil tem 26 estados e um Distrito Federal.\" Predomina a função",
+   "alternativas": {
+    "A": "referencial.",
+    "B": "conativa.",
+    "C": "emotiva.",
+    "D": "poética."
+   },
+   "gabarito": "A",
+   "explicacao": "Informa sobre o referente, em 3ª pessoa e linguagem objetiva."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q01",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que os parônimos estão empregados de forma CORRETA.",
+   "alternativas": {
+    "A": "\"O servidor infligiu o regulamento e sofreu a pena que lhe foi infringida.\"",
+    "B": "\"O servidor infringiu o regulamento e sofreu a pena que lhe foi infligida.\"",
+    "C": "\"O servidor infringiu o regulamento e sofreu a pena que lhe foi infringida.\"",
+    "D": "\"O servidor infligiu o regulamento e sofreu a pena que lhe foi infligida.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Infringir = violar (regulamento); infligir = aplicar (pena)."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q02",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 2,
+   "enunciado": "Preencha as lacunas: \"O prefeito, figura ___ da região, alertou que o desabamento era ___.\"",
+   "alternativas": {
+    "A": "iminente / eminente",
+    "B": "eminente / eminente",
+    "C": "iminente / iminente",
+    "D": "eminente / iminente"
+   },
+   "gabarito": "D",
+   "explicacao": "Eminente = ilustre; iminente = prestes a ocorrer."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q03",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 2,
+   "enunciado": "Preencha: \"A banca ___ o gabarito e, em seguida, ___ a decisão anterior sobre o recurso.\"",
+   "alternativas": {
+    "A": "ratificou / retificou",
+    "B": "retificou / retificou",
+    "C": "retificou / ratificou",
+    "D": "ratificou / ratificou"
+   },
+   "gabarito": "C",
+   "explicacao": "Retificar = corrigir (gabarito); ratificar = confirmar (decisão anterior)."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q04",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 2,
+   "enunciado": "Preencha: \"O juiz expediu o ___ de busca e apreensão, e o prefeito cumpre ___ de quatro anos.\"",
+   "alternativas": {
+    "A": "mandato / mandado",
+    "B": "mandado / mandado",
+    "C": "mandado / mandato",
+    "D": "mandato / mandato"
+   },
+   "gabarito": "C",
+   "explicacao": "Mandado = ordem judicial; mandato = período de exercício do cargo."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q05",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que as palavras formam um par de ANTÔNIMOS.",
+   "alternativas": {
+    "A": "pródigo / dispendioso",
+    "B": "prolixo / conciso",
+    "C": "mendaz / mentiroso",
+    "D": "inócuo / inofensivo"
+   },
+   "gabarito": "B",
+   "explicacao": "Prolixo (longo demais) é o oposto de conciso. Os demais pares são aproximados (sinônimos)."
+  },
+  {
+   "id": "portugues-sinonimos-paronimos-q06",
+   "topico": "portugues-sinonimos-paronimos",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que \"sessão\", \"seção\" e \"cessão\" estão corretamente empregadas.",
+   "alternativas": {
+    "A": "\"A seção da Câmara foi encerrada após a sessão do terreno, e a votação ocorreu na cessão eleitoral.\"",
+    "B": "\"A cessão da Câmara foi encerrada após a seção do terreno, e a votação ocorreu na sessão eleitoral.\"",
+    "C": "\"A sessão da Câmara foi encerrada após a seção do terreno, e a votação ocorreu na cessão eleitoral.\"",
+    "D": "\"A sessão da Câmara foi encerrada após a cessão do terreno, e a votação ocorreu na seção eleitoral.\""
+   },
+   "gabarito": "D",
+   "explicacao": "Sessão = reunião; cessão = ato de ceder; seção = divisão/local (seção eleitoral)."
+  },
+  {
+   "id": "portugues-acentuacao-q01",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa em que TODAS as palavras estão grafadas de acordo com o Novo Acordo Ortográfico.",
+   "alternativas": {
+    "A": "ideia, joia, heroico, voo",
+    "B": "idéia, joia, heroico, voo",
+    "C": "ideia, jóia, heroico, voo",
+    "D": "ideia, joia, heróico, vôo"
+   },
+   "gabarito": "A",
+   "explicacao": "Após o Acordo: ideia, joia e heroico (paroxítonas com ditongo aberto) e voo (hiato oo) não têm acento."
+  },
+  {
+   "id": "portugues-acentuacao-q02",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que há palavra acentuada INCORRETAMENTE.",
+   "alternativas": {
+    "A": "juízo",
+    "B": "saúde",
+    "C": "gratuíto",
+    "D": "baú"
+   },
+   "gabarito": "C",
+   "explicacao": "\"Gratuito\" é paroxítona com ditongo \"ui\" (gra-TUI-to), sem acento. Nas demais, \"i/u\" tônicos formam hiato e são acentuados."
+  },
+  {
+   "id": "portugues-acentuacao-q03",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 2,
+   "enunciado": "A palavra \"série\" é acentuada pela mesma regra que a palavra",
+   "alternativas": {
+    "A": "\"saúde\" (hiato com u tônico).",
+    "B": "\"público\" (proparoxítona).",
+    "C": "\"café\" (oxítona terminada em e).",
+    "D": "\"cárie\" (paroxítona terminada em ditongo)."
+   },
+   "gabarito": "D",
+   "explicacao": "Série e cárie são paroxítonas terminadas em ditongo (ie). As demais seguem regras diferentes."
+  },
+  {
+   "id": "portugues-acentuacao-q04",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a palavra que DEVE receber acento gráfico.",
+   "alternativas": {
+    "A": "saude",
+    "B": "juiz",
+    "C": "ruim",
+    "D": "cair"
+   },
+   "gabarito": "A",
+   "explicacao": "Sa-ú-de: u tônico em hiato, sozinho na sílaba. Em juiz, ruim e cair, o i é seguido de consoante (z, m, r)."
+  },
+  {
+   "id": "portugues-acentuacao-q05",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa em que o emprego de \"têm/tem\", \"vêm/vem\", \"pôde/pode\" e \"pôr/por\" está correto.",
+   "alternativas": {
+    "A": "\"Ontem ele não pode comparecer, mas hoje pode por os documentos na mesa.\"",
+    "B": "\"Ontem ele não pôde comparecer, mas hoje pode pôr os documentos na mesa.\"",
+    "C": "\"Ontem ele não pôde comparecer, mas hoje pôde pôr os documentos na mesa.\"",
+    "D": "\"Ontem ele não pode comparecer, mas hoje pôde pôr os documentos na mesa.\""
+   },
+   "gabarito": "B",
+   "explicacao": "\"Pôde\" (pretérito) e \"pode\" (presente); \"pôr\" (verbo) leva acento diferencial."
+  },
+  {
+   "id": "portugues-acentuacao-q06",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que está de acordo com o Novo Acordo Ortográfico.",
+   "alternativas": {
+    "A": "\"Os fiscais vêem o problema e crêem na solução.\"",
+    "B": "\"Os fiscais veem o problema e creem na solução.\"",
+    "C": "\"Os fiscais veem o problema e crêem na solução.\"",
+    "D": "\"Os fiscais vêem o problema e creem na solução.\""
+   },
+   "gabarito": "B",
+   "explicacao": "Terceira pessoa do plural de ver e crer: veem, creem (sem acento)."
+  },
+  {
+   "id": "portugues-acentuacao-q07",
+   "topico": "portugues-acentuacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa em que TODAS as palavras são monossílabos tônicos acentuados.",
+   "alternativas": {
+    "A": "pá, fé, mas, mês",
+    "B": "pá, sol, nós, mês",
+    "C": "pá, fé, nós, com",
+    "D": "pá, fé, nós, mês"
+   },
+   "gabarito": "D",
+   "explicacao": "Monossílabos tônicos terminados em a(s), e(s), o(s) são acentuados. \"Mas\", \"sol\" e \"com\" não se enquadram."
+  }
+ ]
+}

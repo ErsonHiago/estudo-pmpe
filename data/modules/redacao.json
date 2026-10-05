@@ -1,0 +1,764 @@
+{
+ "id": "redacao",
+ "titulo": "Redação (dissertação em 15 a 20 linhas)",
+ "disciplina": "redacao",
+ "descricao": "Redação dissertativo-argumentativa de 15 a 20 linhas, 40 pontos (mínimo 12), com 4 critérios de 10 pontos; foco em adaptar o texto ao formato curto, em repertório de segurança pública e em 25 modelos completos.",
+ "topicos": [
+  {
+   "id": "redacao-edital",
+   "titulo": "12. Da Redação – regras do edital (o que pode zerar)",
+   "prioridade": 1,
+   "horas": 1.5,
+   "resumo_md": "## O que o edital diz (item 12, resumido)\n\nA redação é feita **junto com a prova objetiva** (28/02/2027), para todos os cargos, mas **só é corrigida** para quem (1) atingiu a pontuação mínima da objetiva e (2) está classificado dentro do limite da Tabela 12.1. Para **Soldado (cód. 201), ampla concorrência, o limite é a 4866ª posição** na objetiva (cotas têm limites próprios). Empatados com o último colocado também são corrigidos. Quem ficar fora do limite está **eliminado**, mesmo aprovado na objetiva. Conclusão prática: **a objetiva decide se a redação existe**; mas a redação, quando corrigida, pode eliminar.\n\n## Números que você precisa saber\n\n| Item | Regra |\n|---|---|\n| Tipologia | **Dissertação** (dissertativo-argumentativa), a partir de tema baseado em um ou mais textos |\n| Pontuação (Soldado) | **40 pontos** (4 critérios x 10) |\n| Mínimo para não ser eliminado | **12 pontos** (30%) |\n| Extensão | **mínimo 15 e máximo 20 linhas** |\n| Caneta | **esferográfica azul ou preta** |\n| Documento válido | **Folha da Versão Definitiva** (rascunho não vale) |\n\n## Os 4 critérios (10 pontos cada)\n\n1. **Atendimento e desenvolvimento do tema / informatividade e argumentação**.\n2. **Coesão** intra e entre parágrafos (referencial e sequencial, diversificada e recorrente) **/ coerência** (progressão, articulação, não contradição).\n3. **Estrutura textual** (organização do texto dissertativo-argumentativo e dos parágrafos).\n4. **Modalidade gramatical**: pontuação, grafia (inclusive legibilidade), concordância, regência e colocação pronominal.\n\n## Nota ZERO e eliminação automática (item 12.8)\n\n- Fugir ao tema.\n- Não usar a tipologia exigida (dissertação).\n- Acentuada desestruturação da organização textual ou atentar contra o pudor.\n- Lápis, ou tinta de cor diferente de azul ou preta.\n- Não escrever na Folha da Versão Definitiva, entregar em branco, letra ilegível, **espaçamento excessivo entre letras, palavras, parágrafos e margens**.\n- **Qualquer identificação** (nome, número, letra, sinal, desenho, código).\n\n## Linhas: o ponto que mais muda\n\nO item 12.6 manda **desconsiderar** qualquer fragmento escrito fora do local ou **além do limite de linhas**, e o 12.8.1 diz que o desrespeito aos limites causa **perda de pontos**. Texto com menos de 15 linhas é penalizado; o que passar da linha 20 **não é lido**, e portanto sua conclusão some. Planeje o texto para fechar na linha 18-19.\n\n## Detalhes administrativos\n\nFolha amassada, danificada, não assinada ou assinada em local errado **não é corrigida** (12.9). A correção é sigilosa: a folha é digitalizada e a identificação é omitida (12.10).",
+   "dicas": [
+    "Treine SEMPRE em folha pautada com 20 linhas, caneta azul ou preta.",
+    "Meta: 12 pontos é o piso; mirar 28+ garante folga mesmo com 1 critério fraco.",
+    "Fechar a conclusão na linha 18-19 deixa margem para uma linha a mais por letra grande.",
+    "Rascunho no caderno é facultativo e não vale nada: reserve 10 min para passar a limpo."
+   ],
+   "pegadinhas": [
+    "'Escrever 25 linhas mostra mais conteúdo': FALSO. O que passa de 20 é desconsiderado e há perda de pontos.",
+    "'Pode usar lápis no rascunho e caneta no final': o rascunho não é avaliado; a versão definitiva deve ser a caneta azul ou preta.",
+    "'Colocar um título ou assinar ao final é livre': CUIDADO, qualquer identificação gera zero. Título só se a prova o permitir; na dúvida, não coloque.",
+    "'Aprovado na objetiva tem a redação corrigida': só até o limite da Tabela 12.1 (4866ª posição para ampla concorrência de Soldado).",
+    "'12 pontos é 12 por critério': não, é o total da redação (de 40)."
+   ],
+   "flashcards": [
+    {
+     "q": "Pontuação máxima da redação do Soldado?",
+     "a": "40 pontos."
+    },
+    {
+     "q": "Mínimo para não ser eliminado?",
+     "a": "12 pontos."
+    },
+    {
+     "q": "Extensão exigida?",
+     "a": "De 15 a 20 linhas."
+    },
+    {
+     "q": "Que tipologia é exigida?",
+     "a": "Dissertação (dissertativo-argumentativa)."
+    },
+    {
+     "q": "Cor da caneta?",
+     "a": "Azul ou preta, esferográfica."
+    },
+    {
+     "q": "Qual folha vale?",
+     "a": "Folha da Versão Definitiva; o rascunho não vale."
+    },
+    {
+     "q": "Quantos critérios e quanto cada um vale?",
+     "a": "4 critérios de 10 pontos."
+    },
+    {
+     "q": "O que acontece com texto além da linha 20?",
+     "a": "É desconsiderado."
+    },
+    {
+     "q": "Posso me identificar na folha?",
+     "a": "Não: qualquer identificação gera nota zero."
+    },
+    {
+     "q": "Até que posição a redação do Soldado (ampla) é corrigida?",
+     "a": "Até a 4866ª posição na objetiva."
+    }
+   ]
+  },
+  {
+   "id": "redacao-anatomia",
+   "titulo": "Anatomia da redação de 15 a 20 linhas",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## A grande mudança: de 30 linhas para 15-20\n\nSe você escreve 25-30 linhas em outros concursos, o formato AOCP exige **compactar**. Em 15-20 linhas não cabe contar história, nem dois exemplos longos por parágrafo. Cabe uma **tese clara, dois argumentos bem desenvolvidos e uma conclusão com proposta**. A banca avalia a **estrutura** (critério 3) com muito peso; por isso, a divisão em 4 parágrafos curtos é o caminho mais seguro.\n\n## Mapa de linhas (meta: 18 linhas)\n\n| Parte | Linhas | Palavras | Conteúdo |\n|---|---|---|---|\n| **Introdução** | 3-4 | 40-50 | contexto + **tese** (posição clara sobre o tema) |\n| **Desenvolvimento 1** | 5-6 | 50-60 | argumento 1 + explicação + exemplo/repertório |\n| **Desenvolvimento 2** | 5-6 | 50-60 | argumento 2 (de natureza diferente) |\n| **Conclusão** | 3-4 | 40-50 | retomada da tese + proposta/fechamento |\n\nTotal: **16 a 22 linhas na soma máxima**; ajuste para fechar entre 17 e 19. Se sua letra for grande, use 3+5+5+3 = 16; se for pequena, 4+6+6+4 = 20.\n\n## Quantas palavras por linha?\n\nNa letra manuscrita comum, entram **9 a 12 palavras por linha**. Faça o teste: escreva um parágrafo de 50 palavras e conte as linhas. Com 10 palavras por linha, **160 a 190 palavras** produzem 16 a 19 linhas, que é a faixa ideal. Um texto de 230 palavras com letra normal estoura o limite. Todos os modelos deste módulo têm de 150 a 180 palavras, medidos para caber.\n\n## Regras de parágrafo\n\n- **Abra o parágrafo com a ideia principal** (tópico frasal). A banca lê o início de cada parágrafo para ver a estrutura.\n- Use o **recuo** (cerca de 2 cm) no início de cada parágrafo; mas **sem exagerar nos espaços em branco**, porque 'espaçamento excessivo de parágrafos e margens' é causa de zero.\n- Não pule linhas entre parágrafos.\n- Cada parágrafo de desenvolvimento = **afirmação + explicação (porque) + exemplo/dado/lei + fecho**.\n\n## Fórmula curta da introdução (3-4 linhas)\n\n1. **Contexto**: uma frase com repertório (lei, filósofo, fato) ou constatação.\n2. **Problematização**: o 'mas' que leva ao problema.\n3. **Tese**: a sua opinião, anunciando os dois argumentos (ex.: 'por causa de X e de Y').\n\n## Fórmula curta da conclusão (3-4 linhas)\n\n**Agente + ação + meio + finalidade.** Ex.: 'O Estado (agente) deve ampliar o policiamento comunitário (ação), por meio de equipes fixas e reuniões periódicas (meio), a fim de fortalecer a confiança (finalidade).' Conclusão sem novos argumentos e sem 'em suma' vazio.\n\n## Tempo (prova de 5 horas com 60 questões)\n\nReserve **40 a 45 minutos** para a redação: 5 min lendo a proposta, 5 min esboço (tese + 2 argumentos + proposta), 20 min rascunho curto, 10 min passando a limpo com capricho, 5 min de revisão. O rascunho **não vale**: escreva-o com o mesmo tamanho de letra da versão final para calcular as linhas.",
+   "dicas": [
+    "Faça a conta antes: palavras ÷ 10 = linhas. 170 palavras = 17 linhas.",
+    "Escreva primeiro a CONCLUSÃO no esboço: assim a tese e a proposta ficam alinhadas.",
+    "Tópico frasal em toda abertura de parágrafo.",
+    "Treine 'cortar': tire adjetivos, repetições e exemplos redundantes."
+   ],
+   "pegadinhas": [
+    "Deixar 1 parágrafo só: a banca avalia estrutura; texto de um bloco só perde o critério 3.",
+    "Introdução de 6 linhas: devora o espaço do desenvolvimento.",
+    "Conclusão com argumento novo: mostra descontrole de planejamento.",
+    "Fazer 14 linhas: abaixo do mínimo, perde pontos.",
+    "Pular linha entre parágrafos para 'organizar': conta como linha usada e pode ser lido como espaçamento excessivo."
+   ],
+   "flashcards": [
+    {
+     "q": "Divisão ideal das linhas?",
+     "a": "3-4 introdução, 5-6 + 5-6 desenvolvimento, 3-4 conclusão."
+    },
+    {
+     "q": "Palavras por linha na letra manuscrita?",
+     "a": "Cerca de 9 a 12."
+    },
+    {
+     "q": "Quantas palavras para 17 linhas?",
+     "a": "Cerca de 170."
+    },
+    {
+     "q": "Quantos parágrafos de desenvolvimento?",
+     "a": "Dois, com argumentos diferentes."
+    },
+    {
+     "q": "O que compõe a introdução?",
+     "a": "Contexto, problematização e tese."
+    },
+    {
+     "q": "Fórmula da proposta de conclusão?",
+     "a": "Agente + ação + meio + finalidade."
+    },
+    {
+     "q": "Tempo para a redação na prova?",
+     "a": "40 a 45 minutos."
+    },
+    {
+     "q": "Primeira frase do parágrafo é chamada de?",
+     "a": "Tópico frasal."
+    },
+    {
+     "q": "A conclusão pode trazer argumento novo?",
+     "a": "Não."
+    },
+    {
+     "q": "Meta de linhas finais?",
+     "a": "17 a 19."
+    }
+   ]
+  },
+  {
+   "id": "redacao-textos-motivadores",
+   "titulo": "Lendo os textos-motivadores e delimitando o tema",
+   "prioridade": 1,
+   "horas": 3,
+   "resumo_md": "## Por que é o primeiro passo\n\nFugir ao tema zera a redação e elimina o candidato (12.8, a). O tema da AOCP vem de **um ou mais textos ou fragmentos**; ele costuma ser um **recorte** (um aspecto de um assunto maior), e não o assunto inteiro. Exemplo: o assunto é 'violência'; o tema é 'a violência contra a mulher no ambiente doméstico' ou 'o impacto da desinformação na segurança pública'. Escrever sobre 'violência em geral' é **tangenciar** (cobrir o assunto, mas não o recorte) e derruba o critério 1.\n\n## Método de leitura em 5 passos (5 minutos)\n\n1. **Leia a frase-comando** (a instrução final) antes dos textos: ela diz o tema e o tipo de texto.\n2. **Sublinhe as palavras-chave** do tema (ex.: 'jovens', 'tecnologia', 'prevenção', 'brasileira').\n3. **Extraia de cada texto-motivador**: tema, dado/argumento e ponto de vista. Pergunte: 'o que ele afirma e por quê?'.\n4. **Localize o problema e a possibilidade de solução**: normalmente há um conflito ('mas', 'entretanto', 'apesar').\n5. **Defina seu recorte** em uma frase: 'O problema X, em contexto Y, causado por A e B, resolvido por C'.\n\n## Tese, recorte e argumentos (esboço de 3 linhas)\n\n```\nTEMA (recorte):  ________________________________\nTESE:            A (opinião) porque (arg. 1) e (arg. 2)\nARG. 1:          ... (exemplo/repertório)\nARG. 2:          ... (natureza diferente)\nPROPOSTA:        Agente + ação + meio + finalidade\n```\n\n## Tese boa x tese ruim\n\n| Ruim | Boa |\n|---|---|\n| 'A violência é um problema.' (óbvia) | 'A violência juvenil persiste porque falta ao jovem escola e oportunidade, e porque o Estado atua depois do crime.' |\n| 'Muita gente tem opiniões sobre drogas.' (vaga) | 'O combate às drogas exige tratar o dependente como questão de saúde e o traficante como questão de segurança.' |\n| 'Sou contra a violência.' (sem argumento) | 'A violência doméstica é combatida com lei, mas depende de acolhimento e de mudança cultural.' |\n\n## Como usar os textos motivadores\n\n- **Pode** usar ideias, dados e conceitos (com suas palavras). **Não copie trechos**: cópia literal é desconsiderada na avaliação de autoria e empobrece a informatividade [VERIFICAR a instrução da prova do ano: costuma ser exatamente essa].\n- Os textos são **ponto de partida**, não o limite: o candidato deve acrescentar **repertório próprio**.\n- Se os textos apresentarem opiniões opostas, mostre que você as considerou e **posicione-se**.\n\n## Erros de interpretação mais comuns\n\n- **Fuga total**: falar de outro assunto.\n- **Tangenciamento**: falar do assunto e não do recorte.\n- **Cópia/paráfrase** dos textos como se fosse argumento.\n- **Tipologia errada**: narrar, descrever ou fazer lista de dicas/carta em vez de dissertar.\n- **Primeira pessoa excessiva** ('eu acho'): prefira linguagem impessoal; o que importa é a argumentação.",
+   "dicas": [
+    "Sublinhe as palavras-chave do comando: elas são o tema.",
+    "Cada argumento deve responder 'por que a tese é verdadeira?'.",
+    "Esboce em 3 linhas: tese, arg. 1, arg. 2 + proposta.",
+    "Se nada vier à mente, parta da fórmula: problema, causas, consequências, solução."
+   ],
+   "pegadinhas": [
+    "Escrever sobre o ASSUNTO geral em vez do RECORTE: tangenciamento.",
+    "Copiar frases dos textos motivadores como argumento próprio.",
+    "Narrar uma história de vida ou fazer lista de recomendações em vez de dissertar: pode zerar (tipologia).",
+    "Ignorar a delimitação geográfica ou temporal da frase-comando (ex.: 'no Brasil').",
+    "Concordar com tudo que o texto diz sem acrescentar análise: informatividade baixa."
+   ],
+   "flashcards": [
+    {
+     "q": "O que é o recorte temático?",
+     "a": "O aspecto específico do assunto que a proposta pede para desenvolver."
+    },
+    {
+     "q": "Fugir ao tema resulta em?",
+     "a": "Nota zero e eliminação."
+    },
+    {
+     "q": "O que é tangenciar o tema?",
+     "a": "Tratar o assunto geral sem atender ao recorte pedido."
+    },
+    {
+     "q": "O que ler antes dos textos?",
+     "a": "A frase-comando da proposta."
+    },
+    {
+     "q": "Estrutura de um esboço?",
+     "a": "Tema, tese, 2 argumentos, proposta."
+    },
+    {
+     "q": "Pode copiar trechos dos textos?",
+     "a": "Não; use as ideias com suas palavras."
+    },
+    {
+     "q": "O que deve vir além dos textos motivadores?",
+     "a": "Repertório próprio."
+    },
+    {
+     "q": "Uma tese precisa de?",
+     "a": "Opinião + causas/razões (argumentos)."
+    },
+    {
+     "q": "Texto narrativo ou lista de conselhos atende ao exigido?",
+     "a": "Não; a tipologia é dissertação."
+    },
+    {
+     "q": "Palavras-chave da proposta servem para?",
+     "a": "Delimitar o tema e verificar se não fugiu."
+    }
+   ]
+  },
+  {
+   "id": "redacao-argumentacao",
+   "titulo": "Argumentação: tipos de argumento e como desenvolvê-los",
+   "prioridade": 1,
+   "horas": 4,
+   "resumo_md": "## O que é argumentar\n\nArgumentar é **sustentar a tese com razões**. Em 15-20 linhas você tem espaço para **2 argumentos desenvolvidos**; cada um deve seguir o esquema **TEPE**: **T**ópico (afirmação) + **E**xplicação (porque) + **P**rova (exemplo, lei, dado, fato) + **E**ncerramento (liga à tese).\n\n## Tipos de argumento (use dois diferentes)\n\n| Tipo | Como funciona | Exemplo (segurança pública) |\n|---|---|---|\n| **Causa e consequência** | explica origem e efeitos | 'A evasão escolar leva ao aliciamento do jovem pelo tráfico.' |\n| **Exemplificação** | caso concreto ilustra a ideia | 'Bairros com iluminação precária registram mais assaltos noturnos.' |\n| **Autoridade** | cita lei, estudioso, instituição | 'A Lei Maria da Penha (11.340/2006) criou medidas protetivas.' |\n| **Comparação/analogia** | compara realidades | 'Países que investiram em prevenção reduziram a criminalidade [VERIFICAR antes de citar].' |\n| **Argumento histórico** | usa evolução no tempo | 'Do Código de 1940 à Constituição de 1988, ampliaram-se as garantias.' |\n| **Princípio/valor** | invoca dignidade, justiça, legalidade | 'A dignidade da pessoa humana (art. 1º, III) limita a atuação do Estado.' |\n| **Contra-argumento** | antecipa objeção e a refuta | 'Embora se diga que só repressão resolve, a reincidência mostra o contrário.' |\n\n## Dois argumentos de natureza diferente\n\nEvite dois argumentos que sejam o 'mesmo' dito de formas distintas. Boas combinações:\n- **Social + institucional** (família/escola x Estado).\n- **Causa + consequência**.\n- **Cidadão + Estado** (responsabilidade compartilhada).\n- **Legal + prático** (a lei existe x falta de aplicação).\n\n## Os 4 vícios de argumentação\n\n1. **Generalização**: 'todos os policiais...'. Troque por 'parte dos agentes', 'em muitos casos'.\n2. **Argumento vazio**: 'A violência é ruim porque é ruim.' (sem explicação).\n3. **Falsa causa**: 'A pobreza gera crime.' Corrija: 'a ausência do Estado em áreas vulneráveis amplia a exposição ao crime.'\n4. **Senso comum sem fundamento**: 'bandido bom é bandido preso': evite frases-feitas e clichês.\n\n## Informatividade (critério 1)\n\nA banca mede o quanto você **informa**: conceito explicado, lei correta, fato pertinente. Prefira **uma citação bem encaixada** a quatro mal usadas. Se não tem certeza do dado, use a forma qualitativa: 'índices alarmantes' em vez de percentual inventado. **Dado falso derruba a credibilidade.**\n\n## Estrutura de um parágrafo de 5-6 linhas (modelo)\n\n```\n[Conectivo] + tópico frasal.\nExplicação em 1-2 linhas (porque / como).\nProva (lei, exemplo ou fato) em 1-2 linhas.\nFecho: consequência para a tese (1 linha).\n```\n\nExemplo: 'Em primeiro lugar, a evasão escolar torna o jovem vulnerável ao crime. Sem perspectiva, ele vê no tráfico uma renda imediata. O artigo 227 da Constituição determina prioridade absoluta à criança e ao adolescente, mas a ausência da escola frustra essa garantia. Logo, a prevenção começa na sala de aula.'",
+   "dicas": [
+    "Esquema TEPE: Tópico, Explicação, Prova, Encerramento.",
+    "Use no máximo 1 repertório forte por parágrafo.",
+    "Evite 'sempre', 'nunca', 'todos', 'ninguém'.",
+    "Argumento 2 deve ser de outra natureza que o 1."
+   ],
+   "pegadinhas": [
+    "Citar dado numérico sem certeza: se errar, perde credibilidade (e a banca nota).",
+    "Trocar argumento por exemplo pessoal ('meu primo foi assaltado').",
+    "Dois argumentos iguais com palavras diferentes.",
+    "Citar pensador sem relação com o tema só para 'enfeitar'.",
+    "Usar a lei errada: use só as leis que domina; na dúvida, 'a legislação brasileira'."
+   ],
+   "flashcards": [
+    {
+     "q": "O que significa TEPE?",
+     "a": "Tópico, Explicação, Prova, Encerramento."
+    },
+    {
+     "q": "Cite 3 tipos de argumento.",
+     "a": "Causa e consequência, autoridade, exemplificação."
+    },
+    {
+     "q": "O que é argumento de autoridade?",
+     "a": "Sustentar a ideia com lei, instituição ou especialista."
+    },
+    {
+     "q": "O que é contra-argumento?",
+     "a": "Antecipar uma objeção e refutá-la."
+    },
+    {
+     "q": "Por que evitar generalizações?",
+     "a": "São falácias e enfraquecem a argumentação."
+    },
+    {
+     "q": "Como reagir se não souber o dado exato?",
+     "a": "Usar forma qualitativa em vez de número."
+    },
+    {
+     "q": "Quantos argumentos desenvolver em 15-20 linhas?",
+     "a": "Dois, em parágrafos separados."
+    },
+    {
+     "q": "O que é informatividade?",
+     "a": "Quantidade e qualidade de informação pertinente."
+    },
+    {
+     "q": "Exemplo de falsa causa?",
+     "a": "'Pobreza gera crime.'"
+    },
+    {
+     "q": "Dois argumentos devem ser?",
+     "a": "De natureza diferente."
+    }
+   ]
+  },
+  {
+   "id": "redacao-repertorio",
+   "titulo": "Repertório sociocultural para temas de segurança pública",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## Repertório: o que é e como usar\n\nRepertório é o **conhecimento externo** (leis, autores, fatos, conceitos) que prova sua tese. Na prova AOCP de 15-20 linhas, bastam **1 ou 2 repertórios bem usados em todo o texto**. Regra de ouro: **só cite o que você tem certeza**; se houver dúvida de número de lei, escreva apenas o nome ('a Lei Maria da Penha'). Itens marcados **[VERIFICAR]** abaixo devem ser confirmados antes de usados em prova.\n\n## Banco por tema (seguro e verificável)\n\n| Tema | Repertório utilizável |\n|---|---|\n| **Segurança pública em geral** | CF, art. 144: segurança pública é dever do Estado, direito e responsabilidade de todos; polícias militares: polícia ostensiva e preservação da ordem pública. Max Weber: Estado detém o monopólio legítimo da força. |\n| **Violência contra a mulher** | Lei 11.340/2006 (Maria da Penha); medidas protetivas de urgência; Ligue 180; feminicídio como qualificadora do homicídio (Lei 13.104/2015). Lei 14.994/2024 (pacote antifeminicídio) [VERIFICAR]. |\n| **Juventude e crianças** | CF, art. 227 (prioridade absoluta); ECA (Lei 8.069/1990); Lei 13.431/2017 (escuta especializada). |\n| **Drogas** | Lei 11.343/2006 (distingue usuário e traficante; prevê prevenção e reinserção); Raps/CAPS (rede de atenção psicossocial). |\n| **Tecnologia e crime** | Lei 12.737/2012 (delitos informáticos); Marco Civil (Lei 12.965/2014); LGPD (Lei 13.709/2018); engenharia social. |\n| **Sistema prisional** | LEP (Lei 7.210/1984); CF, art. 5º, XLIX (integridade física e moral do preso); Foucault, *Vigiar e Punir* (1975); Beccaria, *Dos Delitos e das Penas* (1764). |\n| **Direitos humanos e polícia** | DUDH (1948); CF, art. 1º, III (dignidade); princípios da ONU sobre uso da força (1990); Lei 13.060/2014 (instrumentos de menor potencial ofensivo); tortura: Lei 9.455/1997. |\n| **Saúde mental** | Lei 10.216/2001 (reforma psiquiátrica); Lei 13.819/2019 (prevenção do suicídio); Setembro Amarelo. |\n| **Trânsito** | CTB (Lei 9.503/1997); Lei Seca (Lei 11.705/2008) [VERIFICAR alterações]. |\n| **Meio ambiente** | CF, art. 225; Lei 9.605/1998 (crimes ambientais). |\n| **Desigualdade** | CF, art. 3º, III (reduzir desigualdades); art. 6º (direitos sociais, como moradia). |\n| **Fake news** | CF, art. 5º, IV, IX, X; Marco Civil. |\n| **Armas** | Estatuto do Desarmamento (Lei 10.826/2003) [VERIFICAR alterações]. |\n| **Crime organizado** | Lei 12.850/2013 (organização criminosa); Lei 9.613/1998 (lavagem de dinheiro). |\n| **Racismo** | CF, art. 5º, XLII (crime inafiançável e imprescritível); Lei 7.716/1989. |\n| **Idosos** | Estatuto da Pessoa Idosa (Lei 10.741/2003); CF, art. 230. |\n\n## Autores e ideias (úteis para introdução)\n\n- **Thomas Hobbes** (*Leviatã*, 1651): sem Estado, a vida é conflito; o Estado garante a ordem.\n- **Rousseau** (*Contrato Social*, 1762): pacto social e vontade geral.\n- **Max Weber**: monopólio legítimo da violência pelo Estado.\n- **Beccaria** (1764): penas proporcionais, legalidade, humanidade.\n- **Foucault** (1975): vigilância e punição; disciplina.\n- **Hannah Arendt**: banalidade do mal (*Eichmann em Jerusalém*, 1963); atenção à desinformação.\n- **Zygmunt Bauman**: modernidade líquida; medo e insegurança urbana.\n- **Paulo Freire**: educação como prática da liberdade.\n- **Sérgio Buarque de Holanda**: 'homem cordial' (*Raízes do Brasil*, 1936): cuidado, o termo não quer dizer 'bonzinho'.\n- **Jane Jacobs** (1961): 'olhos da rua' na segurança urbana.\n\n## Dados numéricos: política de uso\n\nEstatísticas (número de homicídios, % de reincidência etc.) mudam todo ano. **Não use números a menos que os domine**. Substitua por 'índices elevados', 'parcela significativa'. As fontes institucionais confiáveis para estudar: **Anuário Brasileiro de Segurança Pública** (Fórum Brasileiro de Segurança Pública), **Atlas da Violência** (Ipea/FBSP) e **SINESP** (Ministério da Justiça) [VERIFICAR dados atuais].\n\n## Pernambuco\n\nO programa estadual **Pacto pela Vida** (criado em 2007 [VERIFICAR]) é referência regional de gestão por metas em segurança. A SDS-PE (Secretaria de Defesa Social) é o órgão que coordena as polícias no estado [VERIFICAR nome atual da pasta].\n\n## Como encaixar em 1 linha\n\n'A Lei 11.343/2006 distingue usuário de traficante, mas ...' / 'Para Weber, o Estado detém o monopólio legítimo da força; contudo, ...'. O repertório vem seguido de **'mas/porém'**, que leva ao problema.",
+   "dicas": [
+    "Decore 8 repertórios que cobrem tudo: CF art. 144, art. 5º, art. 227, art. 1º III, Lei Maria da Penha, ECA, Weber, Hobbes.",
+    "Repertório + 'contudo' = problema; a tese vem depois.",
+    "Prefira nome da lei ao número se tiver dúvida.",
+    "Treine um repertório por tema e use-o em frases de 1 linha."
+   ],
+   "pegadinhas": [
+    "Atribuir citação a autor errado: pior do que não citar.",
+    "Confundir Beccaria (penas) com Bentham.",
+    "Usar 'homem cordial' como se fosse 'gentil'.",
+    "Citar lei revogada ou número trocado (ex.: Lei 8.069 é o ECA; 8.072 é de crimes hediondos).",
+    "Dar percentual 'de cabeça': se a banca checar, perde credibilidade."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual artigo da CF trata da segurança pública?",
+     "a": "Art. 144."
+    },
+    {
+     "q": "Qual lei trata da violência doméstica contra a mulher?",
+     "a": "Lei 11.340/2006 (Maria da Penha)."
+    },
+    {
+     "q": "Qual artigo trata da prioridade absoluta à criança?",
+     "a": "Art. 227 da CF."
+    },
+    {
+     "q": "Quem disse que o Estado detém o monopólio legítimo da força?",
+     "a": "Max Weber."
+    },
+    {
+     "q": "Autor de Vigiar e Punir?",
+     "a": "Michel Foucault (1975)."
+    },
+    {
+     "q": "Qual a Lei de Drogas?",
+     "a": "Lei 11.343/2006."
+    },
+    {
+     "q": "Qual a Lei dos crimes ambientais?",
+     "a": "Lei 9.605/1998."
+    },
+    {
+     "q": "Qual o ECA?",
+     "a": "Lei 8.069/1990."
+    },
+    {
+     "q": "Qual a LGPD?",
+     "a": "Lei 13.709/2018."
+    },
+    {
+     "q": "Qual lei criou crimes informáticos (Carolina Dieckmann)?",
+     "a": "Lei 12.737/2012."
+    },
+    {
+     "q": "Autor de Dos Delitos e das Penas?",
+     "a": "Cesare Beccaria (1764)."
+    },
+    {
+     "q": "Qual o Estatuto da Pessoa Idosa?",
+     "a": "Lei 10.741/2003."
+    }
+   ]
+  },
+  {
+   "id": "redacao-coesao",
+   "titulo": "Coesão e coerência: conectivos por função",
+   "prioridade": 1,
+   "horas": 3,
+   "resumo_md": "## Coesão x coerência\n\n**Coesão** = ligações gramaticais entre as partes (conectivos, pronomes, sinônimos, elipses). **Coerência** = sentido lógico: progressão das ideias, articulação, **não contradição**. O critério 2 do edital cobra **coesão intra e entre parágrafos (referencial e sequencial, diversificada e recorrente)** e **coerência**. 'Diversificada' significa **não repetir sempre o mesmo conectivo**; 'recorrente' significa que a ligação aparece ao longo do texto todo, também entre parágrafos.\n\n## Tipos de coesão\n\n- **Referencial**: retoma termos por pronomes ('ele', 'esse problema'), sinônimos ('o jovem' -> 'o adolescente'), hiperônimos ('o crime' -> 'esse fenômeno'), elipse.\n- **Sequencial**: organiza a progressão com conectivos (adição, oposição, causa...).\n\n## Tabela de conectivos por função\n\n| Função | Use |\n|---|---|\n| **Início/introdução** | Nos últimos anos; Atualmente; Na sociedade contemporânea; Segundo a Constituição; Desde... |\n| **Adição** | além disso; ademais; outrossim; bem como; não só... mas também; também |\n| **Oposição/concessão** | contudo; todavia; entretanto; no entanto; porém; embora; apesar de; ainda que; conquanto |\n| **Causa** | porque; visto que; uma vez que; já que; haja vista; devido a; em razão de |\n| **Consequência** | por conseguinte; de modo que; logo; assim; dessa forma; em decorrência disso |\n| **Conclusão** | portanto; logo; dessa maneira; por fim; em suma; diante do exposto |\n| **Finalidade** | a fim de; para que; com o intuito de; com vistas a |\n| **Condição/hipótese** | caso; se; desde que; a menos que; contanto que |\n| **Exemplificação** | por exemplo; a exemplo de; como; tal como; isto é; ou seja |\n| **Comparação** | assim como; tal qual; da mesma forma; do mesmo modo; ao passo que |\n| **Ordem/sequência** | em primeiro lugar; em segundo lugar; primeiramente; por outro lado; em contrapartida; por fim |\n| **Ênfase** | sobretudo; principalmente; especialmente; de fato; com efeito |\n\n## Conectivos de abertura de parágrafo (modelo 4 parágrafos)\n\n| Parágrafo | Opções |\n|---|---|\n| Intro | 'Segundo...'; 'Nos últimos anos...'; 'A Constituição afirma que...' |\n| D1 | 'Em primeiro lugar,'; 'Primeiramente,'; 'Inicialmente,' |\n| D2 | 'Além disso,'; 'Ademais,'; 'Por outro lado,'; 'Em contrapartida,' |\n| Conclusão | 'Portanto,'; 'Logo,'; 'Dessa forma,'; 'Diante do exposto,' |\n\n## Uso correto (com pontuação)\n\n- **Conectivo no início da oração** pede vírgula depois: 'Portanto, o Estado deve...'.\n- **Conectivo no meio**: entre vírgulas: 'O Estado, portanto, deve...'.\n- **Contudo/todavia/entretanto** no meio: 'O plano, todavia, falhou.'\n- **Porque** (causa) x **por que** (pergunta/explicação) x **porquê** (substantivo) x **por quê** (fim de frase).\n\n## Coerência: o que evitar\n\n- **Contradição**: afirmar que 'a polícia é essencial' e depois que 'a repressão é inútil'.\n- **Salto de ideia**: introduzir conceito sem explicar.\n- **Repetição** do mesmo argumento.\n- **Conclusão desligada** da tese.\n- **Conectivo errado**: 'Embora' com valor de adição, 'Porém' com valor de causa.\n\n## Exemplo de progressão\n\n'A criminalidade juvenil preocupa (problema). **Primeiramente**, a evasão escolar expõe o jovem ao crime (causa 1). **Além disso**, a falta de lazer reduz vínculos (causa 2). **Portanto**, escola e esporte são a solução (conclusão).'",
+   "dicas": [
+    "Nunca repita o mesmo conectivo de abertura em dois parágrafos.",
+    "Use pelo menos um conectivo de oposição (contudo, entretanto): mostra argumentação.",
+    "'Dessa forma' e 'portanto' são os mais seguros para concluir.",
+    "Retome o termo-chave com sinônimo (violência -> esse fenômeno)."
+   ],
+   "pegadinhas": [
+    "'Mas' no início de parágrafo é aceito em prosa, mas empobrece o texto: use 'contudo'.",
+    "'Porém' pode ficar no meio: 'O plano, porém, falhou.'",
+    "'Haja vista' é invariável quando seguido de 'a' + termo; evite se não dominar.",
+    "'Embora' exige subjuntivo: 'embora haja', não 'embora há'.",
+    "'Em suma' vazio: só use quando de fato resumir."
+   ],
+   "flashcards": [
+    {
+     "q": "O que é coesão?",
+     "a": "Ligações gramaticais entre as partes do texto."
+    },
+    {
+     "q": "O que é coerência?",
+     "a": "Sentido lógico: progressão e não contradição."
+    },
+    {
+     "q": "Conectivo de oposição?",
+     "a": "Contudo, todavia, entretanto, porém."
+    },
+    {
+     "q": "Conectivo de adição?",
+     "a": "Além disso, ademais, bem como."
+    },
+    {
+     "q": "Conectivo de causa?",
+     "a": "Porque, visto que, uma vez que."
+    },
+    {
+     "q": "Conectivo de conclusão?",
+     "a": "Portanto, logo, dessa forma."
+    },
+    {
+     "q": "Conectivo de finalidade?",
+     "a": "A fim de, para que, com o intuito de."
+    },
+    {
+     "q": "Conectivo de exemplificação?",
+     "a": "Por exemplo, a exemplo de, ou seja."
+    },
+    {
+     "q": "O que significa coesão 'diversificada'?",
+     "a": "Variar os recursos e conectivos."
+    },
+    {
+     "q": "Coesão referencial é?",
+     "a": "Retomar termos com pronomes, sinônimos, elipses."
+    }
+   ]
+  },
+  {
+   "id": "redacao-gramatica",
+   "titulo": "Modalidade gramatical: os 15 erros mais comuns (evite / use)",
+   "prioridade": 1,
+   "horas": 5,
+   "resumo_md": "## O critério 4 (10 pontos)\n\nA banca avalia **pontuação, grafia (inclusive legibilidade), concordância, regência e colocação pronominal**. Cada erro tira décimos; erros repetidos tiram pontos inteiros. Como você é forte em redação mas fraco em português puro, estes 15 erros cobrem a maior parte do risco. Em textos curtos, **um erro conta mais**: revise.\n\n## Os 15 erros (evite x use)\n\n| # | Erro | EVITE | USE | Regra |\n|---|---|---|---|---|\n| 1 | **Crase antes de masculino/verbo** | 'visa à proteger', 'a favor à população' | 'visa a proteger', 'a favor da população' | Crase = preposição **a** + artigo **a**. Não há crase antes de verbo, masculino, pronome pessoal ou 'esta/essa'. |\n| 2 | **Crase com locuções femininas** | 'a medida que', 'a noite' (hora) | 'à medida que', 'à noite', 'às vezes', 'à luz de' | Locuções adverbiais/prepositivas/conjuntivas femininas levam crase. |\n| 3 | **Vírgula entre sujeito e verbo** | 'A polícia, deve agir.' | 'A polícia deve agir.' | Nunca separe sujeito do verbo, nem verbo do complemento. |\n| 4 | **Vírgula antes de oração restritiva** | 'Os jovens, que não estudam, ...' (quer dizer *todos*) | 'Os jovens que não estudam ...' | Restritiva (delimita) sem vírgula; explicativa (informa extra) com vírgula. |\n| 5 | **Vírgula em adjunto/conectivo deslocado** | 'Portanto o Estado deve' | 'Portanto, o Estado deve' / 'Em 2020, houve...' | Isole conectivos e adjuntos adverbiais longos; vírgula **depois** do conectivo inicial. |\n| 6 | **Sujeito posposto** | 'Aumentou os casos.' | 'Aumentaram os casos.' | O verbo concorda com o sujeito mesmo depois dele. |\n| 7 | **Haver e fazer impessoais** | 'Haviam crimes.' / 'Fazem dois anos.' | 'Havia crimes.' / 'Faz dois anos.' | Haver (existir/tempo) e fazer (tempo) ficam no singular. |\n| 8 | **Concordância com 'um dos que' e coletivos** | 'Foi um dos jovens que praticou o crime.' | 'Foi um dos jovens que **praticaram** o crime.' / 'A maioria dos policiais **está** presente' | Em 'um dos que', o verbo vai ao plural; com 'a maioria de', singular ou plural são aceitos. |\n| 9 | **Concordância nominal** | 'É proibido a entrada', 'Ela está meia cansada' | 'É proibida a entrada' (com artigo); 'É proibido entrada' (sem artigo); 'Ela está meio cansada' | 'Meio' (advérbio = um pouco) é invariável; proibido/necessário concordam com o termo só se houver artigo. |\n| 10 | **Regência de assistir/visar/obedecer/aspirar** | 'assistir o jogo' (ver), 'obedecer as leis', 'visa o lucro', 'aspira uma vaga' | 'assistir **ao** jogo', 'obedecer **às** leis', 'visa **ao** lucro' (ter por objetivo), 'aspirar **a** uma vaga' | Verbos com preposição obrigatória no registro formal. |\n| 11 | **Regência de implicar, preferir, chegar** | 'implicar em' (= acarretar), 'prefiro mais que', 'chegar em' | 'implica custos', 'prefiro X **a** Y', 'chegar **a**/**ao**' | 'Implicar' (acarretar) é transitivo direto. |\n| 12 | **Locuções erradas** | 'a nível de', 'ao invés de' (= em vez de), 'haja visto', 'através de' (= por meio de) | 'em nível de/no âmbito de', 'em vez de', 'haja vista', 'por meio de' | 'Ao invés de' = ao contrário de; 'em vez de' = no lugar de. |\n| 13 | **Porque / por que / porquê / por quê** | 'Por que a polícia age assim? Porque...' (confundir) | 'Por que' (pergunta) / 'porque' (resposta, causa) / 'o porquê' / 'não sei por quê?' | Por que (interrogativo); porque (causal); porquê (substantivo); por quê (final de frase). |\n| 14 | **Colocação pronominal** | 'Me parece', 'Nunca se esquecer', 'Não ela disse' | 'Parece-me' (início de frase: ênclise); 'Nunca se esqueça' (próclise com 'nunca'); 'Não se deve' | **Próclise** com palavra negativa, advérbio, pronome relativo ('que'), conjunção subordinativa. Não comece frase com oblíquo átono. |\n| 15 | **Mal/mau, há/a, onde/em que** | 'um mal policial', 'dois anos à atrás', 'a situação onde ocorreu' | 'um **mau** policial', 'o **mau** funcionamento', 'há dois anos' / 'daqui a dois anos', 'a situação **em que** ocorreu' | **Mau** (adjetivo, oposto de bom); **mal** (advérbio, oposto de bem). **Há** = passado; **a** = futuro ou distância. **Onde** só para lugar físico. |\n\n## Pontuação rápida (para 90% dos casos)\n\n- **Vírgula**: separa enumeração; isola vocativo, aposto, adjunto deslocado, conectivos; **não** separa sujeito/verbo/complemento.\n- **Ponto e vírgula**: use pouco; separa orações longas já com vírgula.\n- **Dois-pontos**: antes de explicação/enumeração/citação. Não use após 'como', 'tais como', 'ou seja' se já tem estrutura corrida.\n- **Parênteses e travessão**: evite em texto curto; atrapalham a legibilidade.\n\n## Grafia\n\nAtenção: **para onde (X)**; **a fim de** (≠ afim); **a princípio** (inicialmente) x **em princípio** (em tese); **acerca de / a cerca de / há cerca de**; **sobretudo** (junto); **por ora** (por enquanto); **mas** (oposição) x **mais** (quantidade); **cessão/sessão/seção**; **concerto/conserto**; **ao encontro de / de encontro a**.\n\n## Legibilidade\n\nLetra **legível, tamanho regular, sem rasuras**. Se errar, risque **uma vez** com um traço e siga. 'Espaçamento excessivo entre letras, palavras, parágrafos e margens' zera. Respeite as margens da folha.",
+   "dicas": [
+    "Crase: troque por masculino; se aparecer 'ao', há crase.",
+    "Regra do sujeito: encontre-o perguntando 'quem pratica a ação?'.",
+    "Na dúvida em vírgula, reescreva a frase em ordem direta (S-V-C).",
+    "Evite construções complexas que você não domina; frases simples e corretas valem mais."
+   ],
+   "pegadinhas": [
+    "'A fim de' (finalidade) não é 'afim' (semelhante).",
+    "'Haja vista' é fixo; 'haja visto' não existe.",
+    "'Ao invés de' não é sinônimo de 'em vez de'.",
+    "'Onde' só para lugar: 'o contexto em que' (não 'onde').",
+    "Crase NUNCA antes de verbo ('começou a chover') nem de 'esta/essa'."
+   ],
+   "flashcards": [
+    {
+     "q": "Crase = ?",
+     "a": "Preposição a + artigo a (ou a + aquele/a qual etc.)."
+    },
+    {
+     "q": "Há crase antes de verbo?",
+     "a": "Nunca."
+    },
+    {
+     "q": "Vírgula separa sujeito e verbo?",
+     "a": "Nunca."
+    },
+    {
+     "q": "Haver no sentido de existir flexiona?",
+     "a": "Não: 'Havia crimes'."
+    },
+    {
+     "q": "'Fazem dois anos' está certo?",
+     "a": "Não: 'Faz dois anos'."
+    },
+    {
+     "q": "Regência de obedecer?",
+     "a": "Obedecer A alguém/algo."
+    },
+    {
+     "q": "Regência de assistir (ver)?",
+     "a": "Assistir A."
+    },
+    {
+     "q": "'Implicar' no sentido de acarretar?",
+     "a": "Transitivo direto: 'implica custos'."
+    },
+    {
+     "q": "Ao invés de x em vez de?",
+     "a": "Ao invés = ao contrário; em vez = no lugar de."
+    },
+    {
+     "q": "Quando usar 'onde'?",
+     "a": "Apenas para lugar físico."
+    },
+    {
+     "q": "'Parece-me' ou 'Me parece' no início de frase?",
+     "a": "Parece-me (não se inicia frase com átono)."
+    },
+    {
+     "q": "Próclise é obrigatória com?",
+     "a": "Palavras negativas, advérbios, pronomes relativos, conjunções subordinativas."
+    }
+   ]
+  },
+  {
+   "id": "redacao-checklist",
+   "titulo": "Checklist: zero, revisão em 5 minutos e plano de prova",
+   "prioridade": 1,
+   "horas": 1.5,
+   "resumo_md": "## Checklist ANTI-ZERO (30 segundos, antes de entregar)\n\n- [ ] **Tema**: respondi ao recorte da frase-comando? (não fugi, não tangenciei)\n- [ ] **Tipologia**: é uma **dissertação** (tese + argumentos + conclusão), não narrativa, carta ou lista?\n- [ ] **Organização**: tem **parágrafos**, começo-meio-fim?\n- [ ] **Pudor**: nada ofensivo, obsceno ou desrespeitoso a grupos ou pessoas?\n- [ ] **Caneta**: azul ou preta (esferográfica)? sem lápis, sem outra cor?\n- [ ] **Folha**: está na **Folha da Versão Definitiva**?\n- [ ] **Letra**: legível, espaçamento normal entre letras, palavras, parágrafos e margens?\n- [ ] **Identificação**: **nenhum** nome, número, letra solta, sinal, desenho ou código?\n- [ ] **Linhas**: **15 a 20**, com a conclusão terminando dentro do limite?\n\n## Revisão em 5 minutos (nesta ordem)\n\n| Min | O que fazer |\n|---|---|\n| 0-1 | **Linhas e margens**: conte; confirme que a conclusão cabe nas 20 linhas |\n| 1-2 | **Tese x conclusão**: a conclusão retoma a tese? a proposta tem agente-ação-meio-finalidade? |\n| 2-3 | **Conectivos**: abertura de cada parágrafo diferente? sem 'mas' repetido? |\n| 3-4 | **Gramática crítica**: crase, vírgula entre sujeito e verbo, concordância (sujeito posposto, haver/fazer), regência (assistir, obedecer, visar), 'por que/porque' |\n| 4-5 | **Legibilidade**: palavras ilegíveis, rasuras, letras confusas (a/o, n/u, r/v) |\n\n## Como rasurar\n\nUm **traço simples** sobre a palavra errada e escreva a correta ao lado. Evite borrões, corretivo e riscos múltiplos (comprometem a legibilidade). Se errar muito, vale mais **passar a limpo** do que remendar.\n\n## Plano de prova (redação)\n\n1. Leia a proposta **antes de começar as questões?** Muitos aprovados recomendam: **objetiva primeiro** e redação nos últimos **45-50 minutos**; mas **a folha de redação exige tempo para passar a limpo**, então comece a redação com pelo menos 50 minutos de sobra.\n2. Faça esboço (2 min), rascunho (20 min), passe a limpo (12 min), revise (5 min).\n3. Passe a limpo com **letra um pouco menor e firme**, de forma a ficar dentro de 20 linhas.\n4. **Nunca deixe a folha de redação em branco**: texto incompleto pontua; branco zera.\n\n## Treino semanal sugerido\n\n| Dia | Atividade | Tempo |\n|---|---|---|\n| 1 | Esboçar 2 temas (tese + 2 argumentos + proposta) | 20 min |\n| 2 | Escrever 1 redação cronometrada de 17-19 linhas | 40 min |\n| 3 | Autoavaliar com a rubrica 0-40 e corrigir gramática | 30 min |\n| 4 | Reescrever introdução e conclusão de 3 temas | 30 min |\n| 5 | Estudar 2 repertórios + flashcards | 20 min |\n\nMeta de médio prazo: **consistência acima de 28/40**; o mínimo exigido é 12, mas o desempate e a classificação final somam a redação à objetiva.",
+   "dicas": [
+    "Pratique o passar a limpo: a letra de prova muda sob pressão.",
+    "Leve duas canetas azuis ou pretas.",
+    "Coloque a hora de término do rascunho no relógio da prova.",
+    "Sem tempo? Faça tese + 2 argumentos curtos + conclusão: estrutura vale mais que volume."
+   ],
+   "pegadinhas": [
+    "Escrever o rascunho no caderno e esquecer de passar a limpo: nada é avaliado.",
+    "Assinar ou rubricar no pé do texto: identificação gera zero.",
+    "Usar caneta com tinta de outra cor 'só para destacar': zero.",
+    "Deixar 12 linhas porque 'o tempo acabou': perda de pontos; melhor fechar o argumento em menos espaço.",
+    "Escrever em letra de forma muito espaçada para 'ficar bonita': espaçamento excessivo pode gerar zero."
+   ],
+   "flashcards": [
+    {
+     "q": "Quais condições do zero ligadas à forma?",
+     "a": "Lápis ou outra cor, folha errada, ilegível, espaçamento excessivo, identificação."
+    },
+    {
+     "q": "Quantas linhas?",
+     "a": "15 a 20."
+    },
+    {
+     "q": "Quanto tempo para revisar?",
+     "a": "Cerca de 5 minutos."
+    },
+    {
+     "q": "O que checar primeiro?",
+     "a": "Linhas e margens."
+    },
+    {
+     "q": "Como corrigir erro de escrita?",
+     "a": "Um traço simples e a forma correta ao lado."
+    },
+    {
+     "q": "Posso deixar a folha em branco?",
+     "a": "Nunca: o branco zera."
+    },
+    {
+     "q": "Posso assinar o texto?",
+     "a": "Não: identificação zera."
+    },
+    {
+     "q": "Como é a ordem do tempo de redação?",
+     "a": "Esboço, rascunho, limpo, revisão."
+    },
+    {
+     "q": "A proposta de intervenção precisa de quê?",
+     "a": "Agente, ação, meio e finalidade."
+    },
+    {
+     "q": "Onde revisar crase?",
+     "a": "Na etapa de gramática crítica."
+    }
+   ]
+  },
+  {
+   "id": "redacao-rubrica",
+   "titulo": "Rubrica de autoavaliação 0-40 (4 critérios, níveis 0-2-4-6-8-10)",
+   "prioridade": 1,
+   "horas": 2,
+   "resumo_md": "## Como usar\n\nDepois de cada redação treino, dê uma nota de **0 a 10 por critério** conforme a tabela, some (máx. **40**) e compare com **12 (mínimo)**. A rubrica abaixo é uma **aproximação didática** dos critérios do edital (item 12.4); a AOCP não publica descritores oficiais por nível [VERIFICAR o padrão de correção divulgado no ano].\n\n## Critério 1: Tema, informatividade e argumentação\n\n| Nota | Descritor |\n|---|---|\n| 0 | Fuga ao tema ou texto não argumentativo (zera tudo). |\n| 2 | Tangencia o tema; sem tese; ideias soltas. |\n| 4 | Tema parcialmente atendido; tese vaga; argumentos genéricos ou clichês. |\n| 6 | Tema atendido; tese identificável; argumentos corretos, pouco aprofundados; repertório fraco ou ausente. |\n| 8 | Tema bem recortado; tese clara; dois argumentos coerentes, com repertório pertinente. |\n| 10 | Recorte preciso; tese original; argumentos aprofundados com repertório legitimado, informativo e bem usado; contra-argumentação. |\n\n## Critério 2: Coesão e coerência\n\n| Nota | Descritor |\n|---|---|\n| 0 | Texto sem encadeamento. |\n| 2 | Frases soltas; conectivos ausentes ou errados; contradições. |\n| 4 | Conectivos repetitivos ou mal usados; saltos de ideia. |\n| 6 | Encadeamento razoável; poucos conectivos variados; progressão com falhas. |\n| 8 | Boa articulação entre parágrafos; conectivos variados; sem contradições. |\n| 10 | Coesão referencial e sequencial diversificada e recorrente; progressão fluida; nenhuma contradição. |\n\n## Critério 3: Estrutura textual\n\n| Nota | Descritor |\n|---|---|\n| 0 | Desestruturado (zera tudo). |\n| 2 | Bloco único ou sem tese nem conclusão. |\n| 4 | Estrutura incompleta (falta conclusão ou intro); parágrafos desproporcionais. |\n| 6 | Introdução, desenvolvimento e conclusão presentes, com falhas de proporção ou de tese. |\n| 8 | Estrutura completa; tópicos frasais; proporção adequada às 15-20 linhas; conclusão retoma a tese. |\n| 10 | Estrutura impecável: introdução com tese, dois parágrafos de argumento com TEPE, conclusão com proposta completa (agente, ação, meio, finalidade) em 17-19 linhas. |\n\n## Critério 4: Modalidade gramatical\n\n| Nota | Descritor |\n|---|---|\n| 0 | Ilegível ou desvios generalizados. |\n| 2 | Muitos erros que dificultam a leitura (6+ de vários tipos). |\n| 4 | Vários erros de pontuação, concordância e regência (4-5). |\n| 6 | Alguns erros (3-4), sem prejudicar o sentido. |\n| 8 | Poucos desvios (1-2) e letra legível. |\n| 10 | Praticamente sem desvios; pontuação, crase e regência corretas; legibilidade excelente. |\n\n## Planilha de autoavaliação (copie)\n\n```\nData: ___  Tema: _________  Linhas: ___  Palavras: ___\nC1 (tema/argumentos):  __/10\nC2 (coesão/coerência): __/10\nC3 (estrutura):        __/10\nC4 (gramática):        __/10\nTOTAL: __/40   (mínimo 12)\nErros recorrentes: _____________________\nMeta para a próxima: ___________________\n```\n\n## Metas por fase\n\n| Fase | Meta |\n|---|---|\n| Agora (outubro-novembro) | 24+ em modelos de 17-19 linhas |\n| Meio da preparação (dezembro-janeiro) | 28+ de forma consistente |\n| Reta final (fevereiro) | 30+, com gramática 8+ |\n\nAtenção: cada erro de gramática costuma custar décimos, mas **estrutura incompleta, fuga ao tema e problemas de forma custam muito mais** (ou zeram). Priorize na ordem: **forma/anti-zero, tema, estrutura, argumentos, coesão, gramática fina**.",
+   "dicas": [
+    "Peça a um colega ou use um prazo de 24h para reler: o autor não vê os próprios erros.",
+    "Registre os erros recorrentes numa lista; ela vale mais que o total.",
+    "Foque no menor critério da planilha em cada semana.",
+    "Compare seu texto com um modelo deste módulo e veja a divisão de linhas."
+   ],
+   "pegadinhas": [
+    "Autoavaliar-se com generosidade: use o descritor, não a impressão.",
+    "Achar que 12/40 é a meta: é o piso eliminatório.",
+    "Ignorar a gramática porque 'sou forte em redação': em 15 linhas, cada erro pesa.",
+    "Copiar o modelo palavra por palavra: serve só para estudar estrutura."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual a nota máxima da redação?",
+     "a": "40 (4 critérios x 10)."
+    },
+    {
+     "q": "E a mínima para não ser eliminado?",
+     "a": "12."
+    },
+    {
+     "q": "Os níveis da rubrica didática?",
+     "a": "0-2-4-6-8-10."
+    },
+    {
+     "q": "O que é 10 em estrutura?",
+     "a": "Introdução com tese, 2 argumentos e conclusão com proposta completa."
+    },
+    {
+     "q": "O que é 10 em gramática?",
+     "a": "Praticamente sem desvios e legibilidade excelente."
+    },
+    {
+     "q": "O que pesa mais: um erro de crase ou fuga ao tema?",
+     "a": "Fuga ao tema (zera)."
+    },
+    {
+     "q": "Meta de nota na reta final?",
+     "a": "30+."
+    },
+    {
+     "q": "Para que serve a planilha?",
+     "a": "Registrar notas e erros recorrentes."
+    },
+    {
+     "q": "Quem faz a correção oficial?",
+     "a": "A banca AOCP, com identificação omitida."
+    },
+    {
+     "q": "O critério 2 mede?",
+     "a": "Coesão e coerência."
+    }
+   ]
+  },
+  {
+   "id": "redacao-flashcards",
+   "titulo": "Banco de aberturas, conectivos e conclusões (40 flashcards)",
+   "prioridade": 2,
+   "horas": 2,
+   "resumo_md": "## Como usar este banco\n\nEstes flashcards reúnem **fórmulas prontas** para as três partes mais previsíveis da redação curta: **abertura**, **conectivos** e **conclusão**. A ideia não é decorar frases para colar, mas **ter modelos mentais**, de modo que, na prova, você gaste a energia em ideias e argumentos, não em como começar a frase.\n\n## Esqueleto verbal de uma redação de 4 parágrafos\n\n| Parágrafo | Fórmula |\n|---|---|\n| Introdução | [Repertório/constatação] + 'contudo/entretanto' + [problema] + [tese com 2 causas] |\n| D1 | 'Em primeiro lugar,' + [argumento 1] + [explicação] + [exemplo/lei] + [fecho] |\n| D2 | 'Além disso/Por outro lado,' + [argumento 2] + [explicação] + [exemplo] + [fecho] |\n| Conclusão | 'Portanto,' + [agente] + [ação] + [meio] + [finalidade] + 'Dessa forma, ...' |\n\n## Frases-modelo úteis (adapte ao tema)\n\n- 'A Constituição Federal estabelece que a segurança pública é dever do Estado, direito e responsabilidade de todos.'\n- 'Esse cenário revela que a legislação, isoladamente, não basta.'\n- 'Tal quadro decorre, sobretudo, de dois fatores: ... e ...'\n- 'Sem ..., o cidadão fica vulnerável e a instituição perde credibilidade.'\n- 'Cabe, portanto, ao poder público ... , por meio de ... , a fim de ...'\n\n## Reserve 5 'peças-coringa'\n\nEscolha agentes, ações e finalidades que se encaixam em qualquer tema:\n- **Agentes**: Estado; Ministério/Secretaria de Defesa Social; escolas; mídia; famílias; corporações policiais.\n- **Ações**: ampliar, fortalecer, capacitar, fiscalizar, promover campanhas, integrar bancos de dados.\n- **Meios**: formação continuada, parcerias, tecnologia, campanhas educativas, canais de denúncia.\n- **Finalidades**: reduzir os índices, proteger o cidadão, fortalecer a confiança, garantir a dignidade, consolidar a cidadania.\n\nCombine para criar propostas válidas sem decorar textos inteiros.",
+   "dicas": [
+    "Revise os flashcards em voz alta: abertura, conectivo e conclusão.",
+    "Monte 3 'esqueletos' (um por tipo de tema) e treine preenchê-los.",
+    "Use cada conectivo 1 vez por texto.",
+    "Troque 'o governo tem que' por 'cabe ao poder público'."
+   ],
+   "pegadinhas": [
+    "Decorar texto inteiro: a banca vê frases genéricas e a tese não responde ao tema.",
+    "Usar conectivo de adição onde há oposição (ex.: 'além disso' para contrapor).",
+    "Repetir o mesmo conectivo em todos os parágrafos.",
+    "Fechar com 'em suma' sem resumir nada.",
+    "Proposta sem agente definido ('deve-se fazer')."
+   ],
+   "flashcards": [
+    {
+     "q": "Abertura: contexto + repertório legal",
+     "a": "'A Constituição Federal estabelece, em seu artigo X, que ... . Contudo, ...'"
+    },
+    {
+     "q": "Abertura com filósofo",
+     "a": "'Segundo Hobbes/Weber, ... . No Brasil, entretanto, ...'"
+    },
+    {
+     "q": "Abertura com constatação",
+     "a": "'Nos últimos anos, ... tem se intensificado no país, o que ...'"
+    },
+    {
+     "q": "Abertura com contraste",
+     "a": "'Embora a legislação preveja ..., a realidade mostra ...'"
+    },
+    {
+     "q": "Abertura com conceito",
+     "a": "'Entende-se por ... o conjunto de ... . Todavia, ...'"
+    },
+    {
+     "q": "Abertura com dado qualitativo",
+     "a": "'Cresce a preocupação social com ..., fenômeno que ...'"
+    },
+    {
+     "q": "Abertura com problematização",
+     "a": "'Garantir ... é desafio que esbarra em ... e em ...'"
+    },
+    {
+     "q": "Como anunciar a tese na introdução",
+     "a": "'... , o que se deve a (causa 1) e a (causa 2).'"
+    },
+    {
+     "q": "Abertura do desenvolvimento 1",
+     "a": "'Em primeiro lugar,' / 'Primeiramente,' / 'Inicialmente,'"
+    },
+    {
+     "q": "Abertura do desenvolvimento 2",
+     "a": "'Além disso,' / 'Ademais,' / 'Por outro lado,' / 'Em contrapartida,'"
+    },
+    {
+     "q": "Conectivo de oposição forte",
+     "a": "contudo, todavia, entretanto, no entanto."
+    },
+    {
+     "q": "Conectivo de concessão",
+     "a": "embora, ainda que, apesar de, mesmo que (+ subjuntivo)."
+    },
+    {
+     "q": "Conectivo de causa formal",
+     "a": "uma vez que, visto que, haja vista, em razão de."
+    },
+    {
+     "q": "Conectivo de consequência",
+     "a": "por conseguinte, de modo que, em decorrência disso."
+    },
+    {
+     "q": "Conectivo de finalidade",
+     "a": "a fim de, com o intuito de, com vistas a, para que."
+    },
+    {
+     "q": "Conectivo de adição",
+     "a": "além disso, ademais, bem como, outrossim."
+    },
+    {
+     "q": "Conectivo de exemplificação",
+     "a": "a exemplo de, por exemplo, tal como, isto é."
+    },
+    {
+     "q": "Conectivo de ênfase",
+     "a": "sobretudo, especialmente, de fato, com efeito."
+    },
+    {
+     "q": "Conectivo de comparação",
+     "a": "assim como, da mesma forma, ao passo que."
+    },
+    {
+     "q": "Conectivo de explicação",
+     "a": "ou seja, isto é, a saber, em outras palavras."
+    },
+    {
+     "q": "Retomar o termo sem repetir",
+     "a": "Use sinônimo/hiperônimo: 'esse fenômeno', 'tal problema', 'essa realidade'."
+    },
+    {
+     "q": "Fórmula de conclusão básica",
+     "a": "'Portanto, o (agente) deve (ação), por meio de (meio), a fim de (finalidade).'"
+    },
+    {
+     "q": "Conclusão com agente Estado",
+     "a": "'Cabe ao Estado, por meio de políticas públicas, ...'"
+    },
+    {
+     "q": "Conclusão com agente PM/corporação",
+     "a": "'As corporações policiais devem, mediante formação continuada, ...'"
+    },
+    {
+     "q": "Conclusão com agente escola",
+     "a": "'Compete às escolas, em parceria com ..., incluir ... no currículo.'"
+    },
+    {
+     "q": "Conclusão com agente mídia/sociedade",
+     "a": "'Os meios de comunicação e a sociedade civil precisam ..., a fim de ...'"
+    },
+    {
+     "q": "Fecho de conclusão (final)",
+     "a": "'Dessa forma, ... deixará de ser ... e se tornará ...'"
+    },
+    {
+     "q": "Fecho alternativo",
+     "a": "'Assim, será possível ... e garantir ...'"
+    },
+    {
+     "q": "Fecho com retomada da tese",
+     "a": "'Somente assim, ... , como determina a Constituição.'"
+    },
+    {
+     "q": "Como abrir a conclusão",
+     "a": "'Portanto,' / 'Logo,' / 'Diante do exposto,' / 'Dessa maneira,'"
+    },
+    {
+     "q": "Estrutura de proposta completa",
+     "a": "Agente + ação + meio/modo + finalidade (+ detalhamento opcional)."
+    },
+    {
+     "q": "Expressão para dar exemplo de repertório",
+     "a": "'A exemplo da Lei 11.340/2006, ...'"
+    },
+    {
+     "q": "Expressão para citar autor",
+     "a": "'Para Max Weber, ...' / 'Segundo Foucault, ...'"
+    },
+    {
+     "q": "Expressão para refutar",
+     "a": "'Embora se afirme que ..., a realidade demonstra que ...'"
+    },
+    {
+     "q": "Expressão para hipótese",
+     "a": "'Caso ... , as consequências seriam ...'"
+    },
+    {
+     "q": "Evite no desenvolvimento",
+     "a": "'Eu acho', 'todo mundo sabe', 'é óbvio que', 'a nível de'."
+    },
+    {
+     "q": "Em vez de 'tem muita violência'",
+     "a": "'Os índices de violência permanecem elevados.'"
+    },
+    {
+     "q": "Em vez de 'o governo tem que'",
+     "a": "'Cabe ao poder público ...'"
+    },
+    {
+     "q": "Em vez de 'bandidos'",
+     "a": "'Criminosos' / 'infratores'."
+    },
+    {
+     "q": "Em vez de 'coisas' e 'negócio'",
+     "a": "Use o substantivo específico: 'medidas', 'problemas', 'políticas'."
+    }
+   ]
+  }
+ ],
+ "questoes": []
+}

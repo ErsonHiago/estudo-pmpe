@@ -1,0 +1,189 @@
+{
+ "id": "dh",
+ "titulo": "Direitos Humanos e Legislação Extravagante — Parte C",
+ "disciplina": "dh",
+ "descricao": "Complemento do módulo dh: teoria geral, tratados, ECA, leis penais especiais, estatutos e uso da força. A AOCP cobra letra da lei, penas e prazos.",
+ "topicos": [
+  {
+   "id": "dh-c-abuso",
+   "titulo": "Lei 13.869/2019 — Abuso de Autoridade",
+   "prioridade": 1,
+   "horas": 7,
+   "resumo_md": "## Ideia central\nA Lei 13.869/2019 define os **crimes de abuso de autoridade**, cometidos por **agente público**, servidor ou não, que, no exercício de suas funções **ou a pretexto de exercê-las**, abuse do poder que lhe foi conferido (art. 1º). Substituiu a antiga Lei 4.898/65. É um dos assuntos mais cobrados em prova de PM.\n\n## Requisito subjetivo e exclusão (art. 1º)\n- §1º: só há crime se houver **finalidade específica** de **prejudicar outrem**, **beneficiar a si ou a terceiro**, ou **mero capricho ou satisfação pessoal** (**dolo específico**). Não existe forma culposa.\n- §2º: a **divergência na interpretação de lei** ou na **avaliação de fatos e provas** **não** configura abuso de autoridade.\n\n## Sujeito ativo (art. 2º)\nServidores públicos e **militares** (ou equiparados); membros dos Poderes Legislativo, Executivo e Judiciário, do MP e dos tribunais ou conselhos de contas. Considera-se agente público quem exerce, ainda que **transitoriamente ou sem remuneração**, cargo, emprego, função ou mandato por qualquer forma de investidura.\n\n## Ação penal e efeitos (arts. 3º a 8º)\n| Tema | Regra |\n|---|---|\n| Ação penal | **pública incondicionada** (art. 3º); cabe **ação privada subsidiária da pública** (queixa em **6 meses** após o fim do prazo para denúncia) |\n| Efeitos da condenação (art. 4º) | I indenização (valor mínimo fixado na sentença); II **inabilitação** para cargo, mandato ou função pública por **1 a 5 anos**; III **perda do cargo, mandato ou função**; os efeitos II e III exigem **reincidência** e **declaração motivada** (não são automáticos) |\n| Penas restritivas (art. 5º) | prestação de serviços à comunidade ou entidades públicas; **suspensão do cargo, função ou mandato** por **1 a 6 meses**, com perda dos vencimentos |\n| Independência de instâncias (arts. 6º a 8º) | sanções penais, civis e administrativas são independentes; absolvição penal só repercute nas outras esferas se reconhecer **inexistência do fato** ou **negativa de autoria** |\n\n## Principais crimes de interesse policial\n| Art. | Conduta | Pena |\n|---|---|---|\n| 9º | decretar **privação de liberdade** em manifesta desconformidade com as hipóteses legais (parágrafo único: juiz que não relaxa prisão ilegal etc.) | detenção **1 a 4 anos** e multa |\n| 10 | **condução coercitiva** manifestamente descabida ou sem prévia intimação | detenção 1 a 4 anos e multa |\n| 12 | deixar de comunicar **prisão em flagrante** ao juiz no prazo legal; não comunicar prisão à família; não entregar a **nota de culpa em 24 horas**; não cumprir alvará de soltura | detenção **6 meses a 2 anos** e multa |\n| 13 | constranger **preso/detento**, mediante violência, grave ameaça ou redução da capacidade de resistência, a exibir-se à curiosidade pública, a situação vexatória ou a **produzir prova contra si** | detenção **1 a 4 anos**, sem prejuízo da pena da violência |\n| 15 | constranger a depor, sob ameaça de prisão, quem deva guardar sigilo; **prosseguir interrogatório** após o direito ao silêncio ou sem o advogado | detenção 1 a 4 anos e multa |\n| 16 | deixar de **identificar-se** ou identificar-se falsamente ao preso na captura ou prisão | detenção 6 meses a 2 anos e multa |\n| 18 | submeter preso ao **interrogatório policial em repouso noturno** (exceto flagrante ou consentimento assistido) | detenção 6 meses a 2 anos e multa |\n| 19 | impedir ou retardar o envio de pleito do preso ao juiz | detenção 6 meses a 2 anos e multa |\n| 20 | impedir **entrevista pessoal e reservada** do preso com seu advogado | detenção 6 meses a 2 anos e multa |\n| 21 | manter presos de **ambos os sexos** na mesma cela; criança ou adolescente com maior | detenção 1 a 4 anos e multa |\n| 22 | **invadir domicílio** sem determinação judicial ou fora da lei; cumprir busca domiciliar **antes das 5h ou após as 21h** | detenção **1 a 4 anos** e multa |\n| 23 | inovar artificiosamente o estado de lugar, coisa ou pessoa | detenção 1 a 4 anos e multa |\n| 25 | obter prova por **meio manifestamente ilícito** (e quem a usa sabendo da ilicitude) | detenção 1 a 4 anos e multa |\n| 27 | instaurar investigação **sem qualquer indício** | detenção 6 meses a 2 anos e multa |\n| 28 | divulgar gravação sem relação com a prova, expondo intimidade | detenção 1 a 4 anos e multa |\n| 38 | antecipar atribuição de culpa por comunicação, antes da formalização da acusação | detenção 6 meses a 2 anos e multa |\n\nExceções do art. 22: não é crime o ingresso para **prestar socorro** ou havendo fundados indícios de **flagrante delito ou desastre**.\n\n## Algemas (SV 11)\n\"Só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.\" **A SV 11 não está na Lei 13.869**, mas é cobrada junto com ela.",
+   "dicas": [
+    "Dolo específico: prejudicar, beneficiar ou capricho/satisfação pessoal. Sem dolo específico, não há crime.",
+    "Pena mais comum: detenção de 1 a 4 anos (arts. 9, 10, 13, 15, 21, 22, 23, 25) ou 6 meses a 2 anos (12, 16, 18, 19, 20, 27, 38).",
+    "Mandado de busca domiciliar: só entre 5h e 21h (art. 22, §1º, III). Flagrante e socorro podem a qualquer hora.",
+    "Nota de culpa: 24 horas. Interrogatório noturno: vedado salvo flagrante."
+   ],
+   "pegadinhas": [
+    "Dizer que a ação penal é privada: é pública incondicionada (privada só subsidiária).",
+    "Dizer que a divergência de interpretação configura abuso: o art. 1º, §2º diz que não.",
+    "Dizer que a perda do cargo é efeito automático da condenação: depende de reincidência e declaração motivada.",
+    "Dizer que o cumprimento de busca às 22h é legítimo: a lei veda após 21h e antes de 5h.",
+    "Dizer que a Lei 13.869 prevê o uso de algemas: o tema é da SV 11.",
+    "Dizer que o crime admite modalidade culposa: só existe dolo."
+   ],
+   "flashcards": [
+    {
+     "q": "Qual a finalidade específica exigida para o abuso de autoridade?",
+     "a": "Prejudicar outrem, beneficiar a si ou a terceiro, ou agir por mero capricho ou satisfação pessoal."
+    },
+    {
+     "q": "A divergência de interpretação de lei configura abuso?",
+     "a": "Não (art. 1º, §2º)."
+    },
+    {
+     "q": "Natureza da ação penal?",
+     "a": "Pública incondicionada; queixa subsidiária em 6 meses."
+    },
+    {
+     "q": "Prazo da inabilitação como efeito da condenação?",
+     "a": "1 a 5 anos (exige reincidência e motivação)."
+    },
+    {
+     "q": "Duração da suspensão do cargo como pena restritiva?",
+     "a": "1 a 6 meses, com perda dos vencimentos."
+    },
+    {
+     "q": "Pena do art. 22 (invasão de domicílio)?",
+     "a": "Detenção de 1 a 4 anos e multa."
+    },
+    {
+     "q": "Horário vedado para cumprir busca domiciliar?",
+     "a": "Antes das 5h e após as 21h."
+    },
+    {
+     "q": "Prazo da nota de culpa?",
+     "a": "24 horas (art. 12, parágrafo único, III)."
+    },
+    {
+     "q": "Conduta do art. 20?",
+     "a": "Impedir entrevista pessoal e reservada do preso com seu advogado."
+    },
+    {
+     "q": "Pena do art. 12?",
+     "a": "Detenção de 6 meses a 2 anos e multa."
+    },
+    {
+     "q": "O que diz a SV 11?",
+     "a": "Algemas só em caso de resistência, fundado receio de fuga ou perigo, com justificativa escrita."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "dh-c-abuso-q01",
+   "topico": "dh-c-abuso",
+   "dificuldade": 1,
+   "enunciado": "De acordo com a Lei nº 13.869/2019, as condutas nela descritas constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de",
+   "alternativas": {
+    "A": "prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal.",
+    "B": "cumprir ordem superior hierárquica, mesmo que ilegal.",
+    "C": "divergir da interpretação de lei predominante.",
+    "D": "obter exclusivamente vantagem patrimonial.",
+    "E": "exercer regularmente suas funções, ainda que com excesso culposo."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 1º, §1º (dolo específico). §2º: divergência de interpretação ou de avaliação de provas não é crime.",
+   "resolucao_md": "**O que a questão pede:** o elemento subjetivo especial.\n\n**Regra rápida:** dolo específico: prejudicar, beneficiar ou capricho/satisfação pessoal.\n\n**Passo a passo:**\n1. A alternativa da ordem superior ilegal não traz finalidade específica.\n2. A divergência de interpretação é justamente excluída.\n3. Vantagem exclusivamente patrimonial restringe: a lei fala em beneficiar a si/terceiro, sem limite patrimonial.\n4. Excesso culposo não é crime.\n\n**Pegadinha:** Confundir com crime culposo.\n\n**Macete:** Abuso = dolo específico."
+  },
+  {
+   "id": "dh-c-abuso-q02",
+   "topico": "dh-c-abuso",
+   "dificuldade": 2,
+   "enunciado": "Sobre a ação penal nos crimes de abuso de autoridade, assinale a alternativa correta.",
+   "alternativas": {
+    "A": "Os crimes são de ação penal privada, dependendo de queixa da vítima.",
+    "B": "Os crimes são de ação penal pública condicionada à representação do ofendido.",
+    "C": "Os crimes são de ação penal pública incondicionada, admitindo-se ação privada subsidiária da pública se o Ministério Público não oferecer a denúncia no prazo legal.",
+    "D": "Não se admite ação privada subsidiária da pública.",
+    "E": "A ação penal pública depende de requisição do Ministro da Justiça."
+   },
+   "gabarito": "C",
+   "explicacao": "Art. 3º: pública incondicionada; §1º: ação privada subsidiária (queixa em 6 meses).",
+   "resolucao_md": "**O que a questão pede:** natureza da ação penal.\n\n**Regra rápida:** regra: incondicionada; subsidiária se o MP ficar inerte.\n\n**Passo a passo:**\n1. Privada: errado.\n2. Condicionada à representação: errado.\n3. Negar a subsidiária: errado.\n4. Requisição do Ministro: não consta.\n\n**Pegadinha:** Pensar que o ofendido precisa autorizar.\n\n**Macete:** Incondicionada + queixa subsidiária."
+  },
+  {
+   "id": "dh-c-abuso-q03",
+   "topico": "dh-c-abuso",
+   "dificuldade": 2,
+   "enunciado": "Segundo a Lei nº 13.869/2019, quanto aos efeitos da condenação, é correto afirmar que",
+   "alternativas": {
+    "A": "a perda do cargo é efeito automático de qualquer condenação.",
+    "B": "a inabilitação é perpétua, após condenação definitiva.",
+    "C": "a indenização depende de ação civil autônoma, não sendo possível fixar valor mínimo na sentença penal.",
+    "D": "a inabilitação para o exercício de cargo, mandato ou função pública, de um a cinco anos, e a perda do cargo dependem de reincidência e devem ser declaradas motivadamente na sentença.",
+    "E": "a perda do cargo é aplicada apenas a membros do Poder Judiciário."
+   },
+   "gabarito": "D",
+   "explicacao": "Art. 4º, I a III e parágrafo único. O valor mínimo da indenização pode ser fixado na sentença a requerimento do ofendido.",
+   "resolucao_md": "**O que a questão pede:** os efeitos do art. 4º.\n\n**Regra rápida:** inabilitação 1 a 5 anos e perda do cargo exigem reincidência e motivação.\n\n**Passo a passo:**\n1. Automática: errado.\n2. Perpétua: errado (1 a 5 anos).\n3. Valor mínimo na sentença: possível a requerimento.\n4. Só Judiciário: o art. 2º alcança todos os agentes.\n\n**Pegadinha:** Dizer que a perda é automática.\n\n**Macete:** Efeitos II e III: reincidência + motivação."
+  },
+  {
+   "id": "dh-c-abuso-q04",
+   "topico": "dh-c-abuso",
+   "dificuldade": 2,
+   "enunciado": "Constitui crime de abuso de autoridade, nos termos da Lei nº 13.869/2019,",
+   "alternativas": {
+    "A": "ingressar em domicílio alheio para prestar socorro.",
+    "B": "invadir ou adentrar, à revelia da vontade do ocupante, imóvel alheio, sem determinação judicial ou fora das condições estabelecidas em lei.",
+    "C": "ingressar em domicílio alheio quando houver fundados indícios de flagrante delito.",
+    "D": "cumprir mandado de busca e apreensão domiciliar às 10h, em dia útil.",
+    "E": "adentrar em imóvel diante de situação de desastre, para salvamento de moradores."
+   },
+   "gabarito": "B",
+   "explicacao": "Art. 22 e §2º: não há crime se o ingresso é para prestar socorro, ou em flagrante delito ou desastre; cumprir busca após 21h ou antes de 5h é crime (§1º, III).",
+   "resolucao_md": "**O que a questão pede:** a conduta típica do art. 22.\n\n**Regra rápida:** entrar em casa sem ordem judicial e fora das exceções constitucionais.\n\n**Passo a passo:**\n1. Socorro, flagrante e desastre excluem o crime.\n2. Mandado às 10h é legal (entre 5h e 21h).\n3. Resta a invasão sem determinação nem exceção.\n\n**Pegadinha:** Esquecer as exceções.\n\n**Macete:** Casa: dia com ordem; a qualquer hora para flagrante, desastre ou socorro."
+  },
+  {
+   "id": "dh-c-abuso-q05",
+   "topico": "dh-c-abuso",
+   "dificuldade": 3,
+   "enunciado": "Um policial militar, após prender em flagrante um suspeito, deixa de entregar-lhe, no prazo de 24 horas, a nota de culpa assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas. Essa conduta, à luz da Lei nº 13.869/2019,",
+   "alternativas": {
+    "A": "é atípica, pois a nota de culpa é facultativa.",
+    "B": "configura crime de tortura, com reclusão de dois a oito anos.",
+    "C": "configura crime com pena de reclusão de quatro a dez anos.",
+    "D": "só é crime se praticada à noite.",
+    "E": "configura crime de abuso de autoridade, com pena de detenção de seis meses a dois anos e multa, desde que presente a finalidade específica."
+   },
+   "gabarito": "E",
+   "explicacao": "Art. 12, parágrafo único, III: deixar de entregar a nota de culpa no prazo de 24 horas. A nota é obrigatória (CF, art. 5º, LXIV).",
+   "resolucao_md": "**O que a questão pede:** classificar a omissão da nota de culpa.\n\n**Regra rápida:** art. 12: comunicações e nota de culpa; pena 6 meses a 2 anos.\n\n**Passo a passo:**\n1. Atípica: errado, a conduta está no art. 12.\n2. Tortura exige sofrimento por violência ou grave ameaça.\n3. 4 a 10 anos é a tortura com lesão grave.\n4. O horário não importa.\n\n**Pegadinha:** Achar que é irrelevante penalmente.\n\n**Macete:** Nota de culpa: 24 horas."
+  },
+  {
+   "id": "dh-c-abuso-q06",
+   "topico": "dh-c-abuso",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa que NÃO configura crime de abuso de autoridade segundo a Lei nº 13.869/2019.",
+   "alternativas": {
+    "A": "Divergência na interpretação de lei ou na avaliação de fatos e provas, sem a finalidade específica exigida.",
+    "B": "Submeter o preso a interrogatório policial durante o repouso noturno, salvo flagrante delito ou consentimento assistido.",
+    "C": "Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado.",
+    "D": "Manter presos de ambos os sexos na mesma cela.",
+    "E": "Constranger o preso a exibir-se à curiosidade pública, mediante grave ameaça."
+   },
+   "gabarito": "A",
+   "explicacao": "Art. 1º, §2º. As demais são os arts. 18, 20, 21 e 13.",
+   "resolucao_md": "**O que a questão pede:** achar o que não é crime.\n\n**Regra rápida:** a lei exclui divergência hermenêutica e probatória.\n\n**Passo a passo:**\n1. Interrogatório noturno: art. 18.\n2. Impedir entrevista com advogado: art. 20.\n3. Presos de sexos diferentes na mesma cela: art. 21.\n4. Exibição à curiosidade pública: art. 13.\n\n**Pegadinha:** Questão com \"NÃO\": a certa é a exceção.\n\n**Macete:** Interpretação divergente = fora da lei."
+  },
+  {
+   "id": "dh-c-abuso-q07",
+   "topico": "dh-c-abuso",
+   "dificuldade": 2,
+   "enunciado": "Nos termos da Súmula Vinculante nº 11 do STF, o uso de algemas é lícito",
+   "alternativas": {
+    "A": "sempre que o preso for conduzido, como regra, para segurança do agente.",
+    "B": "apenas nos crimes hediondos.",
+    "C": "em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, justificada a excepcionalidade por escrito.",
+    "D": "somente quando determinado pelo juiz, em qualquer caso.",
+    "E": "sempre que o agente julgar conveniente, dispensada qualquer justificativa."
+   },
+   "gabarito": "C",
+   "explicacao": "SV 11: excepcionalidade justificada por escrito, sob pena de responsabilidade e nulidade.",
+   "resolucao_md": "**O que a questão pede:** a regra da SV 11.\n\n**Regra rápida:** algema é exceção, não regra.\n\n**Passo a passo:**\n1. Como regra: errado.\n2. Só em hediondos: não existe tal critério.\n3. Só por ordem do juiz: não é exigência.\n4. Dispensar justificativa: contraria a SV.\n\n**Pegadinha:** Tratar a algema como rotina.\n\n**Macete:** Resistência, fuga, perigo + justificativa escrita."
+  }
+ ]
+}

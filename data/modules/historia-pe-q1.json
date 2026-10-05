@@ -1,0 +1,168 @@
+{
+ "id": "historia-pe",
+ "titulo": "História de Pernambuco",
+ "disciplina": "historia",
+ "topicos": [],
+ "questoes": [
+  {
+   "id": "historia-pe-q001",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 1,
+   "enunciado": "Sobre os primeiros contatos dos portugueses com o litoral de Pernambuco, é correto afirmar que",
+   "alternativas": {
+    "A": "a feitoria de Igaraçu, instalada em 1516, foi a primeira feitoria do Brasil e esteve ligada ao comércio de pau-brasil.",
+    "B": "a feitoria de Igaraçu foi instalada em 1534, no mesmo ano das Capitanias Hereditárias, para produzir açúcar.",
+    "C": "os franceses nunca disputaram o pau-brasil na região, o que dispensou qualquer defesa portuguesa.",
+    "D": "o pau-brasil era extraído por trabalhadores assalariados portugueses, sem participação indígena.",
+    "E": "a primeira feitoria foi fundada em Olinda por Duarte Coelho, em 1535."
+   },
+   "gabarito": "A",
+   "explicacao": "Igaraçu (1516) foi a primeira feitoria; as demais datas pertencem a outros marcos.",
+   "resolucao_md": "**O que a questão pede**\nIdentificar o marco inicial da presença portuguesa organizada em Pernambuco.\n\n**Conceito/Regra rápida**\nAntes de colonizar, Portugal explorou o pau-brasil por **escambo** em **feitorias**. A de **Igaraçu (1516)** é a primeira do Brasil.\n\n**Passo a passo**\n1. Lembre a ordem: feitoria (1516) → capitanias (1534) → Olinda (1535).\n2. Elimine B: 1534 é o ano das capitanias e o foco inicial não era o açúcar.\n3. Elimine D: o trabalho era indígena, pago em machados e espelhos (escambo).\n4. Elimine E: Olinda é de 1535 e não é feitoria.\n\n**Pegadinha**\nConfundir feitoria (comércio, 1516) com capitania (povoamento, 1534).\n\n**Macete**\nFeitoria vem ANTES da capitania: 16 → 34 → 35.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q002",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 2,
+   "enunciado": "Sobre os povos indígenas do litoral pernambucano no início da colonização, analise as afirmativas.\n\nI. Os Caetés, do litoral, eram inimigos dos portugueses.\nII. Os Tabajaras, liderados por Arco Verde, tornaram-se aliados dos portugueses.\nIII. Os Potiguaras foram sempre aliados dos portugueses, inclusive durante a ocupação holandesa.\n\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "Apenas II.",
+    "B": "Apenas I e II.",
+    "C": "Apenas III.",
+    "D": "Apenas I e III.",
+    "E": "Apenas II e III."
+   },
+   "gabarito": "B",
+   "explicacao": "Itens corretos: I, II. Os Potiguaras apoiaram os holandeses, embora Felipe Camarão tenha sido aliado dos portugueses.",
+   "resolucao_md": "**O que a questão pede**\nSeparar quem foi aliado de quem foi inimigo dos portugueses.\n\n**Conceito/Regra rápida**\n**Caetés** = inimigos; **Tabajaras (Arco Verde)** = aliados; **Potiguaras** = divididos: aliaram-se aos holandeses, mas **Felipe Camarão** lutou com os portugueses.\n\n**Passo a passo**\n1. Item I: correto, os Caetés combateram os portugueses.\n2. Item II: correto, Arco Verde aliou-se.\n3. Item III: errado, pois «sempre aliados» ignora que os Potiguaras apoiaram os holandeses.\n4. Só I e II são verdadeiros: marque a alternativa «I e II».\n\n**Pegadinha**\nPalavras absolutas como «sempre» costumam tornar o item falso.\n\n**Macete**\nCaeté = contra; Tabajara = a favor; Potiguara = dividido.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q003",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 1,
+   "enunciado": "Assinale a alternativa INCORRETA sobre o sistema de Capitanias Hereditárias (1534).",
+   "alternativas": {
+    "A": "O sistema foi adotado por D. João III para ocupar a terra sem grandes gastos da Coroa.",
+    "B": "A Carta de Doação concedia a posse hereditária e poderes como fundar vilas.",
+    "C": "Os donatários recebiam a propriedade plena das capitanias e podiam vendê-las livremente.",
+    "D": "O Foral definia direitos e deveres do donatário perante a Coroa, como tributos e monopólios.",
+    "E": "A maioria das capitanias fracassou por falta de recursos, distância e ataques indígenas."
+   },
+   "gabarito": "C",
+   "explicacao": "A letra C é falsa: as capitanias eram inalienáveis.",
+   "resolucao_md": "**O que a questão pede**\nAchar a afirmação falsa (enunciado pede a INCORRETA).\n\n**Conceito/Regra rápida**\nAs capitanias eram **hereditárias** (passavam aos filhos) mas **inalienáveis**: não podiam ser vendidas. A Coroa mantinha a propriedade.\n\n**Passo a passo**\n1. Marque como suspeita qualquer frase que diga «propriedade plena» ou «venda livre».\n2. Confira A, B, D, E: todas descrevem corretamente a doação, o foral e o fracasso da maioria.\n3. Logo a incorreta é C.\n\n**Pegadinha**\nHereditária não significa «propriedade total»; o donatário tinha posse, não domínio pleno.\n\n**Macete**\nHereditária SIM, vendável NÃO.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q004",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 2,
+   "enunciado": "Qual era a função do Foral no regime das Capitanias Hereditárias?",
+   "alternativas": {
+    "A": "Garantir a posse hereditária da capitania, equivalendo à propriedade plena.",
+    "B": "Nomear o governador-geral responsável pela defesa do litoral.",
+    "C": "Criar o Conselho Ultramarino para julgar os donatários.",
+    "D": "Definir direitos e deveres do donatário perante a Coroa, incluindo tributos e monopólios.",
+    "E": "Autorizar a entrada de colonos estrangeiros sem pagamento de impostos."
+   },
+   "gabarito": "D",
+   "explicacao": "O Foral estabelecia as obrigações com a Coroa.",
+   "resolucao_md": "**O que a questão pede**\nDistinguir os dois documentos das capitanias.\n\n**Conceito/Regra rápida**\n**Carta de Doação** = concede a posse e os poderes; **Foral** = regras com a Coroa (tributos, monopólio de pau-brasil e especiarias).\n\n**Passo a passo**\n1. Pense: Foral = «forma de pagar e prestar contas» à Coroa.\n2. Elimine D: a posse hereditária vem da Carta de Doação.\n3. Elimine A, B, C: não têm relação com o Foral.\n\n**Pegadinha**\nTrocar Carta de Doação por Foral.\n\n**Macete**\nCarta dá; Foral cobra.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q005",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 2,
+   "enunciado": "Leia: «Em local alto, de linda situação, o donatário de Pernambuco mandou erguer vila que seria sede da capitania e morada da nobreza da terra.» O trecho refere-se à fundação de",
+   "alternativas": {
+    "A": "Recife, em 1537, por Maurício de Nassau.",
+    "B": "Igaraçu, em 1516, por Cristóvão Jacques.",
+    "C": "Mauritsstad, em 1637, pelos holandeses.",
+    "D": "Olinda, em 1630, pelos holandeses.",
+    "E": "Olinda, em 1535, por Duarte Coelho."
+   },
+   "gabarito": "E",
+   "explicacao": "Olinda foi fundada por Duarte Coelho em 1535.",
+   "resolucao_md": "**O que a questão pede**\nInterpretar o trecho e associar lugar, data e personagem.\n\n**Conceito/Regra rápida**\n**Olinda**: fundada por **Duarte Coelho** em **1535**; a tradição liga o nome à exclamação «Ó linda!».\n\n**Passo a passo**\n1. Pistas: «local alto», «linda situação», «sede da capitania», «nobreza da terra».\n2. Isso aponta Olinda; o donatário é Duarte Coelho.\n3. Elimine A, B, D por personagem/data trocados; D atribui aos holandeses, que na verdade a incendiaram.\n\n**Pegadinha**\nAtribuir a fundação a Nassau (ele fundou Mauritsstad, no Recife).\n\n**Macete**\nOlinda = Duarte Coelho = 1535.\n\n**Gabarito:** letra E."
+  },
+  {
+   "id": "historia-pe-q006",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 3,
+   "enunciado": "Assinale a alternativa que apresenta os fatos na ORDEM CRONOLÓGICA correta.",
+   "alternativas": {
+    "A": "Feitoria de Igaraçu; Capitanias Hereditárias; fundação de Olinda; invasão holandesa de Pernambuco.",
+    "B": "Capitanias Hereditárias; feitoria de Igaraçu; invasão holandesa; fundação de Olinda.",
+    "C": "Fundação de Olinda; feitoria de Igaraçu; Capitanias Hereditárias; invasão holandesa.",
+    "D": "Feitoria de Igaraçu; fundação de Olinda; invasão holandesa; Capitanias Hereditárias.",
+    "E": "Invasão holandesa; feitoria de Igaraçu; Capitanias Hereditárias; fundação de Olinda."
+   },
+   "gabarito": "A",
+   "explicacao": "A ordem é 1516, 1534, 1535, 1630.",
+   "resolucao_md": "**O que a questão pede**\nOrdenar quatro marcos.\n\n**Conceito/Regra rápida**\nLinha do tempo: **1516** feitoria → **1534** capitanias → **1535** Olinda → **1630** holandeses.\n\n**Passo a passo**\n1. Escreva as datas ao lado de cada fato.\n2. O que vem antes de 1534? A feitoria, então ela abre a sequência.\n3. Olinda (1535) vem logo depois das capitanias; os holandeses fecham (1630).\n\n**Pegadinha**\nColocar Olinda antes das capitanias (ela só existe porque a capitania existe).\n\n**Macete**\n16 → 34 → 35 → 30.\n\n**Gabarito:** letra A."
+  },
+  {
+   "id": "historia-pe-q007",
+   "topico": "historia-pe-ocupacao",
+   "dificuldade": 2,
+   "enunciado": "Sobre o escambo do pau-brasil, é correto afirmar que",
+   "alternativas": {
+    "A": "os indígenas recebiam salários em moeda portuguesa pelo corte da madeira.",
+    "B": "os indígenas cortavam e carregavam a madeira em troca de machados, espelhos e tecidos.",
+    "C": "o pau-brasil era cultivado em engenhos na Zona da Mata.",
+    "D": "o comércio era exclusivo dos portugueses, sem interesse de outras nações.",
+    "E": "a prática foi extinta antes de 1500, com a chegada dos europeus."
+   },
+   "gabarito": "B",
+   "explicacao": "Resposta: troca por machados, espelhos e tecidos.",
+   "resolucao_md": "**O que a questão pede**\nCaracterizar o primeiro ciclo econômico.\n\n**Conceito/Regra rápida**\n**Escambo** é troca sem moeda. O pau-brasil era **extrativo**, não cultivado, e atraiu franceses.\n\n**Passo a passo**\n1. Ligue «escambo» a «troca de objetos».\n2. Elimine B (moeda), A (pau-brasil não se cultiva em engenho), C (franceses contrabandeavam), E (anacronismo).\n\n**Pegadinha**\nAchar que a economia do pau-brasil era assalariada.\n\n**Macete**\nEscambo = troca, não pagamento.\n\n**Gabarito:** letra B."
+  },
+  {
+   "id": "historia-pe-q008",
+   "topico": "historia-pe-acucar",
+   "dificuldade": 1,
+   "enunciado": "Entre os fatores que fizeram da Zona da Mata pernambucana grande produtora de açúcar, destaca-se",
+   "alternativas": {
+    "A": "o solo arenoso e seco do Sertão, ideal para a cana.",
+    "B": "a ausência de portos, que protegia a produção de ataques externos.",
+    "C": "o solo de massapê, argiloso e fértil, aliado ao clima quente e úmido e à proximidade do litoral.",
+    "D": "a mão de obra livre e assalariada, abundante na região.",
+    "E": "o clima frio e seco, que concentrava o açúcar na planta."
+   },
+   "gabarito": "C",
+   "explicacao": "O massapê é a chave do açúcar.",
+   "resolucao_md": "**O que a questão pede**\nReconhecer as condições naturais do açúcar.\n\n**Conceito/Regra rápida**\n**Massapê** = solo escuro, argiloso, muito fértil, típico da Zona da Mata; litoral facilitava o escoamento por navio.\n\n**Passo a passo**\n1. Associe cana a: calor, umidade, solo fértil, litoral.\n2. Elimine C (Sertão é seco), A (portos eram essenciais), B (a mão de obra era escrava), E (clima frio).\n\n**Pegadinha**\nConfundir Zona da Mata (úmida, litoral) com Sertão (seco).\n\n**Macete**\nMata úmida + massapê = cana.\n\n**Gabarito:** letra C."
+  },
+  {
+   "id": "historia-pe-q009",
+   "topico": "historia-pe-acucar",
+   "dificuldade": 2,
+   "enunciado": "Assinale a alternativa INCORRETA sobre o sistema de plantation açucareiro.",
+   "alternativas": {
+    "A": "Combinava latifúndio, monocultura, trabalho escravo e exportação.",
+    "B": "O engenho era a unidade produtora, com moenda, casa de caldeiras e casa de purgar.",
+    "C": "O senhor de engenho compunha a elite social e política da colônia.",
+    "D": "Baseava-se na pequena propriedade, na policultura de subsistência e no trabalho assalariado.",
+    "E": "A mão de obra foi inicialmente indígena e depois majoritariamente africana."
+   },
+   "gabarito": "D",
+   "explicacao": "A incorreta é D.",
+   "resolucao_md": "**O que a questão pede**\nEncontrar o item que contradiz o modelo.\n\n**Conceito/Regra rápida**\nPlantation = **latifúndio + monocultura + escravidão + exportação**.\n\n**Passo a passo**\n1. Decore a fórmula dos quatro elementos.\n2. D é o oposto de todos os elementos (pequena propriedade, policultura, assalariado).\n3. A, B e C descrevem corretamente o engenho.\n\n**Pegadinha**\nPegar o oposto do modelo achando que é detalhe.\n\n**Macete**\nL-M-E-E: Latifúndio, Monocultura, Escravidão, Exportação.\n\n**Gabarito:** letra D."
+  },
+  {
+   "id": "historia-pe-q010",
+   "topico": "historia-pe-acucar",
+   "dificuldade": 2,
+   "enunciado": "No engenho, a «casa de purgar» tinha a função de",
+   "alternativas": {
+    "A": "esmagar a cana para extrair o caldo.",
+    "B": "alojar os escravizados.",
+    "C": "servir de residência do senhor de engenho.",
+    "D": "armazenar a cana colhida pelos lavradores.",
+    "E": "purificar o açúcar em fôrmas de barro."
+   },
+   "gabarito": "E",
+   "explicacao": "Casa de purgar = purificar.",
+   "resolucao_md": "**O que a questão pede**\nAssociar cada parte do engenho à sua função.\n\n**Conceito/Regra rápida**\n**Moenda** esmaga; **casa de caldeiras** ferve o caldo; **casa de purgar** purifica; **casa-grande** é a moradia do senhor; **senzala**, dos escravizados.\n\n**Passo a passo**\n1. Purgar = purificar.\n2. A é moenda, B é casa-grande, C é senzala; E não corresponde a nenhuma peça específica do enunciado.\n\n**Pegadinha**\nTrocar moenda e casa de purgar.\n\n**Macete**\nMoenda esmaga, purgar purifica.\n\n**Gabarito:** letra E."
+  }
+ ]
+}
